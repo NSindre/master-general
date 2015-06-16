@@ -1,0 +1,616 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00086#10.1038#ismej.2008.56'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VRichelia intracellularis
+p12
+sa(dp13
+g3
+(lp14
+VMarine ecoregions
+p15
+aVEuropean seas
+p16
+aVMediterranean
+p17
+aVAsia
+p18
+aVSea
+p19
+aVBody of water
+p20
+aVWestern Asia
+p21
+aVMarginal seas
+p22
+asg5
+g6
+sg7
+VLocation
+p23
+sg9
+(lp24
+(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g15
+V
+tp25
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g16
+V
+tp26
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g17
+V
+tp27
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g18
+V
+tp28
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g19
+V
+tp29
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g20
+V
+tp30
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g21
+V
+tp31
+a(VSeasonal dynamics of the endosymbiotic, nitrogen-fixing cyanobacterium Richelia intracellularis in the eastern 
+g22
+V
+tp32
+asg11
+VMediterranean Sea
+p33
+sa(dp34
+g3
+(lp35
+VChemical element
+p36
+aVChemical substance
+p37
+aVIndustrial gases
+p38
+aVCoolants
+p39
+aVMatter
+p40
+aVChemistry
+p41
+asg5
+g6
+sg7
+VCompound
+p42
+sg9
+(lp43
+(VBiological 
+g36
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp44
+a(VBiological 
+g37
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp45
+a(VBiological 
+g38
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp46
+a(VBiological 
+g39
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp47
+a(VBiological 
+g40
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp48
+a(VBiological 
+g41
+V fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp49
+asg11
+Vnitrogen
+p50
+sa(dp51
+g3
+(lp52
+VChemical element
+p53
+aVChemical substance
+p54
+aVIndustrial gases
+p55
+aVCoolants
+p56
+aVMatter
+p57
+aVChemistry
+p58
+asg5
+g6
+sg7
+VCompound
+p59
+sg9
+(lp60
+(VBiological nitrogen fixation has been suggested as an important source of 
+g53
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp61
+a(VBiological nitrogen fixation has been suggested as an important source of 
+g54
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp62
+a(VBiological nitrogen fixation has been suggested as an important source of 
+g55
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp63
+a(VBiological nitrogen fixation has been suggested as an important source of 
+g56
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp64
+a(VBiological nitrogen fixation has been suggested as an important source of 
+g57
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp65
+a(VBiological nitrogen fixation has been suggested as an important source of 
+g58
+V for the ultra-oligotrophic waters of the Levantine Basin of the Mediterranean Sea.
+tp66
+asg11
+Vnitrogen
+p67
+sa(dp68
+g3
+(lp69
+sg5
+g6
+sg7
+VLocation
+p70
+sg9
+(lp71
+sg11
+VLevantine Basin
+p72
+sa(dp73
+g3
+(lp74
+VMarine ecoregions
+p75
+aVEuropean seas
+p76
+aVMediterranean
+p77
+aVAsia
+p78
+aVSea
+p79
+aVBody of water
+p80
+aVWestern Asia
+p81
+aVMarginal seas
+p82
+asg5
+g6
+sg7
+VLocation
+p83
+sg9
+(lp84
+(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g75
+V.
+tp85
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g76
+V.
+tp86
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g77
+V.
+tp87
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g78
+V.
+tp88
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g79
+V.
+tp89
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g80
+V.
+tp90
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g81
+V.
+tp91
+a(VBiological nitrogen fixation has been suggested as an important source of nitrogen for the ultra-oligotrophic waters of the Levantine Basin of the 
+g82
+V.
+tp92
+asg11
+VMediterranean Sea
+p93
+sa(dp94
+g3
+(lp95
+sg5
+g6
+sg7
+VSpecies
+p96
+sg9
+(lp97
+sg11
+VRichelia intracellularis
+p98
+sa(dp99
+g3
+(lp100
+sg5
+g6
+sg7
+VSpecies
+p101
+sg9
+(lp102
+sg11
+VR. intracellularis
+p103
+sa(dp104
+g3
+(lp105
+VWestern Asia
+p106
+aVAsia
+p107
+aVPlaces
+p108
+asg5
+g6
+sg7
+VLocation
+p109
+sg9
+(lp110
+(VIn this study, two stations off the 
+g106
+V coast of Israel were sampled monthly during 2005-2007.
+tp111
+a(VIn this study, two stations off the 
+g107
+V coast of Israel were sampled monthly during 2005-2007.
+tp112
+a(VIn this study, two stations off the 
+g108
+V coast of Israel were sampled monthly during 2005-2007.
+tp113
+asg11
+VMediterranean
+p114
+sa(dp115
+g3
+(lp116
+VSouthern Levant
+p117
+aVpopulated place
+p118
+aVGovernment
+p119
+aVcountry
+p120
+aVCountries
+p121
+aVCountries in Asia
+p122
+aVEastern Mediterranean
+p123
+aVLevant
+p124
+aVPalestine
+p125
+aVplace
+p126
+aVRepublic
+p127
+aVLiberal democracies
+p128
+asg5
+g6
+sg7
+VLocation
+p129
+sg9
+(lp130
+(VIn this study, two stations off the Mediterranean coast of 
+g117
+V were sampled monthly during 2005-2007.
+tp131
+a(VIn this study, two stations off the Mediterranean coast of 
+g118
+V were sampled monthly during 2005-2007.
+tp132
+a(VIn this study, two stations off the Mediterranean coast of 
+g119
+V were sampled monthly during 2005-2007.
+tp133
+a(VIn this study, two stations off the Mediterranean coast of 
+g120
+V were sampled monthly during 2005-2007.
+tp134
+a(VIn this study, two stations off the Mediterranean coast of 
+g121
+V were sampled monthly during 2005-2007.
+tp135
+a(VIn this study, two stations off the Mediterranean coast of 
+g122
+V were sampled monthly during 2005-2007.
+tp136
+a(VIn this study, two stations off the Mediterranean coast of 
+g123
+V were sampled monthly during 2005-2007.
+tp137
+a(VIn this study, two stations off the Mediterranean coast of 
+g124
+V were sampled monthly during 2005-2007.
+tp138
+a(VIn this study, two stations off the Mediterranean coast of 
+g125
+V were sampled monthly during 2005-2007.
+tp139
+a(VIn this study, two stations off the Mediterranean coast of 
+g126
+V were sampled monthly during 2005-2007.
+tp140
+a(VIn this study, two stations off the Mediterranean coast of 
+g127
+V were sampled monthly during 2005-2007.
+tp141
+a(VIn this study, two stations off the Mediterranean coast of 
+g128
+V were sampled monthly during 2005-2007.
+tp142
+asg11
+VIsrael
+p143
+sa(dp144
+g3
+(lp145
+sg5
+g6
+sg7
+VSpecies
+p146
+sg9
+(lp147
+sg11
+VR. intracellularis
+p148
+sa(dp149
+g3
+(lp150
+sg5
+g6
+sg7
+VSpecies
+p151
+sg9
+(lp152
+sg11
+VR. intracellularis
+p153
+sa(dp154
+g3
+(lp155
+sg5
+g6
+sg7
+VSpecies
+p156
+sg9
+(lp157
+sg11
+VR. intracellularis
+p158
+sa(dp159
+g3
+(lp160
+VChemical element
+p161
+aVChemical substance
+p162
+aVIndustrial gases
+p163
+aVCoolants
+p164
+aVMatter
+p165
+aVChemistry
+p166
+asg5
+g6
+sg7
+VCompound
+p167
+sg9
+(lp168
+(VAlthough the rates of 
+g161
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp169
+a(VAlthough the rates of 
+g162
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp170
+a(VAlthough the rates of 
+g163
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp171
+a(VAlthough the rates of 
+g164
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp172
+a(VAlthough the rates of 
+g165
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp173
+a(VAlthough the rates of 
+g166
+V fixation were very low, averaging ~1.1 nmol N l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp174
+asg11
+Vnitrogen
+p175
+sa(dp176
+g3
+(lp177
+sg5
+g6
+sg7
+VSpecies
+p178
+sg9
+(lp179
+sg11
+VR. intracellularis
+p180
+sa(dp181
+g3
+(lp182
+VChemical element
+p183
+aVChemical substance
+p184
+aVIndustrial gases
+p185
+aVCoolants
+p186
+aVMatter
+p187
+aVChemistry
+p188
+asg5
+g6
+sg7
+VCompound
+p189
+sg9
+(lp190
+(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g183
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp191
+a(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g184
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp192
+a(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g185
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp193
+a(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g186
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp194
+a(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g187
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp195
+a(VThe lack of large-scale diatom-diazotroph blooms and the low rates of 
+g188
+V fixation by these diazotrophs may result from the P-starved conditions affecting the Levantine basin.
+tp196
+asg11
+Vnitrogen
+p197
+sa(dp198
+g3
+(lp199
+sg5
+g6
+sg7
+VCompound
+p200
+sg9
+(lp201
+sg11
+VNO3
+p202
+sa(dp203
+g3
+(lp204
+sg5
+g6
+sg7
+VCompound
+p205
+sg9
+(lp206
+sg11
+VNO2
+p207
+sa(dp208
+g3
+(lp209
+sg5
+g6
+sg7
+VCompound
+p210
+sg9
+(lp211
+sg11
+VSi(OH)4
+p212
+sa(dp213
+g3
+(lp214
+VGrapheme
+p215
+asg5
+g6
+sg7
+VCompound
+p216
+sg9
+(lp217
+(VAlthough the rates of nitrogen fixation were very low, averaging ~1.1 nmol 
+g215
+V l-1 day-1 for the R. intracellularis size fraction (>10 mum) from surface waters, they correlated positively with heterocyst counts during thermal stratification.
+tp218
+asg11
+VN
+sa(dp219
+g3
+(lp220
+sg5
+g6
+sg7
+VLocation
+p221
+sg9
+(lp222
+sg11
+VLevantine basin
+p223
+sa.

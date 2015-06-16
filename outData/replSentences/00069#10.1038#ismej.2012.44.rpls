@@ -1,0 +1,445 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00069#10.1038#ismej.2012.44'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VMacrofauna regulate heterotrophic bacterial 
+g5
+V and nitrogen incorporation in low-oxygen sediments
+tp18
+a(VMacrofauna regulate heterotrophic bacterial 
+g6
+V and nitrogen incorporation in low-oxygen sediments
+tp19
+a(VMacrofauna regulate heterotrophic bacterial 
+g7
+V and nitrogen incorporation in low-oxygen sediments
+tp20
+a(VMacrofauna regulate heterotrophic bacterial 
+g8
+V and nitrogen incorporation in low-oxygen sediments
+tp21
+a(VMacrofauna regulate heterotrophic bacterial 
+g9
+V and nitrogen incorporation in low-oxygen sediments
+tp22
+a(VMacrofauna regulate heterotrophic bacterial 
+g10
+V and nitrogen incorporation in low-oxygen sediments
+tp23
+a(VMacrofauna regulate heterotrophic bacterial 
+g11
+V and nitrogen incorporation in low-oxygen sediments
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVIndustrial gases
+p31
+aVCoolants
+p32
+aVMatter
+p33
+aVChemistry
+p34
+asg12
+g13
+sg14
+VCompound
+p35
+sg16
+(lp36
+(VMacrofauna regulate heterotrophic bacterial carbon and 
+g29
+V incorporation in low-oxygen sediments
+tp37
+a(VMacrofauna regulate heterotrophic bacterial carbon and 
+g30
+V incorporation in low-oxygen sediments
+tp38
+a(VMacrofauna regulate heterotrophic bacterial carbon and 
+g31
+V incorporation in low-oxygen sediments
+tp39
+a(VMacrofauna regulate heterotrophic bacterial carbon and 
+g32
+V incorporation in low-oxygen sediments
+tp40
+a(VMacrofauna regulate heterotrophic bacterial carbon and 
+g33
+V incorporation in low-oxygen sediments
+tp41
+a(VMacrofauna regulate heterotrophic bacterial carbon and 
+g34
+V incorporation in low-oxygen sediments
+tp42
+asg25
+Vnitrogen
+p43
+sa(dp44
+g3
+(lp45
+VChemical element
+p46
+aVChemical substance
+p47
+aVMatter
+p48
+aVChemistry
+p49
+aVOxidizing agents
+p50
+asg12
+g13
+sg14
+VCompound
+p51
+sg16
+(lp52
+(V
+g46
+V minimum zones (OMZs) currently impinge upon >1 million km2 of sea floor and are predicted to expand with climate change.
+tp53
+a(V
+g47
+V minimum zones (OMZs) currently impinge upon >1 million km2 of sea floor and are predicted to expand with climate change.
+tp54
+a(V
+g48
+V minimum zones (OMZs) currently impinge upon >1 million km2 of sea floor and are predicted to expand with climate change.
+tp55
+a(V
+g49
+V minimum zones (OMZs) currently impinge upon >1 million km2 of sea floor and are predicted to expand with climate change.
+tp56
+a(V
+g50
+V minimum zones (OMZs) currently impinge upon >1 million km2 of sea floor and are predicted to expand with climate change.
+tp57
+asg25
+VOxygen
+p58
+sa(dp59
+g3
+(lp60
+VChemical element
+p61
+aVChemical substance
+p62
+aVMatter
+p63
+aVChemistry
+p64
+aVOxidizing agents
+p65
+asg12
+g13
+sg14
+VCompound
+p66
+sg16
+(lp67
+(VWe investigated how changes in 
+g61
+V availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp68
+a(VWe investigated how changes in 
+g62
+V availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp69
+a(VWe investigated how changes in 
+g63
+V availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp70
+a(VWe investigated how changes in 
+g64
+V availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp71
+a(VWe investigated how changes in 
+g65
+V availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp72
+asg25
+Voxygen
+p73
+sa(dp74
+g3
+(lp75
+VGrapheme
+p76
+asg12
+g13
+sg14
+VCompound
+p77
+sg16
+(lp78
+(VWe investigated how changes in oxygen availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial 
+g76
+V and N incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp79
+asg25
+VC
+sa(dp80
+g3
+(lp81
+VGrapheme
+p82
+asg12
+g13
+sg14
+VCompound
+p83
+sg16
+(lp84
+(VWe investigated how changes in oxygen availability, macrofaunal biomass and retention of labile organic matter (OM) regulate heterotrophic bacterial C and 
+g82
+V incorporation in the sediments of the OMZ-impacted Indian continental margin (540-1100 m; [O2]=0.35-15 mumol l-1).
+tp85
+asg25
+VN
+sa(dp86
+g3
+(lp87
+sg12
+g13
+sg14
+VCompound
+p88
+sg16
+(lp89
+sg25
+VO2
+p90
+sa(dp91
+g3
+(lp92
+VChemical element
+p93
+aVChemical substance
+p94
+aVMatter
+p95
+aVChemistry
+p96
+aVOxidizing agents
+p97
+asg12
+g13
+sg14
+VCompound
+p98
+sg16
+(lp99
+(VWhere 
+g93
+V availability was lowest ([O2]=0.35 mumol l-1), metazoan macrofauna were absent and bacteria assimilated 30-90% of the labelled phytodetritus within the sediment.
+tp100
+a(VWhere 
+g94
+V availability was lowest ([O2]=0.35 mumol l-1), metazoan macrofauna were absent and bacteria assimilated 30-90% of the labelled phytodetritus within the sediment.
+tp101
+a(VWhere 
+g95
+V availability was lowest ([O2]=0.35 mumol l-1), metazoan macrofauna were absent and bacteria assimilated 30-90% of the labelled phytodetritus within the sediment.
+tp102
+a(VWhere 
+g96
+V availability was lowest ([O2]=0.35 mumol l-1), metazoan macrofauna were absent and bacteria assimilated 30-90% of the labelled phytodetritus within the sediment.
+tp103
+a(VWhere 
+g97
+V availability was lowest ([O2]=0.35 mumol l-1), metazoan macrofauna were absent and bacteria assimilated 30-90% of the labelled phytodetritus within the sediment.
+tp104
+asg25
+Voxygen
+p105
+sa(dp106
+g3
+(lp107
+VChemical element
+p108
+aVChemical substance
+p109
+aVMatter
+p110
+aVChemistry
+p111
+aVOxidizing agents
+p112
+asg12
+g13
+sg14
+VCompound
+p113
+sg16
+(lp114
+(VAt higher 
+g108
+V levels ([O2]=2-15 mumol l-1) the macrofaunal presence and lower phytodetritus retention with the sediment occur concomitantly, and bacterial phytodetrital incorporation was reduced and retarded.
+tp115
+a(VAt higher 
+g109
+V levels ([O2]=2-15 mumol l-1) the macrofaunal presence and lower phytodetritus retention with the sediment occur concomitantly, and bacterial phytodetrital incorporation was reduced and retarded.
+tp116
+a(VAt higher 
+g110
+V levels ([O2]=2-15 mumol l-1) the macrofaunal presence and lower phytodetritus retention with the sediment occur concomitantly, and bacterial phytodetrital incorporation was reduced and retarded.
+tp117
+a(VAt higher 
+g111
+V levels ([O2]=2-15 mumol l-1) the macrofaunal presence and lower phytodetritus retention with the sediment occur concomitantly, and bacterial phytodetrital incorporation was reduced and retarded.
+tp118
+a(VAt higher 
+g112
+V levels ([O2]=2-15 mumol l-1) the macrofaunal presence and lower phytodetritus retention with the sediment occur concomitantly, and bacterial phytodetrital incorporation was reduced and retarded.
+tp119
+asg25
+Voxygen
+p120
+sa(dp121
+g3
+(lp122
+sg12
+g13
+sg14
+VCompound
+p123
+sg16
+(lp124
+sg25
+VO2
+p125
+sa(dp126
+g3
+(lp127
+VGrapheme
+p128
+asg12
+g13
+sg14
+VCompound
+p129
+sg16
+(lp130
+(VBacterial 
+g128
+V and N incorporation exhibited a significant negative relationship with macrofaunal biomass across the OMZ.
+tp131
+asg25
+VC
+sa(dp132
+g3
+(lp133
+VGrapheme
+p134
+asg12
+g13
+sg14
+VCompound
+p135
+sg16
+(lp136
+(VBacterial C and 
+g134
+V incorporation exhibited a significant negative relationship with macrofaunal biomass across the OMZ.
+tp137
+asg25
+VN
+sa(dp138
+g3
+(lp139
+VOrganic compounds
+p140
+aVCarboxylic acids
+p141
+aVOrganic acids
+p142
+aVAmines
+p143
+asg12
+g13
+sg14
+VCompound
+p144
+sg16
+(lp145
+(VIn situ pulse-chase experiments traced 13C:15N-labelled phytodetritus into bulk sediment OM and hydrolysable 
+g140
+V, including the bacterial biomarker D-alanine.
+tp146
+a(VIn situ pulse-chase experiments traced 13C:15N-labelled phytodetritus into bulk sediment OM and hydrolysable 
+g141
+V, including the bacterial biomarker D-alanine.
+tp147
+a(VIn situ pulse-chase experiments traced 13C:15N-labelled phytodetritus into bulk sediment OM and hydrolysable 
+g142
+V, including the bacterial biomarker D-alanine.
+tp148
+a(VIn situ pulse-chase experiments traced 13C:15N-labelled phytodetritus into bulk sediment OM and hydrolysable 
+g143
+V, including the bacterial biomarker D-alanine.
+tp149
+asg25
+Vamino acids
+p150
+sa(dp151
+g3
+(lp152
+sg12
+g13
+sg14
+VCompound
+p153
+sg16
+(lp154
+sg25
+VD-alanine
+p155
+sa(dp156
+g3
+(lp157
+sg12
+g13
+sg14
+VCompound
+p158
+sg16
+(lp159
+sg25
+VO2
+p160
+sa.

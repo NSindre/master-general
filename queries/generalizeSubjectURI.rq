@@ -1,0 +1,19 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+SELECT DISTINCT ?gen
+WHERE {{
+	{{
+	{{<{0}> skos:broader ?gen.}}
+	UNION {{<{0}> dcterms:subject ?gen}}
+	UNION {{<{0}> rdf:type ?gen. filter (STRSTARTS(STR(?gen),str(dbpedia-owl:)))}}
+	UNION {{<{0}> dbpedia-owl:class ?gen}}
+	UNION {{<{0}> dbpedia-owl:kingdom ?gen}}
+	UNION {{<{0}> dbpedia-owl:phylum ?gen}}
+	UNION {{<{0}> dbpedia-owl:domain ?gen}}
+	}}
+	{{<{0}> ?_ ?gen.}}
+}}

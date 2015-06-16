@@ -1,0 +1,393 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VRegions of California
+p5
+aVsettlement
+p6
+aVplace
+p7
+aVpopulated place
+p8
+aVResearch
+p9
+asS'fileName'
+p10
+S'00057#10.1038#ismej.2011.201'
+p11
+sS'entityType'
+p12
+VLocation
+p13
+sS'sentences'
+p14
+(lp15
+(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between 
+g5
+V Bight and California Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp16
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between 
+g6
+V Bight and California Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp17
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between 
+g7
+V Bight and California Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp18
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between 
+g8
+V Bight and California Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp19
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between 
+g9
+V Bight and California Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp20
+asS'entity'
+p21
+VSouthern California
+p22
+sa(dp23
+g3
+(lp24
+Vpopulated place
+p25
+aVregion
+p26
+aVplace
+p27
+aVCommunity
+p28
+aVadministrative region
+p29
+asg10
+g11
+sg12
+VLocation
+p30
+sg14
+(lp31
+(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between Southern California Bight and 
+g25
+V Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp32
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between Southern California Bight and 
+g26
+V Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp33
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between Southern California Bight and 
+g27
+V Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp34
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between Southern California Bight and 
+g28
+V Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp35
+a(VMetagenomic data sets were generated from samples collected along a coastal to open ocean transect between Southern California Bight and 
+g29
+V Current waters during a seasonal upwelling event, providing an opportunity to examine the impact of episodic pulses of cold nutrient-rich water into surface ocean microbial communities.
+tp36
+asg21
+VCalifornia
+p37
+sa(dp38
+g3
+(lp39
+VCoefficient
+p40
+aVChemical element
+p41
+aVBuilding materials
+p42
+aVFerromagnetic materials
+p43
+aVChemical substance
+p44
+aVCharge number
+p45
+aVMetals
+p46
+aVMatter
+p47
+aVAtomic number
+p48
+aVTransition metals
+p49
+aVChemistry
+p50
+asg10
+g11
+sg12
+VCompound
+p51
+sg14
+(lp52
+(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g40
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp53
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g41
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp54
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g42
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp55
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g43
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp56
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g44
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp57
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g45
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp58
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g46
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp59
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g47
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp60
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g48
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp61
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g49
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp62
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, 
+g50
+V and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp63
+asg21
+Viron
+p64
+sa(dp65
+g3
+(lp66
+VChemical element
+p67
+aVChemical substance
+p68
+aVOccupational safety and health
+p69
+aVMatter
+p70
+aVSoil contamination
+p71
+aVToxicology
+p72
+aVTransition metals
+p73
+aVChemistry
+p74
+asg10
+g11
+sg12
+VCompound
+p75
+sg14
+(lp76
+(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g67
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp77
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g68
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp78
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g69
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp79
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g70
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp80
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g71
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp81
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g72
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp82
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g73
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp83
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and 
+g74
+V, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and potassium.
+tp84
+asg21
+Vcadmium
+p85
+sa(dp86
+g3
+(lp87
+Vchemical substance
+p88
+aVAmmonium compounds
+p89
+aVchemical compound
+p90
+aVCations
+p91
+aVAtom
+p92
+asg10
+g11
+sg12
+VCompound
+p93
+sg14
+(lp94
+(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for 
+g88
+V and potassium.
+tp95
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for 
+g89
+V and potassium.
+tp96
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for 
+g90
+V and potassium.
+tp97
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for 
+g91
+V and potassium.
+tp98
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for 
+g92
+V and potassium.
+tp99
+asg21
+Vammonium
+p100
+sa(dp101
+g3
+(lp102
+VChemical element
+p103
+aVChemical substance
+p104
+aVAlkali metals
+p105
+aVDesiccants
+p106
+aVMatter
+p107
+aVReducing agents
+p108
+aVChemistry
+p109
+asg10
+g11
+sg12
+VCompound
+p110
+sg14
+(lp111
+(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g103
+V.
+tp112
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g104
+V.
+tp113
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g105
+V.
+tp114
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g106
+V.
+tp115
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g107
+V.
+tp116
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g108
+V.
+tp117
+a(VFunctional annotation of transmembrane proteins indicate that sites comprised of organisms with small genomes have an enrichment of transporters with substrate specificities for amino acids, iron and cadmium, whereas organisms with larger genomes have a higher percentage of transporters for ammonium and 
+g109
+V.
+tp118
+asg21
+Vpotassium
+p119
+sa(dp120
+g3
+(lp121
+Vchemical substance
+p122
+aVAmino acid
+p123
+aVAtom
+p124
+aVMolecule
+p125
+aVAmides
+p126
+aVchemical compound
+p127
+aVDietary supplements
+p128
+aVProteinogenic amino acids
+p129
+asg10
+g11
+sg12
+VCompound
+p130
+sg14
+(lp131
+(VEukaryotic-type 
+g122
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp132
+a(VEukaryotic-type 
+g123
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp133
+a(VEukaryotic-type 
+g124
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp134
+a(VEukaryotic-type 
+g125
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp135
+a(VEukaryotic-type 
+g126
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp136
+a(VEukaryotic-type 
+g127
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp137
+a(VEukaryotic-type 
+g128
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp138
+a(VEukaryotic-type 
+g129
+V synthetase (GS) II proteins were identified and taxonomically classified as viral, most closely related to the GSII in Mimivirus, suggesting that marine Mimivirus-like particles may have played a role in the transfer of GSII gene functions.
+tp139
+asg21
+Vglutamine
+p140
+sa.

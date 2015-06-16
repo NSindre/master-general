@@ -1,0 +1,583 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVIndustrial gases
+p7
+aVCoolants
+p8
+aVMatter
+p9
+aVChemistry
+p10
+asS'fileName'
+p11
+S'00093#10.1038#ismej.2011.182'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VHeterotrophic organisms dominate 
+g5
+V fixation in the South Pacific Gyre
+tp17
+a(VHeterotrophic organisms dominate 
+g6
+V fixation in the South Pacific Gyre
+tp18
+a(VHeterotrophic organisms dominate 
+g7
+V fixation in the South Pacific Gyre
+tp19
+a(VHeterotrophic organisms dominate 
+g8
+V fixation in the South Pacific Gyre
+tp20
+a(VHeterotrophic organisms dominate 
+g9
+V fixation in the South Pacific Gyre
+tp21
+a(VHeterotrophic organisms dominate 
+g10
+V fixation in the South Pacific Gyre
+tp22
+asS'entity'
+p23
+Vnitrogen
+p24
+sa(dp25
+g3
+(lp26
+VPacific Ocean
+p27
+aVAstronomical object
+p28
+aVPlanet
+p29
+aVPhysical oceanography
+p30
+aVEarth
+p31
+aVOceanic gyres
+p32
+asg11
+g12
+sg13
+VLocation
+p33
+sg15
+(lp34
+(VHeterotrophic organisms dominate nitrogen fixation in the 
+g27
+V
+tp35
+a(VHeterotrophic organisms dominate nitrogen fixation in the 
+g28
+V
+tp36
+a(VHeterotrophic organisms dominate nitrogen fixation in the 
+g29
+V
+tp37
+a(VHeterotrophic organisms dominate nitrogen fixation in the 
+g30
+V
+tp38
+a(VHeterotrophic organisms dominate nitrogen fixation in the 
+g31
+V
+tp39
+a(VHeterotrophic organisms dominate nitrogen fixation in the 
+g32
+V
+tp40
+asg23
+VSouth Pacific Gyre
+p41
+sa(dp42
+g3
+(lp43
+VChemical element
+p44
+aVChemical substance
+p45
+aVIndustrial gases
+p46
+aVCoolants
+p47
+aVMatter
+p48
+aVChemistry
+p49
+asg11
+g12
+sg13
+VCompound
+p50
+sg15
+(lp51
+(VThe major source of nutrient 
+g44
+V in these ecosystems is N2-fixation.
+tp52
+a(VThe major source of nutrient 
+g45
+V in these ecosystems is N2-fixation.
+tp53
+a(VThe major source of nutrient 
+g46
+V in these ecosystems is N2-fixation.
+tp54
+a(VThe major source of nutrient 
+g47
+V in these ecosystems is N2-fixation.
+tp55
+a(VThe major source of nutrient 
+g48
+V in these ecosystems is N2-fixation.
+tp56
+a(VThe major source of nutrient 
+g49
+V in these ecosystems is N2-fixation.
+tp57
+asg23
+Vnitrogen
+p58
+sa(dp59
+g3
+(lp60
+VPacific Ocean
+p61
+aVAstronomical object
+p62
+aVPlanet
+p63
+aVPhysical oceanography
+p64
+aVEarth
+p65
+aVOceanic gyres
+p66
+asg11
+g12
+sg13
+VLocation
+p67
+sg15
+(lp68
+(VThe 
+g61
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp69
+a(VThe 
+g62
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp70
+a(VThe 
+g63
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp71
+a(VThe 
+g64
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp72
+a(VThe 
+g65
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp73
+a(VThe 
+g66
+V (SPG) is the largest ocean gyre in the world, but measurements of N2-fixation therein, or identification of microorganisms involved, are scarce.
+tp74
+asg23
+VSouth Pacific Gyre
+p75
+sa(dp76
+g3
+(lp77
+VChemical element
+p78
+aVChemical substance
+p79
+aVIndustrial gases
+p80
+aVCoolants
+p81
+aVMatter
+p82
+aVChemistry
+p83
+asg11
+g12
+sg13
+VCompound
+p84
+sg15
+(lp85
+(VIn the 2006/2007 austral summer, we investigated 
+g78
+V and carbon assimilation at 11 stations throughout the SPG.
+tp86
+a(VIn the 2006/2007 austral summer, we investigated 
+g79
+V and carbon assimilation at 11 stations throughout the SPG.
+tp87
+a(VIn the 2006/2007 austral summer, we investigated 
+g80
+V and carbon assimilation at 11 stations throughout the SPG.
+tp88
+a(VIn the 2006/2007 austral summer, we investigated 
+g81
+V and carbon assimilation at 11 stations throughout the SPG.
+tp89
+a(VIn the 2006/2007 austral summer, we investigated 
+g82
+V and carbon assimilation at 11 stations throughout the SPG.
+tp90
+a(VIn the 2006/2007 austral summer, we investigated 
+g83
+V and carbon assimilation at 11 stations throughout the SPG.
+tp91
+asg23
+Vnitrogen
+p92
+sa(dp93
+g3
+(lp94
+VChemical element
+p95
+aVChemical substance
+p96
+aVCarbon forms
+p97
+aVMatter
+p98
+aVReducing agents
+p99
+aVCarbonate minerals
+p100
+aVChemistry
+p101
+asg11
+g12
+sg13
+VCompound
+p102
+sg15
+(lp103
+(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g95
+V assimilation at 11 stations throughout the SPG.
+tp104
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g96
+V assimilation at 11 stations throughout the SPG.
+tp105
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g97
+V assimilation at 11 stations throughout the SPG.
+tp106
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g98
+V assimilation at 11 stations throughout the SPG.
+tp107
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g99
+V assimilation at 11 stations throughout the SPG.
+tp108
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g100
+V assimilation at 11 stations throughout the SPG.
+tp109
+a(VIn the 2006/2007 austral summer, we investigated nitrogen and 
+g101
+V assimilation at 11 stations throughout the SPG.
+tp110
+asg23
+Vcarbon
+p111
+sa(dp112
+g3
+(lp113
+VChemical element
+p114
+aVChemical substance
+p115
+aVIndustrial gases
+p116
+aVCoolants
+p117
+aVMatter
+p118
+aVChemistry
+p119
+asg11
+g12
+sg13
+VCompound
+p120
+sg15
+(lp121
+(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g114
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp122
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g115
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp123
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g116
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp124
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g117
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp125
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g118
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp126
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by 
+g119
+V, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp127
+asg23
+Vnitrogen
+p128
+sa(dp129
+g3
+(lp130
+VChemical element
+p131
+aVChemical substance
+p132
+aVCarbon forms
+p133
+aVMatter
+p134
+aVReducing agents
+p135
+aVCarbonate minerals
+p136
+aVChemistry
+p137
+asg11
+g12
+sg13
+VCompound
+p138
+sg15
+(lp139
+(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g131
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp140
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g132
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp141
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g133
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp142
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g134
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp143
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g135
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp144
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g136
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp145
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic 
+g137
+V uptake was stimulated upon additions of 15N-labeled ammonium and leucine in our incubation experiments.
+tp146
+asg23
+Vcarbon
+p147
+sa(dp148
+g3
+(lp149
+Vchemical substance
+p150
+aVAmmonium compounds
+p151
+aVchemical compound
+p152
+aVCations
+p153
+aVAtom
+p154
+asg11
+g12
+sg13
+VCompound
+p155
+sg15
+(lp156
+(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled 
+g150
+V and leucine in our incubation experiments.
+tp157
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled 
+g151
+V and leucine in our incubation experiments.
+tp158
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled 
+g152
+V and leucine in our incubation experiments.
+tp159
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled 
+g153
+V and leucine in our incubation experiments.
+tp160
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled 
+g154
+V and leucine in our incubation experiments.
+tp161
+asg23
+Vammonium
+p162
+sa(dp163
+g3
+(lp164
+VChemical element
+p165
+aVChemical substance
+p166
+aVIndustrial gases
+p167
+aVCoolants
+p168
+aVMatter
+p169
+aVChemistry
+p170
+asg11
+g12
+sg13
+VCompound
+p171
+sg15
+(lp172
+(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g165
+V.
+tp173
+a(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g166
+V.
+tp174
+a(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g167
+V.
+tp175
+a(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g168
+V.
+tp176
+a(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g169
+V.
+tp177
+a(VN2-fixation in the SPG may account for the production of 8-20% of global oceanic new 
+g170
+V.
+tp178
+asg23
+Vnitrogen
+p179
+sa(dp180
+g3
+(lp181
+Vchemical substance
+p182
+aVAmino acid
+p183
+aVEssential amino acids
+p184
+aVMolecule
+p185
+aVBranched-chain amino acids
+p186
+aVchemical compound
+p187
+aVAtom
+p188
+aVProteinogenic amino acids
+p189
+asg11
+g12
+sg13
+VCompound
+p190
+sg15
+(lp191
+(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g182
+V in our incubation experiments.
+tp192
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g183
+V in our incubation experiments.
+tp193
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g184
+V in our incubation experiments.
+tp194
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g185
+V in our incubation experiments.
+tp195
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g186
+V in our incubation experiments.
+tp196
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g187
+V in our incubation experiments.
+tp197
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g188
+V in our incubation experiments.
+tp198
+a(VIn the ultra-oligotrophic waters of the SPG, the chlorophyll maxima reached as deep as 200 m. Surface primary production seemed limited by nitrogen, as dissolved inorganic carbon uptake was stimulated upon additions of 15N-labeled ammonium and 
+g189
+V in our incubation experiments.
+tp199
+asg23
+Vleucine
+p200
+sa(dp201
+g3
+(lp202
+VGrapheme
+p203
+asg11
+g12
+sg13
+VCompound
+p204
+sg15
+(lp205
+(VN2-fixation was detectable throughout the upper 200 m at most stations, with rates ranging from 0.001 to 0.19 nM 
+g203
+V h-1.
+tp206
+asg23
+VN
+sa.

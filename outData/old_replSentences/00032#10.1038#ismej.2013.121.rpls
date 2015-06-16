@@ -1,0 +1,396 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00032#10.1038#ismej.2013.121'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g5
+V and nitrogen export
+tp18
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g6
+V and nitrogen export
+tp19
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g7
+V and nitrogen export
+tp20
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g8
+V and nitrogen export
+tp21
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g9
+V and nitrogen export
+tp22
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g10
+V and nitrogen export
+tp23
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates 
+g11
+V and nitrogen export
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVIndustrial gases
+p31
+aVCoolants
+p32
+aVMatter
+p33
+aVChemistry
+p34
+asg12
+g13
+sg14
+VCompound
+p35
+sg16
+(lp36
+(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g29
+V export
+tp37
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g30
+V export
+tp38
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g31
+V export
+tp39
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g32
+V export
+tp40
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g33
+V export
+tp41
+a(VProgrammed cell death in the marine cyanobacterium Trichodesmium mediates carbon and 
+g34
+V export
+tp42
+asg25
+Vnitrogen
+p43
+sa(dp44
+g3
+(lp45
+VChemical element
+p46
+aVChemical substance
+p47
+aVCarbon forms
+p48
+aVMatter
+p49
+aVReducing agents
+p50
+aVCarbonate minerals
+p51
+aVChemistry
+p52
+asg12
+g13
+sg14
+VCompound
+p53
+sg16
+(lp54
+(VThe extent of 
+g46
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp55
+a(VThe extent of 
+g47
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp56
+a(VThe extent of 
+g48
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp57
+a(VThe extent of 
+g49
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp58
+a(VThe extent of 
+g50
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp59
+a(VThe extent of 
+g51
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp60
+a(VThe extent of 
+g52
+V (C) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp61
+asg25
+Vcarbon
+p62
+sa(dp63
+g3
+(lp64
+VGrapheme
+p65
+asg12
+g13
+sg14
+VCompound
+p66
+sg16
+(lp67
+(VThe extent of carbon (
+g65
+V) and nitrogen (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp68
+asg25
+VC
+sa(dp69
+g3
+(lp70
+VChemical element
+p71
+aVChemical substance
+p72
+aVIndustrial gases
+p73
+aVCoolants
+p74
+aVMatter
+p75
+aVChemistry
+p76
+asg12
+g13
+sg14
+VCompound
+p77
+sg16
+(lp78
+(VThe extent of carbon (C) and 
+g71
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp79
+a(VThe extent of carbon (C) and 
+g72
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp80
+a(VThe extent of carbon (C) and 
+g73
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp81
+a(VThe extent of carbon (C) and 
+g74
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp82
+a(VThe extent of carbon (C) and 
+g75
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp83
+a(VThe extent of carbon (C) and 
+g76
+V (N) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp84
+asg25
+Vnitrogen
+p85
+sa(dp86
+g3
+(lp87
+VGrapheme
+p88
+asg12
+g13
+sg14
+VCompound
+p89
+sg16
+(lp90
+(VThe extent of carbon (C) and nitrogen (
+g88
+V) export to the deep ocean depends upon the efficacy of the biological pump that transports primary production to depth, thereby preventing its recycling in the upper photic zone.
+tp91
+asg25
+VN
+sa(dp92
+g3
+(lp93
+VGrapheme
+p94
+asg12
+g13
+sg14
+VCompound
+p95
+sg16
+(lp96
+(Vcontributes significantly to oceanic 
+g94
+V and N cycling by forming extensive blooms in nutrient-poor tropical and subtropical regions.
+tp97
+asg25
+VC
+sa(dp98
+g3
+(lp99
+VGrapheme
+p100
+asg12
+g13
+sg14
+VCompound
+p101
+sg16
+(lp102
+(Vcontributes significantly to oceanic C and 
+g100
+V cycling by forming extensive blooms in nutrient-poor tropical and subtropical regions.
+tp103
+asg25
+VN
+sa(dp104
+g3
+(lp105
+VGrapheme
+p106
+asg12
+g13
+sg14
+VCompound
+p107
+sg16
+(lp108
+(VThese massive blooms generally collapse several days after forming, but the cellular mechanism responsible, along with the magnitude of associated 
+g106
+V and N export processes, are as yet unknown.
+tp109
+asg25
+VC
+sa(dp110
+g3
+(lp111
+VGrapheme
+p112
+asg12
+g13
+sg14
+VCompound
+p113
+sg16
+(lp114
+(VThese massive blooms generally collapse several days after forming, but the cellular mechanism responsible, along with the magnitude of associated C and 
+g112
+V export processes, are as yet unknown.
+tp115
+asg25
+VN
+sa(dp116
+g3
+(lp117
+VGrapheme
+p118
+asg12
+g13
+sg14
+VCompound
+p119
+sg16
+(lp120
+(VHere, we used a custom-made, 2-m high water column to simulate a natural bloom and to specifically test and quantify whether the programmed cell death (PCD) of Trichodesmium mechanistically regulates increased vertical flux of 
+g118
+V and N.
+tp121
+asg25
+VC
+sa(dp122
+g3
+(lp123
+VGrapheme
+p124
+asg12
+g13
+sg14
+VCompound
+p125
+sg16
+(lp126
+(VHere, we used a custom-made, 2-m high water column to simulate a natural bloom and to specifically test and quantify whether the programmed cell death (PCD) of Trichodesmium mechanistically regulates increased vertical flux of C and 
+g124
+V.
+tp127
+asg25
+VN
+sa(dp128
+g3
+(lp129
+VGrapheme
+p130
+asg12
+g13
+sg14
+VCompound
+p131
+sg16
+(lp132
+(VOur results mechanistically link autocatalytic PCD and bloom collapse to quantitative 
+g130
+V and N export fluxes, suggesting that PCD may have an impact on the biological pump efficiency in the oceans.
+tp133
+asg25
+VC
+sa(dp134
+g3
+(lp135
+VGrapheme
+p136
+asg12
+g13
+sg14
+VCompound
+p137
+sg16
+(lp138
+(VOur results mechanistically link autocatalytic PCD and bloom collapse to quantitative C and 
+g136
+V export fluxes, suggesting that PCD may have an impact on the biological pump efficiency in the oceans.
+tp139
+asg25
+VN
+sa.

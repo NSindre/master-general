@@ -1,0 +1,199 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00013#10.1038#ismej.2011.12'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VDepleted dissolved organic 
+g5
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp18
+a(VDepleted dissolved organic 
+g6
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp19
+a(VDepleted dissolved organic 
+g7
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp20
+a(VDepleted dissolved organic 
+g8
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp21
+a(VDepleted dissolved organic 
+g9
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp22
+a(VDepleted dissolved organic 
+g10
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp23
+a(VDepleted dissolved organic 
+g11
+V and distinct bacterial communities in the water column of a rapid-flushing coral reef ecosystem
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+sg12
+g13
+sg14
+VLocation
+p29
+sg16
+(lp30
+sg25
+VPaopao Bay
+p31
+sa(dp32
+g3
+(lp33
+VHigh island
+p34
+aVIsland
+p35
+asg12
+g13
+sg14
+VLocation
+p36
+sg16
+(lp37
+(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, 
+g34
+V, French Polynesia) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp38
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, 
+g35
+V, French Polynesia) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp39
+asg25
+VMoorea
+p40
+sa(dp41
+g3
+(lp42
+Vcountry
+p43
+aVpopulated place
+p44
+aVplace
+p45
+aVIsland countries
+p46
+aVPolynesia
+p47
+asg12
+g13
+sg14
+VLocation
+p48
+sg16
+(lp49
+(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, 
+g43
+V) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp50
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, 
+g44
+V) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp51
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, 
+g45
+V) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp52
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, 
+g46
+V) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp53
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, 
+g47
+V) where changes in bacterioplankton abundance and dissolved organic carbon (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp54
+asg25
+VFrench Polynesia
+p55
+sa(dp56
+g3
+(lp57
+VChemical element
+p58
+aVChemical substance
+p59
+aVCarbon forms
+p60
+aVMatter
+p61
+aVReducing agents
+p62
+aVCarbonate minerals
+p63
+aVChemistry
+p64
+asg12
+g13
+sg14
+VCompound
+p65
+sg16
+(lp66
+(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g58
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp67
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g59
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp68
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g60
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp69
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g61
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp70
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g62
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp71
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g63
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp72
+a(VIn this study, we present the results of a 4-year study conducted in a well-characterized coral reef ecosystem (Paopao Bay, Moorea, French Polynesia) where changes in bacterioplankton abundance and dissolved organic 
+g64
+V (DOC) concentrations were quantified and bacterial community structure variation was examined along spatial gradients of the reef:ocean interface.
+tp73
+asg25
+Vcarbon
+p74
+sa.

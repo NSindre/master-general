@@ -1,0 +1,492 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00022#10.1038#ismej.2013.135'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VPhaeocystis globosa
+p12
+sa(dp13
+g3
+(lp14
+VEuropean seas
+p15
+aVMarginal sea
+p16
+aVSea
+p17
+aVBody of water
+p18
+asg5
+g6
+sg7
+VLocation
+p19
+sg9
+(lp20
+(VHere we show that already before cell lysis the leakage or excretion of organic matter by infected yet intact algal cells shaped 
+g15
+V bacterial community composition and enhanced bacterial substrate assimilation.
+tp21
+a(VHere we show that already before cell lysis the leakage or excretion of organic matter by infected yet intact algal cells shaped 
+g16
+V bacterial community composition and enhanced bacterial substrate assimilation.
+tp22
+a(VHere we show that already before cell lysis the leakage or excretion of organic matter by infected yet intact algal cells shaped 
+g17
+V bacterial community composition and enhanced bacterial substrate assimilation.
+tp23
+a(VHere we show that already before cell lysis the leakage or excretion of organic matter by infected yet intact algal cells shaped 
+g18
+V bacterial community composition and enhanced bacterial substrate assimilation.
+tp24
+asg11
+VNorth Sea
+p25
+sa(dp26
+g3
+(lp27
+sg5
+g6
+sg7
+VSpecies
+p28
+sg9
+(lp29
+sg11
+VPhaeocystis globosa
+p30
+sa(dp31
+g3
+(lp32
+VEuropean seas
+p33
+aVMarginal sea
+p34
+aVSea
+p35
+aVBody of water
+p36
+asg5
+g6
+sg7
+VLocation
+p37
+sg9
+(lp38
+(VInfected algal cultures of Phaeocystis globosa grown in coastal 
+g33
+V water contained gamma- and alphaproteobacterial phylotypes that were distinct from those in the non-infected control cultures 5 h after infection.
+tp39
+a(VInfected algal cultures of Phaeocystis globosa grown in coastal 
+g34
+V water contained gamma- and alphaproteobacterial phylotypes that were distinct from those in the non-infected control cultures 5 h after infection.
+tp40
+a(VInfected algal cultures of Phaeocystis globosa grown in coastal 
+g35
+V water contained gamma- and alphaproteobacterial phylotypes that were distinct from those in the non-infected control cultures 5 h after infection.
+tp41
+a(VInfected algal cultures of Phaeocystis globosa grown in coastal 
+g36
+V water contained gamma- and alphaproteobacterial phylotypes that were distinct from those in the non-infected control cultures 5 h after infection.
+tp42
+asg11
+VNorth Sea
+p43
+sa(dp44
+g3
+(lp45
+Vplant
+p46
+aVanimal
+p47
+aVParashorea
+p48
+aVmollusca
+p49
+aVBrassicaceae
+p50
+aVeukaryote
+p51
+aVGastropoda
+p52
+aVspecies
+p53
+aVEndangered plants
+p54
+aVPlantae
+p55
+asg5
+g6
+sg7
+VSpecies
+p56
+sg9
+(lp57
+(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g46
+V cells to Alteromonas sp.
+tp58
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g47
+V cells to Alteromonas sp.
+tp59
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g48
+V cells to Alteromonas sp.
+tp60
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g49
+V cells to Alteromonas sp.
+tp61
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g50
+V cells to Alteromonas sp.
+tp62
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g51
+V cells to Alteromonas sp.
+tp63
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g52
+V cells to Alteromonas sp.
+tp64
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g53
+V cells to Alteromonas sp.
+tp65
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g54
+V cells to Alteromonas sp.
+tp66
+a(VNano-scale secondary-ion mass spectrometry (nanoSIMS) showed ~20% transfer of organic matter derived from the infected 13C- and 15N-labelled 
+g55
+V cells to Alteromonas sp.
+tp67
+asg11
+VP. globosa
+p68
+sa(dp69
+g3
+(lp70
+Vplant
+p71
+aVanimal
+p72
+aVParashorea
+p73
+aVmollusca
+p74
+aVBrassicaceae
+p75
+aVeukaryote
+p76
+aVGastropoda
+p77
+aVspecies
+p78
+aVEndangered plants
+p79
+aVPlantae
+p80
+asg5
+g6
+sg7
+VSpecies
+p81
+sg9
+(lp82
+(VSubsequent, viral lysis of 
+g71
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp83
+a(VSubsequent, viral lysis of 
+g72
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp84
+a(VSubsequent, viral lysis of 
+g73
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp85
+a(VSubsequent, viral lysis of 
+g74
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp86
+a(VSubsequent, viral lysis of 
+g75
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp87
+a(VSubsequent, viral lysis of 
+g76
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp88
+a(VSubsequent, viral lysis of 
+g77
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp89
+a(VSubsequent, viral lysis of 
+g78
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp90
+a(VSubsequent, viral lysis of 
+g79
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp91
+a(VSubsequent, viral lysis of 
+g80
+V resulted in the formation of aggregates that were densely colonised by bacteria.
+tp92
+asg11
+VP. globosa
+p93
+sa(dp94
+g3
+(lp95
+VChemical element
+p96
+aVChemical substance
+p97
+aVCarbon forms
+p98
+aVMatter
+p99
+aVReducing agents
+p100
+aVCarbonate minerals
+p101
+aVChemistry
+p102
+asg5
+g6
+sg7
+VCompound
+p103
+sg9
+(lp104
+(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g96
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp105
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g97
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp106
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g98
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp107
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g99
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp108
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g100
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp109
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g101
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp110
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic 
+g102
+V from the infected P. globosa culture was remineralized to dissolved inorganic carbon after 7 days.
+tp111
+asg11
+Vcarbon
+p112
+sa(dp113
+g3
+(lp114
+Vplant
+p115
+aVanimal
+p116
+aVParashorea
+p117
+aVmollusca
+p118
+aVBrassicaceae
+p119
+aVeukaryote
+p120
+aVGastropoda
+p121
+aVspecies
+p122
+aVEndangered plants
+p123
+aVPlantae
+p124
+asg5
+g6
+sg7
+VSpecies
+p125
+sg9
+(lp126
+(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g115
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp127
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g116
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp128
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g117
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp129
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g118
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp130
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g119
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp131
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g120
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp132
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g121
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp133
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g122
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp134
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g123
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp135
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected 
+g124
+V culture was remineralized to dissolved inorganic carbon after 7 days.
+tp136
+asg11
+VP. globosa
+p137
+sa(dp138
+g3
+(lp139
+VChemical element
+p140
+aVChemical substance
+p141
+aVCarbon forms
+p142
+aVMatter
+p143
+aVReducing agents
+p144
+aVCarbonate minerals
+p145
+aVChemistry
+p146
+asg5
+g6
+sg7
+VCompound
+p147
+sg9
+(lp148
+(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g140
+V after 7 days.
+tp149
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g141
+V after 7 days.
+tp150
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g142
+V after 7 days.
+tp151
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g143
+V after 7 days.
+tp152
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g144
+V after 7 days.
+tp153
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g145
+V after 7 days.
+tp154
+a(VIsotope mass spectrometry analysis showed that 40% of the particulate 13C-organic carbon from the infected P. globosa culture was remineralized to dissolved inorganic 
+g146
+V after 7 days.
+tp155
+asg11
+Vcarbon
+p156
+sa(dp157
+g3
+(lp158
+VChemical element
+p159
+aVChemical substance
+p160
+aVCarbon forms
+p161
+aVMatter
+p162
+aVReducing agents
+p163
+aVCarbonate minerals
+p164
+aVChemistry
+p165
+asg5
+g6
+sg7
+VCompound
+p166
+sg9
+(lp167
+(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g159
+V availability.
+tp168
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g160
+V availability.
+tp169
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g161
+V availability.
+tp170
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g162
+V availability.
+tp171
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g163
+V availability.
+tp172
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g164
+V availability.
+tp173
+a(VThese findings reveal a novel role of viruses in the leakage or excretion of algal biomass upon infection, which provides an additional ecological niche for specific bacterial populations and potentially redirects 
+g165
+V availability.
+tp174
+asg11
+Vcarbon
+p175
+sa.

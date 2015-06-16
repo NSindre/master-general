@@ -1,0 +1,323 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00024#10.1038#ismej.2010.28'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VAce Lake
+p12
+sa(dp13
+g3
+(lp14
+VAntarctic region
+p15
+aVRegion
+p16
+aVTopography
+p17
+aVContinents
+p18
+aVLandforms
+p19
+asg5
+g6
+sg7
+VLocation
+p20
+sg9
+(lp21
+(VMetaproteogenomic analysis of a dominant green sulfur bacterium from Ace Lake, 
+g15
+V
+tp22
+a(VMetaproteogenomic analysis of a dominant green sulfur bacterium from Ace Lake, 
+g16
+V
+tp23
+a(VMetaproteogenomic analysis of a dominant green sulfur bacterium from Ace Lake, 
+g17
+V
+tp24
+a(VMetaproteogenomic analysis of a dominant green sulfur bacterium from Ace Lake, 
+g18
+V
+tp25
+a(VMetaproteogenomic analysis of a dominant green sulfur bacterium from Ace Lake, 
+g19
+V
+tp26
+asg11
+VAntarctica
+p27
+sa(dp28
+g3
+(lp29
+VChemical element
+p30
+aVChemical substance
+p31
+aVCarbon forms
+p32
+aVMatter
+p33
+aVReducing agents
+p34
+aVCarbonate minerals
+p35
+aVChemistry
+p36
+asg5
+g6
+sg7
+VCompound
+p37
+sg9
+(lp38
+(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g30
+V and sulfur cycling in natural environments.
+tp39
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g31
+V and sulfur cycling in natural environments.
+tp40
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g32
+V and sulfur cycling in natural environments.
+tp41
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g33
+V and sulfur cycling in natural environments.
+tp42
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g34
+V and sulfur cycling in natural environments.
+tp43
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g35
+V and sulfur cycling in natural environments.
+tp44
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global 
+g36
+V and sulfur cycling in natural environments.
+tp45
+asg11
+Vcarbon
+p46
+sa(dp47
+g3
+(lp48
+VChemical element
+p49
+aVchemical substance
+p50
+aVSulfur forms
+p51
+aVInorganic polymers
+p52
+aVMatter
+p53
+aVchemical compound
+p54
+aVChemistry
+p55
+aVAgricultural chemicals
+p56
+asg5
+g6
+sg7
+VCompound
+p57
+sg9
+(lp58
+(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g49
+V cycling in natural environments.
+tp59
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g50
+V cycling in natural environments.
+tp60
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g51
+V cycling in natural environments.
+tp61
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g52
+V cycling in natural environments.
+tp62
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g53
+V cycling in natural environments.
+tp63
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g54
+V cycling in natural environments.
+tp64
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g55
+V cycling in natural environments.
+tp65
+a(VGreen sulfur bacteria (GSB) (Chlorobiaceae) are primary producers that are important in global carbon and 
+g56
+V cycling in natural environments.
+tp66
+asg11
+Vsulfur
+p67
+sa(dp68
+g3
+(lp69
+sg5
+g6
+sg7
+VLocation
+p70
+sg9
+(lp71
+sg11
+VAce Lake
+p72
+sa(dp73
+g3
+(lp74
+VAntarctic region
+p75
+aVRegion
+p76
+aVTopography
+p77
+aVContinents
+p78
+aVLandforms
+p79
+asg5
+g6
+sg7
+VLocation
+p80
+sg9
+(lp81
+(VAn almost complete genome sequence for a single, dominant GSB species ('C-Ace') was assembled from shotgun sequence data of an environmental sample taken from the O2-H2S interface of the water column of Ace Lake, 
+g75
+V.
+tp82
+a(VAn almost complete genome sequence for a single, dominant GSB species ('C-Ace') was assembled from shotgun sequence data of an environmental sample taken from the O2-H2S interface of the water column of Ace Lake, 
+g76
+V.
+tp83
+a(VAn almost complete genome sequence for a single, dominant GSB species ('C-Ace') was assembled from shotgun sequence data of an environmental sample taken from the O2-H2S interface of the water column of Ace Lake, 
+g77
+V.
+tp84
+a(VAn almost complete genome sequence for a single, dominant GSB species ('C-Ace') was assembled from shotgun sequence data of an environmental sample taken from the O2-H2S interface of the water column of Ace Lake, 
+g78
+V.
+tp85
+a(VAn almost complete genome sequence for a single, dominant GSB species ('C-Ace') was assembled from shotgun sequence data of an environmental sample taken from the O2-H2S interface of the water column of Ace Lake, 
+g79
+V.
+tp86
+asg11
+VAntarctica
+p87
+sa(dp88
+g3
+(lp89
+VChemical element
+p90
+aVchemical substance
+p91
+aVSulfur forms
+p92
+aVInorganic polymers
+p93
+aVMatter
+p94
+aVchemical compound
+p95
+aVChemistry
+p96
+aVAgricultural chemicals
+p97
+asg5
+g6
+sg7
+VCompound
+p98
+sg9
+(lp99
+(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g90
+V compounds.
+tp100
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g91
+V compounds.
+tp101
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g92
+V compounds.
+tp102
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g93
+V compounds.
+tp103
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g94
+V compounds.
+tp104
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g95
+V compounds.
+tp105
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g96
+V compounds.
+tp106
+a(VC-Ace shows physiological traits that promote its ability to compete very effectively with other GSB and gain dominance (for example, specific bacteriochlorophylls, mechanisms of cold adaptation) as well as a syntrophic relationship with sulfate-reducing bacteria that provides a mechanism for the exchange of 
+g97
+V compounds.
+tp107
+asg11
+Vsulfur
+p108
+sa(dp109
+g3
+(lp110
+sg5
+g6
+sg7
+VCompound
+p111
+sg9
+(lp112
+sg11
+VO2
+p113
+sa(dp114
+g3
+(lp115
+sg5
+g6
+sg7
+VCompound
+p116
+sg9
+(lp117
+sg11
+VH2S
+p118
+sa.

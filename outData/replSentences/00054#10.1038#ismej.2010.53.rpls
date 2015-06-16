@@ -1,0 +1,510 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00054#10.1038#ismej.2010.53'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(V
+g5
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp18
+a(V
+g6
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp19
+a(V
+g7
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp20
+a(V
+g8
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp21
+a(V
+g9
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp22
+a(V
+g10
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp23
+a(V
+g11
+V and nitrogen fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp24
+asS'entity'
+p25
+VCarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVIndustrial gases
+p31
+aVCoolants
+p32
+aVMatter
+p33
+aVChemistry
+p34
+asg12
+g13
+sg14
+VCompound
+p35
+sg16
+(lp36
+(VCarbon and 
+g29
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp37
+a(VCarbon and 
+g30
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp38
+a(VCarbon and 
+g31
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp39
+a(VCarbon and 
+g32
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp40
+a(VCarbon and 
+g33
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp41
+a(VCarbon and 
+g34
+V fluxes associated with the cyanobacterium Aphanizomenon sp.
+tp42
+asg25
+Vnitrogen
+p43
+sa(dp44
+g3
+(lp45
+VEuropean seas
+p46
+aVBodies of water
+p47
+aVSea
+p48
+aVBody of water
+p49
+asg12
+g13
+sg14
+VLocation
+p50
+sg16
+(lp51
+(Vin the 
+g46
+V
+tp52
+a(Vin the 
+g47
+V
+tp53
+a(Vin the 
+g48
+V
+tp54
+a(Vin the 
+g49
+V
+tp55
+asg25
+VBaltic Sea
+p56
+sa(dp57
+g3
+(lp58
+VChemical element
+p59
+aVChemical substance
+p60
+aVCarbon forms
+p61
+aVMatter
+p62
+aVReducing agents
+p63
+aVCarbonate minerals
+p64
+aVChemistry
+p65
+asg12
+g13
+sg14
+VCompound
+p66
+sg16
+(lp67
+(V
+g59
+V and nitrogen fluxes in Aphanizomenon sp.
+tp68
+a(V
+g60
+V and nitrogen fluxes in Aphanizomenon sp.
+tp69
+a(V
+g61
+V and nitrogen fluxes in Aphanizomenon sp.
+tp70
+a(V
+g62
+V and nitrogen fluxes in Aphanizomenon sp.
+tp71
+a(V
+g63
+V and nitrogen fluxes in Aphanizomenon sp.
+tp72
+a(V
+g64
+V and nitrogen fluxes in Aphanizomenon sp.
+tp73
+a(V
+g65
+V and nitrogen fluxes in Aphanizomenon sp.
+tp74
+asg25
+VCarbon
+p75
+sa(dp76
+g3
+(lp77
+VChemical element
+p78
+aVChemical substance
+p79
+aVIndustrial gases
+p80
+aVCoolants
+p81
+aVMatter
+p82
+aVChemistry
+p83
+asg12
+g13
+sg14
+VCompound
+p84
+sg16
+(lp85
+(VCarbon and 
+g78
+V fluxes in Aphanizomenon sp.
+tp86
+a(VCarbon and 
+g79
+V fluxes in Aphanizomenon sp.
+tp87
+a(VCarbon and 
+g80
+V fluxes in Aphanizomenon sp.
+tp88
+a(VCarbon and 
+g81
+V fluxes in Aphanizomenon sp.
+tp89
+a(VCarbon and 
+g82
+V fluxes in Aphanizomenon sp.
+tp90
+a(VCarbon and 
+g83
+V fluxes in Aphanizomenon sp.
+tp91
+asg25
+Vnitrogen
+p92
+sa(dp93
+g3
+(lp94
+VEuropean seas
+p95
+aVBodies of water
+p96
+aVSea
+p97
+aVBody of water
+p98
+asg12
+g13
+sg14
+VLocation
+p99
+sg16
+(lp100
+(Vcolonies in the 
+g95
+V were measured using a combination of microsensors, stable isotopes, mass spectrometry, and nanoscale secondary ion mass spectrometry (nanoSIMS).
+tp101
+a(Vcolonies in the 
+g96
+V were measured using a combination of microsensors, stable isotopes, mass spectrometry, and nanoscale secondary ion mass spectrometry (nanoSIMS).
+tp102
+a(Vcolonies in the 
+g97
+V were measured using a combination of microsensors, stable isotopes, mass spectrometry, and nanoscale secondary ion mass spectrometry (nanoSIMS).
+tp103
+a(Vcolonies in the 
+g98
+V were measured using a combination of microsensors, stable isotopes, mass spectrometry, and nanoscale secondary ion mass spectrometry (nanoSIMS).
+tp104
+asg25
+VBaltic Sea
+p105
+sa(dp106
+g3
+(lp107
+sg12
+g13
+sg14
+VCompound
+p108
+sg16
+(lp109
+sg25
+VO2
+p110
+sa(dp111
+g3
+(lp112
+sg12
+g13
+sg14
+VCompound
+p113
+sg16
+(lp114
+sg25
+VO2
+p115
+sa(dp116
+g3
+(lp117
+sg12
+g13
+sg14
+VCompound
+p118
+sg16
+(lp119
+sg25
+VO2
+p120
+sa(dp121
+g3
+(lp122
+sg12
+g13
+sg14
+VCompound
+p123
+sg16
+(lp124
+sg25
+VO2
+p125
+sa(dp126
+g3
+(lp127
+VGrapheme
+p128
+asg12
+g13
+sg14
+VCompound
+p129
+sg16
+(lp130
+(VThe average cell-specific net carbon-fixation rate was 38 and 40 fmol 
+g128
+V cell-1 h-1 measured by microsensors and by using stable isotopes in combination with mass spectrometry and nanoSIMS, respectively.
+tp131
+asg25
+VC
+sa(dp132
+g3
+(lp133
+sg12
+g13
+sg14
+VCompound
+p134
+sg16
+(lp135
+sg25
+VN2
+p136
+sa(dp137
+g3
+(lp138
+sg12
+g13
+sg14
+VCompound
+p139
+sg16
+(lp140
+sg25
+VN2
+p141
+sa(dp142
+g3
+(lp143
+sg12
+g13
+sg14
+VCompound
+p144
+sg16
+(lp145
+sg25
+VN2
+p146
+sa(dp147
+g3
+(lp148
+sg12
+g13
+sg14
+VCompound
+p149
+sg16
+(lp150
+sg25
+VN2
+p151
+sa(dp152
+g3
+(lp153
+sg12
+g13
+sg14
+VCompound
+p154
+sg16
+(lp155
+sg25
+VNH4+
+p156
+sa(dp157
+g3
+(lp158
+sg12
+g13
+sg14
+VCompound
+p159
+sg16
+(lp160
+sg25
+VO2
+p161
+sa(dp162
+g3
+(lp163
+VGrapheme
+p164
+asg12
+g13
+sg14
+VCompound
+p165
+sg16
+(lp166
+(VIn light, the net 
+g164
+V:N fixation ratio of individual cells was 7.3+/-3.4.
+tp167
+asg25
+VC
+sa(dp168
+g3
+(lp169
+VGrapheme
+p170
+asg12
+g13
+sg14
+VCompound
+p171
+sg16
+(lp172
+(VIn light, the net C:
+g170
+V fixation ratio of individual cells was 7.3+/-3.4.
+tp173
+asg25
+VN
+sa(dp174
+g3
+(lp175
+VGrapheme
+p176
+asg12
+g13
+sg14
+VCompound
+p177
+sg16
+(lp178
+(VCalculations based on a daily cycle showed a net 
+g176
+V:N fixation ratio of 5.3.
+tp179
+asg25
+VC
+sa(dp180
+g3
+(lp181
+VGrapheme
+p182
+asg12
+g13
+sg14
+VCompound
+p183
+sg16
+(lp184
+(VCalculations based on a daily cycle showed a net C:
+g182
+V fixation ratio of 5.3.
+tp185
+asg25
+VN
+sa.

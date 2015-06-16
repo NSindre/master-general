@@ -1,0 +1,126 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VBermuda Triangle
+p5
+aVRegion
+p6
+asS'fileName'
+p7
+S'00048#10.1038#ismej.2008.117'
+p8
+sS'entityType'
+p9
+VLocation
+p10
+sS'sentences'
+p11
+(lp12
+(VSeasonal dynamics of SAR11 populations in the euphotic and mesopelagic zones of the northwestern 
+g5
+V
+tp13
+a(VSeasonal dynamics of SAR11 populations in the euphotic and mesopelagic zones of the northwestern 
+g6
+V
+tp14
+asS'entity'
+p15
+VSargasso Sea
+p16
+sa(dp17
+g3
+(lp18
+Vpopulated place
+p19
+aVcountry
+p20
+aVFormer British colonies
+p21
+aVBermuda Triangle
+p22
+aVplace
+p23
+aVIsland countries
+p24
+aVVolcanic islands
+p25
+asg7
+g8
+sg9
+VLocation
+p26
+sg11
+(lp27
+(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g19
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp28
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g20
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp29
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g21
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp30
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g22
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp31
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g23
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp32
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g24
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp33
+a(VBacterioplankton belonging to the SAR11 clade of a-proteobacteria were counted by fluorescence in situ hybridization (FISH) over eight depths in the surface 300 m at the 
+g25
+V Atlantic Time-series Study (BATS) site from 2003 to 2005.
+tp34
+asg15
+VBermuda
+p35
+sa(dp36
+g3
+(lp37
+sg7
+g8
+sg9
+VLocation
+p38
+sg11
+(lp39
+sg15
+VAtlantic
+p40
+sa(dp41
+g3
+(lp42
+VBermuda Triangle
+p43
+aVRegion
+p44
+asg7
+g8
+sg9
+VLocation
+p45
+sg11
+(lp46
+(VThe correlation between evolutionary descent and temporal/spatial patterns we describe, confirmed that a minimum of three SAR11 ecotypes occupy the 
+g43
+V surface layer, and revealed new details of their population dynamics.
+tp47
+a(VThe correlation between evolutionary descent and temporal/spatial patterns we describe, confirmed that a minimum of three SAR11 ecotypes occupy the 
+g44
+V surface layer, and revealed new details of their population dynamics.
+tp48
+asg15
+VSargasso Sea
+p49
+sa.

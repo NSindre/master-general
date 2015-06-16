@@ -1,0 +1,910 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVAtmosphere
+p6
+aVAir pollution
+p7
+aVIndustrial gases
+p8
+aVFuel gas
+p9
+aVGreenhouse gases
+p10
+aVFuels
+p11
+aVMatter
+p12
+aVAlkanes
+p13
+aVchemical compound
+p14
+aVAnaerobic digestion
+p15
+asS'fileName'
+p16
+S'00046#10.1038#ngeo234'
+p17
+sS'entityType'
+p18
+VCompound
+p19
+sS'sentences'
+p20
+(lp21
+(VAerobic production of 
+g5
+V in the sea
+tp22
+a(VAerobic production of 
+g6
+V in the sea
+tp23
+a(VAerobic production of 
+g7
+V in the sea
+tp24
+a(VAerobic production of 
+g8
+V in the sea
+tp25
+a(VAerobic production of 
+g9
+V in the sea
+tp26
+a(VAerobic production of 
+g10
+V in the sea
+tp27
+a(VAerobic production of 
+g11
+V in the sea
+tp28
+a(VAerobic production of 
+g12
+V in the sea
+tp29
+a(VAerobic production of 
+g13
+V in the sea
+tp30
+a(VAerobic production of 
+g14
+V in the sea
+tp31
+a(VAerobic production of 
+g15
+V in the sea
+tp32
+asS'entity'
+p33
+Vmethane
+p34
+sa(dp35
+g3
+(lp36
+Vchemical substance
+p37
+aVAtmosphere
+p38
+aVAir pollution
+p39
+aVIndustrial gases
+p40
+aVFuel gas
+p41
+aVGreenhouse gases
+p42
+aVFuels
+p43
+aVMatter
+p44
+aVAlkanes
+p45
+aVchemical compound
+p46
+aVAnaerobic digestion
+p47
+asg16
+g17
+sg18
+VCompound
+p48
+sg20
+(lp49
+(V
+g37
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp50
+a(V
+g38
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp51
+a(V
+g39
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp52
+a(V
+g40
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp53
+a(V
+g41
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp54
+a(V
+g42
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp55
+a(V
+g43
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp56
+a(V
+g44
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp57
+a(V
+g45
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp58
+a(V
+g46
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp59
+a(V
+g47
+V is a potent greenhouse gas that has contributed approximately 20% to the Earth's warming since pre-industrial times.
+tp60
+asg33
+VMethane
+p61
+sa(dp62
+g3
+(lp63
+VRegions of France
+p64
+aVcelestial body
+p65
+aVPlaces
+p66
+aVNature
+p67
+aVplanet
+p68
+aVPlanets of the Solar System
+p69
+aVAstronomical object
+p70
+aVTerrestrial planets
+p71
+aVStructure
+p72
+aVGeography
+p73
+asg16
+g17
+sg18
+VLocation
+p74
+sg20
+(lp75
+(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g64
+V's warming since pre-industrial times.
+tp76
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g65
+V's warming since pre-industrial times.
+tp77
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g66
+V's warming since pre-industrial times.
+tp78
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g67
+V's warming since pre-industrial times.
+tp79
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g68
+V's warming since pre-industrial times.
+tp80
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g69
+V's warming since pre-industrial times.
+tp81
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g70
+V's warming since pre-industrial times.
+tp82
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g71
+V's warming since pre-industrial times.
+tp83
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g72
+V's warming since pre-industrial times.
+tp84
+a(VMethane is a potent greenhouse gas that has contributed approximately 20% to the 
+g73
+V's warming since pre-industrial times.
+tp85
+asg33
+VEarth
+p86
+sa(dp87
+g3
+(lp88
+Vchemical substance
+p89
+aVAtmosphere
+p90
+aVAir pollution
+p91
+aVIndustrial gases
+p92
+aVFuel gas
+p93
+aVGreenhouse gases
+p94
+aVFuels
+p95
+aVMatter
+p96
+aVAlkanes
+p97
+aVchemical compound
+p98
+aVAnaerobic digestion
+p99
+asg16
+g17
+sg18
+VCompound
+p100
+sg20
+(lp101
+(VThe world's oceans are an important source of 
+g89
+V, comprising 1-4% of annual global emissions.
+tp102
+a(VThe world's oceans are an important source of 
+g90
+V, comprising 1-4% of annual global emissions.
+tp103
+a(VThe world's oceans are an important source of 
+g91
+V, comprising 1-4% of annual global emissions.
+tp104
+a(VThe world's oceans are an important source of 
+g92
+V, comprising 1-4% of annual global emissions.
+tp105
+a(VThe world's oceans are an important source of 
+g93
+V, comprising 1-4% of annual global emissions.
+tp106
+a(VThe world's oceans are an important source of 
+g94
+V, comprising 1-4% of annual global emissions.
+tp107
+a(VThe world's oceans are an important source of 
+g95
+V, comprising 1-4% of annual global emissions.
+tp108
+a(VThe world's oceans are an important source of 
+g96
+V, comprising 1-4% of annual global emissions.
+tp109
+a(VThe world's oceans are an important source of 
+g97
+V, comprising 1-4% of annual global emissions.
+tp110
+a(VThe world's oceans are an important source of 
+g98
+V, comprising 1-4% of annual global emissions.
+tp111
+a(VThe world's oceans are an important source of 
+g99
+V, comprising 1-4% of annual global emissions.
+tp112
+asg33
+Vmethane
+p113
+sa(dp114
+g3
+(lp115
+Vchemical substance
+p116
+aVAtmosphere
+p117
+aVAir pollution
+p118
+aVIndustrial gases
+p119
+aVFuel gas
+p120
+aVGreenhouse gases
+p121
+aVFuels
+p122
+aVMatter
+p123
+aVAlkanes
+p124
+aVchemical compound
+p125
+aVAnaerobic digestion
+p126
+asg16
+g17
+sg18
+VCompound
+p127
+sg20
+(lp128
+(VBut despite its global significance, oceanic 
+g116
+V production is poorly understood.
+tp129
+a(VBut despite its global significance, oceanic 
+g117
+V production is poorly understood.
+tp130
+a(VBut despite its global significance, oceanic 
+g118
+V production is poorly understood.
+tp131
+a(VBut despite its global significance, oceanic 
+g119
+V production is poorly understood.
+tp132
+a(VBut despite its global significance, oceanic 
+g120
+V production is poorly understood.
+tp133
+a(VBut despite its global significance, oceanic 
+g121
+V production is poorly understood.
+tp134
+a(VBut despite its global significance, oceanic 
+g122
+V production is poorly understood.
+tp135
+a(VBut despite its global significance, oceanic 
+g123
+V production is poorly understood.
+tp136
+a(VBut despite its global significance, oceanic 
+g124
+V production is poorly understood.
+tp137
+a(VBut despite its global significance, oceanic 
+g125
+V production is poorly understood.
+tp138
+a(VBut despite its global significance, oceanic 
+g126
+V production is poorly understood.
+tp139
+asg33
+Vmethane
+p140
+sa(dp141
+g3
+(lp142
+Vchemical substance
+p143
+aVAtmosphere
+p144
+aVAir pollution
+p145
+aVIndustrial gases
+p146
+aVFuel gas
+p147
+aVGreenhouse gases
+p148
+aVFuels
+p149
+aVMatter
+p150
+aVAlkanes
+p151
+aVchemical compound
+p152
+aVAnaerobic digestion
+p153
+asg16
+g17
+sg18
+VCompound
+p154
+sg20
+(lp155
+(VIn particular, 
+g143
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp156
+a(VIn particular, 
+g144
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp157
+a(VIn particular, 
+g145
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp158
+a(VIn particular, 
+g146
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp159
+a(VIn particular, 
+g147
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp160
+a(VIn particular, 
+g148
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp161
+a(VIn particular, 
+g149
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp162
+a(VIn particular, 
+g150
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp163
+a(VIn particular, 
+g151
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp164
+a(VIn particular, 
+g152
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp165
+a(VIn particular, 
+g153
+V concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this methane, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp166
+asg33
+Vmethane
+p167
+sa(dp168
+g3
+(lp169
+Vchemical substance
+p170
+aVAtmosphere
+p171
+aVAir pollution
+p172
+aVIndustrial gases
+p173
+aVFuel gas
+p174
+aVGreenhouse gases
+p175
+aVFuels
+p176
+aVMatter
+p177
+aVAlkanes
+p178
+aVchemical compound
+p179
+aVAnaerobic digestion
+p180
+asg16
+g17
+sg18
+VCompound
+p181
+sg20
+(lp182
+(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g170
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp183
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g171
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp184
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g172
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp185
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g173
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp186
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g174
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp187
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g175
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp188
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g176
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp189
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g177
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp190
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g178
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp191
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g179
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp192
+a(VIn particular, methane concentrations in the surface waters of most of the world's oceans are supersaturated with respect to atmospheric concentrations, but the origin of this 
+g180
+V, which has been thought to be produced exclusively in anaerobic environments, is not known.
+tp193
+asg33
+Vmethane
+p194
+sa(dp195
+g3
+(lp196
+sg16
+g17
+sg18
+VCompound
+p197
+sg20
+(lp198
+sg33
+Vmethylphosphonate
+p199
+sa(dp200
+g3
+(lp201
+sg16
+g17
+sg18
+VCompound
+p202
+sg20
+(lp203
+sg33
+Vmethylphosphonate
+p204
+sa(dp205
+g3
+(lp206
+sg16
+g17
+sg18
+VCompound
+p207
+sg20
+(lp208
+sg33
+VMethylphosphonate
+p209
+sa(dp210
+g3
+(lp211
+Vchemical substance
+p212
+aVAtmosphere
+p213
+aVAir pollution
+p214
+aVIndustrial gases
+p215
+aVFuel gas
+p216
+aVGreenhouse gases
+p217
+aVFuels
+p218
+aVMatter
+p219
+aVAlkanes
+p220
+aVchemical compound
+p221
+aVAnaerobic digestion
+p222
+asg16
+g17
+sg18
+VCompound
+p223
+sg20
+(lp224
+(VMethylphosphonate decomposition, and thus 
+g212
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp225
+a(VMethylphosphonate decomposition, and thus 
+g213
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp226
+a(VMethylphosphonate decomposition, and thus 
+g214
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp227
+a(VMethylphosphonate decomposition, and thus 
+g215
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp228
+a(VMethylphosphonate decomposition, and thus 
+g216
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp229
+a(VMethylphosphonate decomposition, and thus 
+g217
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp230
+a(VMethylphosphonate decomposition, and thus 
+g218
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp231
+a(VMethylphosphonate decomposition, and thus 
+g219
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp232
+a(VMethylphosphonate decomposition, and thus 
+g220
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp233
+a(VMethylphosphonate decomposition, and thus 
+g221
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp234
+a(VMethylphosphonate decomposition, and thus 
+g222
+V production, may be enhanced by the activity of nitrogen-fixing microorganisms.
+tp235
+asg33
+Vmethane
+p236
+sa(dp237
+g3
+(lp238
+Vchemical substance
+p239
+aVAtmosphere
+p240
+aVAir pollution
+p241
+aVIndustrial gases
+p242
+aVFuel gas
+p243
+aVGreenhouse gases
+p244
+aVFuels
+p245
+aVMatter
+p246
+aVAlkanes
+p247
+aVchemical compound
+p248
+aVAnaerobic digestion
+p249
+asg16
+g17
+sg18
+VCompound
+p250
+sg20
+(lp251
+(VWe suggest that aerobic marine 
+g239
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp252
+a(VWe suggest that aerobic marine 
+g240
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp253
+a(VWe suggest that aerobic marine 
+g241
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp254
+a(VWe suggest that aerobic marine 
+g242
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp255
+a(VWe suggest that aerobic marine 
+g243
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp256
+a(VWe suggest that aerobic marine 
+g244
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp257
+a(VWe suggest that aerobic marine 
+g245
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp258
+a(VWe suggest that aerobic marine 
+g246
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp259
+a(VWe suggest that aerobic marine 
+g247
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp260
+a(VWe suggest that aerobic marine 
+g248
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp261
+a(VWe suggest that aerobic marine 
+g249
+V production will be sensitive to the changes in water-column stratification and nutrient limitation that are likely to result from greenhouse-gas-induced ocean warming.
+tp262
+asg33
+Vmethane
+p263
+sa(dp264
+g3
+(lp265
+Vchemical substance
+p266
+aVAtmosphere
+p267
+aVAir pollution
+p268
+aVIndustrial gases
+p269
+aVFuel gas
+p270
+aVGreenhouse gases
+p271
+aVFuels
+p272
+aVMatter
+p273
+aVAlkanes
+p274
+aVchemical compound
+p275
+aVAnaerobic digestion
+p276
+asg16
+g17
+sg18
+VCompound
+p277
+sg20
+(lp278
+(VHere, we measure 
+g266
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp279
+a(VHere, we measure 
+g267
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp280
+a(VHere, we measure 
+g268
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp281
+a(VHere, we measure 
+g269
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp282
+a(VHere, we measure 
+g270
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp283
+a(VHere, we measure 
+g271
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp284
+a(VHere, we measure 
+g272
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp285
+a(VHere, we measure 
+g273
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp286
+a(VHere, we measure 
+g274
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp287
+a(VHere, we measure 
+g275
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp288
+a(VHere, we measure 
+g276
+V production in seawater samples amended with methylphosphonate, an organic, phosphorus-containing compound.
+tp289
+asg33
+Vmethane
+p290
+sa(dp291
+g3
+(lp292
+Vchemical substance
+p293
+aVAtmosphere
+p294
+aVAir pollution
+p295
+aVIndustrial gases
+p296
+aVFuel gas
+p297
+aVGreenhouse gases
+p298
+aVFuels
+p299
+aVMatter
+p300
+aVAlkanes
+p301
+aVchemical compound
+p302
+aVAnaerobic digestion
+p303
+asg16
+g17
+sg18
+VCompound
+p304
+sg20
+(lp305
+(VWe show that 
+g293
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp306
+a(VWe show that 
+g294
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp307
+a(VWe show that 
+g295
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp308
+a(VWe show that 
+g296
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp309
+a(VWe show that 
+g297
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp310
+a(VWe show that 
+g298
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp311
+a(VWe show that 
+g299
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp312
+a(VWe show that 
+g300
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp313
+a(VWe show that 
+g301
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp314
+a(VWe show that 
+g302
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp315
+a(VWe show that 
+g303
+V is produced aerobically as a by-product of methylphosphonate decomposition in phosphate-stressed waters.
+tp316
+asg33
+Vmethane
+p317
+sa.

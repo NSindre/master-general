@@ -1,0 +1,539 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVIndustrial gases
+p6
+aVRefrigerants
+p7
+aVchemical compound
+p8
+aVHousehold chemicals
+p9
+aVNitrogen metabolism
+p10
+aVMatter
+p11
+aVBases
+p12
+aVToxicology
+p13
+asS'fileName'
+p14
+S'00085#10.1038#ismej.2009.105'
+p15
+sS'entityType'
+p16
+VCompound
+p17
+sS'sentences'
+p18
+(lp19
+(VArchaeal 
+g5
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp20
+a(VArchaeal 
+g6
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp21
+a(VArchaeal 
+g7
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp22
+a(VArchaeal 
+g8
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp23
+a(VArchaeal 
+g9
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp24
+a(VArchaeal 
+g10
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp25
+a(VArchaeal 
+g11
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp26
+a(VArchaeal 
+g12
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp27
+a(VArchaeal 
+g13
+V oxidizers and nirS-type denitrifiers dominate sediment nitrifying and denitrifying populations in a subtropical macrotidal estuary
+tp28
+asS'entity'
+p29
+Vammonia
+p30
+sa(dp31
+g3
+(lp32
+VChemical element
+p33
+aVChemical substance
+p34
+aVIndustrial gases
+p35
+aVCoolants
+p36
+aVMatter
+p37
+aVChemistry
+p38
+asg14
+g15
+sg16
+VCompound
+p39
+sg18
+(lp40
+(VNitrification and denitrification are key steps in 
+g33
+V (N) cycling.
+tp41
+a(VNitrification and denitrification are key steps in 
+g34
+V (N) cycling.
+tp42
+a(VNitrification and denitrification are key steps in 
+g35
+V (N) cycling.
+tp43
+a(VNitrification and denitrification are key steps in 
+g36
+V (N) cycling.
+tp44
+a(VNitrification and denitrification are key steps in 
+g37
+V (N) cycling.
+tp45
+a(VNitrification and denitrification are key steps in 
+g38
+V (N) cycling.
+tp46
+asg29
+Vnitrogen
+p47
+sa(dp48
+g3
+(lp49
+VGrapheme
+p50
+asg14
+g15
+sg16
+VCompound
+p51
+sg18
+(lp52
+(VNitrification and denitrification are key steps in nitrogen (
+g50
+V) cycling.
+tp53
+asg29
+VN
+sa(dp54
+g3
+(lp55
+VGrapheme
+p56
+asg14
+g15
+sg16
+VCompound
+p57
+sg18
+(lp58
+(VThe coupling of these processes, which affects the flow of 
+g56
+V in ecosystems, requires close interaction of nitrifying and denitrifying microorganisms, both spatially and temporally.
+tp59
+asg29
+VN
+sa(dp60
+g3
+(lp61
+VGrapheme
+p62
+asg14
+g15
+sg16
+VCompound
+p63
+sg18
+(lp64
+(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to 
+g62
+V cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central Queensland.
+tp65
+asg29
+VN
+sa(dp66
+g3
+(lp67
+sg14
+g15
+sg16
+VLocation
+p68
+sg18
+(lp69
+sg29
+VFitzroy
+p70
+sa(dp71
+g3
+(lp72
+Vpopulated place
+p73
+aVregion
+p74
+aVFormer British colonies
+p75
+aVplace
+p76
+aVadministrative region
+p77
+asg14
+g15
+sg16
+VLocation
+p78
+sg18
+(lp79
+(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to N cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central 
+g73
+V.
+tp80
+a(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to N cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central 
+g74
+V.
+tp81
+a(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to N cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central 
+g75
+V.
+tp82
+a(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to N cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central 
+g76
+V.
+tp83
+a(VThe diversity, temporal and spatial variations in the microbial communities affecting these processes was examined, in relation to N cycling, across 12 sites in the Fitzroy river estuary, which is a turbid subtropical estuary in central 
+g77
+V.
+tp84
+asg29
+VQueensland
+p85
+sa(dp86
+g3
+(lp87
+VWorld Heritage Site
+p88
+aVMarine ecoregions
+p89
+aVSystem
+p90
+aVCoral reefs
+p91
+aVCoral Sea
+p92
+aVplace
+p93
+aVReefs of Australia
+p94
+aVPhysiographic provinces
+p95
+aVGalaxy
+p96
+asg14
+g15
+sg16
+VLocation
+p97
+sg18
+(lp98
+(VThe estuary is a major source of nutrients discharged to the 
+g88
+V near-shore zone.
+tp99
+a(VThe estuary is a major source of nutrients discharged to the 
+g89
+V near-shore zone.
+tp100
+a(VThe estuary is a major source of nutrients discharged to the 
+g90
+V near-shore zone.
+tp101
+a(VThe estuary is a major source of nutrients discharged to the 
+g91
+V near-shore zone.
+tp102
+a(VThe estuary is a major source of nutrients discharged to the 
+g92
+V near-shore zone.
+tp103
+a(VThe estuary is a major source of nutrients discharged to the 
+g93
+V near-shore zone.
+tp104
+a(VThe estuary is a major source of nutrients discharged to the 
+g94
+V near-shore zone.
+tp105
+a(VThe estuary is a major source of nutrients discharged to the 
+g95
+V near-shore zone.
+tp106
+a(VThe estuary is a major source of nutrients discharged to the 
+g96
+V near-shore zone.
+tp107
+asg29
+VGreat Barrier Reef
+p108
+sa(dp109
+g3
+(lp110
+VChemical element
+p111
+aVChemical substance
+p112
+aVIndustrial gases
+p113
+aVCoolants
+p114
+aVMatter
+p115
+aVChemistry
+p116
+asg14
+g15
+sg16
+VCompound
+p117
+sg18
+(lp118
+(VMeasurement of 
+g111
+V fluxes showed an active denitrifying community during all sampling months.
+tp119
+a(VMeasurement of 
+g112
+V fluxes showed an active denitrifying community during all sampling months.
+tp120
+a(VMeasurement of 
+g113
+V fluxes showed an active denitrifying community during all sampling months.
+tp121
+a(VMeasurement of 
+g114
+V fluxes showed an active denitrifying community during all sampling months.
+tp122
+a(VMeasurement of 
+g115
+V fluxes showed an active denitrifying community during all sampling months.
+tp123
+a(VMeasurement of 
+g116
+V fluxes showed an active denitrifying community during all sampling months.
+tp124
+asg29
+Vnitrogen
+p125
+sa(dp126
+g3
+(lp127
+Vchemical substance
+p128
+aVIndustrial gases
+p129
+aVRefrigerants
+p130
+aVchemical compound
+p131
+aVHousehold chemicals
+p132
+aVNitrogen metabolism
+p133
+aVMatter
+p134
+aVBases
+p135
+aVToxicology
+p136
+asg14
+g15
+sg16
+VCompound
+p137
+sg18
+(lp138
+(VArchaeal 
+g128
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp139
+a(VArchaeal 
+g129
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp140
+a(VArchaeal 
+g130
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp141
+a(VArchaeal 
+g131
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp142
+a(VArchaeal 
+g132
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp143
+a(VArchaeal 
+g133
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp144
+a(VArchaeal 
+g134
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp145
+a(VArchaeal 
+g135
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp146
+a(VArchaeal 
+g136
+V monooxygenase (amoA of AOA, functional marker for nitrification) was significantly more abundant than Betaproteobacterial (beta-AOB) amoA.
+tp147
+asg29
+Vammonia
+p148
+sa(dp149
+g3
+(lp150
+Vchemical substance
+p151
+aVCuring agents
+p152
+aVUnits of measurement
+p153
+aVMolecule
+p154
+aVNitrogen metabolism
+p155
+aVMolecular geometry
+p156
+aVIon
+p157
+aVchemical compound
+p158
+aVAtom
+p159
+aVNitrites
+p160
+asg14
+g15
+sg16
+VCompound
+p161
+sg18
+(lp162
+(V
+g151
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp163
+a(V
+g152
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp164
+a(V
+g153
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp165
+a(V
+g154
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp166
+a(V
+g155
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp167
+a(V
+g156
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp168
+a(V
+g157
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp169
+a(V
+g158
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp170
+a(V
+g159
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp171
+a(V
+g160
+V reductase genes, functional markers for denitrification, were dominated by nirS and not nirK types at all sites during the year.
+tp172
+asg29
+VNitrite
+p173
+sa(dp174
+g3
+(lp175
+sg14
+g15
+sg16
+VLocation
+p176
+sg18
+(lp177
+sg29
+VFitzroy
+p178
+sa(dp179
+g3
+(lp180
+VGrapheme
+p181
+asg14
+g15
+sg16
+VCompound
+p182
+sg18
+(lp183
+(VStatistical analysis of individual T-RF dominance suggested that salinity and 
+g181
+V:N were associated with the community succession of AOA, whereas the nirS-type denitrifier communities were related to salinity and chlorophyll-alpha in the Fitzroy river estuary.
+tp184
+asg29
+VC
+sa(dp185
+g3
+(lp186
+VGrapheme
+p187
+asg14
+g15
+sg16
+VCompound
+p188
+sg18
+(lp189
+(VStatistical analysis of individual T-RF dominance suggested that salinity and C:
+g187
+V were associated with the community succession of AOA, whereas the nirS-type denitrifier communities were related to salinity and chlorophyll-alpha in the Fitzroy river estuary.
+tp190
+asg29
+VN
+sa.

@@ -1,0 +1,1380 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VSilicon dioxide
+p5
+aVchemical substance
+p6
+aVRefractory materials
+p7
+aVchemical compound
+p8
+aVCeramic materials
+p9
+asS'fileName'
+p10
+S'00087#10.1038#ncomms2981'
+p11
+sS'entityType'
+p12
+VCompound
+p13
+sS'sentences'
+p14
+(lp15
+(VRole of biogenic 
+g5
+V in the removal of iron from the Antarctic seas
+tp16
+a(VRole of biogenic 
+g6
+V in the removal of iron from the Antarctic seas
+tp17
+a(VRole of biogenic 
+g7
+V in the removal of iron from the Antarctic seas
+tp18
+a(VRole of biogenic 
+g8
+V in the removal of iron from the Antarctic seas
+tp19
+a(VRole of biogenic 
+g9
+V in the removal of iron from the Antarctic seas
+tp20
+asS'entity'
+p21
+Vsilica
+p22
+sa(dp23
+g3
+(lp24
+VCoefficient
+p25
+aVChemical element
+p26
+aVBuilding materials
+p27
+aVFerromagnetic materials
+p28
+aVChemical substance
+p29
+aVCharge number
+p30
+aVMetals
+p31
+aVMatter
+p32
+aVAtomic number
+p33
+aVTransition metals
+p34
+aVChemistry
+p35
+asg10
+g11
+sg12
+VCompound
+p36
+sg14
+(lp37
+(VRole of biogenic silica in the removal of 
+g25
+V from the Antarctic seas
+tp38
+a(VRole of biogenic silica in the removal of 
+g26
+V from the Antarctic seas
+tp39
+a(VRole of biogenic silica in the removal of 
+g27
+V from the Antarctic seas
+tp40
+a(VRole of biogenic silica in the removal of 
+g28
+V from the Antarctic seas
+tp41
+a(VRole of biogenic silica in the removal of 
+g29
+V from the Antarctic seas
+tp42
+a(VRole of biogenic silica in the removal of 
+g30
+V from the Antarctic seas
+tp43
+a(VRole of biogenic silica in the removal of 
+g31
+V from the Antarctic seas
+tp44
+a(VRole of biogenic silica in the removal of 
+g32
+V from the Antarctic seas
+tp45
+a(VRole of biogenic silica in the removal of 
+g33
+V from the Antarctic seas
+tp46
+a(VRole of biogenic silica in the removal of 
+g34
+V from the Antarctic seas
+tp47
+a(VRole of biogenic silica in the removal of 
+g35
+V from the Antarctic seas
+tp48
+asg21
+Viron
+p49
+sa(dp50
+g3
+(lp51
+VAntarctic region
+p52
+aVQuantity
+p53
+aVPolar region
+p54
+aVArea
+p55
+asg10
+g11
+sg12
+VLocation
+p56
+sg14
+(lp57
+(VRole of biogenic silica in the removal of iron from the 
+g52
+V seas
+tp58
+a(VRole of biogenic silica in the removal of iron from the 
+g53
+V seas
+tp59
+a(VRole of biogenic silica in the removal of iron from the 
+g54
+V seas
+tp60
+a(VRole of biogenic silica in the removal of iron from the 
+g55
+V seas
+tp61
+asg21
+VAntarctic
+p62
+sa(dp63
+g3
+(lp64
+VCoefficient
+p65
+aVChemical element
+p66
+aVBuilding materials
+p67
+aVFerromagnetic materials
+p68
+aVChemical substance
+p69
+aVCharge number
+p70
+aVMetals
+p71
+aVMatter
+p72
+aVAtomic number
+p73
+aVTransition metals
+p74
+aVChemistry
+p75
+asg10
+g11
+sg12
+VCompound
+p76
+sg14
+(lp77
+(V
+g65
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp78
+a(V
+g66
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp79
+a(V
+g67
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp80
+a(V
+g68
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp81
+a(V
+g69
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp82
+a(V
+g70
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp83
+a(V
+g71
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp84
+a(V
+g72
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp85
+a(V
+g73
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp86
+a(V
+g74
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp87
+a(V
+g75
+V has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp88
+asg21
+VIron
+p89
+sa(dp90
+g3
+(lp91
+VWord
+p92
+aVRegions of Antarctica
+p93
+aVSubantarctic
+p94
+aVOceans
+p95
+aVAdjective
+p96
+aVMarine realms
+p97
+aVSouth
+p98
+asg10
+g11
+sg12
+VLocation
+p99
+sg14
+(lp100
+(VIron has a key role in controlling biological production in the 
+g92
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp101
+a(VIron has a key role in controlling biological production in the 
+g93
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp102
+a(VIron has a key role in controlling biological production in the 
+g94
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp103
+a(VIron has a key role in controlling biological production in the 
+g95
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp104
+a(VIron has a key role in controlling biological production in the 
+g96
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp105
+a(VIron has a key role in controlling biological production in the 
+g97
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp106
+a(VIron has a key role in controlling biological production in the 
+g98
+V, yet the mechanisms regulating iron availability in this and other ocean regions are not completely understood.
+tp107
+asg21
+VSouthern Ocean
+p108
+sa(dp109
+g3
+(lp110
+VCoefficient
+p111
+aVChemical element
+p112
+aVBuilding materials
+p113
+aVFerromagnetic materials
+p114
+aVChemical substance
+p115
+aVCharge number
+p116
+aVMetals
+p117
+aVMatter
+p118
+aVAtomic number
+p119
+aVTransition metals
+p120
+aVChemistry
+p121
+asg10
+g11
+sg12
+VCompound
+p122
+sg14
+(lp123
+(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g111
+V availability in this and other ocean regions are not completely understood.
+tp124
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g112
+V availability in this and other ocean regions are not completely understood.
+tp125
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g113
+V availability in this and other ocean regions are not completely understood.
+tp126
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g114
+V availability in this and other ocean regions are not completely understood.
+tp127
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g115
+V availability in this and other ocean regions are not completely understood.
+tp128
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g116
+V availability in this and other ocean regions are not completely understood.
+tp129
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g117
+V availability in this and other ocean regions are not completely understood.
+tp130
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g118
+V availability in this and other ocean regions are not completely understood.
+tp131
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g119
+V availability in this and other ocean regions are not completely understood.
+tp132
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g120
+V availability in this and other ocean regions are not completely understood.
+tp133
+a(VIron has a key role in controlling biological production in the Southern Ocean, yet the mechanisms regulating 
+g121
+V availability in this and other ocean regions are not completely understood.
+tp134
+asg21
+Viron
+p135
+sa(dp136
+g3
+(lp137
+VLandmass
+p138
+aVArea
+p139
+aVTundra
+p140
+aVAntarctica
+p141
+aVContinent
+p142
+asg10
+g11
+sg12
+VLocation
+p143
+sg14
+(lp144
+(VHere, based on analysis of living phytoplankton in the coastal seas of 
+g138
+V, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp145
+a(VHere, based on analysis of living phytoplankton in the coastal seas of 
+g139
+V, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp146
+a(VHere, based on analysis of living phytoplankton in the coastal seas of 
+g140
+V, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp147
+a(VHere, based on analysis of living phytoplankton in the coastal seas of 
+g141
+V, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp148
+a(VHere, based on analysis of living phytoplankton in the coastal seas of 
+g142
+V, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp149
+asg21
+VWest Antarctica
+p150
+sa(dp151
+g3
+(lp152
+VCoefficient
+p153
+aVChemical element
+p154
+aVBuilding materials
+p155
+aVFerromagnetic materials
+p156
+aVChemical substance
+p157
+aVCharge number
+p158
+aVMetals
+p159
+aVMatter
+p160
+aVAtomic number
+p161
+aVTransition metals
+p162
+aVChemistry
+p163
+asg10
+g11
+sg12
+VCompound
+p164
+sg14
+(lp165
+(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g153
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp166
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g154
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp167
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g155
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp168
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g156
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp169
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g157
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp170
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g158
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp171
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g159
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp172
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g160
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp173
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g161
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp174
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g162
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp175
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for 
+g163
+V removal from marine systems involving structural incorporation of reduced, organic iron into biogenic silica.
+tp176
+asg21
+Viron
+p177
+sa(dp178
+g3
+(lp179
+VCoefficient
+p180
+aVChemical element
+p181
+aVBuilding materials
+p182
+aVFerromagnetic materials
+p183
+aVChemical substance
+p184
+aVCharge number
+p185
+aVMetals
+p186
+aVMatter
+p187
+aVAtomic number
+p188
+aVTransition metals
+p189
+aVChemistry
+p190
+asg10
+g11
+sg12
+VCompound
+p191
+sg14
+(lp192
+(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g180
+V into biogenic silica.
+tp193
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g181
+V into biogenic silica.
+tp194
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g182
+V into biogenic silica.
+tp195
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g183
+V into biogenic silica.
+tp196
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g184
+V into biogenic silica.
+tp197
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g185
+V into biogenic silica.
+tp198
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g186
+V into biogenic silica.
+tp199
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g187
+V into biogenic silica.
+tp200
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g188
+V into biogenic silica.
+tp201
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g189
+V into biogenic silica.
+tp202
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic 
+g190
+V into biogenic silica.
+tp203
+asg21
+Viron
+p204
+sa(dp205
+g3
+(lp206
+VSilicon dioxide
+p207
+aVchemical substance
+p208
+aVRefractory materials
+p209
+aVchemical compound
+p210
+aVCeramic materials
+p211
+asg10
+g11
+sg12
+VCompound
+p212
+sg14
+(lp213
+(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic 
+g207
+V.
+tp214
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic 
+g208
+V.
+tp215
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic 
+g209
+V.
+tp216
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic 
+g210
+V.
+tp217
+a(VHere, based on analysis of living phytoplankton in the coastal seas of West Antarctica, we present a new pathway for iron removal from marine systems involving structural incorporation of reduced, organic iron into biogenic 
+g211
+V.
+tp218
+asg21
+Vsilica
+p219
+sa(dp220
+g3
+(lp221
+VCoefficient
+p222
+aVChemical element
+p223
+aVBuilding materials
+p224
+aVFerromagnetic materials
+p225
+aVChemical substance
+p226
+aVCharge number
+p227
+aVMetals
+p228
+aVMatter
+p229
+aVAtomic number
+p230
+aVTransition metals
+p231
+aVChemistry
+p232
+asg10
+g11
+sg12
+VCompound
+p233
+sg14
+(lp234
+(VExport of 
+g222
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp235
+a(VExport of 
+g223
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp236
+a(VExport of 
+g224
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp237
+a(VExport of 
+g225
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp238
+a(VExport of 
+g226
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp239
+a(VExport of 
+g227
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp240
+a(VExport of 
+g228
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp241
+a(VExport of 
+g229
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp242
+a(VExport of 
+g230
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp243
+a(VExport of 
+g231
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp244
+a(VExport of 
+g232
+V incorporated into biogenic silica may represent a substantial unaccounted loss of iron from marine systems.
+tp245
+asg21
+Viron
+p246
+sa(dp247
+g3
+(lp248
+VSilicon dioxide
+p249
+aVchemical substance
+p250
+aVRefractory materials
+p251
+aVchemical compound
+p252
+aVCeramic materials
+p253
+asg10
+g11
+sg12
+VCompound
+p254
+sg14
+(lp255
+(VExport of iron incorporated into biogenic 
+g249
+V may represent a substantial unaccounted loss of iron from marine systems.
+tp256
+a(VExport of iron incorporated into biogenic 
+g250
+V may represent a substantial unaccounted loss of iron from marine systems.
+tp257
+a(VExport of iron incorporated into biogenic 
+g251
+V may represent a substantial unaccounted loss of iron from marine systems.
+tp258
+a(VExport of iron incorporated into biogenic 
+g252
+V may represent a substantial unaccounted loss of iron from marine systems.
+tp259
+a(VExport of iron incorporated into biogenic 
+g253
+V may represent a substantial unaccounted loss of iron from marine systems.
+tp260
+asg21
+Vsilica
+p261
+sa(dp262
+g3
+(lp263
+VCoefficient
+p264
+aVChemical element
+p265
+aVBuilding materials
+p266
+aVFerromagnetic materials
+p267
+aVChemical substance
+p268
+aVCharge number
+p269
+aVMetals
+p270
+aVMatter
+p271
+aVAtomic number
+p272
+aVTransition metals
+p273
+aVChemistry
+p274
+asg10
+g11
+sg12
+VCompound
+p275
+sg14
+(lp276
+(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g264
+V from marine systems.
+tp277
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g265
+V from marine systems.
+tp278
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g266
+V from marine systems.
+tp279
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g267
+V from marine systems.
+tp280
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g268
+V from marine systems.
+tp281
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g269
+V from marine systems.
+tp282
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g270
+V from marine systems.
+tp283
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g271
+V from marine systems.
+tp284
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g272
+V from marine systems.
+tp285
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g273
+V from marine systems.
+tp286
+a(VExport of iron incorporated into biogenic silica may represent a substantial unaccounted loss of 
+g274
+V from marine systems.
+tp287
+asg21
+Viron
+p288
+sa(dp289
+g3
+(lp290
+VAntarctic region
+p291
+asg10
+g11
+sg12
+VLocation
+p292
+sg14
+(lp293
+(VFor example, in the 
+g291
+V, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp294
+asg21
+VRoss Sea
+p295
+sa(dp296
+g3
+(lp297
+VCoefficient
+p298
+aVChemical element
+p299
+aVBuilding materials
+p300
+aVFerromagnetic materials
+p301
+aVChemical substance
+p302
+aVCharge number
+p303
+aVMetals
+p304
+aVMatter
+p305
+aVAtomic number
+p306
+aVTransition metals
+p307
+aVChemistry
+p308
+asg10
+g11
+sg12
+VCompound
+p309
+sg14
+(lp310
+(VFor example, in the Ross Sea, burial of 
+g298
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp311
+a(VFor example, in the Ross Sea, burial of 
+g299
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp312
+a(VFor example, in the Ross Sea, burial of 
+g300
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp313
+a(VFor example, in the Ross Sea, burial of 
+g301
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp314
+a(VFor example, in the Ross Sea, burial of 
+g302
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp315
+a(VFor example, in the Ross Sea, burial of 
+g303
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp316
+a(VFor example, in the Ross Sea, burial of 
+g304
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp317
+a(VFor example, in the Ross Sea, burial of 
+g305
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp318
+a(VFor example, in the Ross Sea, burial of 
+g306
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp319
+a(VFor example, in the Ross Sea, burial of 
+g307
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp320
+a(VFor example, in the Ross Sea, burial of 
+g308
+V incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp321
+asg21
+Viron
+p322
+sa(dp323
+g3
+(lp324
+VSilicon dioxide
+p325
+aVchemical substance
+p326
+aVRefractory materials
+p327
+aVchemical compound
+p328
+aVCeramic materials
+p329
+asg10
+g11
+sg12
+VCompound
+p330
+sg14
+(lp331
+(VFor example, in the Ross Sea, burial of iron incorporated into biogenic 
+g325
+V is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp332
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic 
+g326
+V is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp333
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic 
+g327
+V is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp334
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic 
+g328
+V is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp335
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic 
+g329
+V is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable iron inputs to this region.
+tp336
+asg21
+Vsilica
+p337
+sa(dp338
+g3
+(lp339
+VCoefficient
+p340
+aVChemical element
+p341
+aVBuilding materials
+p342
+aVFerromagnetic materials
+p343
+aVChemical substance
+p344
+aVCharge number
+p345
+aVMetals
+p346
+aVMatter
+p347
+aVAtomic number
+p348
+aVTransition metals
+p349
+aVChemistry
+p350
+asg10
+g11
+sg12
+VCompound
+p351
+sg14
+(lp352
+(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g340
+V inputs to this region.
+tp353
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g341
+V inputs to this region.
+tp354
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g342
+V inputs to this region.
+tp355
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g343
+V inputs to this region.
+tp356
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g344
+V inputs to this region.
+tp357
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g345
+V inputs to this region.
+tp358
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g346
+V inputs to this region.
+tp359
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g347
+V inputs to this region.
+tp360
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g348
+V inputs to this region.
+tp361
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g349
+V inputs to this region.
+tp362
+a(VFor example, in the Ross Sea, burial of iron incorporated into biogenic silica is conservatively estimated as 11 mumol m-2 per year, which is in the same range as the major bioavailable 
+g350
+V inputs to this region.
+tp363
+asg21
+Viron
+p364
+sa(dp365
+g3
+(lp366
+VCoefficient
+p367
+aVChemical element
+p368
+aVBuilding materials
+p369
+aVFerromagnetic materials
+p370
+aVChemical substance
+p371
+aVCharge number
+p372
+aVMetals
+p373
+aVMatter
+p374
+aVAtomic number
+p375
+aVTransition metals
+p376
+aVChemistry
+p377
+asg10
+g11
+sg12
+VCompound
+p378
+sg14
+(lp379
+(VAs a major sink of bioavailable 
+g367
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp380
+a(VAs a major sink of bioavailable 
+g368
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp381
+a(VAs a major sink of bioavailable 
+g369
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp382
+a(VAs a major sink of bioavailable 
+g370
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp383
+a(VAs a major sink of bioavailable 
+g371
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp384
+a(VAs a major sink of bioavailable 
+g372
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp385
+a(VAs a major sink of bioavailable 
+g373
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp386
+a(VAs a major sink of bioavailable 
+g374
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp387
+a(VAs a major sink of bioavailable 
+g375
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp388
+a(VAs a major sink of bioavailable 
+g376
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp389
+a(VAs a major sink of bioavailable 
+g377
+V, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp390
+asg21
+Viron
+p391
+sa(dp392
+g3
+(lp393
+VCoefficient
+p394
+aVChemical element
+p395
+aVBuilding materials
+p396
+aVFerromagnetic materials
+p397
+aVChemical substance
+p398
+aVCharge number
+p399
+aVMetals
+p400
+aVMatter
+p401
+aVAtomic number
+p402
+aVTransition metals
+p403
+aVChemistry
+p404
+asg10
+g11
+sg12
+VCompound
+p405
+sg14
+(lp406
+(VAs a major sink of bioavailable iron, incorporation of 
+g394
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp407
+a(VAs a major sink of bioavailable iron, incorporation of 
+g395
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp408
+a(VAs a major sink of bioavailable iron, incorporation of 
+g396
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp409
+a(VAs a major sink of bioavailable iron, incorporation of 
+g397
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp410
+a(VAs a major sink of bioavailable iron, incorporation of 
+g398
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp411
+a(VAs a major sink of bioavailable iron, incorporation of 
+g399
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp412
+a(VAs a major sink of bioavailable iron, incorporation of 
+g400
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp413
+a(VAs a major sink of bioavailable iron, incorporation of 
+g401
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp414
+a(VAs a major sink of bioavailable iron, incorporation of 
+g402
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp415
+a(VAs a major sink of bioavailable iron, incorporation of 
+g403
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp416
+a(VAs a major sink of bioavailable iron, incorporation of 
+g404
+V into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp417
+asg21
+Viron
+p418
+sa(dp419
+g3
+(lp420
+VSilicon dioxide
+p421
+aVchemical substance
+p422
+aVRefractory materials
+p423
+aVchemical compound
+p424
+aVCeramic materials
+p425
+asg10
+g11
+sg12
+VCompound
+p426
+sg14
+(lp427
+(VAs a major sink of bioavailable iron, incorporation of iron into biogenic 
+g421
+V may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp428
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic 
+g422
+V may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp429
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic 
+g423
+V may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp430
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic 
+g424
+V may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp431
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic 
+g425
+V may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp432
+asg21
+Vsilica
+p433
+sa(dp434
+g3
+(lp435
+VCoefficient
+p436
+aVChemical element
+p437
+aVBuilding materials
+p438
+aVFerromagnetic materials
+p439
+aVChemical substance
+p440
+aVCharge number
+p441
+aVMetals
+p442
+aVMatter
+p443
+aVAtomic number
+p444
+aVTransition metals
+p445
+aVChemistry
+p446
+asg10
+g11
+sg12
+VCompound
+p447
+sg14
+(lp448
+(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g436
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp449
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g437
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp450
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g438
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp451
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g439
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp452
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g440
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp453
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g441
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp454
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g442
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp455
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g443
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp456
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g444
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp457
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g445
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp458
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower 
+g446
+V requirements, and may reduce ecosystem productivity and associated carbon sequestration.
+tp459
+asg21
+Viron
+p460
+sa(dp461
+g3
+(lp462
+VChemical element
+p463
+aVChemical substance
+p464
+aVCarbon forms
+p465
+aVMatter
+p466
+aVReducing agents
+p467
+aVCarbonate minerals
+p468
+aVChemistry
+p469
+asg10
+g11
+sg12
+VCompound
+p470
+sg14
+(lp471
+(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g463
+V sequestration.
+tp472
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g464
+V sequestration.
+tp473
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g465
+V sequestration.
+tp474
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g466
+V sequestration.
+tp475
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g467
+V sequestration.
+tp476
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g468
+V sequestration.
+tp477
+a(VAs a major sink of bioavailable iron, incorporation of iron into biogenic silica may shift microbial population structure towards taxa with relatively lower iron requirements, and may reduce ecosystem productivity and associated 
+g469
+V sequestration.
+tp478
+asg21
+Vcarbon
+p479
+sa.

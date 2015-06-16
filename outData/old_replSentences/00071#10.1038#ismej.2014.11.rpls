@@ -1,0 +1,155 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVIndustrial gases
+p6
+aVRefrigerants
+p7
+aVchemical compound
+p8
+aVHousehold chemicals
+p9
+aVNitrogen metabolism
+p10
+aVMatter
+p11
+aVBases
+p12
+aVToxicology
+p13
+asS'fileName'
+p14
+S'00071#10.1038#ismej.2014.11'
+p15
+sS'entityType'
+p16
+VCompound
+p17
+sS'sentences'
+p18
+(lp19
+(VDifferential contributions of archaeal 
+g5
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp20
+a(VDifferential contributions of archaeal 
+g6
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp21
+a(VDifferential contributions of archaeal 
+g7
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp22
+a(VDifferential contributions of archaeal 
+g8
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp23
+a(VDifferential contributions of archaeal 
+g9
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp24
+a(VDifferential contributions of archaeal 
+g10
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp25
+a(VDifferential contributions of archaeal 
+g11
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp26
+a(VDifferential contributions of archaeal 
+g12
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp27
+a(VDifferential contributions of archaeal 
+g13
+V oxidizer ecotypes to nitrification in coastal surface waters
+tp28
+asS'entity'
+p29
+Vammonia
+p30
+sa(dp31
+g3
+(lp32
+Vchemical substance
+p33
+aVIndustrial gases
+p34
+aVInhalants
+p35
+aVchemical compound
+p36
+aVGreenhouse gases
+p37
+aVAerosol propellants
+p38
+aVMatter
+p39
+aVInorganic nitrogen compounds
+p40
+asg14
+g15
+sg16
+VCompound
+p41
+sg18
+(lp42
+(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g33
+V.
+tp43
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g34
+V.
+tp44
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g35
+V.
+tp45
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g36
+V.
+tp46
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g37
+V.
+tp47
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g38
+V.
+tp48
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g39
+V.
+tp49
+a(VThe occurrence of nitrification in the oceanic water column has implications extending from local effects on the structure and activity of phytoplankton communities to broader impacts on the speciation of nitrogenous nutrients and production of 
+g40
+V.
+tp50
+asg29
+Vnitrous oxide
+p51
+sa(dp52
+g3
+(lp53
+VRegions of California
+p54
+asg14
+g15
+sg16
+VLocation
+p55
+sg18
+(lp56
+(VOur results indicate a role for both ecotypes in nitrification in 
+g54
+V surface waters.
+tp57
+asg29
+VMonterey Bay
+p58
+sa.

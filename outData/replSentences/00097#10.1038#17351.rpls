@@ -1,0 +1,708 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VSilicon dioxide
+p5
+aVchemical substance
+p6
+aVRefractory materials
+p7
+aVchemical compound
+p8
+aVCeramic materials
+p9
+asS'fileName'
+p10
+S'00097#10.1038#17351'
+p11
+sS'entityType'
+p12
+VCompound
+p13
+sS'sentences'
+p14
+(lp15
+(VAccelerated dissolution of diatom 
+g5
+V by marine bacterial assemblages
+tp16
+a(VAccelerated dissolution of diatom 
+g6
+V by marine bacterial assemblages
+tp17
+a(VAccelerated dissolution of diatom 
+g7
+V by marine bacterial assemblages
+tp18
+a(VAccelerated dissolution of diatom 
+g8
+V by marine bacterial assemblages
+tp19
+a(VAccelerated dissolution of diatom 
+g9
+V by marine bacterial assemblages
+tp20
+asS'entity'
+p21
+Vsilica
+p22
+sa(dp23
+g3
+(lp24
+VSilicon dioxide
+p25
+aVchemical substance
+p26
+aVRefractory materials
+p27
+aVchemical compound
+p28
+aVCeramic materials
+p29
+asg10
+g11
+sg12
+VCompound
+p30
+sg14
+(lp31
+(VDownward fluxes of biogenic 
+g25
+V and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing silica encased in an organic matrix,.
+tp32
+a(VDownward fluxes of biogenic 
+g26
+V and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing silica encased in an organic matrix,.
+tp33
+a(VDownward fluxes of biogenic 
+g27
+V and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing silica encased in an organic matrix,.
+tp34
+a(VDownward fluxes of biogenic 
+g28
+V and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing silica encased in an organic matrix,.
+tp35
+a(VDownward fluxes of biogenic 
+g29
+V and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing silica encased in an organic matrix,.
+tp36
+asg21
+Vsilica
+p37
+sa(dp38
+g3
+(lp39
+VSilicon dioxide
+p40
+aVchemical substance
+p41
+aVRefractory materials
+p42
+aVchemical compound
+p43
+aVCeramic materials
+p44
+asg10
+g11
+sg12
+VCompound
+p45
+sg14
+(lp46
+(VDownward fluxes of biogenic silica and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing 
+g40
+V encased in an organic matrix,.
+tp47
+a(VDownward fluxes of biogenic silica and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing 
+g41
+V encased in an organic matrix,.
+tp48
+a(VDownward fluxes of biogenic silica and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing 
+g42
+V encased in an organic matrix,.
+tp49
+a(VDownward fluxes of biogenic silica and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing 
+g43
+V encased in an organic matrix,.
+tp50
+a(VDownward fluxes of biogenic silica and organic matter in the global ocean derive dominantly from the productivity of diatoms -- phytoplankton with cell walls containing 
+g44
+V encased in an organic matrix,.
+tp51
+asg21
+Vsilica
+p52
+sa(dp53
+g3
+(lp54
+VChemical element
+p55
+aVChemical substance
+p56
+aVMatter
+p57
+aVReducing agents
+p58
+aVSemiconductor materials
+p59
+aVChemistry
+p60
+asg10
+g11
+sg12
+VCompound
+p61
+sg14
+(lp62
+(VAs diatoms have an absolute requirement for 
+g55
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp63
+a(VAs diatoms have an absolute requirement for 
+g56
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp64
+a(VAs diatoms have an absolute requirement for 
+g57
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp65
+a(VAs diatoms have an absolute requirement for 
+g58
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp66
+a(VAs diatoms have an absolute requirement for 
+g59
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp67
+a(VAs diatoms have an absolute requirement for 
+g60
+V (as silicic acid), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp68
+asg21
+Vsilicon
+p69
+sa(dp70
+g3
+(lp71
+VSilicon dioxide
+p72
+aVchemical substance
+p73
+aVRefractory materials
+p74
+aVchemical compound
+p75
+aVCeramic materials
+p76
+asg10
+g11
+sg12
+VCompound
+p77
+sg14
+(lp78
+(VAs diatoms have an absolute requirement for silicon (as silicic acid), its supply into the photic zone -- largely by 
+g72
+V dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp79
+a(VAs diatoms have an absolute requirement for silicon (as silicic acid), its supply into the photic zone -- largely by 
+g73
+V dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp80
+a(VAs diatoms have an absolute requirement for silicon (as silicic acid), its supply into the photic zone -- largely by 
+g74
+V dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp81
+a(VAs diatoms have an absolute requirement for silicon (as silicic acid), its supply into the photic zone -- largely by 
+g75
+V dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp82
+a(VAs diatoms have an absolute requirement for silicon (as silicic acid), its supply into the photic zone -- largely by 
+g76
+V dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp83
+asg21
+Vsilica
+p84
+sa(dp85
+g3
+(lp86
+sg10
+g11
+sg12
+VCompound
+p87
+sg14
+(lp88
+sg21
+VCO2
+p89
+sa(dp90
+g3
+(lp91
+VSilicon dioxide
+p92
+aVchemical substance
+p93
+aVRefractory materials
+p94
+aVchemical compound
+p95
+aVCeramic materials
+p96
+asg10
+g11
+sg12
+VCompound
+p97
+sg14
+(lp98
+(VCurrent biogeochemical models assume 
+g92
+V dissolution to be controlled by temperature, zooplankton grazing and diatom aggregation,, but the role of bacteria has not been established.
+tp99
+a(VCurrent biogeochemical models assume 
+g93
+V dissolution to be controlled by temperature, zooplankton grazing and diatom aggregation,, but the role of bacteria has not been established.
+tp100
+a(VCurrent biogeochemical models assume 
+g94
+V dissolution to be controlled by temperature, zooplankton grazing and diatom aggregation,, but the role of bacteria has not been established.
+tp101
+a(VCurrent biogeochemical models assume 
+g95
+V dissolution to be controlled by temperature, zooplankton grazing and diatom aggregation,, but the role of bacteria has not been established.
+tp102
+a(VCurrent biogeochemical models assume 
+g96
+V dissolution to be controlled by temperature, zooplankton grazing and diatom aggregation,, but the role of bacteria has not been established.
+tp103
+asg21
+Vsilica
+p104
+sa(dp105
+g3
+(lp106
+VSilicon dioxide
+p107
+aVchemical substance
+p108
+aVRefractory materials
+p109
+aVchemical compound
+p110
+aVCeramic materials
+p111
+asg10
+g11
+sg12
+VCompound
+p112
+sg14
+(lp113
+(VYet bacteria utilize about half of the organic matter derived from oceanic primary production by varied strategies, including attack on dead and living diatoms by using hydrolytic enzymes,, and could adventitiously hasten 
+g107
+V dissolution by degrading the organic matrix which protects diatom frustules from dissolution,.
+tp114
+a(VYet bacteria utilize about half of the organic matter derived from oceanic primary production by varied strategies, including attack on dead and living diatoms by using hydrolytic enzymes,, and could adventitiously hasten 
+g108
+V dissolution by degrading the organic matrix which protects diatom frustules from dissolution,.
+tp115
+a(VYet bacteria utilize about half of the organic matter derived from oceanic primary production by varied strategies, including attack on dead and living diatoms by using hydrolytic enzymes,, and could adventitiously hasten 
+g109
+V dissolution by degrading the organic matrix which protects diatom frustules from dissolution,.
+tp116
+a(VYet bacteria utilize about half of the organic matter derived from oceanic primary production by varied strategies, including attack on dead and living diatoms by using hydrolytic enzymes,, and could adventitiously hasten 
+g110
+V dissolution by degrading the organic matrix which protects diatom frustules from dissolution,.
+tp117
+a(VYet bacteria utilize about half of the organic matter derived from oceanic primary production by varied strategies, including attack on dead and living diatoms by using hydrolytic enzymes,, and could adventitiously hasten 
+g111
+V dissolution by degrading the organic matrix which protects diatom frustules from dissolution,.
+tp118
+asg21
+Vsilica
+p119
+sa(dp120
+g3
+(lp121
+VSilicon dioxide
+p122
+aVchemical substance
+p123
+aVRefractory materials
+p124
+aVchemical compound
+p125
+aVCeramic materials
+p126
+asg10
+g11
+sg12
+VCompound
+p127
+sg14
+(lp128
+(VHere we report the results of experiments in which natural assemblages of marine bacteria dramatically increased 
+g122
+V dissolution from two species of lysed marine diatoms compared to bacteria-free controls.
+tp129
+a(VHere we report the results of experiments in which natural assemblages of marine bacteria dramatically increased 
+g123
+V dissolution from two species of lysed marine diatoms compared to bacteria-free controls.
+tp130
+a(VHere we report the results of experiments in which natural assemblages of marine bacteria dramatically increased 
+g124
+V dissolution from two species of lysed marine diatoms compared to bacteria-free controls.
+tp131
+a(VHere we report the results of experiments in which natural assemblages of marine bacteria dramatically increased 
+g125
+V dissolution from two species of lysed marine diatoms compared to bacteria-free controls.
+tp132
+a(VHere we report the results of experiments in which natural assemblages of marine bacteria dramatically increased 
+g126
+V dissolution from two species of lysed marine diatoms compared to bacteria-free controls.
+tp133
+asg21
+Vsilica
+p134
+sa(dp135
+g3
+(lp136
+VSilicon dioxide
+p137
+aVchemical substance
+p138
+aVRefractory materials
+p139
+aVchemical compound
+p140
+aVCeramic materials
+p141
+asg10
+g11
+sg12
+VCompound
+p142
+sg14
+(lp143
+(V
+g137
+V dissolution accompanied, and was caused by, bacterial colonization and hydrolytic attack.
+tp144
+a(V
+g138
+V dissolution accompanied, and was caused by, bacterial colonization and hydrolytic attack.
+tp145
+a(V
+g139
+V dissolution accompanied, and was caused by, bacterial colonization and hydrolytic attack.
+tp146
+a(V
+g140
+V dissolution accompanied, and was caused by, bacterial colonization and hydrolytic attack.
+tp147
+a(V
+g141
+V dissolution accompanied, and was caused by, bacterial colonization and hydrolytic attack.
+tp148
+asg21
+VSilica
+p149
+sa(dp150
+g3
+(lp151
+VChemical element
+p152
+aVChemical substance
+p153
+aVMatter
+p154
+aVReducing agents
+p155
+aVSemiconductor materials
+p156
+aVChemistry
+p157
+asg10
+g11
+sg12
+VCompound
+p158
+sg14
+(lp159
+(VBacteria-mediated 
+g152
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp160
+a(VBacteria-mediated 
+g153
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp161
+a(VBacteria-mediated 
+g154
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp162
+a(VBacteria-mediated 
+g155
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp163
+a(VBacteria-mediated 
+g156
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp164
+a(VBacteria-mediated 
+g157
+V regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean silicon regeneration,.
+tp165
+asg21
+Vsilicon
+p166
+sa(dp167
+g3
+(lp168
+VChemical element
+p169
+aVChemical substance
+p170
+aVMatter
+p171
+aVReducing agents
+p172
+aVSemiconductor materials
+p173
+aVChemistry
+p174
+asg10
+g11
+sg12
+VCompound
+p175
+sg14
+(lp176
+(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g169
+V regeneration,.
+tp177
+a(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g170
+V regeneration,.
+tp178
+a(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g171
+V regeneration,.
+tp179
+a(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g172
+V regeneration,.
+tp180
+a(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g173
+V regeneration,.
+tp181
+a(VBacteria-mediated silicon regeneration rates varied with diatom type and bacterial assemblage; observed rates could explain most of the reported upper-ocean 
+g174
+V regeneration,.
+tp182
+asg21
+Vsilicon
+p183
+sa(dp184
+g3
+(lp185
+VChemical element
+p186
+aVChemical substance
+p187
+aVMatter
+p188
+aVReducing agents
+p189
+aVSemiconductor materials
+p190
+aVChemistry
+p191
+asg10
+g11
+sg12
+VCompound
+p192
+sg14
+(lp193
+(VBacteria-mediated 
+g186
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp194
+a(VBacteria-mediated 
+g187
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp195
+a(VBacteria-mediated 
+g188
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp196
+a(VBacteria-mediated 
+g189
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp197
+a(VBacteria-mediated 
+g190
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp198
+a(VBacteria-mediated 
+g191
+V regeneration may thus critically control diatom productivity and the cycling and fate of silicon and carbon in the ocean.
+tp199
+asg21
+Vsilicon
+p200
+sa(dp201
+g3
+(lp202
+VChemical element
+p203
+aVChemical substance
+p204
+aVMatter
+p205
+aVReducing agents
+p206
+aVSemiconductor materials
+p207
+aVChemistry
+p208
+asg10
+g11
+sg12
+VCompound
+p209
+sg14
+(lp210
+(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g203
+V and carbon in the ocean.
+tp211
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g204
+V and carbon in the ocean.
+tp212
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g205
+V and carbon in the ocean.
+tp213
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g206
+V and carbon in the ocean.
+tp214
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g207
+V and carbon in the ocean.
+tp215
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of 
+g208
+V and carbon in the ocean.
+tp216
+asg21
+Vsilicon
+p217
+sa(dp218
+g3
+(lp219
+VChemical element
+p220
+aVChemical substance
+p221
+aVCarbon forms
+p222
+aVMatter
+p223
+aVReducing agents
+p224
+aVCarbonate minerals
+p225
+aVChemistry
+p226
+asg10
+g11
+sg12
+VCompound
+p227
+sg14
+(lp228
+(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g220
+V in the ocean.
+tp229
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g221
+V in the ocean.
+tp230
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g222
+V in the ocean.
+tp231
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g223
+V in the ocean.
+tp232
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g224
+V in the ocean.
+tp233
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g225
+V in the ocean.
+tp234
+a(VBacteria-mediated silicon regeneration may thus critically control diatom productivity and the cycling and fate of silicon and 
+g226
+V in the ocean.
+tp235
+asg21
+Vcarbon
+p236
+sa(dp237
+g3
+(lp238
+Vchemical substance
+p239
+aVWord
+p240
+aVName
+p241
+aVchemical compound
+p242
+aVMineral acids
+p243
+asg10
+g11
+sg12
+VCompound
+p244
+sg14
+(lp245
+(VAs diatoms have an absolute requirement for silicon (as 
+g239
+V), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp246
+a(VAs diatoms have an absolute requirement for silicon (as 
+g240
+V), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp247
+a(VAs diatoms have an absolute requirement for silicon (as 
+g241
+V), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp248
+a(VAs diatoms have an absolute requirement for silicon (as 
+g242
+V), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp249
+a(VAs diatoms have an absolute requirement for silicon (as 
+g243
+V), its supply into the photic zone -- largely by silica dissolution and upwelling -- controls diatom production (and consequently the biological uptake of atmospheric CO2 by the ocean) over vast oceanic areas.
+tp250
+asg21
+Vsilicic acid
+p251
+sa.

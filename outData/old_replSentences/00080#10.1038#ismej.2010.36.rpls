@@ -1,0 +1,336 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00080#10.1038#ismej.2010.36'
+p6
+sS'entityType'
+p7
+VCompound
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VCO2
+p12
+sa(dp13
+g3
+(lp14
+VWorld
+p15
+aVCommon name
+p16
+aVOceans
+p17
+aVHuman condition
+p18
+aVBodies of water
+p19
+asg5
+g6
+sg7
+VLocation
+p20
+sg9
+(lp21
+(VSignificant CO2 fixation by small prymnesiophytes in the subtropical and tropical northeast 
+g15
+V
+tp22
+a(VSignificant CO2 fixation by small prymnesiophytes in the subtropical and tropical northeast 
+g16
+V
+tp23
+a(VSignificant CO2 fixation by small prymnesiophytes in the subtropical and tropical northeast 
+g17
+V
+tp24
+a(VSignificant CO2 fixation by small prymnesiophytes in the subtropical and tropical northeast 
+g18
+V
+tp25
+a(VSignificant CO2 fixation by small prymnesiophytes in the subtropical and tropical northeast 
+g19
+V
+tp26
+asg11
+VAtlantic Ocean
+p27
+sa(dp28
+g3
+(lp29
+Vchemical substance
+p30
+aVCoolants
+p31
+aVAtmosphere
+p32
+aVRefrigerants
+p33
+aVAir pollution
+p34
+aVClimate change
+p35
+aVHousehold chemicals
+p36
+aVGreenhouse gases
+p37
+aVInorganic carbon compounds
+p38
+aVOxides
+p39
+aVMatter
+p40
+aVchemical compound
+p41
+aVPropellants
+p42
+asg5
+g6
+sg7
+VCompound
+p43
+sg9
+(lp44
+(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g30
+V fixed on Earth.
+tp45
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g31
+V fixed on Earth.
+tp46
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g32
+V fixed on Earth.
+tp47
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g33
+V fixed on Earth.
+tp48
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g34
+V fixed on Earth.
+tp49
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g35
+V fixed on Earth.
+tp50
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g36
+V fixed on Earth.
+tp51
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g37
+V fixed on Earth.
+tp52
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g38
+V fixed on Earth.
+tp53
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g39
+V fixed on Earth.
+tp54
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g40
+V fixed on Earth.
+tp55
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g41
+V fixed on Earth.
+tp56
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the 
+g42
+V fixed on Earth.
+tp57
+asg11
+Vcarbon dioxide
+p58
+sa(dp59
+g3
+(lp60
+VRegions of France
+p61
+aVcelestial body
+p62
+aVPlaces
+p63
+aVNature
+p64
+aVplanet
+p65
+aVPlanets of the Solar System
+p66
+aVAstronomical object
+p67
+aVTerrestrial planets
+p68
+aVStructure
+p69
+aVGeography
+p70
+asg5
+g6
+sg7
+VLocation
+p71
+sg9
+(lp72
+(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g61
+V.
+tp73
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g62
+V.
+tp74
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g63
+V.
+tp75
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g64
+V.
+tp76
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g65
+V.
+tp77
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g66
+V.
+tp78
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g67
+V.
+tp79
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g68
+V.
+tp80
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g69
+V.
+tp81
+a(VGlobal estimates indicate the oceans are responsible for approximately half of the carbon dioxide fixed on 
+g70
+V.
+tp82
+asg11
+VEarth
+p83
+sa(dp84
+g3
+(lp85
+sg5
+g6
+sg7
+VCompound
+p86
+sg9
+(lp87
+sg11
+VCO2
+p88
+sa(dp89
+g3
+(lp90
+sg5
+g6
+sg7
+VCompound
+p91
+sg9
+(lp92
+sg11
+VCO2
+p93
+sa(dp94
+g3
+(lp95
+sg5
+g6
+sg7
+VCompound
+p96
+sg9
+(lp97
+sg11
+VCO2
+p98
+sa(dp99
+g3
+(lp100
+sg5
+g6
+sg7
+VCompound
+p101
+sg9
+(lp102
+sg11
+VCO2
+p103
+sa(dp104
+g3
+(lp105
+VWorld
+p106
+aVCommon name
+p107
+aVOceans
+p108
+aVHuman condition
+p109
+aVBodies of water
+p110
+asg5
+g6
+sg7
+VLocation
+p111
+sg9
+(lp112
+(VThe Euk-B group comprising prymnesiophytes (73+/-13%) belonging largely to lineages with no close cultured counterparts accounted for up to 38% of the total primary production in the subtropical and tropical northeast 
+g106
+V, suggesting a key role of this group in oceanic CO2 fixation.
+tp113
+a(VThe Euk-B group comprising prymnesiophytes (73+/-13%) belonging largely to lineages with no close cultured counterparts accounted for up to 38% of the total primary production in the subtropical and tropical northeast 
+g107
+V, suggesting a key role of this group in oceanic CO2 fixation.
+tp114
+a(VThe Euk-B group comprising prymnesiophytes (73+/-13%) belonging largely to lineages with no close cultured counterparts accounted for up to 38% of the total primary production in the subtropical and tropical northeast 
+g108
+V, suggesting a key role of this group in oceanic CO2 fixation.
+tp115
+a(VThe Euk-B group comprising prymnesiophytes (73+/-13%) belonging largely to lineages with no close cultured counterparts accounted for up to 38% of the total primary production in the subtropical and tropical northeast 
+g109
+V, suggesting a key role of this group in oceanic CO2 fixation.
+tp116
+a(VThe Euk-B group comprising prymnesiophytes (73+/-13%) belonging largely to lineages with no close cultured counterparts accounted for up to 38% of the total primary production in the subtropical and tropical northeast 
+g110
+V, suggesting a key role of this group in oceanic CO2 fixation.
+tp117
+asg11
+VAtlantic Ocean
+p118
+sa(dp119
+g3
+(lp120
+sg5
+g6
+sg7
+VCompound
+p121
+sg9
+(lp122
+sg11
+VCO2
+p123
+sa.

@@ -1,0 +1,381 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00050#10.1038#ismej.2009.94'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VDinoroseobacter shibae
+p12
+sa(dp13
+g3
+(lp14
+sg5
+g6
+sg7
+VSpecies
+p15
+sg9
+(lp16
+sg11
+VDinoroseobacter shibae
+p17
+sa(dp18
+g3
+(lp19
+sg5
+g6
+sg7
+VSpecies
+p20
+sg9
+(lp21
+sg11
+VD. shibae
+p22
+sa(dp23
+g3
+(lp24
+VChemical element
+p25
+aVChemical substance
+p26
+aVMatter
+p27
+aVChemistry
+p28
+aVOxidizing agents
+p29
+asg5
+g6
+sg7
+VCompound
+p30
+sg9
+(lp31
+(VTwo pathways for the de novo synthesis of vitamin B12 are present, one requiring 
+g25
+V and the other an oxygen-independent pathway.
+tp32
+a(VTwo pathways for the de novo synthesis of vitamin B12 are present, one requiring 
+g26
+V and the other an oxygen-independent pathway.
+tp33
+a(VTwo pathways for the de novo synthesis of vitamin B12 are present, one requiring 
+g27
+V and the other an oxygen-independent pathway.
+tp34
+a(VTwo pathways for the de novo synthesis of vitamin B12 are present, one requiring 
+g28
+V and the other an oxygen-independent pathway.
+tp35
+a(VTwo pathways for the de novo synthesis of vitamin B12 are present, one requiring 
+g29
+V and the other an oxygen-independent pathway.
+tp36
+asg11
+Voxygen
+p37
+sa(dp38
+g3
+(lp39
+sg5
+g6
+sg7
+VSpecies
+p40
+sg9
+(lp41
+sg11
+VD. shibae
+p42
+sa(dp43
+g3
+(lp44
+sg5
+g6
+sg7
+VSpecies
+p45
+sg9
+(lp46
+sg11
+VD. shibae
+p47
+sa(dp48
+g3
+(lp49
+Vchemical substance
+p50
+aVCuring agents
+p51
+aVWater quality indicators
+p52
+aVNitrates
+p53
+aVNitrogen metabolism
+p54
+aVFunctional groups
+p55
+aVchemical compound
+p56
+aVAtom
+p57
+aVMolecular mass
+p58
+aVMass
+p59
+asg5
+g6
+sg7
+VCompound
+p60
+sg9
+(lp61
+(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g50
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp62
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g51
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp63
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g52
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp64
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g53
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp65
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g54
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp66
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g55
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp67
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g56
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp68
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g57
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp69
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g58
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp70
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors 
+g59
+V and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp71
+asg11
+Vnitrate
+p72
+sa(dp73
+g3
+(lp74
+sg5
+g6
+sg7
+VCompound
+p75
+sg9
+(lp76
+sg11
+Vdimethylsulfoxide
+p77
+sa(dp78
+g3
+(lp79
+sg5
+g6
+sg7
+VCompound
+p80
+sg9
+(lp81
+sg11
+Vfumarate
+p82
+sa(dp83
+g3
+(lp84
+Vchemical substance
+p85
+aVCuring agents
+p86
+aVWater quality indicators
+p87
+aVNitrates
+p88
+aVNitrogen metabolism
+p89
+aVFunctional groups
+p90
+aVchemical compound
+p91
+aVAtom
+p92
+aVMolecular mass
+p93
+aVMass
+p94
+asg5
+g6
+sg7
+VCompound
+p95
+sg9
+(lp96
+(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g85
+V reduction) regulon.
+tp97
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g86
+V reduction) regulon.
+tp98
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g87
+V reduction) regulon.
+tp99
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g88
+V reduction) regulon.
+tp100
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g89
+V reduction) regulon.
+tp101
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g90
+V reduction) regulon.
+tp102
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g91
+V reduction) regulon.
+tp103
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g92
+V reduction) regulon.
+tp104
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g93
+V reduction) regulon.
+tp105
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the arginine deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and 
+g94
+V reduction) regulon.
+tp106
+asg11
+Vnitrate
+p107
+sa(dp108
+g3
+(lp109
+sg5
+g6
+sg7
+VSpecies
+p110
+sg9
+(lp111
+sg11
+VD. shibae
+p112
+sa(dp113
+g3
+(lp114
+sg5
+g6
+sg7
+VSpecies
+p115
+sg9
+(lp116
+sg11
+VD. shibae
+p117
+sa(dp118
+g3
+(lp119
+Vchemical substance
+p120
+aVAmino acid
+p121
+aVEssential amino acids
+p122
+aVMolecule
+p123
+aVUrea cycle
+p124
+aVBasic amino acids
+p125
+aVchemical compound
+p126
+aVAtom
+p127
+aVProteinogenic amino acids
+p128
+asg5
+g6
+sg7
+VCompound
+p129
+sg9
+(lp130
+(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g120
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp131
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g121
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp132
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g122
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp133
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g123
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp134
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g124
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp135
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g125
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp136
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g126
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp137
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g127
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp138
+a(VHowever, D. shibae DFL12T is able to grow anaerobically using the alternative electron acceptors nitrate and dimethylsulfoxide; it has the 
+g128
+V deiminase survival fermentation pathway and a complex oxygen-dependent Fnr (fumarate and nitrate reduction) regulon.
+tp139
+asg11
+Varginine
+p140
+sa.

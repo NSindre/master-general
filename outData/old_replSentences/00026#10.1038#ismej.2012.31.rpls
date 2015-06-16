@@ -1,0 +1,254 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00026#10.1038#ismej.2012.31'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VAntarctica Peninsula
+p12
+sa(dp13
+g3
+(lp14
+VAntarctic region
+p15
+aVQuantity
+p16
+aVPolar region
+p17
+aVArea
+p18
+asg5
+g6
+sg7
+VLocation
+p19
+sg9
+(lp20
+(V
+g15
+V surface oceans are well-studied during summer when irradiance levels are high, sea ice is melting and primary productivity is at a maximum.
+tp21
+a(V
+g16
+V surface oceans are well-studied during summer when irradiance levels are high, sea ice is melting and primary productivity is at a maximum.
+tp22
+a(V
+g17
+V surface oceans are well-studied during summer when irradiance levels are high, sea ice is melting and primary productivity is at a maximum.
+tp23
+a(V
+g18
+V surface oceans are well-studied during summer when irradiance levels are high, sea ice is melting and primary productivity is at a maximum.
+tp24
+asg11
+VAntarctic
+p25
+sa(dp26
+g3
+(lp27
+VWest Antarctica
+p28
+aVIsland
+p29
+aVAntarctica
+p30
+aVTundra
+p31
+asg5
+g6
+sg7
+VLocation
+p32
+sg9
+(lp33
+(VWe report here an environmental genomic and small subunit ribosomal RNA (SSU rRNA) analysis of winter and summer 
+g28
+V coastal seawater bacterioplankton.
+tp34
+a(VWe report here an environmental genomic and small subunit ribosomal RNA (SSU rRNA) analysis of winter and summer 
+g29
+V coastal seawater bacterioplankton.
+tp35
+a(VWe report here an environmental genomic and small subunit ribosomal RNA (SSU rRNA) analysis of winter and summer 
+g30
+V coastal seawater bacterioplankton.
+tp36
+a(VWe report here an environmental genomic and small subunit ribosomal RNA (SSU rRNA) analysis of winter and summer 
+g31
+V coastal seawater bacterioplankton.
+tp37
+asg11
+VAntarctic Peninsula
+p38
+sa(dp39
+g3
+(lp40
+VWord
+p41
+aVRegions of Antarctica
+p42
+aVSubantarctic
+p43
+aVOceans
+p44
+aVAdjective
+p45
+aVMarine realms
+p46
+aVSouth
+p47
+asg5
+g6
+sg7
+VLocation
+p48
+sg9
+(lp49
+(VIf chemolithoautotrophy is widespread in the 
+g41
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp50
+a(VIf chemolithoautotrophy is widespread in the 
+g42
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp51
+a(VIf chemolithoautotrophy is widespread in the 
+g43
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp52
+a(VIf chemolithoautotrophy is widespread in the 
+g44
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp53
+a(VIf chemolithoautotrophy is widespread in the 
+g45
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp54
+a(VIf chemolithoautotrophy is widespread in the 
+g46
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp55
+a(VIf chemolithoautotrophy is widespread in the 
+g47
+V in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp56
+asg11
+VSouthern Ocean
+p57
+sa(dp58
+g3
+(lp59
+VChemical element
+p60
+aVChemical substance
+p61
+aVCarbon forms
+p62
+aVMatter
+p63
+aVReducing agents
+p64
+aVCarbonate minerals
+p65
+aVChemistry
+p66
+asg5
+g6
+sg7
+VCompound
+p67
+sg9
+(lp68
+(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g60
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp69
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g61
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp70
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g62
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp71
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g63
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp72
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g64
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp73
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g65
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp74
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted 
+g66
+V sink and may help account for the unexplained anomalies in surface inorganic nitrogen content.
+tp75
+asg11
+Vcarbon
+p76
+sa(dp77
+g3
+(lp78
+VChemical element
+p79
+aVChemical substance
+p80
+aVIndustrial gases
+p81
+aVCoolants
+p82
+aVMatter
+p83
+aVChemistry
+p84
+asg5
+g6
+sg7
+VCompound
+p85
+sg9
+(lp86
+(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g79
+V content.
+tp87
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g80
+V content.
+tp88
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g81
+V content.
+tp89
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g82
+V content.
+tp90
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g83
+V content.
+tp91
+a(VIf chemolithoautotrophy is widespread in the Southern Ocean in winter, this process may be a previously unaccounted carbon sink and may help account for the unexplained anomalies in surface inorganic 
+g84
+V content.
+tp92
+asg11
+Vnitrogen
+p93
+sa.

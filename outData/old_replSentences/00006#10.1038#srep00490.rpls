@@ -1,0 +1,328 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VWestern Asia
+p5
+aVAsia
+p6
+aVPlaces
+p7
+asS'fileName'
+p8
+S'00006#10.1038#srep00490'
+p9
+sS'entityType'
+p10
+VLocation
+p11
+sS'sentences'
+p12
+(lp13
+(VMetagenomes of 
+g5
+V Coastal Lagoons
+tp14
+a(VMetagenomes of 
+g6
+V Coastal Lagoons
+tp15
+a(VMetagenomes of 
+g7
+V Coastal Lagoons
+tp16
+asS'entity'
+p17
+VMediterranean
+p18
+sa(dp19
+g3
+(lp20
+VWestern Asia
+p21
+aVAsia
+p22
+aVPlaces
+p23
+asg8
+g9
+sg10
+VLocation
+p24
+sg12
+(lp25
+(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative 
+g21
+V coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of Spain.
+tp26
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative 
+g22
+V coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of Spain.
+tp27
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative 
+g23
+V coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of Spain.
+tp28
+asg17
+VMediterranean
+p29
+sa(dp30
+g3
+(lp31
+VLagoon
+p32
+aVBody of water
+p33
+asg8
+g9
+sg10
+VLocation
+p34
+sg12
+(lp35
+(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline 
+g32
+V, and the freshwater Albufera de Valencia, both located on the south eastern coast of Spain.
+tp36
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline 
+g33
+V, and the freshwater Albufera de Valencia, both located on the south eastern coast of Spain.
+tp37
+asg17
+VMar Menor
+p38
+sa(dp39
+g3
+(lp40
+sg8
+g9
+sg10
+VLocation
+p41
+sg12
+(lp42
+sg17
+VAlbufera de Valencia
+p43
+sa(dp44
+g3
+(lp45
+VMember states of the European Union
+p46
+aVpopulated place
+p47
+aVcountry
+p48
+aVCountries in Europe
+p49
+aVSouthern Europe
+p50
+aVEntity
+p51
+aVIberian Peninsula
+p52
+aVSovereign state
+p53
+aVplace
+p54
+aVMember state
+p55
+aVOrganization
+p56
+aVWestern Europe
+p57
+aVSouthwestern Europe
+p58
+aVLiberal democracies
+p59
+asg8
+g9
+sg10
+VLocation
+p60
+sg12
+(lp61
+(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g46
+V.
+tp62
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g47
+V.
+tp63
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g48
+V.
+tp64
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g49
+V.
+tp65
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g50
+V.
+tp66
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g51
+V.
+tp67
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g52
+V.
+tp68
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g53
+V.
+tp69
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g54
+V.
+tp70
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g55
+V.
+tp71
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g56
+V.
+tp72
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g57
+V.
+tp73
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g58
+V.
+tp74
+a(VWe describe, for the first time, using high throughput sequencing, the extant microbiota of two large and representative Mediterranean coastal lagoons, the hypersaline Mar Menor, and the freshwater Albufera de Valencia, both located on the south eastern coast of 
+g59
+V.
+tp75
+asg17
+VSpain
+p76
+sa(dp77
+g3
+(lp78
+VChemical element
+p79
+aVchemical substance
+p80
+aVSulfur forms
+p81
+aVInorganic polymers
+p82
+aVChemical substances
+p83
+aVMatter
+p84
+aVchemical compound
+p85
+aVChemistry
+p86
+aVAgricultural chemicals
+p87
+asg8
+g9
+sg10
+VCompound
+p88
+sg12
+(lp89
+(VImportantly, a novel uncultured 
+g79
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp90
+a(VImportantly, a novel uncultured 
+g80
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp91
+a(VImportantly, a novel uncultured 
+g81
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp92
+a(VImportantly, a novel uncultured 
+g82
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp93
+a(VImportantly, a novel uncultured 
+g83
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp94
+a(VImportantly, a novel uncultured 
+g84
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp95
+a(VImportantly, a novel uncultured 
+g85
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp96
+a(VImportantly, a novel uncultured 
+g86
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp97
+a(VImportantly, a novel uncultured 
+g87
+V oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline Mar Menor.
+tp98
+asg17
+Vsulfur
+p99
+sa(dp100
+g3
+(lp101
+VLagoon
+p102
+aVBody of water
+p103
+asg8
+g9
+sg10
+VLocation
+p104
+sg12
+(lp105
+(VImportantly, a novel uncultured sulfur oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline 
+g102
+V.
+tp106
+a(VImportantly, a novel uncultured sulfur oxidizing Alphaproteobacteria was found to dominate bacterioplankton in the hypersaline 
+g103
+V.
+tp107
+asg17
+VMar Menor
+p108
+sa(dp109
+g3
+(lp110
+VLagoon
+p111
+aVEstuary
+p112
+aVBody of water
+p113
+asg8
+g9
+sg10
+VLocation
+p114
+sg12
+(lp115
+(VRemarkably, the microbial community in the freshwaters of the hypertrophic 
+g111
+V was completely in contrast to known freshwater systems, in that there was a near absence of well known and cosmopolitan groups of ultramicrobacteria namely Low GC Actinobacteria and the LD12 lineage of Alphaproteobacteria.
+tp116
+a(VRemarkably, the microbial community in the freshwaters of the hypertrophic 
+g112
+V was completely in contrast to known freshwater systems, in that there was a near absence of well known and cosmopolitan groups of ultramicrobacteria namely Low GC Actinobacteria and the LD12 lineage of Alphaproteobacteria.
+tp117
+a(VRemarkably, the microbial community in the freshwaters of the hypertrophic 
+g113
+V was completely in contrast to known freshwater systems, in that there was a near absence of well known and cosmopolitan groups of ultramicrobacteria namely Low GC Actinobacteria and the LD12 lineage of Alphaproteobacteria.
+tp118
+asg17
+VAlbufera
+p119
+sa.

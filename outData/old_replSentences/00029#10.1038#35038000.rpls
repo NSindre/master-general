@@ -1,0 +1,398 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVCoolants
+p6
+aVAtmosphere
+p7
+aVRefrigerants
+p8
+aVAir pollution
+p9
+aVClimate change
+p10
+aVHousehold chemicals
+p11
+aVGreenhouse gases
+p12
+aVInorganic carbon compounds
+p13
+aVOxides
+p14
+aVMatter
+p15
+aVchemical compound
+p16
+aVPropellants
+p17
+asS'fileName'
+p18
+S'00029#10.1038#35038000'
+p19
+sS'entityType'
+p20
+VCompound
+p21
+sS'sentences'
+p22
+(lp23
+(VGlacial/interglacial variations in atmospheric 
+g5
+V
+tp24
+a(VGlacial/interglacial variations in atmospheric 
+g6
+V
+tp25
+a(VGlacial/interglacial variations in atmospheric 
+g7
+V
+tp26
+a(VGlacial/interglacial variations in atmospheric 
+g8
+V
+tp27
+a(VGlacial/interglacial variations in atmospheric 
+g9
+V
+tp28
+a(VGlacial/interglacial variations in atmospheric 
+g10
+V
+tp29
+a(VGlacial/interglacial variations in atmospheric 
+g11
+V
+tp30
+a(VGlacial/interglacial variations in atmospheric 
+g12
+V
+tp31
+a(VGlacial/interglacial variations in atmospheric 
+g13
+V
+tp32
+a(VGlacial/interglacial variations in atmospheric 
+g14
+V
+tp33
+a(VGlacial/interglacial variations in atmospheric 
+g15
+V
+tp34
+a(VGlacial/interglacial variations in atmospheric 
+g16
+V
+tp35
+a(VGlacial/interglacial variations in atmospheric 
+g17
+V
+tp36
+asS'entity'
+p37
+Vcarbon dioxide
+p38
+sa(dp39
+g3
+(lp40
+Vchemical substance
+p41
+aVCoolants
+p42
+aVAtmosphere
+p43
+aVRefrigerants
+p44
+aVAir pollution
+p45
+aVClimate change
+p46
+aVHousehold chemicals
+p47
+aVGreenhouse gases
+p48
+aVInorganic carbon compounds
+p49
+aVOxides
+p50
+aVMatter
+p51
+aVchemical compound
+p52
+aVPropellants
+p53
+asg18
+g19
+sg20
+VCompound
+p54
+sg22
+(lp55
+(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g41
+V in the atmosphere was lower during ice ages than it is today.
+tp56
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g42
+V in the atmosphere was lower during ice ages than it is today.
+tp57
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g43
+V in the atmosphere was lower during ice ages than it is today.
+tp58
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g44
+V in the atmosphere was lower during ice ages than it is today.
+tp59
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g45
+V in the atmosphere was lower during ice ages than it is today.
+tp60
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g46
+V in the atmosphere was lower during ice ages than it is today.
+tp61
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g47
+V in the atmosphere was lower during ice ages than it is today.
+tp62
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g48
+V in the atmosphere was lower during ice ages than it is today.
+tp63
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g49
+V in the atmosphere was lower during ice ages than it is today.
+tp64
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g50
+V in the atmosphere was lower during ice ages than it is today.
+tp65
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g51
+V in the atmosphere was lower during ice ages than it is today.
+tp66
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g52
+V in the atmosphere was lower during ice ages than it is today.
+tp67
+a(VTwenty years ago, measurements on ice cores showed that the concentration of 
+g53
+V in the atmosphere was lower during ice ages than it is today.
+tp68
+asg37
+Vcarbon dioxide
+p69
+sa(dp70
+g3
+(lp71
+VChemical element
+p72
+aVChemical substance
+p73
+aVCarbon forms
+p74
+aVMatter
+p75
+aVReducing agents
+p76
+aVCarbonate minerals
+p77
+aVChemistry
+p78
+asg18
+g19
+sg20
+VCompound
+p79
+sg22
+(lp80
+(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g72
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp81
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g73
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp82
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g74
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp83
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g75
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp84
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g76
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp85
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g77
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp86
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of 
+g78
+V in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp87
+asg37
+Vcarbon
+p88
+sa(dp89
+g3
+(lp90
+VChemical element
+p91
+aVChemical substance
+p92
+aVCarbon forms
+p93
+aVMatter
+p94
+aVReducing agents
+p95
+aVCarbonate minerals
+p96
+aVChemistry
+p97
+asg18
+g19
+sg20
+VCompound
+p98
+sg22
+(lp99
+(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g91
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp100
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g92
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp101
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g93
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp102
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g94
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp103
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g95
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp104
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g96
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp105
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic 
+g97
+V out of the surface ocean, and its effect on the burial of calcium carbonate in marine sediments.
+tp106
+asg37
+Vcarbon
+p107
+sa(dp108
+g3
+(lp109
+Vchemical substance
+p110
+aVLimestone
+p111
+aVCarbonates
+p112
+aVAntacids
+p113
+aVMatter
+p114
+aVchemical compound
+p115
+aVCalcium compounds
+p116
+asg18
+g19
+sg20
+VCompound
+p117
+sg22
+(lp118
+(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g110
+V in marine sediments.
+tp119
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g111
+V in marine sediments.
+tp120
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g112
+V in marine sediments.
+tp121
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g113
+V in marine sediments.
+tp122
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g114
+V in marine sediments.
+tp123
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g115
+V in marine sediments.
+tp124
+a(VCurrent investigations focus on the ocean's 'biological pump', the sequestration of carbon in the ocean interior by the rain of organic carbon out of the surface ocean, and its effect on the burial of 
+g116
+V in marine sediments.
+tp125
+asg37
+Vcalcium carbonate
+p126
+sa(dp127
+g3
+(lp128
+VAntarctic region
+p129
+aVRegion
+p130
+aVTopography
+p131
+aVContinents
+p132
+aVLandforms
+p133
+asg18
+g19
+sg20
+VLocation
+p134
+sg22
+(lp135
+(VWe present a version of the latter hypothesis that focuses on the open ocean surrounding 
+g129
+V, involving both the biology and physics of that region.
+tp136
+a(VWe present a version of the latter hypothesis that focuses on the open ocean surrounding 
+g130
+V, involving both the biology and physics of that region.
+tp137
+a(VWe present a version of the latter hypothesis that focuses on the open ocean surrounding 
+g131
+V, involving both the biology and physics of that region.
+tp138
+a(VWe present a version of the latter hypothesis that focuses on the open ocean surrounding 
+g132
+V, involving both the biology and physics of that region.
+tp139
+a(VWe present a version of the latter hypothesis that focuses on the open ocean surrounding 
+g133
+V, involving both the biology and physics of that region.
+tp140
+asg37
+VAntarctica
+p141
+sa.

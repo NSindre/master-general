@@ -1,0 +1,916 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00096#10.1038#ngeo1830'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VAnthropogenic perturbation of the 
+g5
+V fluxes from land to ocean
+tp18
+a(VAnthropogenic perturbation of the 
+g6
+V fluxes from land to ocean
+tp19
+a(VAnthropogenic perturbation of the 
+g7
+V fluxes from land to ocean
+tp20
+a(VAnthropogenic perturbation of the 
+g8
+V fluxes from land to ocean
+tp21
+a(VAnthropogenic perturbation of the 
+g9
+V fluxes from land to ocean
+tp22
+a(VAnthropogenic perturbation of the 
+g10
+V fluxes from land to ocean
+tp23
+a(VAnthropogenic perturbation of the 
+g11
+V fluxes from land to ocean
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VA substantial amount of the atmospheric 
+g29
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp38
+a(VA substantial amount of the atmospheric 
+g30
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp39
+a(VA substantial amount of the atmospheric 
+g31
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp40
+a(VA substantial amount of the atmospheric 
+g32
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp41
+a(VA substantial amount of the atmospheric 
+g33
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp42
+a(VA substantial amount of the atmospheric 
+g34
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp43
+a(VA substantial amount of the atmospheric 
+g35
+V taken up on land through photosynthesis and chemical weathering is transported laterally along the aquatic continuum from upland terrestrial ecosystems to the ocean.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VSo far, global 
+g48
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp57
+a(VSo far, global 
+g49
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp58
+a(VSo far, global 
+g50
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp59
+a(VSo far, global 
+g51
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp60
+a(VSo far, global 
+g52
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp61
+a(VSo far, global 
+g53
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp62
+a(VSo far, global 
+g54
+V budget estimates have implicitly assumed that the transformation and lateral transport of carbon along this aquatic continuum has remained unchanged since pre-industrial times.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+VChemical element
+p67
+aVChemical substance
+p68
+aVCarbon forms
+p69
+aVMatter
+p70
+aVReducing agents
+p71
+aVCarbonate minerals
+p72
+aVChemistry
+p73
+asg12
+g13
+sg14
+VCompound
+p74
+sg16
+(lp75
+(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g67
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp76
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g68
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp77
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g69
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp78
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g70
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp79
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g71
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp80
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g72
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp81
+a(VSo far, global carbon budget estimates have implicitly assumed that the transformation and lateral transport of 
+g73
+V along this aquatic continuum has remained unchanged since pre-industrial times.
+tp82
+asg25
+Vcarbon
+p83
+sa(dp84
+g3
+(lp85
+VChemical element
+p86
+aVChemical substance
+p87
+aVCarbon forms
+p88
+aVMatter
+p89
+aVReducing agents
+p90
+aVCarbonate minerals
+p91
+aVChemistry
+p92
+asg12
+g13
+sg14
+VCompound
+p93
+sg16
+(lp94
+(VA synthesis of published work reveals the magnitude of present-day lateral 
+g86
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp95
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g87
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp96
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g88
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp97
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g89
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp98
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g90
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp99
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g91
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp100
+a(VA synthesis of published work reveals the magnitude of present-day lateral 
+g92
+V fluxes from land to ocean, and the extent to which human activities have altered these fluxes.
+tp101
+asg25
+Vcarbon
+p102
+sa(dp103
+g3
+(lp104
+sg12
+g13
+sg14
+VSpecies
+p105
+sg16
+(lp106
+sg25
+Vhuman
+p107
+sa(dp108
+g3
+(lp109
+VChemical element
+p110
+aVChemical substance
+p111
+aVCarbon forms
+p112
+aVMatter
+p113
+aVReducing agents
+p114
+aVCarbonate minerals
+p115
+aVChemistry
+p116
+asg12
+g13
+sg14
+VCompound
+p117
+sg16
+(lp118
+(VWe show that anthropogenic perturbation may have increased the flux of 
+g110
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp119
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g111
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp120
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g112
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp121
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g113
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp122
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g114
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp123
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g115
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp124
+a(VWe show that anthropogenic perturbation may have increased the flux of 
+g116
+V to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp125
+asg25
+Vcarbon
+p126
+sa(dp127
+g3
+(lp128
+VGrapheme
+p129
+asg12
+g13
+sg14
+VCompound
+p130
+sg16
+(lp131
+(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg 
+g129
+V yr-1 since pre-industrial times, mainly owing to enhanced carbon export from soils.
+tp132
+asg25
+VC
+sa(dp133
+g3
+(lp134
+VChemical element
+p135
+aVChemical substance
+p136
+aVCarbon forms
+p137
+aVMatter
+p138
+aVReducing agents
+p139
+aVCarbonate minerals
+p140
+aVChemistry
+p141
+asg12
+g13
+sg14
+VCompound
+p142
+sg16
+(lp143
+(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g135
+V export from soils.
+tp144
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g136
+V export from soils.
+tp145
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g137
+V export from soils.
+tp146
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g138
+V export from soils.
+tp147
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g139
+V export from soils.
+tp148
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g140
+V export from soils.
+tp149
+a(VWe show that anthropogenic perturbation may have increased the flux of carbon to inland waters by as much as 1.0 Pg C yr-1 since pre-industrial times, mainly owing to enhanced 
+g141
+V export from soils.
+tp150
+asg25
+Vcarbon
+p151
+sa(dp152
+g3
+(lp153
+VChemical element
+p154
+aVChemical substance
+p155
+aVCarbon forms
+p156
+aVMatter
+p157
+aVReducing agents
+p158
+aVCarbonate minerals
+p159
+aVChemistry
+p160
+asg12
+g13
+sg14
+VCompound
+p161
+sg16
+(lp162
+(VMost of this additional 
+g154
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp163
+a(VMost of this additional 
+g155
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp164
+a(VMost of this additional 
+g156
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp165
+a(VMost of this additional 
+g157
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp166
+a(VMost of this additional 
+g158
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp167
+a(VMost of this additional 
+g159
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp168
+a(VMost of this additional 
+g160
+V input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp169
+asg25
+Vcarbon
+p170
+sa(dp171
+g3
+(lp172
+Vchemical substance
+p173
+aVCoolants
+p174
+aVAtmosphere
+p175
+aVRefrigerants
+p176
+aVAir pollution
+p177
+aVClimate change
+p178
+aVHousehold chemicals
+p179
+aVGreenhouse gases
+p180
+aVInorganic carbon compounds
+p181
+aVOxides
+p182
+aVMatter
+p183
+aVchemical compound
+p184
+aVPropellants
+p185
+asg12
+g13
+sg14
+VCompound
+p186
+sg16
+(lp187
+(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g173
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp188
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g174
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp189
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g175
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp190
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g176
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp191
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g177
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp192
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g178
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp193
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g179
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp194
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g180
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp195
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g181
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp196
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g182
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp197
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g183
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp198
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g184
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp199
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as 
+g185
+V (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp200
+asg25
+Vcarbon dioxide
+p201
+sa(dp202
+g3
+(lp203
+VGrapheme
+p204
+asg12
+g13
+sg14
+VCompound
+p205
+sg16
+(lp206
+(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg 
+g204
+V yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp207
+asg25
+VC
+sa(dp208
+g3
+(lp209
+VGrapheme
+p210
+asg12
+g13
+sg14
+VCompound
+p211
+sg16
+(lp212
+(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg 
+g210
+V yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg C yr-1 to the open ocean.
+tp213
+asg25
+VC
+sa(dp214
+g3
+(lp215
+VChemical element
+p216
+aVChemical substance
+p217
+aVCarbon forms
+p218
+aVMatter
+p219
+aVReducing agents
+p220
+aVCarbonate minerals
+p221
+aVChemistry
+p222
+asg12
+g13
+sg14
+VCompound
+p223
+sg16
+(lp224
+(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g216
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp225
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g217
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp226
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g218
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp227
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g219
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp228
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g220
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp229
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g221
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp230
+a(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation 
+g222
+V input of ~0.1 Pg C yr-1 to the open ocean.
+tp231
+asg25
+Vcarbon
+p232
+sa(dp233
+g3
+(lp234
+VGrapheme
+p235
+asg12
+g13
+sg14
+VCompound
+p236
+sg16
+(lp237
+(VMost of this additional carbon input to upstream rivers is either emitted back to the atmosphere as carbon dioxide (~0.4 Pg C yr-1) or sequestered in sediments (~0.5 Pg C yr-1) along the continuum of freshwater bodies, estuaries and coastal waters, leaving only a perturbation carbon input of ~0.1 Pg 
+g235
+V yr-1 to the open ocean.
+tp238
+asg25
+VC
+sa(dp239
+g3
+(lp240
+VGrapheme
+p241
+asg12
+g13
+sg14
+VCompound
+p242
+sg16
+(lp243
+(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg 
+g241
+V yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral carbon fluxes.
+tp244
+asg25
+VC
+sa(dp245
+g3
+(lp246
+VGrapheme
+p247
+asg12
+g13
+sg14
+VCompound
+p248
+sg16
+(lp249
+(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg 
+g247
+V yr-1 previously estimated when ignoring changes in lateral carbon fluxes.
+tp250
+asg25
+VC
+sa(dp251
+g3
+(lp252
+VChemical element
+p253
+aVChemical substance
+p254
+aVCarbon forms
+p255
+aVMatter
+p256
+aVReducing agents
+p257
+aVCarbonate minerals
+p258
+aVChemistry
+p259
+asg12
+g13
+sg14
+VCompound
+p260
+sg16
+(lp261
+(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g253
+V fluxes.
+tp262
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g254
+V fluxes.
+tp263
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g255
+V fluxes.
+tp264
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g256
+V fluxes.
+tp265
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g257
+V fluxes.
+tp266
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g258
+V fluxes.
+tp267
+a(VAccording to our analysis, terrestrial ecosystems store ~0.9 Pg C yr-1 at present, which is in agreement with results from forest inventories but significantly differs from the figure of 1.5 Pg C yr-1 previously estimated when ignoring changes in lateral 
+g259
+V fluxes.
+tp268
+asg25
+Vcarbon
+p269
+sa(dp270
+g3
+(lp271
+VChemical element
+p272
+aVChemical substance
+p273
+aVCarbon forms
+p274
+aVMatter
+p275
+aVReducing agents
+p276
+aVCarbonate minerals
+p277
+aVChemistry
+p278
+asg12
+g13
+sg14
+VCompound
+p279
+sg16
+(lp280
+(VWe suggest that 
+g272
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp281
+a(VWe suggest that 
+g273
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp282
+a(VWe suggest that 
+g274
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp283
+a(VWe suggest that 
+g275
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp284
+a(VWe suggest that 
+g276
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp285
+a(VWe suggest that 
+g277
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp286
+a(VWe suggest that 
+g278
+V fluxes along the land-ocean aquatic continuum need to be included in global carbon dioxide budgets.
+tp287
+asg25
+Vcarbon
+p288
+sa(dp289
+g3
+(lp290
+Vchemical substance
+p291
+aVCoolants
+p292
+aVAtmosphere
+p293
+aVRefrigerants
+p294
+aVAir pollution
+p295
+aVClimate change
+p296
+aVHousehold chemicals
+p297
+aVGreenhouse gases
+p298
+aVInorganic carbon compounds
+p299
+aVOxides
+p300
+aVMatter
+p301
+aVchemical compound
+p302
+aVPropellants
+p303
+asg12
+g13
+sg14
+VCompound
+p304
+sg16
+(lp305
+(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g291
+V budgets.
+tp306
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g292
+V budgets.
+tp307
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g293
+V budgets.
+tp308
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g294
+V budgets.
+tp309
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g295
+V budgets.
+tp310
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g296
+V budgets.
+tp311
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g297
+V budgets.
+tp312
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g298
+V budgets.
+tp313
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g299
+V budgets.
+tp314
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g300
+V budgets.
+tp315
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g301
+V budgets.
+tp316
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g302
+V budgets.
+tp317
+a(VWe suggest that carbon fluxes along the land-ocean aquatic continuum need to be included in global 
+g303
+V budgets.
+tp318
+asg25
+Vcarbon dioxide
+p319
+sa.

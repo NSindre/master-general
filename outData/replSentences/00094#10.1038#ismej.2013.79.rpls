@@ -1,0 +1,315 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vriver
+p5
+aVstream
+p6
+aVbody of water
+p7
+aVnatural place
+p8
+aVplace
+p9
+aVWatercourse
+p10
+asS'fileName'
+p11
+S'00094#10.1038#ismej.2013.79'
+p12
+sS'entityType'
+p13
+VLocation
+p14
+sS'sentences'
+p15
+(lp16
+(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g5
+V coastal margin
+tp17
+a(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g6
+V coastal margin
+tp18
+a(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g7
+V coastal margin
+tp19
+a(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g8
+V coastal margin
+tp20
+a(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g9
+V coastal margin
+tp21
+a(VDetermining indicator taxa across spatial and seasonal gradients in the 
+g10
+V coastal margin
+tp22
+asS'entity'
+p23
+VColumbia River
+p24
+sa(dp25
+g3
+(lp26
+Vriver
+p27
+aVstream
+p28
+aVbody of water
+p29
+aVnatural place
+p30
+aVplace
+p31
+aVWatercourse
+p32
+asg11
+g12
+sg13
+VLocation
+p33
+sg15
+(lp34
+(VWe surveyed bacterioplankton diversity across the 
+g27
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp35
+a(VWe surveyed bacterioplankton diversity across the 
+g28
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp36
+a(VWe surveyed bacterioplankton diversity across the 
+g29
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp37
+a(VWe surveyed bacterioplankton diversity across the 
+g30
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp38
+a(VWe surveyed bacterioplankton diversity across the 
+g31
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp39
+a(VWe surveyed bacterioplankton diversity across the 
+g32
+V coastal margin, USA, using amplicon pyrosequencing of 16S rRNA genes from 596 water samples collected from 2007 to 2010.
+tp40
+asg23
+VColumbia River
+p41
+sa(dp42
+g3
+(lp43
+sg11
+g12
+sg13
+VLocation
+p44
+sg15
+(lp45
+sg23
+VUSA
+p46
+sa(dp47
+g3
+(lp48
+Vriver
+p49
+aVstream
+p50
+aVbody of water
+p51
+aVnatural place
+p52
+aVplace
+p53
+aVWatercourse
+p54
+asg11
+g12
+sg13
+VLocation
+p55
+sg15
+(lp56
+(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g49
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp57
+a(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g50
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp58
+a(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g51
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp59
+a(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g52
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp60
+a(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g53
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp61
+a(VOur results showed seasonal shifts and annual reassembly of bacterioplankton communities in the freshwater-influenced 
+g54
+V, estuary, and plume, and identified indicator taxa, including species from freshwater SAR11, Oceanospirillales, and Flavobacteria groups, that characterize the changing seasonal conditions in these environments.
+tp62
+asg23
+VColumbia River
+p63
+sa(dp64
+g3
+(lp65
+VChemical element
+p66
+aVChemical substance
+p67
+aVCarbon forms
+p68
+aVMatter
+p69
+aVReducing agents
+p70
+aVCarbonate minerals
+p71
+aVChemistry
+p72
+asg11
+g12
+sg13
+VCompound
+p73
+sg15
+(lp74
+(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g66
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp75
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g67
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp76
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g68
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp77
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g69
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp78
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g70
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp79
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g71
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp80
+a(VIn the river and estuary, Actinobacteria and Betaproteobacteria indicator taxa correlated strongly with seasonal fluctuations in particulate organic 
+g72
+V (rho=-0.664) and residence time (rho=0.512), respectively.
+tp81
+asg23
+Vcarbon
+p82
+sa(dp83
+g3
+(lp84
+VChemical element
+p85
+aVChemical substance
+p86
+aVMatter
+p87
+aVChemistry
+p88
+aVOxidizing agents
+p89
+asg11
+g12
+sg13
+VCompound
+p90
+sg15
+(lp91
+(VIn contrast, seasonal change in communities was not detected in the coastal ocean and varied more with the spatial variability of environmental factors including temperature and dissolved 
+g85
+V.
+tp92
+a(VIn contrast, seasonal change in communities was not detected in the coastal ocean and varied more with the spatial variability of environmental factors including temperature and dissolved 
+g86
+V.
+tp93
+a(VIn contrast, seasonal change in communities was not detected in the coastal ocean and varied more with the spatial variability of environmental factors including temperature and dissolved 
+g87
+V.
+tp94
+a(VIn contrast, seasonal change in communities was not detected in the coastal ocean and varied more with the spatial variability of environmental factors including temperature and dissolved 
+g88
+V.
+tp95
+a(VIn contrast, seasonal change in communities was not detected in the coastal ocean and varied more with the spatial variability of environmental factors including temperature and dissolved 
+g89
+V.
+tp96
+asg23
+Voxygen
+p97
+sa(dp98
+g3
+(lp99
+Vriver
+p100
+aVstream
+p101
+aVbody of water
+p102
+aVnatural place
+p103
+aVplace
+p104
+aVWatercourse
+p105
+asg11
+g12
+sg13
+VLocation
+p106
+sg15
+(lp107
+(VWe found that in the 
+g100
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp108
+a(VWe found that in the 
+g101
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp109
+a(VWe found that in the 
+g102
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp110
+a(VWe found that in the 
+g103
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp111
+a(VWe found that in the 
+g104
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp112
+a(VWe found that in the 
+g105
+V coastal margin, freshwater-influenced environments were consistent and predictable, whereas coastal ocean community variability was difficult to interpret due to complex physical conditions.
+tp113
+asg23
+VColumbia River
+p114
+sa.

@@ -1,0 +1,107 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VRegions of France
+p5
+aVcelestial body
+p6
+aVPlaces
+p7
+aVNature
+p8
+aVplanet
+p9
+aVPlanets of the Solar System
+p10
+aVAstronomical object
+p11
+aVTerrestrial planets
+p12
+aVStructure
+p13
+aVGeography
+p14
+asS'fileName'
+p15
+S'00001#10.1038#nrmicro1749'
+p16
+sS'entityType'
+p17
+VLocation
+p18
+sS'sentences'
+p19
+(lp20
+(VLife on 
+g5
+V most likely originated as microorganisms in the sea.
+tp21
+a(VLife on 
+g6
+V most likely originated as microorganisms in the sea.
+tp22
+a(VLife on 
+g7
+V most likely originated as microorganisms in the sea.
+tp23
+a(VLife on 
+g8
+V most likely originated as microorganisms in the sea.
+tp24
+a(VLife on 
+g9
+V most likely originated as microorganisms in the sea.
+tp25
+a(VLife on 
+g10
+V most likely originated as microorganisms in the sea.
+tp26
+a(VLife on 
+g11
+V most likely originated as microorganisms in the sea.
+tp27
+a(VLife on 
+g12
+V most likely originated as microorganisms in the sea.
+tp28
+a(VLife on 
+g13
+V most likely originated as microorganisms in the sea.
+tp29
+a(VLife on 
+g14
+V most likely originated as microorganisms in the sea.
+tp30
+asS'entity'
+p31
+VEarth
+p32
+sa(dp33
+g3
+(lp34
+sg15
+g16
+sg17
+VLocation
+p35
+sg19
+(lp36
+sg31
+VEarth's
+p37
+sa(dp38
+g3
+(lp39
+sg15
+g16
+sg17
+VSpecies
+p40
+sg19
+(lp41
+sg31
+Vhuman
+p42
+sa.

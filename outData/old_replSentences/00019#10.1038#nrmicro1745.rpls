@@ -1,0 +1,258 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVchemical substance
+p6
+aVRefrigerants
+p7
+aVAnions
+p8
+aVFluorides
+p9
+aVChemical substances
+p10
+aVMatter
+p11
+aVAlternative fuels
+p12
+aVReducing agents
+p13
+aVchemical compound
+p14
+aVChemistry
+p15
+asS'fileName'
+p16
+S'00019#10.1038#nrmicro1745'
+p17
+sS'entityType'
+p18
+VCompound
+p19
+sS'sentences'
+p20
+(lp21
+(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g5
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp22
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g6
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp23
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g7
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp24
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g8
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp25
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g9
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp26
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g10
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp27
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g11
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp28
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g12
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp29
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g13
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp30
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g14
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp31
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- 
+g15
+V, methane, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp32
+asS'entity'
+p33
+Vhydrogen
+p34
+sa(dp35
+g3
+(lp36
+Vchemical substance
+p37
+aVAtmosphere
+p38
+aVAir pollution
+p39
+aVIndustrial gases
+p40
+aVFuel gas
+p41
+aVGreenhouse gases
+p42
+aVFuels
+p43
+aVMatter
+p44
+aVAlkanes
+p45
+aVchemical compound
+p46
+aVAnaerobic digestion
+p47
+asg16
+g17
+sg18
+VCompound
+p48
+sg20
+(lp49
+(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g37
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp50
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g38
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp51
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g39
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp52
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g40
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp53
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g41
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp54
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g42
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp55
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g43
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp56
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g44
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp57
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g45
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp58
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g46
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp59
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, 
+g47
+V, hydrogen sulphide and iron -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp60
+asg33
+Vmethane
+p61
+sa(dp62
+g3
+(lp63
+sg16
+g17
+sg18
+VCompound
+p64
+sg20
+(lp65
+sg33
+Vhydrogen sulphide
+p66
+sa(dp67
+g3
+(lp68
+VCoefficient
+p69
+aVChemical element
+p70
+aVBuilding materials
+p71
+aVFerromagnetic materials
+p72
+aVChemical substance
+p73
+aVCharge number
+p74
+aVMetals
+p75
+aVMatter
+p76
+aVAtomic number
+p77
+aVTransition metals
+p78
+aVChemistry
+p79
+asg16
+g17
+sg18
+VCompound
+p80
+sg20
+(lp81
+(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g69
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp82
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g70
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp83
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g71
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp84
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g72
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp85
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g73
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp86
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g74
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp87
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g75
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp88
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g76
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp89
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g77
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp90
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g78
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp91
+a(VAs well as the sedimentation of organic material from above, geological processes transport chemical energy -- hydrogen, methane, hydrogen sulphide and 
+g79
+V -- to the seafloor from the subsurface below, which provides a significant proportion of the deep-sea energy.
+tp92
+asg33
+Viron
+p93
+sa.

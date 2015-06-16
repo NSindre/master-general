@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX wibi-model: <http://wibitaxonomy.org/model/wibi#>
+PREFIX wibi: <http://wibitaxonomy.org/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT DISTINCT ?generalization
+WHERE {{
+	{{wibi:{0} skos:broader{1,3} ?generalization.}}
+	UNION {{wibi:Category:{0} skos:broader{1,3} ?generalization.}}
+	UNION {{wibi:Category:{0}s skos:broader{1,3} ?generalization.}}
+}}

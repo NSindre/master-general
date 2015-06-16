@@ -1,0 +1,298 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVchemical compound
+p6
+aVPhosphates
+p7
+aVIonic compound
+p8
+aVFunctional groups
+p9
+aVOrganophosphates
+p10
+asS'fileName'
+p11
+S'00095#10.1038#ismej.2007.5'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g5
+V enrichment
+tp17
+a(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g6
+V enrichment
+tp18
+a(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g7
+V enrichment
+tp19
+a(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g8
+V enrichment
+tp20
+a(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g9
+V enrichment
+tp21
+a(VDiazotrophic bacterioplankton in a coral reef lagoon: phylogeny, diel nitrogenase expression and response to 
+g10
+V enrichment
+tp22
+asS'entity'
+p23
+Vphosphate
+p24
+sa(dp25
+g3
+(lp26
+sg11
+g12
+sg13
+VLocation
+p27
+sg15
+(lp28
+sg23
+VHeron Reef
+p29
+sa(dp30
+g3
+(lp31
+VWorld Heritage Site
+p32
+aVMarine ecoregions
+p33
+aVSystem
+p34
+aVCoral reefs
+p35
+aVCoral Sea
+p36
+aVplace
+p37
+aVReefs of Australia
+p38
+aVPhysiographic provinces
+p39
+aVGalaxy
+p40
+asg11
+g12
+sg13
+VLocation
+p41
+sg15
+(lp42
+(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g32
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp43
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g33
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp44
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g34
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp45
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g35
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp46
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g36
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp47
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g37
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp48
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g38
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp49
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g39
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp50
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (
+g40
+V, Australia) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp51
+asg23
+VGreat Barrier Reef
+p52
+sa(dp53
+g3
+(lp54
+Vpopulated place
+p55
+aVcountry
+p56
+aVFormer British colonies
+p57
+aVplace
+p58
+aVIsland countries
+p59
+aVAustralia (continent)
+p60
+aVLiberal democracies
+p61
+asg11
+g12
+sg13
+VLocation
+p62
+sg15
+(lp63
+(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g55
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp64
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g56
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp65
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g57
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp66
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g58
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp67
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g59
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp68
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g60
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp69
+a(VWe investigated diazotrophic bacterioplankton assemblage composition in the Heron Reef lagoon (Great Barrier Reef, 
+g61
+V) using culture-independent techniques targeting the nifH fragment of the nitrogenase gene.
+tp70
+asg23
+VAustralia
+p71
+sa(dp72
+g3
+(lp73
+Vchemical substance
+p74
+aVchemical compound
+p75
+aVPhosphates
+p76
+aVIonic compound
+p77
+aVFunctional groups
+p78
+aVOrganophosphates
+p79
+asg11
+g12
+sg13
+VCompound
+p80
+sg15
+(lp81
+(VAn incubation experiment was also conducted to assess the impact of 
+g74
+V (PO43-) availability on nifH expression patterns.
+tp82
+a(VAn incubation experiment was also conducted to assess the impact of 
+g75
+V (PO43-) availability on nifH expression patterns.
+tp83
+a(VAn incubation experiment was also conducted to assess the impact of 
+g76
+V (PO43-) availability on nifH expression patterns.
+tp84
+a(VAn incubation experiment was also conducted to assess the impact of 
+g77
+V (PO43-) availability on nifH expression patterns.
+tp85
+a(VAn incubation experiment was also conducted to assess the impact of 
+g78
+V (PO43-) availability on nifH expression patterns.
+tp86
+a(VAn incubation experiment was also conducted to assess the impact of 
+g79
+V (PO43-) availability on nifH expression patterns.
+tp87
+asg23
+Vphosphate
+p88
+sa(dp89
+g3
+(lp90
+sg11
+g12
+sg13
+VCompound
+p91
+sg15
+(lp92
+sg23
+VPO43-
+p93
+sa(dp94
+g3
+(lp95
+VGrapheme
+p96
+asg11
+g12
+sg13
+VCompound
+p97
+sg15
+(lp98
+(VThe presence of typical open ocean phylotype transcripts in lagoon bacterioplankton may indicate that they are an important component of the 
+g96
+V cycle of the coral reef.
+tp99
+asg23
+VN
+sa(dp100
+g3
+(lp101
+sg11
+g12
+sg13
+VCompound
+p102
+sg15
+(lp103
+sg23
+VPO43-
+p104
+sa(dp105
+g3
+(lp106
+sg11
+g12
+sg13
+VCompound
+p107
+sg15
+(lp108
+sg23
+VPO43-
+p109
+sa.

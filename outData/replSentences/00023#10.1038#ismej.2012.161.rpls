@@ -1,0 +1,315 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VMaterials science
+p5
+aVWord
+p6
+aVName
+p7
+aVCarbohydrates
+p8
+aVGranular materials
+p9
+aVFoods
+p10
+aVMaterials
+p11
+aVSweeteners
+p12
+asS'fileName'
+p13
+S'00023#10.1038#ismej.2012.161'
+p14
+sS'entityType'
+p15
+VCompound
+p16
+sS'sentences'
+p17
+(lp18
+(VCoral and macroalgal exudates vary in neutral 
+g5
+V composition and differentially enrich reef bacterioplankton lineages
+tp19
+a(VCoral and macroalgal exudates vary in neutral 
+g6
+V composition and differentially enrich reef bacterioplankton lineages
+tp20
+a(VCoral and macroalgal exudates vary in neutral 
+g7
+V composition and differentially enrich reef bacterioplankton lineages
+tp21
+a(VCoral and macroalgal exudates vary in neutral 
+g8
+V composition and differentially enrich reef bacterioplankton lineages
+tp22
+a(VCoral and macroalgal exudates vary in neutral 
+g9
+V composition and differentially enrich reef bacterioplankton lineages
+tp23
+a(VCoral and macroalgal exudates vary in neutral 
+g10
+V composition and differentially enrich reef bacterioplankton lineages
+tp24
+a(VCoral and macroalgal exudates vary in neutral 
+g11
+V composition and differentially enrich reef bacterioplankton lineages
+tp25
+a(VCoral and macroalgal exudates vary in neutral 
+g12
+V composition and differentially enrich reef bacterioplankton lineages
+tp26
+asS'entity'
+p27
+Vsugar
+p28
+sa(dp29
+g3
+(lp30
+Visland
+p31
+aVpopulated place
+p32
+aVplace
+p33
+asg13
+g14
+sg15
+VLocation
+p34
+sg17
+(lp35
+(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of 
+g31
+V, French Polynesia.
+tp36
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of 
+g32
+V, French Polynesia.
+tp37
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of 
+g33
+V, French Polynesia.
+tp38
+asg27
+VMo'orea
+p39
+sa(dp40
+g3
+(lp41
+Vcountry
+p42
+aVpopulated place
+p43
+aVplace
+p44
+aVIsland countries
+p45
+aVPolynesia
+p46
+asg13
+g14
+sg15
+VLocation
+p47
+sg17
+(lp48
+(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of Mo'orea, 
+g42
+V.
+tp49
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of Mo'orea, 
+g43
+V.
+tp50
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of Mo'orea, 
+g44
+V.
+tp51
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of Mo'orea, 
+g45
+V.
+tp52
+a(Vand three dominant macroalgae (one each Ochrophyta, Rhodophyta and Chlorophyta) from reefs of Mo'orea, 
+g46
+V.
+tp53
+asg27
+VFrench Polynesia
+p54
+sa(dp55
+g3
+(lp56
+VChemical element
+p57
+aVChemical substance
+p58
+aVCarbon forms
+p59
+aVMatter
+p60
+aVReducing agents
+p61
+aVCarbonate minerals
+p62
+aVChemistry
+p63
+asg13
+g14
+sg15
+VCompound
+p64
+sg17
+(lp65
+(VWe characterized exudates by measuring dissolved organic 
+g57
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp66
+a(VWe characterized exudates by measuring dissolved organic 
+g58
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp67
+a(VWe characterized exudates by measuring dissolved organic 
+g59
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp68
+a(VWe characterized exudates by measuring dissolved organic 
+g60
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp69
+a(VWe characterized exudates by measuring dissolved organic 
+g61
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp70
+a(VWe characterized exudates by measuring dissolved organic 
+g62
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp71
+a(VWe characterized exudates by measuring dissolved organic 
+g63
+V (DOC) and fractional dissolved combined neutral sugars (DCNSs) and subsequently tracked bacterioplankton responses to each exudate over 48 h, assessing cellular growth, DOC/DCNS utilization and changes in taxonomic composition (via 16S rRNA amplicon pyrosequencing).
+tp72
+asg27
+Vcarbon
+p73
+sa(dp74
+g3
+(lp75
+sg13
+g14
+sg15
+VCompound
+p76
+sg17
+(lp77
+sg27
+Vsugars
+p78
+sa(dp79
+g3
+(lp80
+Vchemical substance
+p81
+aVNutrition
+p82
+aVSweeteners
+p83
+aVCarbohydrate
+p84
+aVchemical compound
+p85
+aVHexoses
+p86
+aVMonosaccharides
+p87
+aVOrganic compound
+p88
+asg13
+g14
+sg15
+VCompound
+p89
+sg17
+(lp90
+(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g81
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp91
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g82
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp92
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g83
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp93
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g84
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp94
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g85
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp95
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g86
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp96
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g87
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp97
+a(VFleshy macroalgal exudates were enriched in the DCNS components fucose (Ochrophyta) and 
+g88
+V (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp98
+asg27
+Vgalactose
+p99
+sa(dp100
+g3
+(lp101
+Vchemical substance
+p102
+aVName
+p103
+aVSugar
+p104
+aVDeoxy sugar
+p105
+aVchemical compound
+p106
+asg13
+g14
+sg15
+VCompound
+p107
+sg17
+(lp108
+(VFleshy macroalgal exudates were enriched in the DCNS components 
+g102
+V (Ochrophyta) and galactose (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp109
+a(VFleshy macroalgal exudates were enriched in the DCNS components 
+g103
+V (Ochrophyta) and galactose (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp110
+a(VFleshy macroalgal exudates were enriched in the DCNS components 
+g104
+V (Ochrophyta) and galactose (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp111
+a(VFleshy macroalgal exudates were enriched in the DCNS components 
+g105
+V (Ochrophyta) and galactose (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp112
+a(VFleshy macroalgal exudates were enriched in the DCNS components 
+g106
+V (Ochrophyta) and galactose (Rhodophyta); coral and calcareous algal exudates were enriched in total DCNS but in the same component proportions as ambient seawater.
+tp113
+asg27
+Vfucose
+p114
+sa.

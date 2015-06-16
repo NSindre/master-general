@@ -1,0 +1,505 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00065#10.1038#ngeo2108'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VLarge fluctuations in the 
+g5
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp18
+a(VLarge fluctuations in the 
+g6
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp19
+a(VLarge fluctuations in the 
+g7
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp20
+a(VLarge fluctuations in the 
+g8
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp21
+a(VLarge fluctuations in the 
+g9
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp22
+a(VLarge fluctuations in the 
+g10
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp23
+a(VLarge fluctuations in the 
+g11
+V cycle were associated with at least two severe possible Snowball Earth glaciations.
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VRegions of France
+p29
+aVcelestial body
+p30
+aVPlaces
+p31
+aVNature
+p32
+aVplanet
+p33
+aVPlanets of the Solar System
+p34
+aVAstronomical object
+p35
+aVTerrestrial planets
+p36
+aVStructure
+p37
+aVGeography
+p38
+asg12
+g13
+sg14
+VLocation
+p39
+sg16
+(lp40
+(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g29
+V glaciations.
+tp41
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g30
+V glaciations.
+tp42
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g31
+V glaciations.
+tp43
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g32
+V glaciations.
+tp44
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g33
+V glaciations.
+tp45
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g34
+V glaciations.
+tp46
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g35
+V glaciations.
+tp47
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g36
+V glaciations.
+tp48
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g37
+V glaciations.
+tp49
+a(VLarge fluctuations in the carbon cycle were associated with at least two severe possible Snowball 
+g38
+V glaciations.
+tp50
+asg25
+VEarth
+p51
+sa(dp52
+g3
+(lp53
+VChemical element
+p54
+aVChemical substance
+p55
+aVMatter
+p56
+aVChemistry
+p57
+aVOxidizing agents
+p58
+asg12
+g13
+sg14
+VCompound
+p59
+sg16
+(lp60
+(VThe traditional view is that a rise in atmospheric 
+g54
+V concentrations led to the oxygenation of the ocean, thus triggering the evolution of animals.
+tp61
+a(VThe traditional view is that a rise in atmospheric 
+g55
+V concentrations led to the oxygenation of the ocean, thus triggering the evolution of animals.
+tp62
+a(VThe traditional view is that a rise in atmospheric 
+g56
+V concentrations led to the oxygenation of the ocean, thus triggering the evolution of animals.
+tp63
+a(VThe traditional view is that a rise in atmospheric 
+g57
+V concentrations led to the oxygenation of the ocean, thus triggering the evolution of animals.
+tp64
+a(VThe traditional view is that a rise in atmospheric 
+g58
+V concentrations led to the oxygenation of the ocean, thus triggering the evolution of animals.
+tp65
+asg25
+Voxygen
+p66
+sa(dp67
+g3
+(lp68
+VChemical element
+p69
+aVChemical substance
+p70
+aVMatter
+p71
+aVChemistry
+p72
+aVOxidizing agents
+p73
+asg12
+g13
+sg14
+VCompound
+p74
+sg16
+(lp75
+(VWe argue instead that the evolution of increasingly complex eukaryotes, including the first animals, could have oxygenated the ocean without requiring an increase in atmospheric 
+g69
+V.
+tp76
+a(VWe argue instead that the evolution of increasingly complex eukaryotes, including the first animals, could have oxygenated the ocean without requiring an increase in atmospheric 
+g70
+V.
+tp77
+a(VWe argue instead that the evolution of increasingly complex eukaryotes, including the first animals, could have oxygenated the ocean without requiring an increase in atmospheric 
+g71
+V.
+tp78
+a(VWe argue instead that the evolution of increasingly complex eukaryotes, including the first animals, could have oxygenated the ocean without requiring an increase in atmospheric 
+g72
+V.
+tp79
+a(VWe argue instead that the evolution of increasingly complex eukaryotes, including the first animals, could have oxygenated the ocean without requiring an increase in atmospheric 
+g73
+V.
+tp80
+asg25
+Voxygen
+p81
+sa(dp82
+g3
+(lp83
+VChemical element
+p84
+aVChemical substance
+p85
+aVMatter
+p86
+aVChemistry
+p87
+aVOxidizing agents
+p88
+asg12
+g13
+sg14
+VCompound
+p89
+sg16
+(lp90
+(VWe propose that large eukaryotic particles sank quickly through the water column and reduced the consumption of 
+g84
+V in the surface waters.
+tp91
+a(VWe propose that large eukaryotic particles sank quickly through the water column and reduced the consumption of 
+g85
+V in the surface waters.
+tp92
+a(VWe propose that large eukaryotic particles sank quickly through the water column and reduced the consumption of 
+g86
+V in the surface waters.
+tp93
+a(VWe propose that large eukaryotic particles sank quickly through the water column and reduced the consumption of 
+g87
+V in the surface waters.
+tp94
+a(VWe propose that large eukaryotic particles sank quickly through the water column and reduced the consumption of 
+g88
+V in the surface waters.
+tp95
+asg25
+Voxygen
+p96
+sa(dp97
+g3
+(lp98
+VChemical element
+p99
+aVChemical substance
+p100
+aVMatter
+p101
+aVChemistry
+p102
+aVOxidizing agents
+p103
+asg12
+g13
+sg14
+VCompound
+p104
+sg16
+(lp105
+(VCombined with the advent of benthic filter feeding, this shifted 
+g99
+V demand away from the surface to greater depths and into sediments, allowing oxygen to reach deeper waters.
+tp106
+a(VCombined with the advent of benthic filter feeding, this shifted 
+g100
+V demand away from the surface to greater depths and into sediments, allowing oxygen to reach deeper waters.
+tp107
+a(VCombined with the advent of benthic filter feeding, this shifted 
+g101
+V demand away from the surface to greater depths and into sediments, allowing oxygen to reach deeper waters.
+tp108
+a(VCombined with the advent of benthic filter feeding, this shifted 
+g102
+V demand away from the surface to greater depths and into sediments, allowing oxygen to reach deeper waters.
+tp109
+a(VCombined with the advent of benthic filter feeding, this shifted 
+g103
+V demand away from the surface to greater depths and into sediments, allowing oxygen to reach deeper waters.
+tp110
+asg25
+Voxygen
+p111
+sa(dp112
+g3
+(lp113
+VChemical element
+p114
+aVChemical substance
+p115
+aVMatter
+p116
+aVChemistry
+p117
+aVOxidizing agents
+p118
+asg12
+g13
+sg14
+VCompound
+p119
+sg16
+(lp120
+(VCombined with the advent of benthic filter feeding, this shifted oxygen demand away from the surface to greater depths and into sediments, allowing 
+g114
+V to reach deeper waters.
+tp121
+a(VCombined with the advent of benthic filter feeding, this shifted oxygen demand away from the surface to greater depths and into sediments, allowing 
+g115
+V to reach deeper waters.
+tp122
+a(VCombined with the advent of benthic filter feeding, this shifted oxygen demand away from the surface to greater depths and into sediments, allowing 
+g116
+V to reach deeper waters.
+tp123
+a(VCombined with the advent of benthic filter feeding, this shifted oxygen demand away from the surface to greater depths and into sediments, allowing 
+g117
+V to reach deeper waters.
+tp124
+a(VCombined with the advent of benthic filter feeding, this shifted oxygen demand away from the surface to greater depths and into sediments, allowing 
+g118
+V to reach deeper waters.
+tp125
+asg25
+Voxygen
+p126
+sa(dp127
+g3
+(lp128
+VChemical element
+p129
+aVChemical substance
+p130
+aVMatter
+p131
+aVChemistry
+p132
+asg12
+g13
+sg14
+VCompound
+p133
+sg16
+(lp134
+(VThe decline in bottom-water anoxia would hinder the release of 
+g129
+V from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp135
+a(VThe decline in bottom-water anoxia would hinder the release of 
+g130
+V from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp136
+a(VThe decline in bottom-water anoxia would hinder the release of 
+g131
+V from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp137
+a(VThe decline in bottom-water anoxia would hinder the release of 
+g132
+V from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp138
+asg25
+Vphosphorus
+p139
+sa(dp140
+g3
+(lp141
+VChemical element
+p142
+aVChemical substance
+p143
+aVMatter
+p144
+aVChemistry
+p145
+asg12
+g13
+sg14
+VCompound
+p146
+sg16
+(lp147
+(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: 
+g142
+V removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp148
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: 
+g143
+V removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp149
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: 
+g144
+V removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp150
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: 
+g145
+V removal from the ocean reduced global productivity and ocean-wide oxygen demand, resulting in oxygenation of the deep ocean.
+tp151
+asg25
+Vphosphorus
+p152
+sa(dp153
+g3
+(lp154
+VChemical element
+p155
+aVChemical substance
+p156
+aVMatter
+p157
+aVChemistry
+p158
+aVOxidizing agents
+p159
+asg12
+g13
+sg14
+VCompound
+p160
+sg16
+(lp161
+(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide 
+g155
+V demand, resulting in oxygenation of the deep ocean.
+tp162
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide 
+g156
+V demand, resulting in oxygenation of the deep ocean.
+tp163
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide 
+g157
+V demand, resulting in oxygenation of the deep ocean.
+tp164
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide 
+g158
+V demand, resulting in oxygenation of the deep ocean.
+tp165
+a(VThe decline in bottom-water anoxia would hinder the release of phosphorus from sediments, potentially triggering a potent positive feedback: phosphorus removal from the ocean reduced global productivity and ocean-wide 
+g159
+V demand, resulting in oxygenation of the deep ocean.
+tp166
+asg25
+Voxygen
+p167
+sa(dp168
+g3
+(lp169
+VChemical element
+p170
+aVChemical substance
+p171
+aVMatter
+p172
+aVChemistry
+p173
+asg12
+g13
+sg14
+VCompound
+p174
+sg16
+(lp175
+(VThat, in turn, would have further reinforced eukaryote evolution, 
+g170
+V removal and ocean oxygenation.
+tp176
+a(VThat, in turn, would have further reinforced eukaryote evolution, 
+g171
+V removal and ocean oxygenation.
+tp177
+a(VThat, in turn, would have further reinforced eukaryote evolution, 
+g172
+V removal and ocean oxygenation.
+tp178
+a(VThat, in turn, would have further reinforced eukaryote evolution, 
+g173
+V removal and ocean oxygenation.
+tp179
+asg25
+Vphosphorus
+p180
+sa.

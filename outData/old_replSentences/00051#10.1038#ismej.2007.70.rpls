@@ -1,0 +1,435 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00051#10.1038#ismej.2007.70'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VPhytoplankton 
+g5
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp18
+a(VPhytoplankton 
+g6
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp19
+a(VPhytoplankton 
+g7
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp20
+a(VPhytoplankton 
+g8
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp21
+a(VPhytoplankton 
+g9
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp22
+a(VPhytoplankton 
+g10
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp23
+a(VPhytoplankton 
+g11
+V fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the Mississippi River plume
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VMississippi embayment
+p29
+aVnatural place
+p30
+aVstream
+p31
+aVPattern
+p32
+aVRivers
+p33
+aVplace
+p34
+aVbody of water
+p35
+aVriver
+p36
+asg12
+g13
+sg14
+VLocation
+p37
+sg16
+(lp38
+(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g29
+V plume
+tp39
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g30
+V plume
+tp40
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g31
+V plume
+tp41
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g32
+V plume
+tp42
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g33
+V plume
+tp43
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g34
+V plume
+tp44
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g35
+V plume
+tp45
+a(VPhytoplankton carbon fixation gene (RuBisCO) transcripts and air-sea CO2 flux in the 
+g36
+V plume
+tp46
+asg25
+VMississippi River
+p47
+sa(dp48
+g3
+(lp49
+sg12
+g13
+sg14
+VCompound
+p50
+sg16
+(lp51
+sg25
+VCO2
+p52
+sa(dp53
+g3
+(lp54
+sg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+sg25
+VCO2
+p57
+sa(dp58
+g3
+(lp59
+VChemical element
+p60
+aVChemical substance
+p61
+aVCarbon forms
+p62
+aVMatter
+p63
+aVReducing agents
+p64
+aVCarbonate minerals
+p65
+aVChemistry
+p66
+asg12
+g13
+sg14
+VCompound
+p67
+sg16
+(lp68
+(VTo determine the relationship between expression of the major gene in 
+g60
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp69
+a(VTo determine the relationship between expression of the major gene in 
+g61
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp70
+a(VTo determine the relationship between expression of the major gene in 
+g62
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp71
+a(VTo determine the relationship between expression of the major gene in 
+g63
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp72
+a(VTo determine the relationship between expression of the major gene in 
+g64
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp73
+a(VTo determine the relationship between expression of the major gene in 
+g65
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp74
+a(VTo determine the relationship between expression of the major gene in 
+g66
+V fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the Gulf of Mexico.
+tp75
+asg25
+Vcarbon
+p76
+sa(dp77
+g3
+(lp78
+sg12
+g13
+sg14
+VCompound
+p79
+sg16
+(lp80
+sg25
+VCO2
+p81
+sa(dp82
+g3
+(lp83
+VMississippi embayment
+p84
+aVnatural place
+p85
+aVstream
+p86
+aVPattern
+p87
+aVRivers
+p88
+aVplace
+p89
+aVbody of water
+p90
+aVriver
+p91
+asg12
+g13
+sg14
+VLocation
+p92
+sg16
+(lp93
+(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g84
+V plume (MRP) in the Gulf of Mexico.
+tp94
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g85
+V plume (MRP) in the Gulf of Mexico.
+tp95
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g86
+V plume (MRP) in the Gulf of Mexico.
+tp96
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g87
+V plume (MRP) in the Gulf of Mexico.
+tp97
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g88
+V plume (MRP) in the Gulf of Mexico.
+tp98
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g89
+V plume (MRP) in the Gulf of Mexico.
+tp99
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g90
+V plume (MRP) in the Gulf of Mexico.
+tp100
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the 
+g91
+V plume (MRP) in the Gulf of Mexico.
+tp101
+asg25
+VMississippi River
+p102
+sa(dp103
+g3
+(lp104
+VIsland
+p105
+aVStructural basin
+p106
+aVOceanic basin
+p107
+aVplace
+p108
+aVbody of water
+p109
+aVnatural place
+p110
+asg12
+g13
+sg14
+VLocation
+p111
+sg16
+(lp112
+(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g105
+V.
+tp113
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g106
+V.
+tp114
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g107
+V.
+tp115
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g108
+V.
+tp116
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g109
+V.
+tp117
+a(VTo determine the relationship between expression of the major gene in carbon fixation (large subunit of ribulose-1,5-bisphosphate carboxylase/oxygenase, RuBisCO) and CO2 dynamics, we evaluated rbcL mRNA abundance using novel quantitative PCR assays, phytoplankton cell analyses, photophysiological parameters, and pCO2 in and around the Mississippi River plume (MRP) in the 
+g110
+V.
+tp118
+asg25
+VGulf of Mexico
+p119
+sa(dp120
+g3
+(lp121
+VChemical element
+p122
+aVChemical substance
+p123
+aVCarbon forms
+p124
+aVMatter
+p125
+aVReducing agents
+p126
+aVCarbonate minerals
+p127
+aVChemistry
+p128
+asg12
+g13
+sg14
+VCompound
+p129
+sg16
+(lp130
+(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g122
+V concentrating mechanisms (CCMs).
+tp131
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g123
+V concentrating mechanisms (CCMs).
+tp132
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g124
+V concentrating mechanisms (CCMs).
+tp133
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g125
+V concentrating mechanisms (CCMs).
+tp134
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g126
+V concentrating mechanisms (CCMs).
+tp135
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g127
+V concentrating mechanisms (CCMs).
+tp136
+a(VWhile Prochlorococcus cells did not exhibit a large difference between low and high pCO2 water, Prochlorococcus rbcL RNA concentrations had a strong positive correlation to pCO2, suggesting a very low level of RuBisCO RNA transcription among Prochlorococcus in the plume waters, possibly due to their relatively poor 
+g128
+V concentrating mechanisms (CCMs).
+tp137
+asg25
+Vcarbon
+p138
+sa(dp139
+g3
+(lp140
+sg12
+g13
+sg14
+VCompound
+p141
+sg16
+(lp142
+sg25
+VCO2
+p143
+sa(dp144
+g3
+(lp145
+sg12
+g13
+sg14
+VCompound
+p146
+sg16
+(lp147
+sg25
+VCO2
+p148
+sa(dp149
+g3
+(lp150
+sg12
+g13
+sg14
+VCompound
+p151
+sg16
+(lp152
+sg25
+VCO2
+p153
+sa(dp154
+g3
+(lp155
+sg12
+g13
+sg14
+VCompound
+p156
+sg16
+(lp157
+sg25
+VCO2
+p158
+sa.

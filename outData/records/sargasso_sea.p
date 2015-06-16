@@ -1,0 +1,121 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VRegion
+p4
+sS'term'
+p5
+VSargasso Sea
+p6
+sS'generalizedURI'
+p7
+Vhttp://wibitaxonomy.org/Region
+p8
+sS'generalizedFreq'
+p9
+I25174
+sS'subjectURI'
+p10
+Vhttp://wibitaxonomy.org/Sargasso_Sea
+p11
+sS'inputType'
+p12
+VLocation
+p13
+sS'generalizedLemma'
+p14
+Vregion
+p15
+sa(dp16
+g3
+VBermuda Triangle
+p17
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Bermuda_Triangle
+p18
+sg9
+I1
+sg10
+Vhttp://dbpedia.org/resource/Sargasso_Sea
+p19
+sg12
+g13
+sg14
+VBermuda triangle
+p20
+sa(dp21
+g3
+VNautical lore
+p22
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Nautical_lore
+p23
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VNautical lore
+p24
+sa(dp25
+g3
+VSeas of the Atlantic Ocean
+p26
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Seas_of_the_Atlantic_Ocean
+p27
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VSeas of the Atlantic ocean
+p28
+sa(dp29
+g3
+VSubdivision %5C%28land%5C%29
+p30
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Subdivision_%5C%28land%5C%29
+p31
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VSubdivision %5c%28land%5c%29
+p32
+sa(dp33
+g3
+VAct of Parliament
+p34
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Act_of_Parliament
+p35
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VAct of parliament
+p36
+sa.

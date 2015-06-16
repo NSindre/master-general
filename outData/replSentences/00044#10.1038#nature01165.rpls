@@ -1,0 +1,173 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00044#10.1038#nature01165'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VA key question when trying to understand the global 
+g5
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp18
+a(VA key question when trying to understand the global 
+g6
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp19
+a(VA key question when trying to understand the global 
+g7
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp20
+a(VA key question when trying to understand the global 
+g8
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp21
+a(VA key question when trying to understand the global 
+g9
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp22
+a(VA key question when trying to understand the global 
+g10
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp23
+a(VA key question when trying to understand the global 
+g11
+V cycle is whether the oceans are net sources or sinks of carbon.
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g29
+V.
+tp38
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g30
+V.
+tp39
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g31
+V.
+tp40
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g32
+V.
+tp41
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g33
+V.
+tp42
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g34
+V.
+tp43
+a(VA key question when trying to understand the global carbon cycle is whether the oceans are net sources or sinks of 
+g35
+V.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VNevertheless, whether the biota act as a net source or sink of 
+g48
+V remains an open question.
+tp57
+a(VNevertheless, whether the biota act as a net source or sink of 
+g49
+V remains an open question.
+tp58
+a(VNevertheless, whether the biota act as a net source or sink of 
+g50
+V remains an open question.
+tp59
+a(VNevertheless, whether the biota act as a net source or sink of 
+g51
+V remains an open question.
+tp60
+a(VNevertheless, whether the biota act as a net source or sink of 
+g52
+V remains an open question.
+tp61
+a(VNevertheless, whether the biota act as a net source or sink of 
+g53
+V remains an open question.
+tp62
+a(VNevertheless, whether the biota act as a net source or sink of 
+g54
+V remains an open question.
+tp63
+asg25
+Vcarbon
+p64
+sa.

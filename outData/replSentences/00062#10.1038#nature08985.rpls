@@ -1,0 +1,1698 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00062#10.1038#nature08985'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VStoichiometric control of organic 
+g5
+V-nitrate relationships from soils to the sea
+tp18
+a(VStoichiometric control of organic 
+g6
+V-nitrate relationships from soils to the sea
+tp19
+a(VStoichiometric control of organic 
+g7
+V-nitrate relationships from soils to the sea
+tp20
+a(VStoichiometric control of organic 
+g8
+V-nitrate relationships from soils to the sea
+tp21
+a(VStoichiometric control of organic 
+g9
+V-nitrate relationships from soils to the sea
+tp22
+a(VStoichiometric control of organic 
+g10
+V-nitrate relationships from soils to the sea
+tp23
+a(VStoichiometric control of organic 
+g11
+V-nitrate relationships from soils to the sea
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+Vchemical substance
+p29
+aVCuring agents
+p30
+aVWater quality indicators
+p31
+aVNitrates
+p32
+aVNitrogen metabolism
+p33
+aVFunctional groups
+p34
+aVchemical compound
+p35
+aVAtom
+p36
+aVMolecular mass
+p37
+aVMass
+p38
+asg12
+g13
+sg14
+VCompound
+p39
+sg16
+(lp40
+(VStoichiometric control of organic carbon-
+g29
+V relationships from soils to the sea
+tp41
+a(VStoichiometric control of organic carbon-
+g30
+V relationships from soils to the sea
+tp42
+a(VStoichiometric control of organic carbon-
+g31
+V relationships from soils to the sea
+tp43
+a(VStoichiometric control of organic carbon-
+g32
+V relationships from soils to the sea
+tp44
+a(VStoichiometric control of organic carbon-
+g33
+V relationships from soils to the sea
+tp45
+a(VStoichiometric control of organic carbon-
+g34
+V relationships from soils to the sea
+tp46
+a(VStoichiometric control of organic carbon-
+g35
+V relationships from soils to the sea
+tp47
+a(VStoichiometric control of organic carbon-
+g36
+V relationships from soils to the sea
+tp48
+a(VStoichiometric control of organic carbon-
+g37
+V relationships from soils to the sea
+tp49
+a(VStoichiometric control of organic carbon-
+g38
+V relationships from soils to the sea
+tp50
+asg25
+Vnitrate
+p51
+sa(dp52
+g3
+(lp53
+VChemical element
+p54
+aVChemical substance
+p55
+aVIndustrial gases
+p56
+aVCoolants
+p57
+aVMatter
+p58
+aVChemistry
+p59
+asg12
+g13
+sg14
+VCompound
+p60
+sg16
+(lp61
+(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g54
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp62
+a(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g55
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp63
+a(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g56
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp64
+a(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g57
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp65
+a(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g58
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp66
+a(VThe production of artificial fertilizers, fossil fuel use and leguminous agriculture worldwide has increased the amount of reactive 
+g59
+V in the natural environment by an order of magnitude since the Industrial Revolution.
+tp67
+asg25
+Vnitrogen
+p68
+sa(dp69
+g3
+(lp70
+VChemical element
+p71
+aVChemical substance
+p72
+aVIndustrial gases
+p73
+aVCoolants
+p74
+aVMatter
+p75
+aVChemistry
+p76
+asg12
+g13
+sg14
+VCompound
+p77
+sg16
+(lp78
+(VThis reorganization of the 
+g71
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp79
+a(VThis reorganization of the 
+g72
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp80
+a(VThis reorganization of the 
+g73
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp81
+a(VThis reorganization of the 
+g74
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp82
+a(VThis reorganization of the 
+g75
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp83
+a(VThis reorganization of the 
+g76
+V cycle has led to an increase in food production, but increasingly causes a number of environmental problems.
+tp84
+asg25
+Vnitrogen
+p85
+sa(dp86
+g3
+(lp87
+Vchemical substance
+p88
+aVCuring agents
+p89
+aVWater quality indicators
+p90
+aVNitrates
+p91
+aVNitrogen metabolism
+p92
+aVFunctional groups
+p93
+aVchemical compound
+p94
+aVAtom
+p95
+aVMolecular mass
+p96
+aVMass
+p97
+asg12
+g13
+sg14
+VCompound
+p98
+sg16
+(lp99
+(VOne such problem is the accumulation of 
+g88
+V in both freshwater and coastal marine ecosystems.
+tp100
+a(VOne such problem is the accumulation of 
+g89
+V in both freshwater and coastal marine ecosystems.
+tp101
+a(VOne such problem is the accumulation of 
+g90
+V in both freshwater and coastal marine ecosystems.
+tp102
+a(VOne such problem is the accumulation of 
+g91
+V in both freshwater and coastal marine ecosystems.
+tp103
+a(VOne such problem is the accumulation of 
+g92
+V in both freshwater and coastal marine ecosystems.
+tp104
+a(VOne such problem is the accumulation of 
+g93
+V in both freshwater and coastal marine ecosystems.
+tp105
+a(VOne such problem is the accumulation of 
+g94
+V in both freshwater and coastal marine ecosystems.
+tp106
+a(VOne such problem is the accumulation of 
+g95
+V in both freshwater and coastal marine ecosystems.
+tp107
+a(VOne such problem is the accumulation of 
+g96
+V in both freshwater and coastal marine ecosystems.
+tp108
+a(VOne such problem is the accumulation of 
+g97
+V in both freshwater and coastal marine ecosystems.
+tp109
+asg25
+Vnitrate
+p110
+sa(dp111
+g3
+(lp112
+Vchemical substance
+p113
+aVCuring agents
+p114
+aVWater quality indicators
+p115
+aVNitrates
+p116
+aVNitrogen metabolism
+p117
+aVFunctional groups
+p118
+aVchemical compound
+p119
+aVAtom
+p120
+aVMolecular mass
+p121
+aVMass
+p122
+asg12
+g13
+sg14
+VCompound
+p123
+sg16
+(lp124
+(VHere we establish that ecosystem 
+g113
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp125
+a(VHere we establish that ecosystem 
+g114
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp126
+a(VHere we establish that ecosystem 
+g115
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp127
+a(VHere we establish that ecosystem 
+g116
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp128
+a(VHere we establish that ecosystem 
+g117
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp129
+a(VHere we establish that ecosystem 
+g118
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp130
+a(VHere we establish that ecosystem 
+g119
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp131
+a(VHere we establish that ecosystem 
+g120
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp132
+a(VHere we establish that ecosystem 
+g121
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp133
+a(VHere we establish that ecosystem 
+g122
+V accrual exhibits consistent and negative nonlinear correlations with organic carbon availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp134
+asg25
+Vnitrate
+p135
+sa(dp136
+g3
+(lp137
+VChemical element
+p138
+aVChemical substance
+p139
+aVCarbon forms
+p140
+aVMatter
+p141
+aVReducing agents
+p142
+aVCarbonate minerals
+p143
+aVChemistry
+p144
+asg12
+g13
+sg14
+VCompound
+p145
+sg16
+(lp146
+(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g138
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp147
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g139
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp148
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g140
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp149
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g141
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp150
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g142
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp151
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g143
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp152
+a(VHere we establish that ecosystem nitrate accrual exhibits consistent and negative nonlinear correlations with organic 
+g144
+V availability along a hydrologic continuum from soils, through freshwater systems and coastal margins, to the open ocean.
+tp153
+asg25
+Vcarbon
+p154
+sa(dp155
+g3
+(lp156
+sg12
+g13
+sg14
+VSpecies
+p157
+sg16
+(lp158
+sg25
+Vhuman
+p159
+sa(dp160
+g3
+(lp161
+VChemical element
+p162
+aVChemical substance
+p163
+aVCarbon forms
+p164
+aVMatter
+p165
+aVReducing agents
+p166
+aVCarbonate minerals
+p167
+aVChemistry
+p168
+asg12
+g13
+sg14
+VCompound
+p169
+sg16
+(lp170
+(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g162
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp171
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g163
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp172
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g164
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp173
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g165
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp174
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g166
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp175
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g167
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp176
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic 
+g168
+V:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp177
+asg25
+Vcarbon
+p178
+sa(dp179
+g3
+(lp180
+Vchemical substance
+p181
+aVCuring agents
+p182
+aVWater quality indicators
+p183
+aVNitrates
+p184
+aVNitrogen metabolism
+p185
+aVFunctional groups
+p186
+aVchemical compound
+p187
+aVAtom
+p188
+aVMolecular mass
+p189
+aVMass
+p190
+asg12
+g13
+sg14
+VCompound
+p191
+sg16
+(lp192
+(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g181
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp193
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g182
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp194
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g183
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp195
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g184
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp196
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g185
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp197
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g186
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp198
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g187
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp199
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g188
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp200
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g189
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp201
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:
+g190
+V) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp202
+asg25
+Vnitrate
+p203
+sa(dp204
+g3
+(lp205
+VChemical element
+p206
+aVChemical substance
+p207
+aVCarbon forms
+p208
+aVMatter
+p209
+aVReducing agents
+p210
+aVCarbonate minerals
+p211
+aVChemistry
+p212
+asg12
+g13
+sg14
+VCompound
+p213
+sg16
+(lp214
+(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g206
+V and nitrate cycling.
+tp215
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g207
+V and nitrate cycling.
+tp216
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g208
+V and nitrate cycling.
+tp217
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g209
+V and nitrate cycling.
+tp218
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g210
+V and nitrate cycling.
+tp219
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g211
+V and nitrate cycling.
+tp220
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic 
+g212
+V and nitrate cycling.
+tp221
+asg25
+Vcarbon
+p222
+sa(dp223
+g3
+(lp224
+Vchemical substance
+p225
+aVCuring agents
+p226
+aVWater quality indicators
+p227
+aVNitrates
+p228
+aVNitrogen metabolism
+p229
+aVFunctional groups
+p230
+aVchemical compound
+p231
+aVAtom
+p232
+aVMolecular mass
+p233
+aVMass
+p234
+asg12
+g13
+sg14
+VCompound
+p235
+sg16
+(lp236
+(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g225
+V cycling.
+tp237
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g226
+V cycling.
+tp238
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g227
+V cycling.
+tp239
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g228
+V cycling.
+tp240
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g229
+V cycling.
+tp241
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g230
+V cycling.
+tp242
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g231
+V cycling.
+tp243
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g232
+V cycling.
+tp244
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g233
+V cycling.
+tp245
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences nitrate accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and 
+g234
+V cycling.
+tp246
+asg25
+Vnitrate
+p247
+sa(dp248
+g3
+(lp249
+Vchemical substance
+p250
+aVCuring agents
+p251
+aVWater quality indicators
+p252
+aVNitrates
+p253
+aVNitrogen metabolism
+p254
+aVFunctional groups
+p255
+aVchemical compound
+p256
+aVAtom
+p257
+aVMolecular mass
+p258
+aVMass
+p259
+asg12
+g13
+sg14
+VCompound
+p260
+sg16
+(lp261
+(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g250
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp262
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g251
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp263
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g252
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp264
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g253
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp265
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g254
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp266
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g255
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp267
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g256
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp268
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g257
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp269
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g258
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp270
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low 
+g259
+V concentrations when organic carbon:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp271
+asg25
+Vnitrate
+p272
+sa(dp273
+g3
+(lp274
+VChemical element
+p275
+aVChemical substance
+p276
+aVCarbon forms
+p277
+aVMatter
+p278
+aVReducing agents
+p279
+aVCarbonate minerals
+p280
+aVChemistry
+p281
+asg12
+g13
+sg14
+VCompound
+p282
+sg16
+(lp283
+(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g275
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp284
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g276
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp285
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g277
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp286
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g278
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp287
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g279
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp288
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g280
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp289
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic 
+g281
+V:nitrate ratios match the stoichiometric demands of microbial anabolism.
+tp290
+asg25
+Vcarbon
+p291
+sa(dp292
+g3
+(lp293
+Vchemical substance
+p294
+aVCuring agents
+p295
+aVWater quality indicators
+p296
+aVNitrates
+p297
+aVNitrogen metabolism
+p298
+aVFunctional groups
+p299
+aVchemical compound
+p300
+aVAtom
+p301
+aVMolecular mass
+p302
+aVMass
+p303
+asg12
+g13
+sg14
+VCompound
+p304
+sg16
+(lp305
+(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g294
+V ratios match the stoichiometric demands of microbial anabolism.
+tp306
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g295
+V ratios match the stoichiometric demands of microbial anabolism.
+tp307
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g296
+V ratios match the stoichiometric demands of microbial anabolism.
+tp308
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g297
+V ratios match the stoichiometric demands of microbial anabolism.
+tp309
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g298
+V ratios match the stoichiometric demands of microbial anabolism.
+tp310
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g299
+V ratios match the stoichiometric demands of microbial anabolism.
+tp311
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g300
+V ratios match the stoichiometric demands of microbial anabolism.
+tp312
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g301
+V ratios match the stoichiometric demands of microbial anabolism.
+tp313
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g302
+V ratios match the stoichiometric demands of microbial anabolism.
+tp314
+a(VWith the help of a meta-analysis we show that heterotrophic microbes maintain low nitrate concentrations when organic carbon:
+g303
+V ratios match the stoichiometric demands of microbial anabolism.
+tp315
+asg25
+Vnitrate
+p316
+sa(dp317
+g3
+(lp318
+VChemical element
+p319
+aVChemical substance
+p320
+aVCarbon forms
+p321
+aVMatter
+p322
+aVReducing agents
+p323
+aVCarbonate minerals
+p324
+aVChemistry
+p325
+asg12
+g13
+sg14
+VCompound
+p326
+sg16
+(lp327
+(VWhen resource ratios drop below the minimum 
+g319
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp328
+a(VWhen resource ratios drop below the minimum 
+g320
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp329
+a(VWhen resource ratios drop below the minimum 
+g321
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp330
+a(VWhen resource ratios drop below the minimum 
+g322
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp331
+a(VWhen resource ratios drop below the minimum 
+g323
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp332
+a(VWhen resource ratios drop below the minimum 
+g324
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp333
+a(VWhen resource ratios drop below the minimum 
+g325
+V:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp334
+asg25
+Vcarbon
+p335
+sa(dp336
+g3
+(lp337
+VChemical element
+p338
+aVChemical substance
+p339
+aVIndustrial gases
+p340
+aVCoolants
+p341
+aVMatter
+p342
+aVChemistry
+p343
+asg12
+g13
+sg14
+VCompound
+p344
+sg16
+(lp345
+(VWhen resource ratios drop below the minimum carbon:
+g338
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp346
+a(VWhen resource ratios drop below the minimum carbon:
+g339
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp347
+a(VWhen resource ratios drop below the minimum carbon:
+g340
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp348
+a(VWhen resource ratios drop below the minimum carbon:
+g341
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp349
+a(VWhen resource ratios drop below the minimum carbon:
+g342
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp350
+a(VWhen resource ratios drop below the minimum carbon:
+g343
+V ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp351
+asg25
+Vnitrogen
+p352
+sa(dp353
+g3
+(lp354
+VChemical element
+p355
+aVChemical substance
+p356
+aVCarbon forms
+p357
+aVMatter
+p358
+aVReducing agents
+p359
+aVCarbonate minerals
+p360
+aVChemistry
+p361
+asg12
+g13
+sg14
+VCompound
+p362
+sg16
+(lp363
+(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g355
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp364
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g356
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp365
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g357
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp366
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g358
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp367
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g359
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp368
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g360
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp369
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of 
+g361
+V limitation appears to drive rapid nitrate accrual, which may then be further enhanced by nitrification.
+tp370
+asg25
+Vcarbon
+p371
+sa(dp372
+g3
+(lp373
+Vchemical substance
+p374
+aVCuring agents
+p375
+aVWater quality indicators
+p376
+aVNitrates
+p377
+aVNitrogen metabolism
+p378
+aVFunctional groups
+p379
+aVchemical compound
+p380
+aVAtom
+p381
+aVMolecular mass
+p382
+aVMass
+p383
+asg12
+g13
+sg14
+VCompound
+p384
+sg16
+(lp385
+(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g374
+V accrual, which may then be further enhanced by nitrification.
+tp386
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g375
+V accrual, which may then be further enhanced by nitrification.
+tp387
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g376
+V accrual, which may then be further enhanced by nitrification.
+tp388
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g377
+V accrual, which may then be further enhanced by nitrification.
+tp389
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g378
+V accrual, which may then be further enhanced by nitrification.
+tp390
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g379
+V accrual, which may then be further enhanced by nitrification.
+tp391
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g380
+V accrual, which may then be further enhanced by nitrification.
+tp392
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g381
+V accrual, which may then be further enhanced by nitrification.
+tp393
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g382
+V accrual, which may then be further enhanced by nitrification.
+tp394
+a(VWhen resource ratios drop below the minimum carbon:nitrogen ratio of microbial biomass, however, the onset of carbon limitation appears to drive rapid 
+g383
+V accrual, which may then be further enhanced by nitrification.
+tp395
+asg25
+Vnitrate
+p396
+sa(dp397
+g3
+(lp398
+VChemical element
+p399
+aVChemical substance
+p400
+aVCarbon forms
+p401
+aVMatter
+p402
+aVReducing agents
+p403
+aVCarbonate minerals
+p404
+aVChemistry
+p405
+asg12
+g13
+sg14
+VCompound
+p406
+sg16
+(lp407
+(VAt low organic 
+g399
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp408
+a(VAt low organic 
+g400
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp409
+a(VAt low organic 
+g401
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp410
+a(VAt low organic 
+g402
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp411
+a(VAt low organic 
+g403
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp412
+a(VAt low organic 
+g404
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp413
+a(VAt low organic 
+g405
+V:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp414
+asg25
+Vcarbon
+p415
+sa(dp416
+g3
+(lp417
+Vchemical substance
+p418
+aVCuring agents
+p419
+aVWater quality indicators
+p420
+aVNitrates
+p421
+aVNitrogen metabolism
+p422
+aVFunctional groups
+p423
+aVchemical compound
+p424
+aVAtom
+p425
+aVMolecular mass
+p426
+aVMass
+p427
+asg12
+g13
+sg14
+VCompound
+p428
+sg16
+(lp429
+(VAt low organic carbon:
+g418
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp430
+a(VAt low organic carbon:
+g419
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp431
+a(VAt low organic carbon:
+g420
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp432
+a(VAt low organic carbon:
+g421
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp433
+a(VAt low organic carbon:
+g422
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp434
+a(VAt low organic carbon:
+g423
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp435
+a(VAt low organic carbon:
+g424
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp436
+a(VAt low organic carbon:
+g425
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp437
+a(VAt low organic carbon:
+g426
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp438
+a(VAt low organic carbon:
+g427
+V ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp439
+asg25
+Vnitrate
+p440
+sa(dp441
+g3
+(lp442
+Vchemical substance
+p443
+aVCuring agents
+p444
+aVWater quality indicators
+p445
+aVNitrates
+p446
+aVNitrogen metabolism
+p447
+aVFunctional groups
+p448
+aVchemical compound
+p449
+aVAtom
+p450
+aVMolecular mass
+p451
+aVMass
+p452
+asg12
+g13
+sg14
+VCompound
+p453
+sg16
+(lp454
+(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g443
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp455
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g444
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp456
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g445
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp457
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g446
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp458
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g447
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp459
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g448
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp460
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g449
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp461
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g450
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp462
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g451
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp463
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of 
+g452
+V accretion, once organic carbon and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp464
+asg25
+Vnitrate
+p465
+sa(dp466
+g3
+(lp467
+VChemical element
+p468
+aVChemical substance
+p469
+aVCarbon forms
+p470
+aVMatter
+p471
+aVReducing agents
+p472
+aVCarbonate minerals
+p473
+aVChemistry
+p474
+asg12
+g13
+sg14
+VCompound
+p475
+sg16
+(lp476
+(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g468
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp477
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g469
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp478
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g470
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp479
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g471
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp480
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g472
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp481
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g473
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp482
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic 
+g474
+V and nitrate availability approach the 1:1 stoichiometry of this catabolic process.
+tp483
+asg25
+Vcarbon
+p484
+sa(dp485
+g3
+(lp486
+Vchemical substance
+p487
+aVCuring agents
+p488
+aVWater quality indicators
+p489
+aVNitrates
+p490
+aVNitrogen metabolism
+p491
+aVFunctional groups
+p492
+aVchemical compound
+p493
+aVAtom
+p494
+aVMolecular mass
+p495
+aVMass
+p496
+asg12
+g13
+sg14
+VCompound
+p497
+sg16
+(lp498
+(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g487
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp499
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g488
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp500
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g489
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp501
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g490
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp502
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g491
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp503
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g492
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp504
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g493
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp505
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g494
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp506
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g495
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp507
+a(VAt low organic carbon:nitrate ratios, denitrification appears to constrain the extent of nitrate accretion, once organic carbon and 
+g496
+V availability approach the 1:1 stoichiometry of this catabolic process.
+tp508
+asg25
+Vnitrate
+p509
+sa(dp510
+g3
+(lp511
+Vchemical substance
+p512
+aVCuring agents
+p513
+aVWater quality indicators
+p514
+aVNitrates
+p515
+aVNitrogen metabolism
+p516
+aVFunctional groups
+p517
+aVchemical compound
+p518
+aVAtom
+p519
+aVMolecular mass
+p520
+aVMass
+p521
+asg12
+g13
+sg14
+VCompound
+p522
+sg16
+(lp523
+(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g512
+V accrual to a constrained stoichiometric window.
+tp524
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g513
+V accrual to a constrained stoichiometric window.
+tp525
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g514
+V accrual to a constrained stoichiometric window.
+tp526
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g515
+V accrual to a constrained stoichiometric window.
+tp527
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g516
+V accrual to a constrained stoichiometric window.
+tp528
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g517
+V accrual to a constrained stoichiometric window.
+tp529
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g518
+V accrual to a constrained stoichiometric window.
+tp530
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g519
+V accrual to a constrained stoichiometric window.
+tp531
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g520
+V accrual to a constrained stoichiometric window.
+tp532
+a(VCollectively, these microbial processes express themselves on local to global scales by restricting the threshold ratios underlying 
+g521
+V accrual to a constrained stoichiometric window.
+tp533
+asg25
+Vnitrate
+p534
+sa(dp535
+g3
+(lp536
+Vchemical substance
+p537
+aVCuring agents
+p538
+aVWater quality indicators
+p539
+aVNitrates
+p540
+aVNitrogen metabolism
+p541
+aVFunctional groups
+p542
+aVchemical compound
+p543
+aVAtom
+p544
+aVMolecular mass
+p545
+aVMass
+p546
+asg12
+g13
+sg14
+VCompound
+p547
+sg16
+(lp548
+(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g537
+V across disparate environments and in the face of human disturbance.
+tp549
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g538
+V across disparate environments and in the face of human disturbance.
+tp550
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g539
+V across disparate environments and in the face of human disturbance.
+tp551
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g540
+V across disparate environments and in the face of human disturbance.
+tp552
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g541
+V across disparate environments and in the face of human disturbance.
+tp553
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g542
+V across disparate environments and in the face of human disturbance.
+tp554
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g543
+V across disparate environments and in the face of human disturbance.
+tp555
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g544
+V across disparate environments and in the face of human disturbance.
+tp556
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g545
+V across disparate environments and in the face of human disturbance.
+tp557
+a(VOur findings indicate that ecological stoichiometry can help explain the fate of 
+g546
+V across disparate environments and in the face of human disturbance.
+tp558
+asg25
+Vnitrate
+p559
+sa(dp560
+g3
+(lp561
+sg12
+g13
+sg14
+VSpecies
+p562
+sg16
+(lp563
+sg25
+Vhuman
+p564
+sa(dp565
+g3
+(lp566
+Vchemical substance
+p567
+aVCuring agents
+p568
+aVWater quality indicators
+p569
+aVNitrates
+p570
+aVNitrogen metabolism
+p571
+aVFunctional groups
+p572
+aVchemical compound
+p573
+aVAtom
+p574
+aVMolecular mass
+p575
+aVMass
+p576
+asg12
+g13
+sg14
+VCompound
+p577
+sg16
+(lp578
+(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g567
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp579
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g568
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp580
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g569
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp581
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g570
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp582
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g571
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp583
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g572
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp584
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g573
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp585
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g574
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp586
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g575
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp587
+a(VAcross this diversity of environments, we find evidence that resource stoichiometry (organic carbon:nitrate) strongly influences 
+g576
+V accumulation by regulating a suite of microbial processes that couple dissolved organic carbon and nitrate cycling.
+tp588
+asg25
+Vnitrate
+p589
+sa.

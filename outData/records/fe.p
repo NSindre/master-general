@@ -1,0 +1,30 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VTwo-letter disambiguation pages
+p4
+sS'term'
+p5
+VFe
+p6
+sS'generalizedURI'
+p7
+Vhttp://dbpedia.org/resource/Category:Two-letter_disambiguation_pages
+p8
+sS'generalizedFreq'
+p9
+I0
+sS'subjectURI'
+p10
+Vhttp://dbpedia.org/resource/Fe
+p11
+sS'inputType'
+p12
+VCompound
+p13
+sS'generalizedLemma'
+p14
+VTwo-letter disambiguation page
+p15
+sa.

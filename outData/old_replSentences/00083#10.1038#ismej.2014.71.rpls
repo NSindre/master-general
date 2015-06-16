@@ -1,0 +1,755 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVMatter
+p7
+aVChemistry
+p8
+aVOxidizing agents
+p9
+asS'fileName'
+p10
+S'00083#10.1038#ismej.2014.71'
+p11
+sS'entityType'
+p12
+VCompound
+p13
+sS'sentences'
+p14
+(lp15
+(VFacets of diazotrophy in the 
+g5
+V minimum zone waters off Peru
+tp16
+a(VFacets of diazotrophy in the 
+g6
+V minimum zone waters off Peru
+tp17
+a(VFacets of diazotrophy in the 
+g7
+V minimum zone waters off Peru
+tp18
+a(VFacets of diazotrophy in the 
+g8
+V minimum zone waters off Peru
+tp19
+a(VFacets of diazotrophy in the 
+g9
+V minimum zone waters off Peru
+tp20
+asS'entity'
+p21
+Voxygen
+p22
+sa(dp23
+g3
+(lp24
+Vpopulated place
+p25
+aVcountry
+p26
+aVRepublics
+p27
+aVCountries in South America
+p28
+aVplace
+p29
+aVSouth American countries
+p30
+aVAmerican countries
+p31
+aVLiberal democracies
+p32
+asg10
+g11
+sg12
+VLocation
+p33
+sg14
+(lp34
+(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g25
+V
+tp35
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g26
+V
+tp36
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g27
+V
+tp37
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g28
+V
+tp38
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g29
+V
+tp39
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g30
+V
+tp40
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g31
+V
+tp41
+a(VFacets of diazotrophy in the oxygen minimum zone waters off 
+g32
+V
+tp42
+asg21
+VPeru
+p43
+sa(dp44
+g3
+(lp45
+VChemical element
+p46
+aVChemical substance
+p47
+aVIndustrial gases
+p48
+aVCoolants
+p49
+aVMatter
+p50
+aVChemistry
+p51
+asg10
+g11
+sg12
+VCompound
+p52
+sg14
+(lp53
+(V
+g46
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp54
+a(V
+g47
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp55
+a(V
+g48
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp56
+a(V
+g49
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp57
+a(V
+g50
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp58
+a(V
+g51
+V fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp59
+asg21
+VNitrogen
+p60
+sa(dp61
+g3
+(lp62
+sg10
+g11
+sg12
+VCompound
+p63
+sg14
+(lp64
+sg21
+VN2
+p65
+sa(dp66
+g3
+(lp67
+Vchemical substance
+p68
+aVAmmonium compounds
+p69
+aVchemical compound
+p70
+aVCations
+p71
+aVAtom
+p72
+asg10
+g11
+sg12
+VCompound
+p73
+sg14
+(lp74
+(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to 
+g68
+V (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp75
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to 
+g69
+V (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp76
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to 
+g70
+V (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp77
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to 
+g71
+V (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp78
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to 
+g72
+V (NH4+), is quantitatively the most important external source of new nitrogen (N) to the open ocean.
+tp79
+asg21
+Vammonium
+p80
+sa(dp81
+g3
+(lp82
+sg10
+g11
+sg12
+VCompound
+p83
+sg14
+(lp84
+sg21
+VNH4+
+p85
+sa(dp86
+g3
+(lp87
+VChemical element
+p88
+aVChemical substance
+p89
+aVIndustrial gases
+p90
+aVCoolants
+p91
+aVMatter
+p92
+aVChemistry
+p93
+asg10
+g11
+sg12
+VCompound
+p94
+sg14
+(lp95
+(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g88
+V (N) to the open ocean.
+tp96
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g89
+V (N) to the open ocean.
+tp97
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g90
+V (N) to the open ocean.
+tp98
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g91
+V (N) to the open ocean.
+tp99
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g92
+V (N) to the open ocean.
+tp100
+a(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new 
+g93
+V (N) to the open ocean.
+tp101
+asg21
+Vnitrogen
+p102
+sa(dp103
+g3
+(lp104
+VGrapheme
+p105
+asg10
+g11
+sg12
+VCompound
+p106
+sg14
+(lp107
+(VNitrogen fixation, the biological reduction of dinitrogen gas (N2) to ammonium (NH4+), is quantitatively the most important external source of new nitrogen (
+g105
+V) to the open ocean.
+tp108
+asg21
+VN
+sa(dp109
+g3
+(lp110
+sg10
+g11
+sg12
+VCompound
+p111
+sg14
+(lp112
+sg21
+VN2
+p113
+sa(dp114
+g3
+(lp115
+VGrapheme
+p116
+asg10
+g11
+sg12
+VCompound
+p117
+sg14
+(lp118
+(VClassically, the ecological niche of oceanic N2 fixers (diazotrophs) is ascribed to tropical oligotrophic surface waters, often depleted in fixed 
+g116
+V, with a diazotrophic community dominated by cyanobacteria.
+tp119
+asg21
+VN
+sa(dp120
+g3
+(lp121
+sg10
+g11
+sg12
+VCompound
+p122
+sg14
+(lp123
+sg21
+VN2
+p124
+sa(dp125
+g3
+(lp126
+VChemical element
+p127
+aVChemical substance
+p128
+aVMatter
+p129
+aVChemistry
+p130
+aVOxidizing agents
+p131
+asg10
+g11
+sg12
+VCompound
+p132
+sg14
+(lp133
+(VOur results show the presence of eight clades of diazotrophs in the 
+g127
+V minimum zone (OMZ) off Peru.
+tp134
+a(VOur results show the presence of eight clades of diazotrophs in the 
+g128
+V minimum zone (OMZ) off Peru.
+tp135
+a(VOur results show the presence of eight clades of diazotrophs in the 
+g129
+V minimum zone (OMZ) off Peru.
+tp136
+a(VOur results show the presence of eight clades of diazotrophs in the 
+g130
+V minimum zone (OMZ) off Peru.
+tp137
+a(VOur results show the presence of eight clades of diazotrophs in the 
+g131
+V minimum zone (OMZ) off Peru.
+tp138
+asg21
+Voxygen
+p139
+sa(dp140
+g3
+(lp141
+Vpopulated place
+p142
+aVcountry
+p143
+aVRepublics
+p144
+aVCountries in South America
+p145
+aVplace
+p146
+aVSouth American countries
+p147
+aVAmerican countries
+p148
+aVLiberal democracies
+p149
+asg10
+g11
+sg12
+VLocation
+p150
+sg14
+(lp151
+(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g142
+V.
+tp152
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g143
+V.
+tp153
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g144
+V.
+tp154
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g145
+V.
+tp155
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g146
+V.
+tp156
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g147
+V.
+tp157
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g148
+V.
+tp158
+a(VOur results show the presence of eight clades of diazotrophs in the oxygen minimum zone (OMZ) off 
+g149
+V.
+tp159
+asg21
+VPeru
+p160
+sa(dp161
+g3
+(lp162
+sg10
+g11
+sg12
+VCompound
+p163
+sg14
+(lp164
+sg21
+VN2
+p165
+sa(dp166
+g3
+(lp167
+VChemical element
+p168
+aVChemical substance
+p169
+aVCarbon forms
+p170
+aVMatter
+p171
+aVReducing agents
+p172
+aVCarbonate minerals
+p173
+aVChemistry
+p174
+asg10
+g11
+sg12
+VCompound
+p175
+sg14
+(lp176
+(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g168
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp177
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g169
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp178
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g170
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp179
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g171
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp180
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g172
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp181
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g173
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp182
+a(VN2 fixation was detected within OMZ waters and was stimulated by the addition of organic 
+g174
+V sources supporting the view that non-phototrophic diazotrophs were actively fixing dinitrogen.
+tp183
+asg21
+Vcarbon
+p184
+sa(dp185
+g3
+(lp186
+sg10
+g11
+sg12
+VCompound
+p187
+sg14
+(lp188
+sg21
+Vdinitrogen
+p189
+sa(dp190
+g3
+(lp191
+sg10
+g11
+sg12
+VCompound
+p192
+sg14
+(lp193
+sg21
+VN2
+p194
+sa(dp195
+g3
+(lp196
+Vpopulated place
+p197
+aVcountry
+p198
+aVRepublics
+p199
+aVCountries in South America
+p200
+aVplace
+p201
+aVSouth American countries
+p202
+aVAmerican countries
+p203
+aVLiberal democracies
+p204
+asg10
+g11
+sg12
+VLocation
+p205
+sg14
+(lp206
+(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g197
+V.
+tp207
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g198
+V.
+tp208
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g199
+V.
+tp209
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g200
+V.
+tp210
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g201
+V.
+tp211
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g202
+V.
+tp212
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g203
+V.
+tp213
+a(VThe observed co-occurrence of key functional genes for N2 fixation, nitrification, anammox and denitrification suggests that a close spatial coupling of N-input and N-loss processes exists in the OMZ off 
+g204
+V.
+tp214
+asg21
+VPeru
+p215
+sa(dp216
+g3
+(lp217
+Vchemical substance
+p218
+aVCuring agents
+p219
+aVWater quality indicators
+p220
+aVNitrates
+p221
+aVNitrogen metabolism
+p222
+aVFunctional groups
+p223
+aVchemical compound
+p224
+aVAtom
+p225
+aVMolecular mass
+p226
+aVMass
+p227
+asg10
+g11
+sg12
+VCompound
+p228
+sg14
+(lp229
+(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g218
+V areas.
+tp230
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g219
+V areas.
+tp231
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g220
+V areas.
+tp232
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g221
+V areas.
+tp233
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g222
+V areas.
+tp234
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g223
+V areas.
+tp235
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g224
+V areas.
+tp236
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g225
+V areas.
+tp237
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g226
+V areas.
+tp238
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low oxygen/high 
+g227
+V areas.
+tp239
+asg21
+Vnitrate
+p240
+sa(dp241
+g3
+(lp242
+sg10
+g11
+sg12
+VCompound
+p243
+sg14
+(lp244
+sg21
+VNO2
+p245
+sa(dp246
+g3
+(lp247
+sg10
+g11
+sg12
+VCompound
+p248
+sg14
+(lp249
+sg21
+VPO43
+p250
+sa(dp251
+g3
+(lp252
+sg10
+g11
+sg12
+VCompound
+p253
+sg14
+(lp254
+sg21
+VN2
+p255
+sa(dp256
+g3
+(lp257
+VChemical element
+p258
+aVChemical substance
+p259
+aVMatter
+p260
+aVChemistry
+p261
+aVOxidizing agents
+p262
+asg10
+g11
+sg12
+VCompound
+p263
+sg14
+(lp264
+(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low 
+g258
+V/high nitrate areas.
+tp265
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low 
+g259
+V/high nitrate areas.
+tp266
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low 
+g260
+V/high nitrate areas.
+tp267
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low 
+g261
+V/high nitrate areas.
+tp268
+a(VThe wide distribution of diazotrophs throughout the water column adds to the emerging view that the habitat of marine diazotrophs can be extended to low 
+g262
+V/high nitrate areas.
+tp269
+asg21
+Voxygen
+p270
+sa.

@@ -1,0 +1,650 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00039#10.1038#ismej.2011.20'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(V
+g5
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp18
+a(V
+g6
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp19
+a(V
+g7
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp20
+a(V
+g8
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp21
+a(V
+g9
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp22
+a(V
+g10
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp23
+a(V
+g11
+V, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp24
+asS'entity'
+p25
+VCarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVIndustrial gases
+p31
+aVCoolants
+p32
+aVMatter
+p33
+aVChemistry
+p34
+asg12
+g13
+sg14
+VCompound
+p35
+sg16
+(lp36
+(VCarbon, 
+g29
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp37
+a(VCarbon, 
+g30
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp38
+a(VCarbon, 
+g31
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp39
+a(VCarbon, 
+g32
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp40
+a(VCarbon, 
+g33
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp41
+a(VCarbon, 
+g34
+V and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the Baltic Sea
+tp42
+asg25
+Vnitrogen
+p43
+sa(dp44
+g3
+(lp45
+sg12
+g13
+sg14
+VCompound
+p46
+sg16
+(lp47
+sg25
+VO2
+p48
+sa(dp49
+g3
+(lp50
+sg12
+g13
+sg14
+VSpecies
+p51
+sg16
+(lp52
+sg25
+VNodularia spumigena
+p53
+sa(dp54
+g3
+(lp55
+VEuropean seas
+p56
+aVBodies of water
+p57
+aVSea
+p58
+aVBody of water
+p59
+asg12
+g13
+sg14
+VLocation
+p60
+sg16
+(lp61
+(VCarbon, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the 
+g56
+V
+tp62
+a(VCarbon, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the 
+g57
+V
+tp63
+a(VCarbon, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the 
+g58
+V
+tp64
+a(VCarbon, nitrogen and O2 fluxes associated with the cyanobacterium Nodularia spumigena in the 
+g59
+V
+tp65
+asg25
+VBaltic Sea
+p66
+sa(dp67
+g3
+(lp68
+sg12
+g13
+sg14
+VCompound
+p69
+sg16
+(lp70
+sg25
+VN2
+p71
+sa(dp72
+g3
+(lp73
+Vchemical substance
+p74
+aVAmmonium compounds
+p75
+aVchemical compound
+p76
+aVCations
+p77
+aVAtom
+p78
+asg12
+g13
+sg14
+VCompound
+p79
+sg16
+(lp80
+(VPhotosynthesis, respiration, N2 fixation and 
+g74
+V release were studied directly in Nodularia spumigena during a bloom in the Baltic Sea using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp81
+a(VPhotosynthesis, respiration, N2 fixation and 
+g75
+V release were studied directly in Nodularia spumigena during a bloom in the Baltic Sea using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp82
+a(VPhotosynthesis, respiration, N2 fixation and 
+g76
+V release were studied directly in Nodularia spumigena during a bloom in the Baltic Sea using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp83
+a(VPhotosynthesis, respiration, N2 fixation and 
+g77
+V release were studied directly in Nodularia spumigena during a bloom in the Baltic Sea using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp84
+a(VPhotosynthesis, respiration, N2 fixation and 
+g78
+V release were studied directly in Nodularia spumigena during a bloom in the Baltic Sea using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp85
+asg25
+Vammonium
+p86
+sa(dp87
+g3
+(lp88
+sg12
+g13
+sg14
+VSpecies
+p89
+sg16
+(lp90
+sg25
+VNodularia spumigena
+p91
+sa(dp92
+g3
+(lp93
+VEuropean seas
+p94
+aVBodies of water
+p95
+aVSea
+p96
+aVBody of water
+p97
+asg12
+g13
+sg14
+VLocation
+p98
+sg16
+(lp99
+(VPhotosynthesis, respiration, N2 fixation and ammonium release were studied directly in Nodularia spumigena during a bloom in the 
+g94
+V using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp100
+a(VPhotosynthesis, respiration, N2 fixation and ammonium release were studied directly in Nodularia spumigena during a bloom in the 
+g95
+V using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp101
+a(VPhotosynthesis, respiration, N2 fixation and ammonium release were studied directly in Nodularia spumigena during a bloom in the 
+g96
+V using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp102
+a(VPhotosynthesis, respiration, N2 fixation and ammonium release were studied directly in Nodularia spumigena during a bloom in the 
+g97
+V using a combination of microsensors, stable isotope tracer experiments combined with nanoscale secondary ion mass spectrometry (nanoSIMS) and fluorometry.
+tp103
+asg25
+VBaltic Sea
+p104
+sa(dp105
+g3
+(lp106
+sg12
+g13
+sg14
+VSpecies
+p107
+sg16
+(lp108
+sg25
+VN. spumigena
+p109
+sa(dp110
+g3
+(lp111
+VGrapheme
+p112
+asg12
+g13
+sg14
+VCompound
+p113
+sg16
+(lp114
+(VCell-specific net C- and N2-fixation rates by N. spumigena were 81.6+/-6.7 and 11.4+/-0.9 fmol 
+g112
+V per cell per h, respectively.
+tp115
+asg25
+VN
+sa(dp116
+g3
+(lp117
+VChemical element
+p118
+aVChemical substance
+p119
+aVCarbon forms
+p120
+aVMatter
+p121
+aVReducing agents
+p122
+aVCarbonate minerals
+p123
+aVChemistry
+p124
+asg12
+g13
+sg14
+VCompound
+p125
+sg16
+(lp126
+(VDuring darkness, 
+g118
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp127
+a(VDuring darkness, 
+g119
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp128
+a(VDuring darkness, 
+g120
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp129
+a(VDuring darkness, 
+g121
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp130
+a(VDuring darkness, 
+g122
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp131
+a(VDuring darkness, 
+g123
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp132
+a(VDuring darkness, 
+g124
+V fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp133
+asg25
+Vcarbon
+p134
+sa(dp135
+g3
+(lp136
+sg12
+g13
+sg14
+VCompound
+p137
+sg16
+(lp138
+sg25
+VN2
+p139
+sa(dp140
+g3
+(lp141
+VGrapheme
+p142
+asg12
+g13
+sg14
+VCompound
+p143
+sg16
+(lp144
+(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol 
+g142
+V per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic carbon to colonies (>1 mm).
+tp145
+asg25
+VN
+sa(dp146
+g3
+(lp147
+sg12
+g13
+sg14
+VCompound
+p148
+sg16
+(lp149
+sg25
+VO2
+p150
+sa(dp151
+g3
+(lp152
+VChemical element
+p153
+aVChemical substance
+p154
+aVCarbon forms
+p155
+aVMatter
+p156
+aVReducing agents
+p157
+aVCarbonate minerals
+p158
+aVChemistry
+p159
+asg12
+g13
+sg14
+VCompound
+p160
+sg16
+(lp161
+(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g153
+V to colonies (>1 mm).
+tp162
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g154
+V to colonies (>1 mm).
+tp163
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g155
+V to colonies (>1 mm).
+tp164
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g156
+V to colonies (>1 mm).
+tp165
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g157
+V to colonies (>1 mm).
+tp166
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g158
+V to colonies (>1 mm).
+tp167
+a(VDuring darkness, carbon fixation was not detectable, but N2 fixation was 5.4+/-0.4 fmol N per cell per h. Net photosynthesis varied between 0.34 and 250 nmol O2 h-1 in colonies with diameters ranging between 0.13 and 5.0 mm, and it reached the theoretical upper limit set by diffusion of dissolved inorganic 
+g159
+V to colonies (>1 mm).
+tp168
+asg25
+Vcarbon
+p169
+sa(dp170
+g3
+(lp171
+sg12
+g13
+sg14
+VCompound
+p172
+sg16
+(lp173
+sg25
+VO2
+p174
+sa(dp175
+g3
+(lp176
+sg12
+g13
+sg14
+VCompound
+p177
+sg16
+(lp178
+sg25
+VN2
+p179
+sa(dp180
+g3
+(lp181
+sg12
+g13
+sg14
+VSpecies
+p182
+sg16
+(lp183
+sg25
+VN. spumigena
+p184
+sa(dp185
+g3
+(lp186
+sg12
+g13
+sg14
+VCompound
+p187
+sg16
+(lp188
+sg25
+VN2
+p189
+sa(dp190
+g3
+(lp191
+sg12
+g13
+sg14
+VCompound
+p192
+sg16
+(lp193
+sg25
+VNH4+
+p194
+sa(dp195
+g3
+(lp196
+sg12
+g13
+sg14
+VCompound
+p197
+sg16
+(lp198
+sg25
+VN2
+p199
+sa(dp200
+g3
+(lp201
+sg12
+g13
+sg14
+VCompound
+p202
+sg16
+(lp203
+sg25
+VNH4+
+p204
+sa(dp205
+g3
+(lp206
+sg12
+g13
+sg14
+VCompound
+p207
+sg16
+(lp208
+sg25
+VNH4+
+p209
+sa(dp210
+g3
+(lp211
+sg12
+g13
+sg14
+VSpecies
+p212
+sg16
+(lp213
+sg25
+VN. spumigena
+p214
+sa(dp215
+g3
+(lp216
+VGrapheme
+p217
+asg12
+g13
+sg14
+VCompound
+p218
+sg16
+(lp219
+(VCell-specific net 
+g217
+V- and N2-fixation rates by N. spumigena were 81.6+/-6.7 and 11.4+/-0.9 fmol N per cell per h, respectively.
+tp220
+asg25
+VC
+sa(dp221
+g3
+(lp222
+VGrapheme
+p223
+asg12
+g13
+sg14
+VCompound
+p224
+sg16
+(lp225
+(VDuring light, the net 
+g223
+V:N fixation ratio was 8.0+/-0.8.
+tp226
+asg25
+VC
+sa(dp227
+g3
+(lp228
+VGrapheme
+p229
+asg12
+g13
+sg14
+VCompound
+p230
+sg16
+(lp231
+(VDuring light, the net C:
+g229
+V fixation ratio was 8.0+/-0.8.
+tp232
+asg25
+VN
+sa(dp233
+g3
+(lp234
+sg12
+g13
+sg14
+VCompound
+p235
+sg16
+(lp236
+sg25
+VO2
+p237
+sa.

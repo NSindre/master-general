@@ -1,0 +1,254 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00012#10.1038#nrmicro2386'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g5
+V storage in the global ocean
+tp18
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g6
+V storage in the global ocean
+tp19
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g7
+V storage in the global ocean
+tp20
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g8
+V storage in the global ocean
+tp21
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g9
+V storage in the global ocean
+tp22
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g10
+V storage in the global ocean
+tp23
+a(VMicrobial production of recalcitrant dissolved organic matter: long-term 
+g11
+V storage in the global ocean
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+sg12
+g13
+sg14
+VCompound
+p29
+sg16
+(lp30
+sg25
+VCO2
+p31
+sa(dp32
+g3
+(lp33
+sg12
+g13
+sg14
+VCompound
+p34
+sg16
+(lp35
+sg25
+VCO2
+p36
+sa(dp37
+g3
+(lp38
+VChemical element
+p39
+aVChemical substance
+p40
+aVCarbon forms
+p41
+aVMatter
+p42
+aVReducing agents
+p43
+aVCarbonate minerals
+p44
+aVChemistry
+p45
+asg12
+g13
+sg14
+VCompound
+p46
+sg16
+(lp47
+(VHowever, a proportion of the fixed 
+g39
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp48
+a(VHowever, a proportion of the fixed 
+g40
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp49
+a(VHowever, a proportion of the fixed 
+g41
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp50
+a(VHowever, a proportion of the fixed 
+g42
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp51
+a(VHowever, a proportion of the fixed 
+g43
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp52
+a(VHowever, a proportion of the fixed 
+g44
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp53
+a(VHowever, a proportion of the fixed 
+g45
+V is not mineralized but is instead stored for millennia as recalcitrant dissolved organic matter.
+tp54
+asg25
+Vcarbon
+p55
+sa(dp56
+g3
+(lp57
+VChemical element
+p58
+aVChemical substance
+p59
+aVCarbon forms
+p60
+aVMatter
+p61
+aVReducing agents
+p62
+aVCarbonate minerals
+p63
+aVChemistry
+p64
+asg12
+g13
+sg14
+VCompound
+p65
+sg16
+(lp66
+(VThe processes and mechanisms involved in the generation of this large 
+g58
+V reservoir are poorly understood.
+tp67
+a(VThe processes and mechanisms involved in the generation of this large 
+g59
+V reservoir are poorly understood.
+tp68
+a(VThe processes and mechanisms involved in the generation of this large 
+g60
+V reservoir are poorly understood.
+tp69
+a(VThe processes and mechanisms involved in the generation of this large 
+g61
+V reservoir are poorly understood.
+tp70
+a(VThe processes and mechanisms involved in the generation of this large 
+g62
+V reservoir are poorly understood.
+tp71
+a(VThe processes and mechanisms involved in the generation of this large 
+g63
+V reservoir are poorly understood.
+tp72
+a(VThe processes and mechanisms involved in the generation of this large 
+g64
+V reservoir are poorly understood.
+tp73
+asg25
+Vcarbon
+p74
+sa(dp75
+g3
+(lp76
+VChemical element
+p77
+aVChemical substance
+p78
+aVCarbon forms
+p79
+aVMatter
+p80
+aVReducing agents
+p81
+aVCarbonate minerals
+p82
+aVChemistry
+p83
+asg12
+g13
+sg14
+VCompound
+p84
+sg16
+(lp85
+(VHere, we propose the microbial 
+g77
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp86
+a(VHere, we propose the microbial 
+g78
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp87
+a(VHere, we propose the microbial 
+g79
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp88
+a(VHere, we propose the microbial 
+g80
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp89
+a(VHere, we propose the microbial 
+g81
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp90
+a(VHere, we propose the microbial 
+g82
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp91
+a(VHere, we propose the microbial 
+g83
+V pump as a conceptual framework to address this important, multifaceted biogeochemical problem.
+tp92
+asg25
+Vcarbon
+p93
+sa.

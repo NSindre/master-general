@@ -1,0 +1,96 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VBodies of water
+p5
+aVOceans
+p6
+asS'fileName'
+p7
+S'00031#10.1038#srep04661'
+p8
+sS'entityType'
+p9
+VLocation
+p10
+sS'sentences'
+p11
+(lp12
+(VArchaeal amoA and ureC genes and their transcriptional activity in the 
+g5
+V
+tp13
+a(VArchaeal amoA and ureC genes and their transcriptional activity in the 
+g6
+V
+tp14
+asS'entity'
+p15
+VArctic Ocean
+p16
+sa(dp17
+g3
+(lp18
+sg7
+g8
+sg9
+VLocation
+p19
+sg11
+(lp20
+sg15
+VPolar Seas
+p21
+sa(dp22
+g3
+(lp23
+VRegion
+p24
+aVPhysical geography
+p25
+asg7
+g8
+sg9
+VLocation
+p26
+sg11
+(lp27
+(VUsing quantitative PCR we investigated the occurrence of genes and transcripts of ureC and amoA in 
+g24
+V samples from winter, spring and summer.
+tp28
+a(VUsing quantitative PCR we investigated the occurrence of genes and transcripts of ureC and amoA in 
+g25
+V samples from winter, spring and summer.
+tp29
+asg15
+VArctic
+p30
+sa(dp31
+g3
+(lp32
+VBodies of water
+p33
+aVOceans
+p34
+asg7
+g8
+sg9
+VLocation
+p35
+sg11
+(lp36
+(VThese results imply environmental control of amoA expression with direct or indirect light effects, and rare ureC expression despite its widespread occurrence in the 
+g33
+V.
+tp37
+a(VThese results imply environmental control of amoA expression with direct or indirect light effects, and rare ureC expression despite its widespread occurrence in the 
+g34
+V.
+tp38
+asg15
+VArctic Ocean
+p39
+sa.

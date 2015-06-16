@@ -1,0 +1,17 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbpedia: <http://dbpedia.org/resource/>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX dbpedia-owl: <http://dbpedia.org/ontology/>
+PREFIX grs: <http://www.georss.org/georss/>
+PREFIX dbpprop: <http://dbpedia.org/property/>
+PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
+ASK
+WHERE {{
+	{{
+	{{<{0}> grs:point ?x.}} UNION
+	{{<{0}> geo:geometry ?x.}} UNION
+	{{<{0}> dbpprop:location ?x.}} UNION
+	{{?x dbpprop:location <{0}>.}}
+	}}
+}}

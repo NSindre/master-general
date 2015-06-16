@@ -1,0 +1,398 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00066#10.1038#nature11229'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VDeep 
+g5
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp18
+a(VDeep 
+g6
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp19
+a(VDeep 
+g7
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp20
+a(VDeep 
+g8
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp21
+a(VDeep 
+g9
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp22
+a(VDeep 
+g10
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp23
+a(VDeep 
+g11
+V export from a Southern Ocean iron-fertilized diatom bloom
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VWord
+p29
+aVRegions of Antarctica
+p30
+aVSubantarctic
+p31
+aVOceans
+p32
+aVAdjective
+p33
+aVMarine realms
+p34
+aVSouth
+p35
+asg12
+g13
+sg14
+VLocation
+p36
+sg16
+(lp37
+(VDeep carbon export from a 
+g29
+V iron-fertilized diatom bloom
+tp38
+a(VDeep carbon export from a 
+g30
+V iron-fertilized diatom bloom
+tp39
+a(VDeep carbon export from a 
+g31
+V iron-fertilized diatom bloom
+tp40
+a(VDeep carbon export from a 
+g32
+V iron-fertilized diatom bloom
+tp41
+a(VDeep carbon export from a 
+g33
+V iron-fertilized diatom bloom
+tp42
+a(VDeep carbon export from a 
+g34
+V iron-fertilized diatom bloom
+tp43
+a(VDeep carbon export from a 
+g35
+V iron-fertilized diatom bloom
+tp44
+asg25
+VSouthern Ocean
+p45
+sa(dp46
+g3
+(lp47
+VCoefficient
+p48
+aVChemical element
+p49
+aVBuilding materials
+p50
+aVFerromagnetic materials
+p51
+aVChemical substance
+p52
+aVCharge number
+p53
+aVMetals
+p54
+aVMatter
+p55
+aVAtomic number
+p56
+aVTransition metals
+p57
+aVChemistry
+p58
+asg12
+g13
+sg14
+VCompound
+p59
+sg16
+(lp60
+(VFertilization of the ocean by adding 
+g48
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp61
+a(VFertilization of the ocean by adding 
+g49
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp62
+a(VFertilization of the ocean by adding 
+g50
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp63
+a(VFertilization of the ocean by adding 
+g51
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp64
+a(VFertilization of the ocean by adding 
+g52
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp65
+a(VFertilization of the ocean by adding 
+g53
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp66
+a(VFertilization of the ocean by adding 
+g54
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp67
+a(VFertilization of the ocean by adding 
+g55
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp68
+a(VFertilization of the ocean by adding 
+g56
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp69
+a(VFertilization of the ocean by adding 
+g57
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp70
+a(VFertilization of the ocean by adding 
+g58
+V compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable carbon dioxide drawdown in the ocean surface layer.
+tp71
+asg25
+Viron
+p72
+sa(dp73
+g3
+(lp74
+Vchemical substance
+p75
+aVCoolants
+p76
+aVAtmosphere
+p77
+aVRefrigerants
+p78
+aVAir pollution
+p79
+aVClimate change
+p80
+aVHousehold chemicals
+p81
+aVGreenhouse gases
+p82
+aVInorganic carbon compounds
+p83
+aVOxides
+p84
+aVMatter
+p85
+aVchemical compound
+p86
+aVPropellants
+p87
+asg12
+g13
+sg14
+VCompound
+p88
+sg16
+(lp89
+(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g75
+V drawdown in the ocean surface layer.
+tp90
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g76
+V drawdown in the ocean surface layer.
+tp91
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g77
+V drawdown in the ocean surface layer.
+tp92
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g78
+V drawdown in the ocean surface layer.
+tp93
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g79
+V drawdown in the ocean surface layer.
+tp94
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g80
+V drawdown in the ocean surface layer.
+tp95
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g81
+V drawdown in the ocean surface layer.
+tp96
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g82
+V drawdown in the ocean surface layer.
+tp97
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g83
+V drawdown in the ocean surface layer.
+tp98
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g84
+V drawdown in the ocean surface layer.
+tp99
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g85
+V drawdown in the ocean surface layer.
+tp100
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g86
+V drawdown in the ocean surface layer.
+tp101
+a(VFertilization of the ocean by adding iron compounds has induced diatom-dominated phytoplankton blooms accompanied by considerable 
+g87
+V drawdown in the ocean surface layer.
+tp102
+asg25
+Vcarbon dioxide
+p103
+sa(dp104
+g3
+(lp105
+VChemical element
+p106
+aVChemical substance
+p107
+aVCarbon forms
+p108
+aVMatter
+p109
+aVReducing agents
+p110
+aVCarbonate minerals
+p111
+aVChemistry
+p112
+asg12
+g13
+sg14
+VCompound
+p113
+sg16
+(lp114
+(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g106
+V sequestration from the atmosphere are uncertain.
+tp115
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g107
+V sequestration from the atmosphere are uncertain.
+tp116
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g108
+V sequestration from the atmosphere are uncertain.
+tp117
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g109
+V sequestration from the atmosphere are uncertain.
+tp118
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g110
+V sequestration from the atmosphere are uncertain.
+tp119
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g111
+V sequestration from the atmosphere are uncertain.
+tp120
+a(VHowever, because the fate of bloom biomass could not be adequately resolved in these experiments, the timescales of 
+g112
+V sequestration from the atmosphere are uncertain.
+tp121
+asg25
+Vcarbon
+p122
+sa(dp123
+g3
+(lp124
+VChemical element
+p125
+aVChemical substance
+p126
+aVCarbon forms
+p127
+aVMatter
+p128
+aVReducing agents
+p129
+aVCarbonate minerals
+p130
+aVChemistry
+p131
+asg12
+g13
+sg14
+VCompound
+p132
+sg16
+(lp133
+(VThus, iron-fertilized diatom blooms may sequester 
+g125
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp134
+a(VThus, iron-fertilized diatom blooms may sequester 
+g126
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp135
+a(VThus, iron-fertilized diatom blooms may sequester 
+g127
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp136
+a(VThus, iron-fertilized diatom blooms may sequester 
+g128
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp137
+a(VThus, iron-fertilized diatom blooms may sequester 
+g129
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp138
+a(VThus, iron-fertilized diatom blooms may sequester 
+g130
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp139
+a(VThus, iron-fertilized diatom blooms may sequester 
+g131
+V for timescales of centuries in ocean bottom water and for longer in the sediments.
+tp140
+asg25
+Vcarbon
+p141
+sa.

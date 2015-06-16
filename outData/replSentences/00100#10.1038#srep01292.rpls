@@ -1,0 +1,64 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00100#10.1038#srep01292'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+Vhuman
+p12
+sa(dp13
+g3
+(lp14
+Vchemical substance
+p15
+aVAmmonium compounds
+p16
+aVchemical compound
+p17
+aVCations
+p18
+aVAtom
+p19
+asg5
+g6
+sg7
+VCompound
+p20
+sg9
+(lp21
+(VThis selective lysis is due to the 
+g15
+V characteristics of the aminoclay and the electrostatic attraction between the clay nanoparticles and the algal cells.
+tp22
+a(VThis selective lysis is due to the 
+g16
+V characteristics of the aminoclay and the electrostatic attraction between the clay nanoparticles and the algal cells.
+tp23
+a(VThis selective lysis is due to the 
+g17
+V characteristics of the aminoclay and the electrostatic attraction between the clay nanoparticles and the algal cells.
+tp24
+a(VThis selective lysis is due to the 
+g18
+V characteristics of the aminoclay and the electrostatic attraction between the clay nanoparticles and the algal cells.
+tp25
+a(VThis selective lysis is due to the 
+g19
+V characteristics of the aminoclay and the electrostatic attraction between the clay nanoparticles and the algal cells.
+tp26
+asg11
+Vammonium
+p27
+sa.

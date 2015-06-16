@@ -1,0 +1,490 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00067#10.1038#ismej.2009.8'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VCrocosphaera watsonii
+p12
+sa(dp13
+g3
+(lp14
+sg5
+g6
+sg7
+VSpecies
+p15
+sg9
+(lp16
+sg11
+VCrocosphaera watsonii
+p17
+sa(dp18
+g3
+(lp19
+VChemical element
+p20
+aVChemical substance
+p21
+aVIndustrial gases
+p22
+aVCoolants
+p23
+aVMatter
+p24
+aVChemistry
+p25
+asg5
+g6
+sg7
+VCompound
+p26
+sg9
+(lp27
+(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g20
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp28
+a(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g21
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp29
+a(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g22
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp30
+a(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g23
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp31
+a(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g24
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp32
+a(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed 
+g25
+V (N) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp33
+asg11
+Vnitrogen
+p34
+sa(dp35
+g3
+(lp36
+VGrapheme
+p37
+asg5
+g6
+sg7
+VCompound
+p38
+sg9
+(lp39
+(VThe diazotrophic cyanobacterium Crocosphaera watsonii supplies fixed nitrogen (
+g37
+V) to N-depleted surface waters of the tropical oceans, but the factors that determine its distribution and contribution to global N2 fixation are not well constrained for natural populations.
+tp40
+asg11
+VN
+sa(dp41
+g3
+(lp42
+sg5
+g6
+sg7
+VCompound
+p43
+sg9
+(lp44
+sg11
+VN2
+p45
+sa(dp46
+g3
+(lp47
+VChorizanthe
+p48
+aVeukaryote
+p49
+aVplant
+p50
+aVspecies
+p51
+asg5
+g6
+sg7
+VSpecies
+p52
+sg9
+(lp53
+(VDespite the heterogeneity of the marine environment, the genome of 
+g48
+V is highly conserved in nucleotide sequence in contrast to sympatric planktonic cyanobacteria.
+tp54
+a(VDespite the heterogeneity of the marine environment, the genome of 
+g49
+V is highly conserved in nucleotide sequence in contrast to sympatric planktonic cyanobacteria.
+tp55
+a(VDespite the heterogeneity of the marine environment, the genome of 
+g50
+V is highly conserved in nucleotide sequence in contrast to sympatric planktonic cyanobacteria.
+tp56
+a(VDespite the heterogeneity of the marine environment, the genome of 
+g51
+V is highly conserved in nucleotide sequence in contrast to sympatric planktonic cyanobacteria.
+tp57
+asg11
+VC. watsonii
+p58
+sa(dp59
+g3
+(lp60
+VChorizanthe
+p61
+aVeukaryote
+p62
+aVplant
+p63
+aVspecies
+p64
+asg5
+g6
+sg7
+VSpecies
+p65
+sg9
+(lp66
+(VWe applied a whole assemblage shotgun transcript sequencing approach to samples collected from a bloom of 
+g61
+V observed in the South Pacific to understand the genomic mechanisms that may lead to high population densities.
+tp67
+a(VWe applied a whole assemblage shotgun transcript sequencing approach to samples collected from a bloom of 
+g62
+V observed in the South Pacific to understand the genomic mechanisms that may lead to high population densities.
+tp68
+a(VWe applied a whole assemblage shotgun transcript sequencing approach to samples collected from a bloom of 
+g63
+V observed in the South Pacific to understand the genomic mechanisms that may lead to high population densities.
+tp69
+a(VWe applied a whole assemblage shotgun transcript sequencing approach to samples collected from a bloom of 
+g64
+V observed in the South Pacific to understand the genomic mechanisms that may lead to high population densities.
+tp70
+asg11
+VC. watsonii
+p71
+sa(dp72
+g3
+(lp73
+sg5
+g6
+sg7
+VLocation
+p74
+sg9
+(lp75
+sg11
+VSouth Pacific
+p76
+sa(dp77
+g3
+(lp78
+VChorizanthe
+p79
+aVeukaryote
+p80
+aVplant
+p81
+aVspecies
+p82
+asg5
+g6
+sg7
+VSpecies
+p83
+sg9
+(lp84
+(VWe obtained 999 
+g79
+V transcript reads from two metatranscriptomes prepared from mixed assemblage RNA collected in the day and at night.
+tp85
+a(VWe obtained 999 
+g80
+V transcript reads from two metatranscriptomes prepared from mixed assemblage RNA collected in the day and at night.
+tp86
+a(VWe obtained 999 
+g81
+V transcript reads from two metatranscriptomes prepared from mixed assemblage RNA collected in the day and at night.
+tp87
+a(VWe obtained 999 
+g82
+V transcript reads from two metatranscriptomes prepared from mixed assemblage RNA collected in the day and at night.
+tp88
+asg11
+VC. watsonii
+p89
+sa(dp90
+g3
+(lp91
+VChorizanthe
+p92
+aVeukaryote
+p93
+aVplant
+p94
+aVspecies
+p95
+asg5
+g6
+sg7
+VSpecies
+p96
+sg9
+(lp97
+(VThe 
+g92
+V population had unexpectedly high transcription of hypothetical protein genes (31% of protein-encoding genes) and transposases (12%).
+tp98
+a(VThe 
+g93
+V population had unexpectedly high transcription of hypothetical protein genes (31% of protein-encoding genes) and transposases (12%).
+tp99
+a(VThe 
+g94
+V population had unexpectedly high transcription of hypothetical protein genes (31% of protein-encoding genes) and transposases (12%).
+tp100
+a(VThe 
+g95
+V population had unexpectedly high transcription of hypothetical protein genes (31% of protein-encoding genes) and transposases (12%).
+tp101
+asg11
+VC. watsonii
+p102
+sa(dp103
+g3
+(lp104
+VIron-sulfur proteins
+p105
+aVEnzyme
+p106
+aVMolecule
+p107
+aVNitrogen metabolism
+p108
+aVAtom
+p109
+asg5
+g6
+sg7
+VCompound
+p110
+sg9
+(lp111
+(VFurthermore, genes were expressed that are necessary for living in the oligotrophic ocean, including the 
+g105
+V cluster and the iron-stress-induced protein A (isiA) that functions to protect photosystem I from high-light-induced damage.
+tp112
+a(VFurthermore, genes were expressed that are necessary for living in the oligotrophic ocean, including the 
+g106
+V cluster and the iron-stress-induced protein A (isiA) that functions to protect photosystem I from high-light-induced damage.
+tp113
+a(VFurthermore, genes were expressed that are necessary for living in the oligotrophic ocean, including the 
+g107
+V cluster and the iron-stress-induced protein A (isiA) that functions to protect photosystem I from high-light-induced damage.
+tp114
+a(VFurthermore, genes were expressed that are necessary for living in the oligotrophic ocean, including the 
+g108
+V cluster and the iron-stress-induced protein A (isiA) that functions to protect photosystem I from high-light-induced damage.
+tp115
+a(VFurthermore, genes were expressed that are necessary for living in the oligotrophic ocean, including the 
+g109
+V cluster and the iron-stress-induced protein A (isiA) that functions to protect photosystem I from high-light-induced damage.
+tp116
+asg11
+Vnitrogenase
+p117
+sa(dp118
+g3
+(lp119
+VChorizanthe
+p120
+aVeukaryote
+p121
+aVplant
+p122
+aVspecies
+p123
+asg5
+g6
+sg7
+VSpecies
+p124
+sg9
+(lp125
+(V
+g120
+V transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp126
+a(V
+g121
+V transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp127
+a(V
+g122
+V transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp128
+a(V
+g123
+V transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp129
+asg11
+VC. watsonii
+p130
+sa(dp131
+g3
+(lp132
+VPlanet
+p133
+aVEarth
+p134
+aVOceans
+p135
+aVAstronomical object
+p136
+aVBodies of water
+p137
+asg5
+g6
+sg7
+VLocation
+p138
+sg9
+(lp139
+(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest 
+g133
+V, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp140
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest 
+g134
+V, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp141
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest 
+g135
+V, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp142
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest 
+g136
+V, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp143
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest 
+g137
+V, station ALOHA and the equatorial Atlantic Ocean were similar in composition to those recovered in the enriched population.
+tp144
+asg11
+VPacific Ocean
+p145
+sa(dp146
+g3
+(lp147
+VWorld
+p148
+aVCommon name
+p149
+aVOceans
+p150
+aVHuman condition
+p151
+aVBodies of water
+p152
+asg5
+g6
+sg7
+VLocation
+p153
+sg9
+(lp154
+(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial 
+g148
+V were similar in composition to those recovered in the enriched population.
+tp155
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial 
+g149
+V were similar in composition to those recovered in the enriched population.
+tp156
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial 
+g150
+V were similar in composition to those recovered in the enriched population.
+tp157
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial 
+g151
+V were similar in composition to those recovered in the enriched population.
+tp158
+a(VC. watsonii transcripts retrieved from metatranscriptomes at other locations in the southwest Pacific Ocean, station ALOHA and the equatorial 
+g152
+V were similar in composition to those recovered in the enriched population.
+tp159
+asg11
+VAtlantic Ocean
+p160
+sa(dp161
+g3
+(lp162
+VChemical element
+p163
+aVChemical substance
+p164
+aVIndustrial gases
+p165
+aVCoolants
+p166
+aVMatter
+p167
+aVChemistry
+p168
+asg5
+g6
+sg7
+VCompound
+p169
+sg9
+(lp170
+(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g163
+V cycling.
+tp171
+a(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g164
+V cycling.
+tp172
+a(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g165
+V cycling.
+tp173
+a(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g166
+V cycling.
+tp174
+a(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g167
+V cycling.
+tp175
+a(VThese data represent the first transcript study of a rare individual microorganism in situ and provide insight into the mechanisms of genome diversification and the ecophysiology of natural populations of keystone organisms that are important in global 
+g168
+V cycling.
+tp176
+asg11
+Vnitrogen
+p177
+sa.

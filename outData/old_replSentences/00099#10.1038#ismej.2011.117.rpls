@@ -1,0 +1,126 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VBermuda Triangle
+p5
+aVRegion
+p6
+asS'fileName'
+p7
+S'00099#10.1038#ismej.2011.117'
+p8
+sS'entityType'
+p9
+VLocation
+p10
+sS'sentences'
+p11
+(lp12
+(VPhytoplankton distribution patterns in the northwestern 
+g5
+V revealed by small subunit rRNA genes from plastids
+tp13
+a(VPhytoplankton distribution patterns in the northwestern 
+g6
+V revealed by small subunit rRNA genes from plastids
+tp14
+asS'entity'
+p15
+VSargasso Sea
+p16
+sa(dp17
+g3
+(lp18
+Vpopulated place
+p19
+aVcountry
+p20
+aVFormer British colonies
+p21
+aVBermuda Triangle
+p22
+aVplace
+p23
+aVIsland countries
+p24
+aVVolcanic islands
+p25
+asg7
+g8
+sg9
+VLocation
+p26
+sg11
+(lp27
+(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g19
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp28
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g20
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp29
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g21
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp30
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g22
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp31
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g23
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp32
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g24
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp33
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the 
+g25
+V Atlantic Time-Series Study site, located in the northwestern Sargasso Sea.
+tp34
+asg15
+VBermuda
+p35
+sa(dp36
+g3
+(lp37
+sg7
+g8
+sg9
+VLocation
+p38
+sg11
+(lp39
+sg15
+VAtlantic
+p40
+sa(dp41
+g3
+(lp42
+VBermuda Triangle
+p43
+aVRegion
+p44
+asg7
+g8
+sg9
+VLocation
+p45
+sg11
+(lp46
+(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the Bermuda Atlantic Time-Series Study site, located in the northwestern 
+g43
+V.
+tp47
+a(VTo assess these varying distribution patterns, we used 412 samples collected monthly over 12 years (1991-2004) at the Bermuda Atlantic Time-Series Study site, located in the northwestern 
+g44
+V.
+tp48
+asg15
+VSargasso Sea
+p49
+sa.

@@ -1,0 +1,138 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00091#10.1038#ismej.2011.214'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VNorth Atlantic
+p12
+sa(dp13
+g3
+(lp14
+sg5
+g6
+sg7
+VLocation
+p15
+sg9
+(lp16
+sg11
+VNorth Atlantic
+p17
+sa(dp18
+g3
+(lp19
+VAtlantic Ocean
+p20
+aVOceanic gyres
+p21
+aVPhysical oceanography
+p22
+aVSystem
+p23
+aVOcean gyre
+p24
+asg5
+g6
+sg7
+VLocation
+p25
+sg9
+(lp26
+(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower leucine incorporation rates and higher VPRs in the 
+g20
+V province than in the provinces further north and south.
+tp27
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower leucine incorporation rates and higher VPRs in the 
+g21
+V province than in the provinces further north and south.
+tp28
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower leucine incorporation rates and higher VPRs in the 
+g22
+V province than in the provinces further north and south.
+tp29
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower leucine incorporation rates and higher VPRs in the 
+g23
+V province than in the provinces further north and south.
+tp30
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower leucine incorporation rates and higher VPRs in the 
+g24
+V province than in the provinces further north and south.
+tp31
+asg11
+VNorth Atlantic Gyre
+p32
+sa(dp33
+g3
+(lp34
+Vchemical substance
+p35
+aVAmino acid
+p36
+aVEssential amino acids
+p37
+aVMolecule
+p38
+aVBranched-chain amino acids
+p39
+aVchemical compound
+p40
+aVAtom
+p41
+aVProteinogenic amino acids
+p42
+asg5
+g6
+sg7
+VCompound
+p43
+sg9
+(lp44
+(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g35
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp45
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g36
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp46
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g37
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp47
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g38
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp48
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g39
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp49
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g40
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp50
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g41
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp51
+a(VIn bathypelagic waters, pronounced differences in prokaryotic and viral abundance were found among different oceanic provinces with lower 
+g42
+V incorporation rates and higher VPRs in the North Atlantic Gyre province than in the provinces further north and south.
+tp52
+asg11
+Vleucine
+p53
+sa.

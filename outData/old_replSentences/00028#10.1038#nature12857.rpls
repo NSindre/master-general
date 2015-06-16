@@ -1,0 +1,484 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00028#10.1038#nature12857'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VThe changing 
+g5
+V cycle of the coastal ocean
+tp18
+a(VThe changing 
+g6
+V cycle of the coastal ocean
+tp19
+a(VThe changing 
+g7
+V cycle of the coastal ocean
+tp20
+a(VThe changing 
+g8
+V cycle of the coastal ocean
+tp21
+a(VThe changing 
+g9
+V cycle of the coastal ocean
+tp22
+a(VThe changing 
+g10
+V cycle of the coastal ocean
+tp23
+a(VThe changing 
+g11
+V cycle of the coastal ocean
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VThe 
+g29
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp38
+a(VThe 
+g30
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp39
+a(VThe 
+g31
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp40
+a(VThe 
+g32
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp41
+a(VThe 
+g33
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp42
+a(VThe 
+g34
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp43
+a(VThe 
+g35
+V cycle of the coastal ocean is a dynamic component of the global carbon budget.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g48
+V budget.
+tp57
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g49
+V budget.
+tp58
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g50
+V budget.
+tp59
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g51
+V budget.
+tp60
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g52
+V budget.
+tp61
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g53
+V budget.
+tp62
+a(VThe carbon cycle of the coastal ocean is a dynamic component of the global 
+g54
+V budget.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+VChemical element
+p67
+aVChemical substance
+p68
+aVCarbon forms
+p69
+aVMatter
+p70
+aVReducing agents
+p71
+aVCarbonate minerals
+p72
+aVChemistry
+p73
+asg12
+g13
+sg14
+VCompound
+p74
+sg16
+(lp75
+(VBut the diverse sources and sinks of 
+g67
+V and their complex interactions in these waters remain poorly understood.
+tp76
+a(VBut the diverse sources and sinks of 
+g68
+V and their complex interactions in these waters remain poorly understood.
+tp77
+a(VBut the diverse sources and sinks of 
+g69
+V and their complex interactions in these waters remain poorly understood.
+tp78
+a(VBut the diverse sources and sinks of 
+g70
+V and their complex interactions in these waters remain poorly understood.
+tp79
+a(VBut the diverse sources and sinks of 
+g71
+V and their complex interactions in these waters remain poorly understood.
+tp80
+a(VBut the diverse sources and sinks of 
+g72
+V and their complex interactions in these waters remain poorly understood.
+tp81
+a(VBut the diverse sources and sinks of 
+g73
+V and their complex interactions in these waters remain poorly understood.
+tp82
+asg25
+Vcarbon
+p83
+sa(dp84
+g3
+(lp85
+VChemical element
+p86
+aVChemical substance
+p87
+aVCarbon forms
+p88
+aVMatter
+p89
+aVReducing agents
+p90
+aVCarbonate minerals
+p91
+aVChemistry
+p92
+asg12
+g13
+sg14
+VCompound
+p93
+sg16
+(lp94
+(VHere we discuss the sources, exchanges and fates of 
+g86
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp95
+a(VHere we discuss the sources, exchanges and fates of 
+g87
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp96
+a(VHere we discuss the sources, exchanges and fates of 
+g88
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp97
+a(VHere we discuss the sources, exchanges and fates of 
+g89
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp98
+a(VHere we discuss the sources, exchanges and fates of 
+g90
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp99
+a(VHere we discuss the sources, exchanges and fates of 
+g91
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp100
+a(VHere we discuss the sources, exchanges and fates of 
+g92
+V in the coastal ocean and how anthropogenic activities have altered the carbon cycle.
+tp101
+asg25
+Vcarbon
+p102
+sa(dp103
+g3
+(lp104
+VChemical element
+p105
+aVChemical substance
+p106
+aVCarbon forms
+p107
+aVMatter
+p108
+aVReducing agents
+p109
+aVCarbonate minerals
+p110
+aVChemistry
+p111
+asg12
+g13
+sg14
+VCompound
+p112
+sg16
+(lp113
+(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g105
+V cycle.
+tp114
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g106
+V cycle.
+tp115
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g107
+V cycle.
+tp116
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g108
+V cycle.
+tp117
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g109
+V cycle.
+tp118
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g110
+V cycle.
+tp119
+a(VHere we discuss the sources, exchanges and fates of carbon in the coastal ocean and how anthropogenic activities have altered the 
+g111
+V cycle.
+tp120
+asg25
+Vcarbon
+p121
+sa(dp122
+g3
+(lp123
+Vchemical substance
+p124
+aVCoolants
+p125
+aVAtmosphere
+p126
+aVRefrigerants
+p127
+aVAir pollution
+p128
+aVClimate change
+p129
+aVHousehold chemicals
+p130
+aVGreenhouse gases
+p131
+aVInorganic carbon compounds
+p132
+aVOxides
+p133
+aVMatter
+p134
+aVchemical compound
+p135
+aVPropellants
+p136
+asg12
+g13
+sg14
+VCompound
+p137
+sg16
+(lp138
+(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g124
+V during post-industrial times.
+tp139
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g125
+V during post-industrial times.
+tp140
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g126
+V during post-industrial times.
+tp141
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g127
+V during post-industrial times.
+tp142
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g128
+V during post-industrial times.
+tp143
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g129
+V during post-industrial times.
+tp144
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g130
+V during post-industrial times.
+tp145
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g131
+V during post-industrial times.
+tp146
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g132
+V during post-industrial times.
+tp147
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g133
+V during post-industrial times.
+tp148
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g134
+V during post-industrial times.
+tp149
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g135
+V during post-industrial times.
+tp150
+a(VRecent evidence suggests that the coastal ocean may have become a net sink for atmospheric 
+g136
+V during post-industrial times.
+tp151
+asg25
+Vcarbon dioxide
+p152
+sa(dp153
+g3
+(lp154
+VChemical element
+p155
+aVChemical substance
+p156
+aVCarbon forms
+p157
+aVMatter
+p158
+aVReducing agents
+p159
+aVCarbonate minerals
+p160
+aVChemistry
+p161
+asg12
+g13
+sg14
+VCompound
+p162
+sg16
+(lp163
+(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g155
+V budget.
+tp164
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g156
+V budget.
+tp165
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g157
+V budget.
+tp166
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g158
+V budget.
+tp167
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g159
+V budget.
+tp168
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g160
+V budget.
+tp169
+a(VContinued human pressures in coastal zones will probably have an important impact on the future evolution of the coastal ocean's 
+g161
+V budget.
+tp170
+asg25
+Vcarbon
+p171
+sa.

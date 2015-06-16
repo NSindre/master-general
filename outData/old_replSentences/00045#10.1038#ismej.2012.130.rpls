@@ -1,0 +1,1015 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VWorld
+p5
+aVCommon name
+p6
+aVOceans
+p7
+aVHuman condition
+p8
+aVBodies of water
+p9
+asS'fileName'
+p10
+S'00045#10.1038#ismej.2012.130'
+p11
+sS'entityType'
+p12
+VLocation
+p13
+sS'sentences'
+p14
+(lp15
+(VGradients in microbial methanol uptake: productive coastal upwelling waters to oligotrophic gyres in the 
+g5
+V
+tp16
+a(VGradients in microbial methanol uptake: productive coastal upwelling waters to oligotrophic gyres in the 
+g6
+V
+tp17
+a(VGradients in microbial methanol uptake: productive coastal upwelling waters to oligotrophic gyres in the 
+g7
+V
+tp18
+a(VGradients in microbial methanol uptake: productive coastal upwelling waters to oligotrophic gyres in the 
+g8
+V
+tp19
+a(VGradients in microbial methanol uptake: productive coastal upwelling waters to oligotrophic gyres in the 
+g9
+V
+tp20
+asS'entity'
+p21
+VAtlantic Ocean
+p22
+sa(dp23
+g3
+(lp24
+Vchemical substance
+p25
+aVNeurotoxins
+p26
+aVchemical compound
+p27
+aVCommodity chemicals
+p28
+aVMatter
+p29
+aVAlcohol solvents
+p30
+aVEnergy storage
+p31
+aVBiofuels
+p32
+asg10
+g11
+sg12
+VCompound
+p33
+sg14
+(lp34
+(V
+g25
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp35
+a(V
+g26
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp36
+a(V
+g27
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp37
+a(V
+g28
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp38
+a(V
+g29
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp39
+a(V
+g30
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp40
+a(V
+g31
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp41
+a(V
+g32
+V biogeochemistry and its importance as a carbon source in seawater is relatively unexplored.
+tp42
+asg21
+VMethanol
+p43
+sa(dp44
+g3
+(lp45
+VChemical element
+p46
+aVChemical substance
+p47
+aVCarbon forms
+p48
+aVMatter
+p49
+aVReducing agents
+p50
+aVCarbonate minerals
+p51
+aVChemistry
+p52
+asg10
+g11
+sg12
+VCompound
+p53
+sg14
+(lp54
+(VMethanol biogeochemistry and its importance as a 
+g46
+V source in seawater is relatively unexplored.
+tp55
+a(VMethanol biogeochemistry and its importance as a 
+g47
+V source in seawater is relatively unexplored.
+tp56
+a(VMethanol biogeochemistry and its importance as a 
+g48
+V source in seawater is relatively unexplored.
+tp57
+a(VMethanol biogeochemistry and its importance as a 
+g49
+V source in seawater is relatively unexplored.
+tp58
+a(VMethanol biogeochemistry and its importance as a 
+g50
+V source in seawater is relatively unexplored.
+tp59
+a(VMethanol biogeochemistry and its importance as a 
+g51
+V source in seawater is relatively unexplored.
+tp60
+a(VMethanol biogeochemistry and its importance as a 
+g52
+V source in seawater is relatively unexplored.
+tp61
+asg21
+Vcarbon
+p62
+sa(dp63
+g3
+(lp64
+Vchemical substance
+p65
+aVNeurotoxins
+p66
+aVchemical compound
+p67
+aVCommodity chemicals
+p68
+aVMatter
+p69
+aVAlcohol solvents
+p70
+aVEnergy storage
+p71
+aVBiofuels
+p72
+asg10
+g11
+sg12
+VCompound
+p73
+sg14
+(lp74
+(VWe report the first microbial 
+g65
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp75
+a(VWe report the first microbial 
+g66
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp76
+a(VWe report the first microbial 
+g67
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp77
+a(VWe report the first microbial 
+g68
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp78
+a(VWe report the first microbial 
+g69
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp79
+a(VWe report the first microbial 
+g70
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp80
+a(VWe report the first microbial 
+g71
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp81
+a(VWe report the first microbial 
+g72
+V carbon assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp82
+asg21
+Vmethanol
+p83
+sa(dp84
+g3
+(lp85
+VChemical element
+p86
+aVChemical substance
+p87
+aVCarbon forms
+p88
+aVMatter
+p89
+aVReducing agents
+p90
+aVCarbonate minerals
+p91
+aVChemistry
+p92
+asg10
+g11
+sg12
+VCompound
+p93
+sg14
+(lp94
+(VWe report the first microbial methanol 
+g86
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp95
+a(VWe report the first microbial methanol 
+g87
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp96
+a(VWe report the first microbial methanol 
+g88
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp97
+a(VWe report the first microbial methanol 
+g89
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp98
+a(VWe report the first microbial methanol 
+g90
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp99
+a(VWe report the first microbial methanol 
+g91
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp100
+a(VWe report the first microbial methanol 
+g92
+V assimilation rates (k) in productive coastal upwelling waters of up to 0.117+/-0.002 d-1 (~10 nmol l-1 d-1).
+tp101
+asg21
+Vcarbon
+p102
+sa(dp103
+g3
+(lp104
+VChemical element
+p105
+aVChemical substance
+p106
+aVCarbon forms
+p107
+aVMatter
+p108
+aVReducing agents
+p109
+aVCarbonate minerals
+p110
+aVChemistry
+p111
+asg10
+g11
+sg12
+VCompound
+p112
+sg14
+(lp113
+(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g105
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp114
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g106
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp115
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g107
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp116
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g108
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp117
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g109
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp118
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g110
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp119
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of 
+g111
+V (0.3-10 nmol l-1 d-1), derived from methanol, to support their growth.
+tp120
+asg21
+Vcarbon
+p121
+sa(dp122
+g3
+(lp123
+Vchemical substance
+p124
+aVNeurotoxins
+p125
+aVchemical compound
+p126
+aVCommodity chemicals
+p127
+aVMatter
+p128
+aVAlcohol solvents
+p129
+aVEnergy storage
+p130
+aVBiofuels
+p131
+asg10
+g11
+sg12
+VCompound
+p132
+sg14
+(lp133
+(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g124
+V, to support their growth.
+tp134
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g125
+V, to support their growth.
+tp135
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g126
+V, to support their growth.
+tp136
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g127
+V, to support their growth.
+tp137
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g128
+V, to support their growth.
+tp138
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g129
+V, to support their growth.
+tp139
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g130
+V, to support their growth.
+tp140
+a(VOn average, coastal upwelling waters were 11 times greater than open ocean northern temperate (NT) waters, eight times greater than gyre waters and four times greater than equatorial upwelling (EU) waters; suggesting that all upwelling waters upon reaching the surface (20 m), contain a microbial population that uses a relatively high amount of carbon (0.3-10 nmol l-1 d-1), derived from 
+g131
+V, to support their growth.
+tp141
+asg21
+Vmethanol
+p142
+sa(dp143
+g3
+(lp144
+sg10
+g11
+sg12
+VLocation
+p145
+sg14
+(lp146
+sg21
+VAtlantic
+p147
+sa(dp148
+g3
+(lp149
+Vchemical substance
+p150
+aVNeurotoxins
+p151
+aVchemical compound
+p152
+aVCommodity chemicals
+p153
+aVMatter
+p154
+aVAlcohol solvents
+p155
+aVEnergy storage
+p156
+aVBiofuels
+p157
+asg10
+g11
+sg12
+VCompound
+p158
+sg14
+(lp159
+(VIn open ocean Atlantic regions, microbial uptake of 
+g150
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp160
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g151
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp161
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g152
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp162
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g153
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp163
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g154
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp164
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g155
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp165
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g156
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp166
+a(VIn open ocean Atlantic regions, microbial uptake of 
+g157
+V into biomass was significantly lower, ranging between 0.04-0.68 nmol l-1 d-1.
+tp167
+asg21
+Vmethanol
+p168
+sa(dp169
+g3
+(lp170
+sg10
+g11
+sg12
+VLocation
+p171
+sg14
+(lp172
+sg21
+VMauritanian
+p173
+sa(dp174
+g3
+(lp175
+Vchemical substance
+p176
+aVNeurotoxins
+p177
+aVchemical compound
+p178
+aVCommodity chemicals
+p179
+aVMatter
+p180
+aVAlcohol solvents
+p181
+aVEnergy storage
+p182
+aVBiofuels
+p183
+asg10
+g11
+sg12
+VCompound
+p184
+sg14
+(lp185
+(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g176
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp186
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g177
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp187
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g178
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp188
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g179
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp189
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g180
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp190
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g181
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp191
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g182
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp192
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total 
+g183
+V for assimilation of the carbon into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp193
+asg21
+Vmethanol
+p194
+sa(dp195
+g3
+(lp196
+VChemical element
+p197
+aVChemical substance
+p198
+aVCarbon forms
+p199
+aVMatter
+p200
+aVReducing agents
+p201
+aVCarbonate minerals
+p202
+aVChemistry
+p203
+asg10
+g11
+sg12
+VCompound
+p204
+sg14
+(lp205
+(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g197
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp206
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g198
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp207
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g199
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp208
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g200
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp209
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g201
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp210
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g202
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp211
+a(VMicrobes in the Mauritanian coastal upwelling used up to 57% of the total methanol for assimilation of the 
+g203
+V into cells, compared with an average of 12% in the EU, and 1% in NT and gyre waters.
+tp212
+asg21
+Vcarbon
+p213
+sa(dp214
+g3
+(lp215
+sg10
+g11
+sg12
+VLocation
+p216
+sg14
+(lp217
+sg21
+VAtlantic
+p218
+sa(dp219
+g3
+(lp220
+Vchemical substance
+p221
+aVNeurotoxins
+p222
+aVchemical compound
+p223
+aVCommodity chemicals
+p224
+aVMatter
+p225
+aVAlcohol solvents
+p226
+aVEnergy storage
+p227
+aVBiofuels
+p228
+asg10
+g11
+sg12
+VCompound
+p229
+sg14
+(lp230
+(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g221
+V oxidation.
+tp231
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g222
+V oxidation.
+tp232
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g223
+V oxidation.
+tp233
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g224
+V oxidation.
+tp234
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g225
+V oxidation.
+tp235
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g226
+V oxidation.
+tp236
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g227
+V oxidation.
+tp237
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding methanol dehydrogenase, the key enzyme in bacterial 
+g228
+V oxidation.
+tp238
+asg21
+Vmethanol
+p239
+sa(dp240
+g3
+(lp241
+sg10
+g11
+sg12
+VSpecies
+p242
+sg14
+(lp243
+sg21
+VAncylobacter aquaticus
+p244
+sa(dp245
+g3
+(lp246
+VPhylogenetics
+p247
+aVProteobacteria
+p248
+aVRhodobacterales
+p249
+aVBacteria
+p250
+aVspecies
+p251
+asg10
+g11
+sg12
+VSpecies
+p252
+sg14
+(lp253
+(VThese included Methylophaga sp., Burkholderiales sp., Methylococcaceae sp., Ancylobacter aquaticus, 
+g247
+V, Methylophilus methylotrophus, Methylobacterium oryzae, Hyphomicrobium sp.
+tp254
+a(VThese included Methylophaga sp., Burkholderiales sp., Methylococcaceae sp., Ancylobacter aquaticus, 
+g248
+V, Methylophilus methylotrophus, Methylobacterium oryzae, Hyphomicrobium sp.
+tp255
+a(VThese included Methylophaga sp., Burkholderiales sp., Methylococcaceae sp., Ancylobacter aquaticus, 
+g249
+V, Methylophilus methylotrophus, Methylobacterium oryzae, Hyphomicrobium sp.
+tp256
+a(VThese included Methylophaga sp., Burkholderiales sp., Methylococcaceae sp., Ancylobacter aquaticus, 
+g250
+V, Methylophilus methylotrophus, Methylobacterium oryzae, Hyphomicrobium sp.
+tp257
+a(VThese included Methylophaga sp., Burkholderiales sp., Methylococcaceae sp., Ancylobacter aquaticus, 
+g251
+V, Methylophilus methylotrophus, Methylobacterium oryzae, Hyphomicrobium sp.
+tp258
+asg21
+VParacoccus denitrificans
+p259
+sa(dp260
+g3
+(lp261
+sg10
+g11
+sg12
+VSpecies
+p262
+sg14
+(lp263
+sg21
+VMethylophilus methylotrophus
+p264
+sa(dp265
+g3
+(lp266
+sg10
+g11
+sg12
+VSpecies
+p267
+sg14
+(lp268
+sg21
+VMethylobacterium oryzae
+p269
+sa(dp270
+g3
+(lp271
+sg10
+g11
+sg12
+VSpecies
+p272
+sg14
+(lp273
+sg21
+VMethylosulfonomonas methylovora
+p274
+sa(dp275
+g3
+(lp276
+Vchemical substance
+p277
+aVNeurotoxins
+p278
+aVchemical compound
+p279
+aVCommodity chemicals
+p280
+aVMatter
+p281
+aVAlcohol solvents
+p282
+aVEnergy storage
+p283
+aVBiofuels
+p284
+asg10
+g11
+sg12
+VCompound
+p285
+sg14
+(lp286
+(VStatistically significant correlations for upwelling waters between 
+g277
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp287
+a(VStatistically significant correlations for upwelling waters between 
+g278
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp288
+a(VStatistically significant correlations for upwelling waters between 
+g279
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp289
+a(VStatistically significant correlations for upwelling waters between 
+g280
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp290
+a(VStatistically significant correlations for upwelling waters between 
+g281
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp291
+a(VStatistically significant correlations for upwelling waters between 
+g282
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp292
+a(VStatistically significant correlations for upwelling waters between 
+g283
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp293
+a(VStatistically significant correlations for upwelling waters between 
+g284
+V uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp294
+asg21
+Vmethanol
+p295
+sa(dp296
+g3
+(lp297
+Vchemical substance
+p298
+aVNeurotoxins
+p299
+aVchemical compound
+p300
+aVCommodity chemicals
+p301
+aVMatter
+p302
+aVAlcohol solvents
+p303
+aVEnergy storage
+p304
+aVBiofuels
+p305
+asg10
+g11
+sg12
+VCompound
+p306
+sg14
+(lp307
+(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g298
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp308
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g299
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp309
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g300
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp310
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g301
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp311
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g302
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp312
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g303
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp313
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g304
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp314
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and 
+g305
+V oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total methanol biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp315
+asg21
+Vmethanol
+p316
+sa(dp317
+g3
+(lp318
+Vchemical substance
+p319
+aVNeurotoxins
+p320
+aVchemical compound
+p321
+aVCommodity chemicals
+p322
+aVMatter
+p323
+aVAlcohol solvents
+p324
+aVEnergy storage
+p325
+aVBiofuels
+p326
+asg10
+g11
+sg12
+VCompound
+p327
+sg14
+(lp328
+(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g319
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp329
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g320
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp330
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g321
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp331
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g322
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp332
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g323
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp333
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g324
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp334
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g325
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp335
+a(VStatistically significant correlations for upwelling waters between methanol uptake into cells and both chlorophyll a concentrations and methanol oxidation rates suggest that remotely sensed chlorophyll a images, in these productive areas, could be used to derive total 
+g326
+V biological loss rates, a useful tool for atmospheric and marine climatically active gas modellers, and air-sea exchange scientists.
+tp336
+asg21
+Vmethanol
+p337
+sa(dp338
+g3
+(lp339
+Vchemical substance
+p340
+aVNeurotoxins
+p341
+aVchemical compound
+p342
+aVCommodity chemicals
+p343
+aVMatter
+p344
+aVAlcohol solvents
+p345
+aVEnergy storage
+p346
+aVBiofuels
+p347
+asg10
+g11
+sg12
+VCompound
+p348
+sg14
+(lp349
+(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g340
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp350
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g341
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp351
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g342
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp352
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g343
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp353
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g344
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp354
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g345
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp355
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g346
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp356
+a(VSeveral methylotrophic bacterial species were identified from open ocean Atlantic waters using PCR amplification of mxaF encoding 
+g347
+V dehydrogenase, the key enzyme in bacterial methanol oxidation.
+tp357
+asg21
+Vmethanol
+p358
+sa.

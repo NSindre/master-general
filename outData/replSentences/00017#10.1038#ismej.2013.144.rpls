@@ -1,0 +1,217 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vpopulated place
+p5
+aVcountry
+p6
+aVRepublics
+p7
+aVCountries in South America
+p8
+aVplace
+p9
+aVLiberal democracies
+p10
+asS'fileName'
+p11
+S'00017#10.1038#ismej.2013.144'
+p12
+sS'entityType'
+p13
+VLocation
+p14
+sS'sentences'
+p15
+(lp16
+(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g5
+V.
+tp17
+a(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g6
+V.
+tp18
+a(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g7
+V.
+tp19
+a(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g8
+V.
+tp20
+a(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g9
+V.
+tp21
+a(VWe used amplicon (16S rRNA gene) and shotgun metagenome sequencing to compare microbial communities from large (>1.6 mum) and small (0.2-1.6 mum) filter size fractions along a depth gradient in the OMZ off 
+g10
+V.
+tp22
+asS'entity'
+p23
+VChile
+p24
+sa(dp25
+g3
+(lp26
+Vchemical substance
+p27
+aVIndustrial gases
+p28
+aVInhalants
+p29
+aVchemical compound
+p30
+aVGreenhouse gases
+p31
+aVAerosol propellants
+p32
+aVMatter
+p33
+aVInorganic nitrogen compounds
+p34
+asg11
+g12
+sg13
+VCompound
+p35
+sg15
+(lp36
+(VGenes for nitric and 
+g27
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp37
+a(VGenes for nitric and 
+g28
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp38
+a(VGenes for nitric and 
+g29
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp39
+a(VGenes for nitric and 
+g30
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp40
+a(VGenes for nitric and 
+g31
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp41
+a(VGenes for nitric and 
+g32
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp42
+a(VGenes for nitric and 
+g33
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp43
+a(VGenes for nitric and 
+g34
+V reduction were also more abundant (three to seven fold) in the larger size fraction, suggesting microniche partitioning of key denitrification steps.
+tp44
+asg23
+Vnitrous oxide
+p45
+sa(dp46
+g3
+(lp47
+sg11
+g12
+sg13
+VCompound
+p48
+sg15
+(lp49
+sg23
+Vnitric
+p50
+sa(dp51
+g3
+(lp52
+VChemical element
+p53
+aVChemical substance
+p54
+aVMatter
+p55
+aVChemistry
+p56
+aVOxidizing agents
+p57
+asg11
+g12
+sg13
+VCompound
+p58
+sg15
+(lp59
+(VMetagenomic analysis of size-fractionated picoplankton in a marine 
+g53
+V minimum zone
+tp60
+a(VMetagenomic analysis of size-fractionated picoplankton in a marine 
+g54
+V minimum zone
+tp61
+a(VMetagenomic analysis of size-fractionated picoplankton in a marine 
+g55
+V minimum zone
+tp62
+a(VMetagenomic analysis of size-fractionated picoplankton in a marine 
+g56
+V minimum zone
+tp63
+a(VMetagenomic analysis of size-fractionated picoplankton in a marine 
+g57
+V minimum zone
+tp64
+asg23
+Voxygen
+p65
+sa(dp66
+g3
+(lp67
+VChemical element
+p68
+aVChemical substance
+p69
+aVMatter
+p70
+aVChemistry
+p71
+aVOxidizing agents
+p72
+asg11
+g12
+sg13
+VCompound
+p73
+sg15
+(lp74
+(VMarine 
+g68
+V minimum zones (OMZs) support diverse microbial communities with roles in major elemental cycles.
+tp75
+a(VMarine 
+g69
+V minimum zones (OMZs) support diverse microbial communities with roles in major elemental cycles.
+tp76
+a(VMarine 
+g70
+V minimum zones (OMZs) support diverse microbial communities with roles in major elemental cycles.
+tp77
+a(VMarine 
+g71
+V minimum zones (OMZs) support diverse microbial communities with roles in major elemental cycles.
+tp78
+a(VMarine 
+g72
+V minimum zones (OMZs) support diverse microbial communities with roles in major elemental cycles.
+tp79
+asg23
+Voxygen
+p80
+sa.

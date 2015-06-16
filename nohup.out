@@ -1,0 +1,3168 @@
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Making new <human> data.
+Traceback (most recent call last):
+  File "makeSentencesFromAnns.py", line 82, in <module>
+    results = makeSentences()
+  File "makeSentencesFromAnns.py", line 50, in makeSentences
+    termRecords = getTermRecords(dataSet['entityType'],dataSet['entity'])
+  File "/home/nsindre/gen/gen_pipelined/getTermRecords.py", line 31, in getTermRecords
+    termDataList = findTermData(inputType, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/findTermData.py", line 39, in findTermData
+    termData['generalizedLabel'] = getLabel(genURI) if not wibi else wibiGeneralizer.stripURI(genURI)
+  File "/home/nsindre/gen/gen_pipelined/getLabelFromURI.py", line 10, in getLabel
+    results = dbpediaQuery.query(queryFile, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/dbpediaQuery.py", line 25, in query
+    qString =qString.format(qInputVariable) #this inserts the variable part into the query
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 63: ordinal not in range(128)
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Making new <human> data.
+Traceback (most recent call last):
+  File "makeSentencesFromAnns.py", line 82, in <module>
+    results = makeSentences()
+  File "makeSentencesFromAnns.py", line 50, in makeSentences
+    termRecords = getTermRecords(dataSet['entityType'],dataSet['entity'])
+  File "/home/nsindre/gen/gen_pipelined/getTermRecords.py", line 31, in getTermRecords
+    termDataList = findTermData(inputType, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/findTermData.py", line 39, in findTermData
+    termData['generalizedLabel'] = getLabel(genURI) if not wibi else wibiGeneralizer.stripURI(genURI)
+  File "/home/nsindre/gen/gen_pipelined/getLabelFromURI.py", line 10, in getLabel
+    results = dbpediaQuery.query(queryFile, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/dbpediaQuery.py", line 25, in query
+    qString =qString.format(str(qInputVariable)) #this inserts the variable part into the query
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 63: ordinal not in range(128)
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Making new <human> data.
+Traceback (most recent call last):
+  File "makeSentencesFromAnns.py", line 82, in <module>
+    results = makeSentences()
+  File "makeSentencesFromAnns.py", line 50, in makeSentences
+    termRecords = getTermRecords(dataSet['entityType'],dataSet['entity'])
+  File "/home/nsindre/gen/gen_pipelined/getTermRecords.py", line 31, in getTermRecords
+    termDataList = findTermData(inputType, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/findTermData.py", line 39, in findTermData
+    termData['generalizedLabel'] = getLabel(genURI) if not wibi else wibiGeneralizer.stripURI(genURI)
+  File "/home/nsindre/gen/gen_pipelined/getLabelFromURI.py", line 10, in getLabel
+    results = dbpediaQuery.query(queryFile, qInputVariable)
+  File "/home/nsindre/gen/gen_pipelined/dbpediaQuery.py", line 25, in query
+    qString = unicode(qString.format(qInputVariable)) #this inserts the variable part into the query
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 63: ordinal not in range(128)
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Making new <human> data.
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00020#10.1038#ismej.2010.79.rpls
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00003#10.1038#ngeo1910.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Porcupine Abyssal Plain> data from file: outData/records/porcupine_abyssal_plain.p
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00018#10.1038#nature13123.rpls
+Saving record to: outData/replSentences/00011#10.1038#nrmicro1750.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Making new <nitrogen> data.
+Saving record to: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00010#10.1038#ngeo1916.rpls
+Making new <Arctic Oceans> data.
+Saving record to: outData/records/arctic_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00060#10.1038#ismej.2014.16.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <N> data.
+Saving record to: outData/records/n.p
+Making new <phosphate> data.
+Saving record to: outData/records/phosphate.p
+Making new <P> data.
+Saving record to: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00074#10.1038#nclimate1989.rpls
+Making new <Phaeocystis pouchetii> data.
+Saving record to: outData/records/phaeocystis_pouchetii.p
+Making new <C> data.
+Saving record to: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Making new <Rhodomonas salina> data.
+Saving record to: outData/records/rhodomonas_salina.p
+Making new <P. pouchetii> data.
+Saving record to: outData/records/p._pouchetii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <phosphorus> data.
+Saving record to: outData/records/phosphorus.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Making new <NH4+> data.
+Saving record to: outData/records/nh4+.p
+Making new <PO43-> data.
+Saving record to: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Making new <R. salina> data.
+Saving record to: outData/records/r._salina.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00035#10.1038#ismej.2008.125.rpls
+Making new <Antarctic Peninsula> data.
+Saving record to: outData/records/antarctic_peninsula.p
+Making new <Palmer Station> data.
+Saving record to: outData/records/palmer_station.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Making new <West Antarctica> data.
+Saving record to: outData/records/west_antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <Southern Ocean> data.
+Saving record to: outData/records/southern_ocean.p
+Making new <Antarctic> data.
+Saving record to: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Taurine> data.
+Saving record to: outData/records/taurine.p
+Loading <taurine> data from file: outData/records/taurine.p
+Saving record to: outData/replSentences/00033#10.1038#ismej.2012.28.rpls
+Making new <Earth> data.
+Saving record to: outData/records/earth.p
+Making new <Earth's> data.
+Saving record to: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00001#10.1038#nrmicro1749.rpls
+Making new <nitrate> data.
+Saving record to: outData/records/nitrate.p
+Making new <Sargasso Sea> data.
+Saving record to: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <ammonium> data.
+Saving record to: outData/records/ammonium.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <15N> data.
+Saving record to: outData/records/15n.p
+Making new <14N> data.
+Saving record to: outData/records/14n.p
+Saving record to: outData/replSentences/00036#10.1038#ngeo1265.rpls
+Making new <Southern California> data.
+Saving record to: outData/records/southern_california.p
+Making new <California> data.
+Saving record to: outData/records/california.p
+Making new <iron> data.
+Saving record to: outData/records/iron.p
+Making new <cadmium> data.
+Saving record to: outData/records/cadmium.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Making new <potassium> data.
+Saving record to: outData/records/potassium.p
+Making new <glutamine> data.
+Saving record to: outData/records/glutamine.p
+Saving record to: outData/replSentences/00057#10.1038#ismej.2011.201.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Making new <South China Sea> data.
+Saving record to: outData/records/south_china_sea.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00070#10.1038#nclimate1507.rpls
+Saving record to: outData/replSentences/00004#10.1038#nrmicro1180.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00028#10.1038#nature12857.rpls
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Making new <Pacific> data.
+Saving record to: outData/records/pacific.p
+Loading <Phosphorus> data from file: outData/records/phosphorus.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00002#10.1038#ngeo1765.rpls
+Loading <iron> data from file: outData/records/iron.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <iron> data from file: outData/records/iron.p
+Making new <Fe> data.
+Saving record to: outData/records/fe.p
+Making new <N2> data.
+Saving record to: outData/records/n2.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <Atlantic> data.
+Saving record to: outData/records/atlantic.p
+Making new <Pacific Oceans> data.
+Saving record to: outData/records/pacific_oceans.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N2> data from file: outData/records/n2.p
+Making new <Pacific Ocean> data.
+Saving record to: outData/records/pacific_ocean.p
+Making new <Atlantic Ocean> data.
+Saving record to: outData/records/atlantic_ocean.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <Trichodesmium tenue> data.
+Saving record to: outData/records/trichodesmium_tenue.p
+Saving record to: outData/replSentences/00078#10.1038#ismej.2012.13.rpls
+Making new <silica> data.
+Saving record to: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <West Antarctica> data from file: outData/records/west_antarctica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Making new <Ross Sea> data.
+Saving record to: outData/records/ross_sea.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00087#10.1038#ncomms2981.rpls
+Making new <South Pacific Ocean> data.
+Saving record to: outData/records/south_pacific_ocean.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Making new <Western South Pacific Ocean> data.
+Saving record to: outData/records/western_south_pacific_ocean.p
+Making new <Crocosphaera watsonii> data.
+Saving record to: outData/records/crocosphaera_watsonii.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Making new <C. watsonii> data.
+Saving record to: outData/records/c._watsonii.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <Western South Pacific Ocean> data from file: outData/records/western_south_pacific_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Saving record to: outData/replSentences/00034#10.1038#ismej.2011.152.rpls
+Making new <German Wadden Sea> data.
+Saving record to: outData/records/german_wadden_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <NO3-> data.
+Saving record to: outData/records/no3-.p
+Making new <oxygen> data.
+Saving record to: outData/records/oxygen.p
+Saving record to: outData/replSentences/00042#10.1038#ismej.2009.29.rpls
+Making new <hydrogen> data.
+Saving record to: outData/records/hydrogen.p
+Making new <methane> data.
+Saving record to: outData/records/methane.p
+Making new <hydrogen sulphide> data.
+Saving record to: outData/records/hydrogen_sulphide.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00019#10.1038#nrmicro1745.rpls
+Loading <oxygen> data from file: outData/records/oxygen.p
+Making new <Peru> data.
+Saving record to: outData/records/peru.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <dinitrogen> data.
+Saving record to: outData/records/dinitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <NO2> data.
+Saving record to: outData/records/no2.p
+Making new <PO43> data.
+Saving record to: outData/records/po43.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00083#10.1038#ismej.2014.71.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00012#10.1038#nrmicro2386.rpls
+Making new <Antarctica> data.
+Saving record to: outData/records/antarctica.p
+Making new <Ace Lake> data.
+Saving record to: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Saving record to: outData/replSentences/00030#10.1038#ismej.2010.185.rpls
+Loading <phosphate> data from file: outData/records/phosphate.p
+Making new <Sep Reservoir> data.
+Saving record to: outData/records/sep_reservoir.p
+Making new <Massif Central> data.
+Saving record to: outData/records/massif_central.p
+Making new <France> data.
+Saving record to: outData/records/france.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00041#10.1038#ismej.2008.15.rpls
+Making new <Canary Islands> data.
+Saving record to: outData/records/canary_islands.p
+Making new <leucine> data.
+Saving record to: outData/records/leucine.p
+Loading <leucine> data from file: outData/records/leucine.p
+Saving record to: outData/replSentences/00014#10.1038#ismej.2010.33.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <English Channel> data.
+Saving record to: outData/records/english_channel.p
+Loading <Nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <ammonia> data.
+Saving record to: outData/records/ammonia.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <Phaeodactylum tricornutum> data.
+Saving record to: outData/records/phaeodactylum_tricornutum.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <15N> data from file: outData/records/15n.p
+Saving record to: outData/replSentences/00076#10.1038#ismej.2011.50.rpls
+Making new <Arctic Ocean> data.
+Saving record to: outData/records/arctic_ocean.p
+Making new <Polar Seas> data.
+Saving record to: outData/records/polar_seas.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic Ocean> data from file: outData/records/arctic_ocean.p
+Saving record to: outData/replSentences/00031#10.1038#srep04661.rpls
+Saving record to: outData/replSentences/00064#10.1038#ismej.2011.132.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Making new <Bermuda> data.
+Saving record to: outData/records/bermuda.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00099#10.1038#ismej.2011.117.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00032#10.1038#ismej.2013.121.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <human> data from file: outData/records/human.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <human> data from file: outData/records/human.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Saving record to: outData/replSentences/00062#10.1038#nature08985.rpls
+Loading <Fe> data from file: outData/records/fe.p
+Loading <P> data from file: outData/records/p.p
+Making new <North Pacific Subtropical Gyre> data.
+Saving record to: outData/records/north_pacific_subtropical_gyre.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N> data from file: outData/records/n.p
+Loading <Fe> data from file: outData/records/fe.p
+Saving record to: outData/replSentences/00079#10.1038#ismej.2014.1.rpls
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Making new <McMurdo Dry Valley> data.
+Saving record to: outData/records/mcmurdo_dry_valley.p
+Making new <Fryxell> data.
+Saving record to: outData/records/fryxell.p
+Making new <Bonney> data.
+Saving record to: outData/records/bonney.p
+Saving record to: outData/replSentences/00063#10.1038#ismej.2013.190.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <cobalt> data.
+Saving record to: outData/records/cobalt.p
+Making new <Co> data.
+Saving record to: outData/records/co.p
+Making new <zinc> data.
+Saving record to: outData/records/zinc.p
+Making new <Zn> data.
+Saving record to: outData/records/zn.p
+Loading <cadmium> data from file: outData/records/cadmium.p
+Making new <Cd> data.
+Saving record to: outData/records/cd.p
+Loading <C> data from file: outData/records/c.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Co> data from file: outData/records/co.p
+Loading <Co> data from file: outData/records/co.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00052#10.1038#ismej.2010.211.rpls
+Making new <Richelia intracellularis> data.
+Saving record to: outData/records/richelia_intracellularis.p
+Making new <Mediterranean Sea> data.
+Saving record to: outData/records/mediterranean_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <Levantine Basin> data.
+Saving record to: outData/records/levantine_basin.p
+Loading <Mediterranean Sea> data from file: outData/records/mediterranean_sea.p
+Loading <Richelia intracellularis> data from file: outData/records/richelia_intracellularis.p
+Making new <R. intracellularis> data.
+Saving record to: outData/records/r._intracellularis.p
+Making new <Mediterranean> data.
+Saving record to: outData/records/mediterranean.p
+Making new <Israel> data.
+Saving record to: outData/records/israel.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <NO3> data.
+Saving record to: outData/records/no3.p
+Loading <NO2> data from file: outData/records/no2.p
+Making new <Si(OH)4> data.
+Saving record to: outData/records/si(oh)4.p
+Loading <N> data from file: outData/records/n.p
+Loading <Levantine basin> data from file: outData/records/levantine_basin.p
+Saving record to: outData/replSentences/00086#10.1038#ismej.2008.56.rpls
+Saving record to: outData/replSentences/00005#10.1038#nrmicro1751.rpls
+Making new <Ne> data.
+Saving record to: outData/records/ne.p
+Loading <Ne> data from file: outData/records/ne.p
+Saving record to: outData/replSentences/00082#10.1038#ismej.2014.60.rpls
+Saving record to: outData/replSentences/00089#10.1038#ncomms4271.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Paopao Bay> data.
+Saving record to: outData/records/paopao_bay.p
+Making new <Moorea> data.
+Saving record to: outData/records/moorea.p
+Making new <French Polynesia> data.
+Saving record to: outData/records/french_polynesia.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00013#10.1038#ismej.2011.12.rpls
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Making new <Mar Menor> data.
+Saving record to: outData/records/mar_menor.p
+Making new <Albufera de Valencia> data.
+Saving record to: outData/records/albufera_de_valencia.p
+Making new <Spain> data.
+Saving record to: outData/records/spain.p
+Making new <sulfur> data.
+Saving record to: outData/records/sulfur.p
+Loading <Mar Menor> data from file: outData/records/mar_menor.p
+Making new <Albufera> data.
+Saving record to: outData/records/albufera.p
+Saving record to: outData/replSentences/00006#10.1038#srep00490.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00058#10.1038#ismej.2007.86.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00040#10.1038#ismej.2009.60#.rpls
+Saving record to: outData/replSentences/00073#10.1038#ismej.2010.91.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Making new <Central Mediterranean Sea> data.
+Saving record to: outData/records/central_mediterranean_sea.p
+Making new <Tyrrhenian> data.
+Saving record to: outData/records/tyrrhenian.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Making new <Southern Tyrrhenian Sea> data.
+Saving record to: outData/records/southern_tyrrhenian_sea.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Making new <nitrite> data.
+Saving record to: outData/records/nitrite.p
+Loading <CO2> data from file: outData/records/co2.p
+Making new <Tyrrhenian Sea> data.
+Saving record to: outData/records/tyrrhenian_sea.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Making new <HCO3> data.
+Saving record to: outData/records/hco3.p
+Making new <14C> data.
+Saving record to: outData/records/14c.p
+Saving record to: outData/replSentences/00084#10.1038#ismej.2010.197.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Making new <Fitzroy> data.
+Saving record to: outData/records/fitzroy.p
+Making new <Queensland> data.
+Saving record to: outData/records/queensland.p
+Making new <Great Barrier Reef> data.
+Saving record to: outData/records/great_barrier_reef.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <Nitrite> data from file: outData/records/nitrite.p
+Loading <Fitzroy> data from file: outData/records/fitzroy.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00085#10.1038#ismej.2009.105.rpls
+Making new <dimethylsulphoniopropionate> data.
+Saving record to: outData/records/dimethylsulphoniopropionate.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Making new <DMSP> data.
+Saving record to: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Saving record to: outData/replSentences/00075#10.1038#ismej.2011.118.rpls
+Making new <carbohydrates> data.
+Saving record to: outData/records/carbohydrates.p
+Making new <Krycklan> data.
+Saving record to: outData/records/krycklan.p
+Making new <Sweden> data.
+Saving record to: outData/records/sweden.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <acetate> data.
+Saving record to: outData/records/acetate.p
+Making new <Carboxylic acids> data.
+Saving record to: outData/records/carboxylic_acids.p
+Making new <amino acids> data.
+Saving record to: outData/records/amino_acids.p
+Saving record to: outData/replSentences/00059#10.1038#ismej.2009.120.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Saving record to: outData/replSentences/00065#10.1038#ngeo2108.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Mississippi River> data.
+Saving record to: outData/records/mississippi_river.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Mississippi River> data from file: outData/records/mississippi_river.p
+Making new <Gulf of Mexico> data.
+Saving record to: outData/records/gulf_of_mexico.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00051#10.1038#ismej.2007.70.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Saving record to: outData/replSentences/00038#10.1038#nature04159.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Making new <O2> data.
+Saving record to: outData/records/o2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <amino acids> data from file: outData/records/amino_acids.p
+Making new <D-alanine> data.
+Saving record to: outData/records/d-alanine.p
+Loading <O2> data from file: outData/records/o2.p
+Saving record to: outData/replSentences/00069#10.1038#ismej.2012.44.rpls
+Loading <Earth> data from file: outData/records/earth.p
+Saving record to: outData/replSentences/00068#10.1038#nature04160.rpls
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Making new <Methanol> data.
+Saving record to: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <methanol> data from file: outData/records/methanol.p
+Making new <Mauritanian> data.
+Type 'confirm' as the only argument if you are sure you want to do this.
+Making new <carbon dioxide> data.
+Saving record to: outData/records/carbon_dioxide.p
+Making new <CO2> data.
+Saving record to: outData/records/co2.p
+Making new <carbonate> data.
+Saving record to: outData/records/carbonate.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00020#10.1038#ismej.2010.79.rpls
+Making new <Arctic> data.
+Saving record to: outData/records/arctic.p
+Making new <sulphur> data.
+Saving record to: outData/records/sulphur.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Making new <dimethylsulphide> data.
+Saving record to: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00003#10.1038#ngeo1910.rpls
+Making new <carbon> data.
+Saving record to: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Porcupine Abyssal Plain> data.
+Saving record to: outData/records/porcupine_abyssal_plain.p
+Making new <North Atlantic Ocean> data.
+Saving record to: outData/records/north_atlantic_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00018#10.1038#nature13123.rpls
+Saving record to: outData/replSentences/00011#10.1038#nrmicro1750.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Making new <nitrogen> data.
+Saving record to: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00010#10.1038#ngeo1916.rpls
+Making new <Arctic Oceans> data.
+Saving record to: outData/records/arctic_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00060#10.1038#ismej.2014.16.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <N> data.
+Saving record to: outData/records/n.p
+Making new <phosphate> data.
+Saving record to: outData/records/phosphate.p
+Making new <P> data.
+Saving record to: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00074#10.1038#nclimate1989.rpls
+Making new <Phaeocystis pouchetii> data.
+Saving record to: outData/records/phaeocystis_pouchetii.p
+Making new <C> data.
+Saving record to: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Making new <Rhodomonas salina> data.
+Saving record to: outData/records/rhodomonas_salina.p
+Making new <P. pouchetii> data.
+Saving record to: outData/records/p._pouchetii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <phosphorus> data.
+Saving record to: outData/records/phosphorus.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Making new <NH4+> data.
+Saving record to: outData/records/nh4+.p
+Making new <PO43-> data.
+Saving record to: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Making new <R. salina> data.
+Saving record to: outData/records/r._salina.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00035#10.1038#ismej.2008.125.rpls
+Making new <Antarctic Peninsula> data.
+Saving record to: outData/records/antarctic_peninsula.p
+Making new <Palmer Station> data.
+Saving record to: outData/records/palmer_station.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Making new <West Antarctica> data.
+Saving record to: outData/records/west_antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <Southern Ocean> data.
+Saving record to: outData/records/southern_ocean.p
+Making new <Antarctic> data.
+Saving record to: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Taurine> data.
+Saving record to: outData/records/taurine.p
+Loading <taurine> data from file: outData/records/taurine.p
+Saving record to: outData/replSentences/00033#10.1038#ismej.2012.28.rpls
+Making new <Earth> data.
+Saving record to: outData/records/earth.p
+Making new <Earth's> data.
+Saving record to: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00001#10.1038#nrmicro1749.rpls
+Making new <nitrate> data.
+Saving record to: outData/records/nitrate.p
+Making new <Sargasso Sea> data.
+Saving record to: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <ammonium> data.
+Saving record to: outData/records/ammonium.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <15N> data.
+Saving record to: outData/records/15n.p
+Making new <14N> data.
+Saving record to: outData/records/14n.p
+Saving record to: outData/replSentences/00036#10.1038#ngeo1265.rpls
+Making new <Southern California> data.
+Saving record to: outData/records/southern_california.p
+Making new <California> data.
+Saving record to: outData/records/california.p
+Making new <iron> data.
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00020#10.1038#ismej.2010.79.rpls
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00003#10.1038#ngeo1910.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Porcupine Abyssal Plain> data from file: outData/records/porcupine_abyssal_plain.p
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00018#10.1038#nature13123.rpls
+Saving record to: outData/replSentences/00011#10.1038#nrmicro1750.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00010#10.1038#ngeo1916.rpls
+Loading <Arctic Oceans> data from file: outData/records/arctic_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00060#10.1038#ismej.2014.16.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00074#10.1038#nclimate1989.rpls
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Loading <Rhodomonas salina> data from file: outData/records/rhodomonas_salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00035#10.1038#ismej.2008.125.rpls
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <Palmer Station> data from file: outData/records/palmer_station.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <West Antarctica> data from file: outData/records/west_antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Taurine> data from file: outData/records/taurine.p
+Loading <taurine> data from file: outData/records/taurine.p
+Saving record to: outData/replSentences/00033#10.1038#ismej.2012.28.rpls
+Loading <Earth> data from file: outData/records/earth.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00001#10.1038#nrmicro1749.rpls
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <15N> data from file: outData/records/15n.p
+Loading <14N> data from file: outData/records/14n.p
+Saving record to: outData/replSentences/00036#10.1038#ngeo1265.rpls
+Loading <Southern California> data from file: outData/records/southern_california.p
+Loading <California> data from file: outData/records/california.p
+Making new <iron> data.
+Saving record to: outData/records/iron.p
+Making new <cadmium> data.
+Saving record to: outData/records/cadmium.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Making new <potassium> data.
+Saving record to: outData/records/potassium.p
+Making new <glutamine> data.
+Saving record to: outData/records/glutamine.p
+Saving record to: outData/replSentences/00057#10.1038#ismej.2011.201.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Making new <South China Sea> data.
+Saving record to: outData/records/south_china_sea.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00070#10.1038#nclimate1507.rpls
+Saving record to: outData/replSentences/00004#10.1038#nrmicro1180.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00028#10.1038#nature12857.rpls
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Making new <Pacific> data.
+Saving record to: outData/records/pacific.p
+Loading <Phosphorus> data from file: outData/records/phosphorus.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00002#10.1038#ngeo1765.rpls
+Loading <iron> data from file: outData/records/iron.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <iron> data from file: outData/records/iron.p
+Making new <Fe> data.
+Saving record to: outData/records/fe.p
+Making new <N2> data.
+Saving record to: outData/records/n2.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <Atlantic> data.
+Saving record to: outData/records/atlantic.p
+Making new <Pacific Oceans> data.
+Saving record to: outData/records/pacific_oceans.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N2> data from file: outData/records/n2.p
+Making new <Pacific Ocean> data.
+Saving record to: outData/records/pacific_ocean.p
+Making new <Atlantic Ocean> data.
+Saving record to: outData/records/atlantic_ocean.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <Trichodesmium tenue> data.
+Saving record to: outData/records/trichodesmium_tenue.p
+Saving record to: outData/replSentences/00078#10.1038#ismej.2012.13.rpls
+Making new <silica> data.
+Saving record to: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <West Antarctica> data from file: outData/records/west_antarctica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Making new <Ross Sea> data.
+Saving record to: outData/records/ross_sea.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00087#10.1038#ncomms2981.rpls
+Making new <South Pacific Ocean> data.
+Saving record to: outData/records/south_pacific_ocean.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Making new <Western South Pacific Ocean> data.
+Saving record to: outData/records/western_south_pacific_ocean.p
+Making new <Crocosphaera watsonii> data.
+Saving record to: outData/records/crocosphaera_watsonii.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Making new <C. watsonii> data.
+Saving record to: outData/records/c._watsonii.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <Western South Pacific Ocean> data from file: outData/records/western_south_pacific_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Saving record to: outData/replSentences/00034#10.1038#ismej.2011.152.rpls
+Making new <German Wadden Sea> data.
+Saving record to: outData/records/german_wadden_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <NO3-> data.
+Saving record to: outData/records/no3-.p
+Making new <oxygen> data.
+Saving record to: outData/records/oxygen.p
+Saving record to: outData/replSentences/00042#10.1038#ismej.2009.29.rpls
+Making new <hydrogen> data.
+Saving record to: outData/records/hydrogen.p
+Making new <methane> data.
+Saving record to: outData/records/methane.p
+Making new <hydrogen sulphide> data.
+Saving record to: outData/records/hydrogen_sulphide.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00019#10.1038#nrmicro1745.rpls
+Loading <oxygen> data from file: outData/records/oxygen.p
+Making new <Peru> data.
+Saving record to: outData/records/peru.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <dinitrogen> data.
+Saving record to: outData/records/dinitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <NO2> data.
+Saving record to: outData/records/no2.p
+Making new <PO43> data.
+Saving record to: outData/records/po43.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00083#10.1038#ismej.2014.71.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00012#10.1038#nrmicro2386.rpls
+Making new <Antarctica> data.
+Saving record to: outData/records/antarctica.p
+Making new <Ace Lake> data.
+Saving record to: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Saving record to: outData/replSentences/00030#10.1038#ismej.2010.185.rpls
+Loading <phosphate> data from file: outData/records/phosphate.p
+Making new <Sep Reservoir> data.
+Saving record to: outData/records/sep_reservoir.p
+Making new <Massif Central> data.
+Saving record to: outData/records/massif_central.p
+Making new <France> data.
+Saving record to: outData/records/france.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00041#10.1038#ismej.2008.15.rpls
+Making new <Canary Islands> data.
+Saving record to: outData/records/canary_islands.p
+Making new <leucine> data.
+Saving record to: outData/records/leucine.p
+Loading <leucine> data from file: outData/records/leucine.p
+Saving record to: outData/replSentences/00014#10.1038#ismej.2010.33.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <English Channel> data.
+Saving record to: outData/records/english_channel.p
+Loading <Nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <ammonia> data.
+Saving record to: outData/records/ammonia.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <Phaeodactylum tricornutum> data.
+Saving record to: outData/records/phaeodactylum_tricornutum.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <15N> data from file: outData/records/15n.p
+Saving record to: outData/replSentences/00076#10.1038#ismej.2011.50.rpls
+Making new <Arctic Ocean> data.
+Saving record to: outData/records/arctic_ocean.p
+Making new <Polar Seas> data.
+Saving record to: outData/records/polar_seas.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic Ocean> data from file: outData/records/arctic_ocean.p
+Saving record to: outData/replSentences/00031#10.1038#srep04661.rpls
+Saving record to: outData/replSentences/00064#10.1038#ismej.2011.132.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Making new <Bermuda> data.
+Saving record to: outData/records/bermuda.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00099#10.1038#ismej.2011.117.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00032#10.1038#ismej.2013.121.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <human> data from file: outData/records/human.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <human> data from file: outData/records/human.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Saving record to: outData/replSentences/00062#10.1038#nature08985.rpls
+Loading <Fe> data from file: outData/records/fe.p
+Loading <P> data from file: outData/records/p.p
+Making new <North Pacific Subtropical Gyre> data.
+Saving record to: outData/records/north_pacific_subtropical_gyre.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N> data from file: outData/records/n.p
+Loading <Fe> data from file: outData/records/fe.p
+Saving record to: outData/replSentences/00079#10.1038#ismej.2014.1.rpls
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Making new <McMurdo Dry Valley> data.
+Saving record to: outData/records/mcmurdo_dry_valley.p
+Making new <Fryxell> data.
+Saving record to: outData/records/fryxell.p
+Making new <Bonney> data.
+Saving record to: outData/records/bonney.p
+Saving record to: outData/replSentences/00063#10.1038#ismej.2013.190.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Fe> data from file: outData/records/fe.p
+Making new <cobalt> data.
+Saving record to: outData/records/cobalt.p
+Making new <Co> data.
+Saving record to: outData/records/co.p
+Making new <zinc> data.
+Saving record to: outData/records/zinc.p
+Making new <Zn> data.
+Saving record to: outData/records/zn.p
+Loading <cadmium> data from file: outData/records/cadmium.p
+Making new <Cd> data.
+Saving record to: outData/records/cd.p
+Loading <C> data from file: outData/records/c.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Co> data from file: outData/records/co.p
+Loading <Co> data from file: outData/records/co.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00052#10.1038#ismej.2010.211.rpls
+Making new <Richelia intracellularis> data.
+Saving record to: outData/records/richelia_intracellularis.p
+Making new <Mediterranean Sea> data.
+Saving record to: outData/records/mediterranean_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <Levantine Basin> data.
+Saving record to: outData/records/levantine_basin.p
+Loading <Mediterranean Sea> data from file: outData/records/mediterranean_sea.p
+Loading <Richelia intracellularis> data from file: outData/records/richelia_intracellularis.p
+Making new <R. intracellularis> data.
+Saving record to: outData/records/r._intracellularis.p
+Making new <Mediterranean> data.
+Saving record to: outData/records/mediterranean.p
+Making new <Israel> data.
+Saving record to: outData/records/israel.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <NO3> data.
+Saving record to: outData/records/no3.p
+Loading <NO2> data from file: outData/records/no2.p
+Making new <Si(OH)4> data.
+Saving record to: outData/records/si(oh)4.p
+Loading <N> data from file: outData/records/n.p
+Loading <Levantine basin> data from file: outData/records/levantine_basin.p
+Saving record to: outData/replSentences/00086#10.1038#ismej.2008.56.rpls
+Saving record to: outData/replSentences/00005#10.1038#nrmicro1751.rpls
+Making new <Ne> data.
+Saving record to: outData/records/ne.p
+Loading <Ne> data from file: outData/records/ne.p
+Saving record to: outData/replSentences/00082#10.1038#ismej.2014.60.rpls
+Saving record to: outData/replSentences/00089#10.1038#ncomms4271.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Paopao Bay> data.
+Saving record to: outData/records/paopao_bay.p
+Making new <Moorea> data.
+Saving record to: outData/records/moorea.p
+Making new <French Polynesia> data.
+Saving record to: outData/records/french_polynesia.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00013#10.1038#ismej.2011.12.rpls
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Making new <Mar Menor> data.
+Saving record to: outData/records/mar_menor.p
+Making new <Albufera de Valencia> data.
+Saving record to: outData/records/albufera_de_valencia.p
+Making new <Spain> data.
+Saving record to: outData/records/spain.p
+Making new <sulfur> data.
+Saving record to: outData/records/sulfur.p
+Loading <Mar Menor> data from file: outData/records/mar_menor.p
+Making new <Albufera> data.
+Saving record to: outData/records/albufera.p
+Saving record to: outData/replSentences/00006#10.1038#srep00490.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00058#10.1038#ismej.2007.86.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00040#10.1038#ismej.2009.60#.rpls
+Saving record to: outData/replSentences/00073#10.1038#ismej.2010.91.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Making new <Central Mediterranean Sea> data.
+Saving record to: outData/records/central_mediterranean_sea.p
+Making new <Tyrrhenian> data.
+Saving record to: outData/records/tyrrhenian.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Making new <Southern Tyrrhenian Sea> data.
+Saving record to: outData/records/southern_tyrrhenian_sea.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Making new <nitrite> data.
+Saving record to: outData/records/nitrite.p
+Loading <CO2> data from file: outData/records/co2.p
+Making new <Tyrrhenian Sea> data.
+Saving record to: outData/records/tyrrhenian_sea.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Making new <HCO3> data.
+Saving record to: outData/records/hco3.p
+Making new <14C> data.
+Saving record to: outData/records/14c.p
+Saving record to: outData/replSentences/00084#10.1038#ismej.2010.197.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Making new <Fitzroy> data.
+Saving record to: outData/records/fitzroy.p
+Making new <Queensland> data.
+Saving record to: outData/records/queensland.p
+Making new <Great Barrier Reef> data.
+Saving record to: outData/records/great_barrier_reef.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <Nitrite> data from file: outData/records/nitrite.p
+Loading <Fitzroy> data from file: outData/records/fitzroy.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00085#10.1038#ismej.2009.105.rpls
+Making new <dimethylsulphoniopropionate> data.
+Saving record to: outData/records/dimethylsulphoniopropionate.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Making new <DMSP> data.
+Saving record to: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Saving record to: outData/replSentences/00075#10.1038#ismej.2011.118.rpls
+Making new <carbohydrates> data.
+Saving record to: outData/records/carbohydrates.p
+Making new <Krycklan> data.
+Saving record to: outData/records/krycklan.p
+Making new <Sweden> data.
+Saving record to: outData/records/sweden.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <acetate> data.
+Saving record to: outData/records/acetate.p
+Making new <Carboxylic acids> data.
+Saving record to: outData/records/carboxylic_acids.p
+Making new <amino acids> data.
+Saving record to: outData/records/amino_acids.p
+Saving record to: outData/replSentences/00059#10.1038#ismej.2009.120.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Saving record to: outData/replSentences/00065#10.1038#ngeo2108.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Mississippi River> data.
+Saving record to: outData/records/mississippi_river.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Mississippi River> data from file: outData/records/mississippi_river.p
+Making new <Gulf of Mexico> data.
+Saving record to: outData/records/gulf_of_mexico.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00051#10.1038#ismej.2007.70.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Saving record to: outData/replSentences/00038#10.1038#nature04159.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Making new <O2> data.
+Saving record to: outData/records/o2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <amino acids> data from file: outData/records/amino_acids.p
+Making new <D-alanine> data.
+Saving record to: outData/records/d-alanine.p
+Loading <O2> data from file: outData/records/o2.p
+Saving record to: outData/replSentences/00069#10.1038#ismej.2012.44.rpls
+Loading <Earth> data from file: outData/records/earth.p
+Saving record to: outData/replSentences/00068#10.1038#nature04160.rpls
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Making new <Methanol> data.
+Saving record to: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <methanol> data from file: outData/records/methanol.p
+Making new <Mauritanian> data.
+Saving record to: outData/records/mauritanian.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <methanol> data from file: outData/records/methanol.p
+Making new <Ancylobacter aquaticus> data.
+Saving record to: outData/records/ancylobacter_aquaticus.p
+Making new <Paracoccus denitrificans> data.
+Saving record to: outData/records/paracoccus_denitrificans.p
+Making new <Methylophilus methylotrophus> data.
+Saving record to: outData/records/methylophilus_methylotrophus.p
+Making new <Methylobacterium oryzae> data.
+Saving record to: outData/records/methylobacterium_oryzae.p
+Making new <Methylosulfonomonas methylovora> data.
+Saving record to: outData/records/methylosulfonomonas_methylovora.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Saving record to: outData/replSentences/00045#10.1038#ismej.2012.130.rpls
+Making new <Polar Oceans> data.
+Saving record to: outData/records/polar_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Making new <Amundsen Gulf> data.
+Saving record to: outData/records/amundsen_gulf.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Making new <Prydz Bay> data.
+Saving record to: outData/records/prydz_bay.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Polar oceans> data from file: outData/records/polar_oceans.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00056#10.1038#srep02339.rpls
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Making new <silicon> data.
+Saving record to: outData/records/silicon.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <Silica> data from file: outData/records/silica.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <silicic acid> data.
+Saving record to: outData/records/silicic_acid.p
+Saving record to: outData/replSentences/00097#10.1038#17351.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <O2> data from file: outData/records/o2.p
+Making new <Quebec> data.
+Saving record to: outData/records/quebec.p
+Making new <Canada> data.
+Saving record to: outData/records/canada.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00092#10.1038#ismej.2011.157.rpls
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <Baltic Sea> data.
+Saving record to: outData/records/baltic_sea.p
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00054#10.1038#ismej.2010.53.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00025#10.1038#nature07235.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00066#10.1038#nature11229.rpls
+Making new <Polar ocean> data.
+Saving record to: outData/records/polar_ocean.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00008#10.1038#nature04161.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <human> data from file: outData/records/human.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Saving record to: outData/replSentences/00096#10.1038#ngeo1830.rpls
+Making new <Phaeocystis globosa> data.
+Saving record to: outData/records/phaeocystis_globosa.p
+Making new <North Sea> data.
+Saving record to: outData/records/north_sea.p
+Loading <Phaeocystis globosa> data from file: outData/records/phaeocystis_globosa.p
+Loading <North Sea> data from file: outData/records/north_sea.p
+Making new <P. globosa> data.
+Saving record to: outData/records/p._globosa.p
+Loading <P. globosa> data from file: outData/records/p._globosa.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <P. globosa> data from file: outData/records/p._globosa.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00022#10.1038#ismej.2013.135.rpls
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00007#10.1038#nrmicro956.rpls
+Saving record to: outData/replSentences/00047#10.1038#nature04158.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Making new <South Pacific Gyre> data.
+Saving record to: outData/records/south_pacific_gyre.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <South Pacific Gyre> data from file: outData/records/south_pacific_gyre.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <leucine> data from file: outData/records/leucine.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00093#10.1038#ismej.2011.182.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Making new <nitrous oxide> data.
+Saving record to: outData/records/nitrous_oxide.p
+Making new <Monterey Bay> data.
+Saving record to: outData/records/monterey_bay.p
+Saving record to: outData/replSentences/00071#10.1038#ismej.2014.11.rpls
+Making new <Chile> data.
+Saving record to: outData/records/chile.p
+Loading <nitrous oxide> data from file: outData/records/nitrous_oxide.p
+Making new <nitric> data.
+Saving record to: outData/records/nitric.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00017#10.1038#ismej.2013.144.rpls
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <O2> data from file: outData/records/o2.p
+Making new <Nodularia spumigena> data.
+Saving record to: outData/records/nodularia_spumigena.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <Nodularia spumigena> data from file: outData/records/nodularia_spumigena.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Making new <N. spumigena> data.
+Saving record to: outData/records/n._spumigena.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N> data from file: outData/records/n.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N. spumigena> data from file: outData/records/n._spumigena.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <N. spumigena> data from file: outData/records/n._spumigena.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <O2> data from file: outData/records/o2.p
+Saving record to: outData/replSentences/00039#10.1038#ismej.2011.20.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00081#10.1038#ismej.2013.216.rpls
+Loading <human> data from file: outData/records/human.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Saving record to: outData/replSentences/00100#10.1038#srep01292.rpls
+Loading <methane> data from file: outData/records/methane.p
+Loading <Methane> data from file: outData/records/methane.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Making new <methylphosphonate> data.
+Saving record to: outData/records/methylphosphonate.p
+Loading <methylphosphonate> data from file: outData/records/methylphosphonate.p
+Loading <Methylphosphonate> data from file: outData/records/methylphosphonate.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Saving record to: outData/replSentences/00046#10.1038#ngeo234.rpls
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <O2> data from file: outData/records/o2.p
+Making new <H2S> data.
+Saving record to: outData/records/h2s.p
+Saving record to: outData/replSentences/00024#10.1038#ismej.2010.28.rpls
+Loading <Crocosphaera watsonii> data from file: outData/records/crocosphaera_watsonii.p
+Loading <Crocosphaera watsonii> data from file: outData/records/crocosphaera_watsonii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Making new <South Pacific> data.
+Saving record to: outData/records/south_pacific.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Making new <nitrogenase> data.
+Saving record to: outData/records/nitrogenase.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <Pacific Ocean> data from file: outData/records/pacific_ocean.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00067#10.1038#ismej.2009.8.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Saving record to: outData/replSentences/00021#10.1038#ncomms3934.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <calcium carbonate> data.
+Saving record to: outData/records/calcium_carbonate.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Saving record to: outData/replSentences/00029#10.1038#35038000.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Making new <Organic Lake> data.
+Saving record to: outData/records/organic_lake.p
+Making new <Vestfold Hills> data.
+Saving record to: outData/records/vestfold_hills.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Making new <dimethylsulfide> data.
+Saving record to: outData/records/dimethylsulfide.p
+Loading <Organic Lake> data from file: outData/records/organic_lake.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <CO> data from file: outData/records/co.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Organic Lake> data from file: outData/records/organic_lake.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Making new <DMS> data.
+Saving record to: outData/records/dms.p
+Making new <Dimethylsulfoniopropionate> data.
+Saving record to: outData/records/dimethylsulfoniopropionate.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMS> data from file: outData/records/dms.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Saving record to: outData/replSentences/00016#10.1038#ismej.2013.69.rpls
+Making new <Antarctica Peninsula> data.
+Saving record to: outData/records/antarctica_peninsula.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00026#10.1038#ismej.2012.31.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <Bermuda> data from file: outData/records/bermuda.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00048#10.1038#ismej.2008.117.rpls
+Making new <Bourget> data.
+Saving record to: outData/records/bourget.p
+Making new <Aydat> data.
+Saving record to: outData/records/aydat.p
+Making new <Pavin> data.
+Saving record to: outData/records/pavin.p
+Making new <Lake Bourget> data.
+Saving record to: outData/records/lake_bourget.p
+Making new <Lake Pavin> data.
+Saving record to: outData/records/lake_pavin.p
+Loading <Bourget> data from file: outData/records/bourget.p
+Saving record to: outData/replSentences/00061#10.1038#ismej.2010.83.rpls
+Making new <Dinoroseobacter shibae> data.
+Saving record to: outData/records/dinoroseobacter_shibae.p
+Loading <Dinoroseobacter shibae> data from file: outData/records/dinoroseobacter_shibae.p
+Making new <D. shibae> data.
+Saving record to: outData/records/d._shibae.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Making new <dimethylsulfoxide> data.
+Saving record to: outData/records/dimethylsulfoxide.p
+Making new <fumarate> data.
+Saving record to: outData/records/fumarate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Making new <arginine> data.
+Saving record to: outData/records/arginine.p
+Saving record to: outData/replSentences/00050#10.1038#ismej.2009.94.rpls
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Making new <dimethyl sulphide> data.
+Saving record to: outData/records/dimethyl_sulphide.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00015#10.1038#35037500.rpls
+Loading <phosphate> data from file: outData/records/phosphate.p
+Making new <Heron Reef> data.
+Saving record to: outData/records/heron_reef.p
+Loading <Great Barrier Reef> data from file: outData/records/great_barrier_reef.p
+Making new <Australia> data.
+Saving record to: outData/records/australia.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Saving record to: outData/replSentences/00095#10.1038#ismej.2007.5.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00027#10.1038#ngeo1921.rpls
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00009#10.1038#ngeo964.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Saving record to: outData/replSentences/00043#10.1038#nature06267.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00044#10.1038#nature01165.rpls
+Loading <Iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Gulf of Alaska> data.
+Saving record to: outData/records/gulf_of_alaska.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <silicic acid> data from file: outData/records/silicic_acid.p
+Loading <silicic acid> data from file: outData/records/silicic_acid.p
+Saving record to: outData/replSentences/00072#10.1038#nature02437.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Daphnia galeata> data.
+Saving record to: outData/records/daphnia_galeata.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <leucine> data from file: outData/records/leucine.p
+Making new <Limnohabitans planktonicus> data.
+Saving record to: outData/records/limnohabitans_planktonicus.p
+Making new <D. galeata> data.
+Saving record to: outData/records/d._galeata.p
+Making new <Daphnia magna> data.
+Saving record to: outData/records/daphnia_magna.p
+Making new <Lake Zurich> data.
+Saving record to: outData/records/lake_zurich.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00037#10.1038#ismej.2014.39.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00080#10.1038#ismej.2010.36.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <Faroe-Shetland Channel> data.
+Saving record to: outData/records/faroe-shetland_channel.p
+Making new <Northeast Atlantic> data.
+Saving record to: outData/records/northeast_atlantic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00053#10.1038#ismej.2012.14.rpls
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Making new <Northwest Atlantic Ocean> data.
+Saving record to: outData/records/northwest_atlantic_ocean.p
+Making new <Bedford Basin> data.
+Saving record to: outData/records/bedford_basin.p
+Loading <methanol> data from file: outData/records/methanol.p
+Making new <carbon monoxide> data.
+Saving record to: outData/records/carbon_monoxide.p
+Loading <Bedford Basin> data from file: outData/records/bedford_basin.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Saving record to: outData/replSentences/00098#10.1038#ismej.2013.234.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00077#10.1038#ngeo1757.rpls
+Making new <Columbia River> data.
+Saving record to: outData/records/columbia_river.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Making new <USA> data.
+Saving record to: outData/records/usa.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Saving record to: outData/replSentences/00094#10.1038#ismej.2013.79.rpls
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00090#10.1038#nrmicro2831.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <nitrous oxide> data from file: outData/records/nitrous_oxide.p
+Saving record to: outData/replSentences/00055#10.1038#nrmicro2439.rpls
+Making new <North Atlantic> data.
+Saving record to: outData/records/north_atlantic.p
+Loading <North Atlantic> data from file: outData/records/north_atlantic.p
+Making new <North Atlantic Gyre> data.
+Saving record to: outData/records/north_atlantic_gyre.p
+Loading <leucine> data from file: outData/records/leucine.p
+Saving record to: outData/replSentences/00091#10.1038#ismej.2011.214.rpls
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Making new <East Greenland> data.
+Saving record to: outData/records/east_greenland.p
+Loading <North Atlantic> data from file: outData/records/north_atlantic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00088#10.1038#ismej.2009.142.rpls
+Making new <sugar> data.
+Saving record to: outData/records/sugar.p
+Making new <Mo'orea> data.
+Saving record to: outData/records/mo'orea.p
+Loading <French Polynesia> data from file: outData/records/french_polynesia.p
+Loading <carbon> data from file: outData/records/carbon.p
+Making new <sugars> data.
+Saving record to: outData/records/sugars.p
+Making new <galactose> data.
+Saving record to: outData/records/galactose.p
+Making new <fucose> data.
+Saving record to: outData/records/fucose.p
+Saving record to: outData/replSentences/00023#10.1038#ismej.2012.161.rpls
+Making new <San Pedro> data.
+Saving record to: outData/records/san_pedro.p
+Saving record to: outData/replSentences/00049#10.1038#ismej.2013.199.rpls
+'Congratulations, this probably took a while.'
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+NameError: name 'makeSentencesFromAnns' is not defined
+Type 'confirm' as the only argument if you are sure you want to do this.
+'Congratulations, this probably took a while.'
+Type 'confirm' as the only argument if you are sure you want to do this.
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00020#10.1038#ismej.2010.79.rpls
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <dimethylsulphide> data from file: outData/records/dimethylsulphide.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00003#10.1038#ngeo1910.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Porcupine Abyssal Plain> data from file: outData/records/porcupine_abyssal_plain.p
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00018#10.1038#nature13123.rpls
+Saving record to: outData/replSentences/00011#10.1038#nrmicro1750.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <human> data from file: outData/records/human.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00010#10.1038#ngeo1916.rpls
+Loading <Arctic Oceans> data from file: outData/records/arctic_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00060#10.1038#ismej.2014.16.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00074#10.1038#nclimate1989.rpls
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <Phaeocystis pouchetii> data from file: outData/records/phaeocystis_pouchetii.p
+Loading <Rhodomonas salina> data from file: outData/records/rhodomonas_salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <P. pouchetii> data from file: outData/records/p._pouchetii.p
+Loading <R. salina> data from file: outData/records/r._salina.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00035#10.1038#ismej.2008.125.rpls
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <Palmer Station> data from file: outData/records/palmer_station.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <West Antarctica> data from file: outData/records/west_antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Taurine> data from file: outData/records/taurine.p
+Loading <taurine> data from file: outData/records/taurine.p
+Saving record to: outData/replSentences/00033#10.1038#ismej.2012.28.rpls
+Loading <Earth> data from file: outData/records/earth.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00001#10.1038#nrmicro1749.rpls
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <15N> data from file: outData/records/15n.p
+Loading <14N> data from file: outData/records/14n.p
+Saving record to: outData/replSentences/00036#10.1038#ngeo1265.rpls
+Loading <Southern California> data from file: outData/records/southern_california.p
+Loading <California> data from file: outData/records/california.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <cadmium> data from file: outData/records/cadmium.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <potassium> data from file: outData/records/potassium.p
+Loading <glutamine> data from file: outData/records/glutamine.p
+Saving record to: outData/replSentences/00057#10.1038#ismej.2011.201.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <South China Sea> data from file: outData/records/south_china_sea.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00070#10.1038#nclimate1507.rpls
+Saving record to: outData/replSentences/00004#10.1038#nrmicro1180.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00028#10.1038#nature12857.rpls
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Loading <Phosphorus> data from file: outData/records/phosphorus.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00002#10.1038#ngeo1765.rpls
+Loading <iron> data from file: outData/records/iron.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Pacific Oceans> data from file: outData/records/pacific_oceans.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Pacific Ocean> data from file: outData/records/pacific_ocean.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Trichodesmium tenue> data from file: outData/records/trichodesmium_tenue.p
+Saving record to: outData/replSentences/00078#10.1038#ismej.2012.13.rpls
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <West Antarctica> data from file: outData/records/west_antarctica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Ross Sea> data from file: outData/records/ross_sea.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00087#10.1038#ncomms2981.rpls
+Loading <South Pacific Ocean> data from file: outData/records/south_pacific_ocean.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Western South Pacific Ocean> data from file: outData/records/western_south_pacific_ocean.p
+Loading <Crocosphaera watsonii> data from file: outData/records/crocosphaera_watsonii.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <Western South Pacific Ocean> data from file: outData/records/western_south_pacific_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Saving record to: outData/replSentences/00034#10.1038#ismej.2011.152.rpls
+Loading <German Wadden Sea> data from file: outData/records/german_wadden_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <NO3-> data from file: outData/records/no3-.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00042#10.1038#ismej.2009.29.rpls
+Loading <hydrogen> data from file: outData/records/hydrogen.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <hydrogen sulphide> data from file: outData/records/hydrogen_sulphide.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00019#10.1038#nrmicro1745.rpls
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <dinitrogen> data from file: outData/records/dinitrogen.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <Peru> data from file: outData/records/peru.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <NO2> data from file: outData/records/no2.p
+Loading <PO43> data from file: outData/records/po43.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00083#10.1038#ismej.2014.71.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00012#10.1038#nrmicro2386.rpls
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Saving record to: outData/replSentences/00030#10.1038#ismej.2010.185.rpls
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <Sep Reservoir> data from file: outData/records/sep_reservoir.p
+Loading <Massif Central> data from file: outData/records/massif_central.p
+Loading <France> data from file: outData/records/france.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00041#10.1038#ismej.2008.15.rpls
+Loading <Canary Islands> data from file: outData/records/canary_islands.p
+Loading <leucine> data from file: outData/records/leucine.p
+Loading <leucine> data from file: outData/records/leucine.p
+Saving record to: outData/replSentences/00014#10.1038#ismej.2010.33.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <English Channel> data from file: outData/records/english_channel.p
+Loading <Nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <Nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <Phaeodactylum tricornutum> data from file: outData/records/phaeodactylum_tricornutum.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <15N> data from file: outData/records/15n.p
+Saving record to: outData/replSentences/00076#10.1038#ismej.2011.50.rpls
+Loading <Arctic Ocean> data from file: outData/records/arctic_ocean.p
+Loading <Polar Seas> data from file: outData/records/polar_seas.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Arctic Ocean> data from file: outData/records/arctic_ocean.p
+Saving record to: outData/replSentences/00031#10.1038#srep04661.rpls
+Saving record to: outData/replSentences/00064#10.1038#ismej.2011.132.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <Bermuda> data from file: outData/records/bermuda.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00099#10.1038#ismej.2011.117.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00032#10.1038#ismej.2013.121.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <human> data from file: outData/records/human.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <human> data from file: outData/records/human.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Saving record to: outData/replSentences/00062#10.1038#nature08985.rpls
+Loading <Fe> data from file: outData/records/fe.p
+Loading <P> data from file: outData/records/p.p
+Loading <North Pacific Subtropical Gyre> data from file: outData/records/north_pacific_subtropical_gyre.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <N> data from file: outData/records/n.p
+Loading <Fe> data from file: outData/records/fe.p
+Saving record to: outData/replSentences/00079#10.1038#ismej.2014.1.rpls
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <McMurdo Dry Valley> data from file: outData/records/mcmurdo_dry_valley.p
+Loading <Fryxell> data from file: outData/records/fryxell.p
+Loading <Bonney> data from file: outData/records/bonney.p
+Saving record to: outData/replSentences/00063#10.1038#ismej.2013.190.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Pacific> data from file: outData/records/pacific.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <cobalt> data from file: outData/records/cobalt.p
+Loading <Co> data from file: outData/records/co.p
+Loading <zinc> data from file: outData/records/zinc.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <cadmium> data from file: outData/records/cadmium.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <C> data from file: outData/records/c.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Fe> data from file: outData/records/fe.p
+Loading <Zn> data from file: outData/records/zn.p
+Loading <Cd> data from file: outData/records/cd.p
+Loading <Co> data from file: outData/records/co.p
+Loading <Co> data from file: outData/records/co.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00052#10.1038#ismej.2010.211.rpls
+Loading <Richelia intracellularis> data from file: outData/records/richelia_intracellularis.p
+Loading <Mediterranean Sea> data from file: outData/records/mediterranean_sea.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Levantine Basin> data from file: outData/records/levantine_basin.p
+Loading <Mediterranean Sea> data from file: outData/records/mediterranean_sea.p
+Loading <Richelia intracellularis> data from file: outData/records/richelia_intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <Israel> data from file: outData/records/israel.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <R. intracellularis> data from file: outData/records/r._intracellularis.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <NO3> data from file: outData/records/no3.p
+Loading <NO2> data from file: outData/records/no2.p
+Loading <Si(OH)4> data from file: outData/records/si(oh)4.p
+Loading <N> data from file: outData/records/n.p
+Loading <Levantine basin> data from file: outData/records/levantine_basin.p
+Saving record to: outData/replSentences/00086#10.1038#ismej.2008.56.rpls
+Saving record to: outData/replSentences/00005#10.1038#nrmicro1751.rpls
+Loading <Ne> data from file: outData/records/ne.p
+Loading <Ne> data from file: outData/records/ne.p
+Saving record to: outData/replSentences/00082#10.1038#ismej.2014.60.rpls
+Saving record to: outData/replSentences/00089#10.1038#ncomms4271.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Paopao Bay> data from file: outData/records/paopao_bay.p
+Loading <Moorea> data from file: outData/records/moorea.p
+Loading <French Polynesia> data from file: outData/records/french_polynesia.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00013#10.1038#ismej.2011.12.rpls
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <Mar Menor> data from file: outData/records/mar_menor.p
+Loading <Albufera de Valencia> data from file: outData/records/albufera_de_valencia.p
+Loading <Spain> data from file: outData/records/spain.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <Mar Menor> data from file: outData/records/mar_menor.p
+Loading <Albufera> data from file: outData/records/albufera.p
+Saving record to: outData/replSentences/00006#10.1038#srep00490.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00058#10.1038#ismej.2007.86.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00040#10.1038#ismej.2009.60#.rpls
+Saving record to: outData/replSentences/00073#10.1038#ismej.2010.91.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <Central Mediterranean Sea> data from file: outData/records/central_mediterranean_sea.p
+Loading <Tyrrhenian> data from file: outData/records/tyrrhenian.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <Southern Tyrrhenian Sea> data from file: outData/records/southern_tyrrhenian_sea.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <nitrite> data from file: outData/records/nitrite.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Tyrrhenian Sea> data from file: outData/records/tyrrhenian_sea.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <HCO3> data from file: outData/records/hco3.p
+Loading <14C> data from file: outData/records/14c.p
+Saving record to: outData/replSentences/00084#10.1038#ismej.2010.197.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <N> data from file: outData/records/n.p
+Loading <Fitzroy> data from file: outData/records/fitzroy.p
+Loading <Queensland> data from file: outData/records/queensland.p
+Loading <Great Barrier Reef> data from file: outData/records/great_barrier_reef.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <Nitrite> data from file: outData/records/nitrite.p
+Loading <Fitzroy> data from file: outData/records/fitzroy.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00085#10.1038#ismej.2009.105.rpls
+Loading <dimethylsulphoniopropionate> data from file: outData/records/dimethylsulphoniopropionate.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <Mediterranean> data from file: outData/records/mediterranean.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <sulphur> data from file: outData/records/sulphur.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Saving record to: outData/replSentences/00075#10.1038#ismej.2011.118.rpls
+Loading <carbohydrates> data from file: outData/records/carbohydrates.p
+Loading <Krycklan> data from file: outData/records/krycklan.p
+Loading <Sweden> data from file: outData/records/sweden.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <acetate> data from file: outData/records/acetate.p
+Loading <Carboxylic acids> data from file: outData/records/carboxylic_acids.p
+Loading <amino acids> data from file: outData/records/amino_acids.p
+Saving record to: outData/replSentences/00059#10.1038#ismej.2009.120.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Saving record to: outData/replSentences/00065#10.1038#ngeo2108.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Mississippi River> data from file: outData/records/mississippi_river.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Mississippi River> data from file: outData/records/mississippi_river.p
+Loading <Gulf of Mexico> data from file: outData/records/gulf_of_mexico.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00051#10.1038#ismej.2007.70.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Saving record to: outData/replSentences/00038#10.1038#nature04159.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <amino acids> data from file: outData/records/amino_acids.p
+Loading <D-alanine> data from file: outData/records/d-alanine.p
+Loading <O2> data from file: outData/records/o2.p
+Saving record to: outData/replSentences/00069#10.1038#ismej.2012.44.rpls
+Loading <Earth> data from file: outData/records/earth.p
+Saving record to: outData/replSentences/00068#10.1038#nature04160.rpls
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <Methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <Mauritanian> data from file: outData/records/mauritanian.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <Ancylobacter aquaticus> data from file: outData/records/ancylobacter_aquaticus.p
+Loading <Paracoccus denitrificans> data from file: outData/records/paracoccus_denitrificans.p
+Loading <Methylophilus methylotrophus> data from file: outData/records/methylophilus_methylotrophus.p
+Loading <Methylobacterium oryzae> data from file: outData/records/methylobacterium_oryzae.p
+Loading <Methylosulfonomonas methylovora> data from file: outData/records/methylosulfonomonas_methylovora.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <methanol> data from file: outData/records/methanol.p
+Saving record to: outData/replSentences/00045#10.1038#ismej.2012.130.rpls
+Loading <Polar Oceans> data from file: outData/records/polar_oceans.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Amundsen Gulf> data from file: outData/records/amundsen_gulf.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Prydz Bay> data from file: outData/records/prydz_bay.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <Polar oceans> data from file: outData/records/polar_oceans.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00056#10.1038#srep02339.rpls
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <Silica> data from file: outData/records/silica.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <silicon> data from file: outData/records/silicon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <silicic acid> data from file: outData/records/silicic_acid.p
+Saving record to: outData/replSentences/00097#10.1038#17351.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <Quebec> data from file: outData/records/quebec.p
+Loading <Canada> data from file: outData/records/canada.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00092#10.1038#ismej.2011.157.rpls
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00054#10.1038#ismej.2010.53.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00025#10.1038#nature07235.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00066#10.1038#nature11229.rpls
+Loading <Polar ocean> data from file: outData/records/polar_ocean.p
+Loading <human> data from file: outData/records/human.p
+Saving record to: outData/replSentences/00008#10.1038#nature04161.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <human> data from file: outData/records/human.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Saving record to: outData/replSentences/00096#10.1038#ngeo1830.rpls
+Loading <Phaeocystis globosa> data from file: outData/records/phaeocystis_globosa.p
+Loading <North Sea> data from file: outData/records/north_sea.p
+Loading <Phaeocystis globosa> data from file: outData/records/phaeocystis_globosa.p
+Loading <North Sea> data from file: outData/records/north_sea.p
+Loading <P. globosa> data from file: outData/records/p._globosa.p
+Loading <P. globosa> data from file: outData/records/p._globosa.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <P. globosa> data from file: outData/records/p._globosa.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00022#10.1038#ismej.2013.135.rpls
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00007#10.1038#nrmicro956.rpls
+Saving record to: outData/replSentences/00047#10.1038#nature04158.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <South Pacific Gyre> data from file: outData/records/south_pacific_gyre.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <South Pacific Gyre> data from file: outData/records/south_pacific_gyre.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <leucine> data from file: outData/records/leucine.p
+Loading <N> data from file: outData/records/n.p
+Saving record to: outData/replSentences/00093#10.1038#ismej.2011.182.rpls
+Loading <ammonia> data from file: outData/records/ammonia.p
+Loading <nitrous oxide> data from file: outData/records/nitrous_oxide.p
+Loading <Monterey Bay> data from file: outData/records/monterey_bay.p
+Saving record to: outData/replSentences/00071#10.1038#ismej.2014.11.rpls
+Loading <Chile> data from file: outData/records/chile.p
+Loading <nitrous oxide> data from file: outData/records/nitrous_oxide.p
+Loading <nitric> data from file: outData/records/nitric.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Saving record to: outData/replSentences/00017#10.1038#ismej.2013.144.rpls
+Loading <Carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <Nodularia spumigena> data from file: outData/records/nodularia_spumigena.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Loading <Nodularia spumigena> data from file: outData/records/nodularia_spumigena.p
+Loading <Baltic Sea> data from file: outData/records/baltic_sea.p
+Loading <N. spumigena> data from file: outData/records/n._spumigena.p
+Loading <N> data from file: outData/records/n.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N> data from file: outData/records/n.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <N. spumigena> data from file: outData/records/n._spumigena.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <NH4+> data from file: outData/records/nh4+.p
+Loading <N. spumigena> data from file: outData/records/n._spumigena.p
+Loading <C> data from file: outData/records/c.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <O2> data from file: outData/records/o2.p
+Saving record to: outData/replSentences/00039#10.1038#ismej.2011.20.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00081#10.1038#ismej.2013.216.rpls
+Loading <human> data from file: outData/records/human.p
+Loading <ammonium> data from file: outData/records/ammonium.p
+Saving record to: outData/replSentences/00100#10.1038#srep01292.rpls
+Loading <methane> data from file: outData/records/methane.p
+Loading <Methane> data from file: outData/records/methane.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methylphosphonate> data from file: outData/records/methylphosphonate.p
+Loading <methylphosphonate> data from file: outData/records/methylphosphonate.p
+Loading <Methylphosphonate> data from file: outData/records/methylphosphonate.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <methane> data from file: outData/records/methane.p
+Saving record to: outData/replSentences/00046#10.1038#ngeo234.rpls
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <Ace Lake> data from file: outData/records/ace_lake.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <O2> data from file: outData/records/o2.p
+Loading <H2S> data from file: outData/records/h2s.p
+Saving record to: outData/replSentences/00024#10.1038#ismej.2010.28.rpls
+Loading <Crocosphaera watsonii> data from file: outData/records/crocosphaera_watsonii.p
+Loading <Crocosphaera watsonii> data from file: outData/records/crocosphaera_watsonii.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <N> data from file: outData/records/n.p
+Loading <N2> data from file: outData/records/n2.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <South Pacific> data from file: outData/records/south_pacific.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <nitrogenase> data from file: outData/records/nitrogenase.p
+Loading <C. watsonii> data from file: outData/records/c._watsonii.p
+Loading <Pacific Ocean> data from file: outData/records/pacific_ocean.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00067#10.1038#ismej.2009.8.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Loading <human> data from file: outData/records/human.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Saving record to: outData/replSentences/00021#10.1038#ncomms3934.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <calcium carbonate> data from file: outData/records/calcium_carbonate.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Saving record to: outData/replSentences/00029#10.1038#35038000.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Organic Lake> data from file: outData/records/organic_lake.p
+Loading <Vestfold Hills> data from file: outData/records/vestfold_hills.p
+Loading <Antarctica> data from file: outData/records/antarctica.p
+Loading <dimethylsulfide> data from file: outData/records/dimethylsulfide.p
+Loading <Organic Lake> data from file: outData/records/organic_lake.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <CO> data from file: outData/records/co.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <Organic Lake> data from file: outData/records/organic_lake.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <DMS> data from file: outData/records/dms.p
+Loading <Dimethylsulfoniopropionate> data from file: outData/records/dimethylsulfoniopropionate.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Loading <DMS> data from file: outData/records/dms.p
+Loading <DMSP> data from file: outData/records/dmsp.p
+Saving record to: outData/replSentences/00016#10.1038#ismej.2013.69.rpls
+Loading <Antarctica Peninsula> data from file: outData/records/antarctica_peninsula.p
+Loading <Antarctic> data from file: outData/records/antarctic.p
+Loading <Antarctic Peninsula> data from file: outData/records/antarctic_peninsula.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Saving record to: outData/replSentences/00026#10.1038#ismej.2012.31.rpls
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Loading <Bermuda> data from file: outData/records/bermuda.p
+Loading <Atlantic> data from file: outData/records/atlantic.p
+Loading <Sargasso Sea> data from file: outData/records/sargasso_sea.p
+Saving record to: outData/replSentences/00048#10.1038#ismej.2008.117.rpls
+Loading <Bourget> data from file: outData/records/bourget.p
+Loading <Aydat> data from file: outData/records/aydat.p
+Loading <Pavin> data from file: outData/records/pavin.p
+Loading <Lake Bourget> data from file: outData/records/lake_bourget.p
+Loading <Lake Pavin> data from file: outData/records/lake_pavin.p
+Loading <Bourget> data from file: outData/records/bourget.p
+Saving record to: outData/replSentences/00061#10.1038#ismej.2010.83.rpls
+Loading <Dinoroseobacter shibae> data from file: outData/records/dinoroseobacter_shibae.p
+Loading <Dinoroseobacter shibae> data from file: outData/records/dinoroseobacter_shibae.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <dimethylsulfoxide> data from file: outData/records/dimethylsulfoxide.p
+Loading <fumarate> data from file: outData/records/fumarate.p
+Loading <nitrate> data from file: outData/records/nitrate.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <D. shibae> data from file: outData/records/d._shibae.p
+Loading <arginine> data from file: outData/records/arginine.p
+Saving record to: outData/replSentences/00050#10.1038#ismej.2009.94.rpls
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <dimethyl sulphide> data from file: outData/records/dimethyl_sulphide.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <Southern Ocean> data from file: outData/records/southern_ocean.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00015#10.1038#35037500.rpls
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <Heron Reef> data from file: outData/records/heron_reef.p
+Loading <Great Barrier Reef> data from file: outData/records/great_barrier_reef.p
+Loading <Australia> data from file: outData/records/australia.p
+Loading <phosphate> data from file: outData/records/phosphate.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <N> data from file: outData/records/n.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Loading <PO43-> data from file: outData/records/po43-.p
+Saving record to: outData/replSentences/00095#10.1038#ismej.2007.5.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00027#10.1038#ngeo1921.rpls
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <iron> data from file: outData/records/iron.p
+Saving record to: outData/replSentences/00009#10.1038#ngeo964.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbonate> data from file: outData/records/carbonate.p
+Saving record to: outData/replSentences/00043#10.1038#nature06267.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00044#10.1038#nature01165.rpls
+Loading <Iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Gulf of Alaska> data from file: outData/records/gulf_of_alaska.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <silica> data from file: outData/records/silica.p
+Loading <iron> data from file: outData/records/iron.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <silicic acid> data from file: outData/records/silicic_acid.p
+Loading <silicic acid> data from file: outData/records/silicic_acid.p
+Saving record to: outData/replSentences/00072#10.1038#nature02437.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Daphnia galeata> data from file: outData/records/daphnia_galeata.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <leucine> data from file: outData/records/leucine.p
+Loading <Limnohabitans planktonicus> data from file: outData/records/limnohabitans_planktonicus.p
+Loading <D. galeata> data from file: outData/records/d._galeata.p
+Loading <Daphnia magna> data from file: outData/records/daphnia_magna.p
+Loading <Lake Zurich> data from file: outData/records/lake_zurich.p
+Loading <carbon> data from file: outData/records/carbon.p
+Saving record to: outData/replSentences/00037#10.1038#ismej.2014.39.rpls
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <CO2> data from file: outData/records/co2.p
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <CO2> data from file: outData/records/co2.p
+Saving record to: outData/replSentences/00080#10.1038#ismej.2010.36.rpls
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Faroe-Shetland Channel> data from file: outData/records/faroe-shetland_channel.p
+Loading <Northeast Atlantic> data from file: outData/records/northeast_atlantic.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <Earth> data from file: outData/records/earth.p
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00053#10.1038#ismej.2012.14.rpls
+Loading <Atlantic Ocean> data from file: outData/records/atlantic_ocean.p
+Loading <Northwest Atlantic Ocean> data from file: outData/records/northwest_atlantic_ocean.p
+Loading <Bedford Basin> data from file: outData/records/bedford_basin.p
+Loading <methanol> data from file: outData/records/methanol.p
+Loading <carbon monoxide> data from file: outData/records/carbon_monoxide.p
+Loading <Bedford Basin> data from file: outData/records/bedford_basin.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <sulfur> data from file: outData/records/sulfur.p
+Saving record to: outData/replSentences/00098#10.1038#ismej.2013.234.rpls
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <nitrogen> data from file: outData/records/nitrogen.p
+Loading <phosphorus> data from file: outData/records/phosphorus.p
+Loading <C> data from file: outData/records/c.p
+Loading <N> data from file: outData/records/n.p
+Loading <P> data from file: outData/records/p.p
+Saving record to: outData/replSentences/00077#10.1038#ngeo1757.rpls
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Loading <USA> data from file: outData/records/usa.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <oxygen> data from file: outData/records/oxygen.p
+Loading <Columbia River> data from file: outData/records/columbia_river.p
+Saving record to: outData/replSentences/00094#10.1038#ismej.2013.79.rpls
+Loading <Earth's> data from file: outData/records/earth's.p
+Saving record to: outData/replSentences/00090#10.1038#nrmicro2831.rpls
+Loading <carbon dioxide> data from file: outData/records/carbon_dioxide.p
+Loading <methane> data from file: outData/records/methane.p
+Loading <nitrous oxide> data from file: outData/records/nitrous_oxide.p
+Saving record to: outData/replSentences/00055#10.1038#nrmicro2439.rpls
+Loading <North Atlantic> data from file: outData/records/north_atlantic.p
+Loading <North Atlantic> data from file: outData/records/north_atlantic.p
+Loading <North Atlantic Gyre> data from file: outData/records/north_atlantic_gyre.p
+Loading <leucine> data from file: outData/records/leucine.p
+Saving record to: outData/replSentences/00091#10.1038#ismej.2011.214.rpls
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <North Atlantic Ocean> data from file: outData/records/north_atlantic_ocean.p
+Loading <East Greenland> data from file: outData/records/east_greenland.p
+Loading <North Atlantic> data from file: outData/records/north_atlantic.p
+Loading <Arctic> data from file: outData/records/arctic.p
+Saving record to: outData/replSentences/00088#10.1038#ismej.2009.142.rpls
+Loading <sugar> data from file: outData/records/sugar.p
+Loading <Mo'orea> data from file: outData/records/mo'orea.p
+Loading <French Polynesia> data from file: outData/records/french_polynesia.p
+Loading <carbon> data from file: outData/records/carbon.p
+Loading <sugars> data from file: outData/records/sugars.p
+Loading <galactose> data from file: outData/records/galactose.p
+Loading <fucose> data from file: outData/records/fucose.p
+Saving record to: outData/replSentences/00023#10.1038#ismej.2012.161.rpls
+Loading <San Pedro> data from file: outData/records/san_pedro.p
+Saving record to: outData/replSentences/00049#10.1038#ismej.2013.199.rpls
+'Congratulations, this probably took a while.'

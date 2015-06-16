@@ -1,0 +1,552 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VCoefficient
+p5
+aVChemical element
+p6
+aVBuilding materials
+p7
+aVFerromagnetic materials
+p8
+aVChemical substance
+p9
+aVCharge number
+p10
+aVMetals
+p11
+aVMatter
+p12
+aVAtomic number
+p13
+aVTransition metals
+p14
+aVChemistry
+p15
+asS'fileName'
+p16
+S'00072#10.1038#nature02437'
+p17
+sS'entityType'
+p18
+VCompound
+p19
+sS'sentences'
+p20
+(lp21
+(V
+g5
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp22
+a(V
+g6
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp23
+a(V
+g7
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp24
+a(V
+g8
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp25
+a(V
+g9
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp26
+a(V
+g10
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp27
+a(V
+g11
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp28
+a(V
+g12
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp29
+a(V
+g13
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp30
+a(V
+g14
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp31
+a(V
+g15
+V supply has a key role in stimulating phytoplankton blooms in high-nitrate low-chlorophyll oceanic waters.
+tp32
+asS'entity'
+p33
+VIron
+p34
+sa(dp35
+g3
+(lp36
+VChemical element
+p37
+aVChemical substance
+p38
+aVCarbon forms
+p39
+aVMatter
+p40
+aVReducing agents
+p41
+aVCarbonate minerals
+p42
+aVChemistry
+p43
+asg16
+g17
+sg18
+VCompound
+p44
+sg20
+(lp45
+(VHowever, the fate of the 
+g37
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp46
+a(VHowever, the fate of the 
+g38
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp47
+a(VHowever, the fate of the 
+g39
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp48
+a(VHowever, the fate of the 
+g40
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp49
+a(VHowever, the fate of the 
+g41
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp50
+a(VHowever, the fate of the 
+g42
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp51
+a(VHowever, the fate of the 
+g43
+V fixed by these blooms, and how efficiently it is exported into the ocean's interior, remains largely unknown.
+tp52
+asg33
+Vcarbon
+p53
+sa(dp54
+g3
+(lp55
+sg16
+g17
+sg18
+VLocation
+p56
+sg20
+(lp57
+sg33
+VGulf of Alaska
+p58
+sa(dp59
+g3
+(lp60
+VCoefficient
+p61
+aVChemical element
+p62
+aVBuilding materials
+p63
+aVFerromagnetic materials
+p64
+aVChemical substance
+p65
+aVCharge number
+p66
+aVMetals
+p67
+aVMatter
+p68
+aVAtomic number
+p69
+aVTransition metals
+p70
+aVChemistry
+p71
+asg16
+g17
+sg18
+VCompound
+p72
+sg20
+(lp73
+(VThe bloom terminated on day 18, following the depletion of 
+g61
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp74
+a(VThe bloom terminated on day 18, following the depletion of 
+g62
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp75
+a(VThe bloom terminated on day 18, following the depletion of 
+g63
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp76
+a(VThe bloom terminated on day 18, following the depletion of 
+g64
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp77
+a(VThe bloom terminated on day 18, following the depletion of 
+g65
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp78
+a(VThe bloom terminated on day 18, following the depletion of 
+g66
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp79
+a(VThe bloom terminated on day 18, following the depletion of 
+g67
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp80
+a(VThe bloom terminated on day 18, following the depletion of 
+g68
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp81
+a(VThe bloom terminated on day 18, following the depletion of 
+g69
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp82
+a(VThe bloom terminated on day 18, following the depletion of 
+g70
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp83
+a(VThe bloom terminated on day 18, following the depletion of 
+g71
+V and then silicic acid, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp84
+asg33
+Viron
+p85
+sa(dp86
+g3
+(lp87
+VChemical element
+p88
+aVChemical substance
+p89
+aVCarbon forms
+p90
+aVMatter
+p91
+aVReducing agents
+p92
+aVCarbonate minerals
+p93
+aVChemistry
+p94
+asg16
+g17
+sg18
+VCompound
+p95
+sg20
+(lp96
+(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g88
+V (POC) concentrations declined over six days.
+tp97
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g89
+V (POC) concentrations declined over six days.
+tp98
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g90
+V (POC) concentrations declined over six days.
+tp99
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g91
+V (POC) concentrations declined over six days.
+tp100
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g92
+V (POC) concentrations declined over six days.
+tp101
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g93
+V (POC) concentrations declined over six days.
+tp102
+a(VThe bloom terminated on day 18, following the depletion of iron and then silicic acid, after which mixed-layer particulate organic 
+g94
+V (POC) concentrations declined over six days.
+tp103
+asg33
+Vcarbon
+p104
+sa(dp105
+g3
+(lp106
+VSilicon dioxide
+p107
+aVchemical substance
+p108
+aVRefractory materials
+p109
+aVchemical compound
+p110
+aVCeramic materials
+p111
+asg16
+g17
+sg18
+VCompound
+p112
+sg20
+(lp113
+(VIncreased particulate 
+g107
+V export via sinking diatoms was recorded in sediment traps at depths between 50 and 125 m from day 21, yet increased POC export was not evident until day 24.
+tp114
+a(VIncreased particulate 
+g108
+V export via sinking diatoms was recorded in sediment traps at depths between 50 and 125 m from day 21, yet increased POC export was not evident until day 24.
+tp115
+a(VIncreased particulate 
+g109
+V export via sinking diatoms was recorded in sediment traps at depths between 50 and 125 m from day 21, yet increased POC export was not evident until day 24.
+tp116
+a(VIncreased particulate 
+g110
+V export via sinking diatoms was recorded in sediment traps at depths between 50 and 125 m from day 21, yet increased POC export was not evident until day 24.
+tp117
+a(VIncreased particulate 
+g111
+V export via sinking diatoms was recorded in sediment traps at depths between 50 and 125 m from day 21, yet increased POC export was not evident until day 24.
+tp118
+asg33
+Vsilica
+p119
+sa(dp120
+g3
+(lp121
+VCoefficient
+p122
+aVChemical element
+p123
+aVBuilding materials
+p124
+aVFerromagnetic materials
+p125
+aVChemical substance
+p126
+aVCharge number
+p127
+aVMetals
+p128
+aVMatter
+p129
+aVAtomic number
+p130
+aVTransition metals
+p131
+aVChemistry
+p132
+asg16
+g17
+sg18
+VCompound
+p133
+sg20
+(lp134
+(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g122
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp135
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g123
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp136
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g124
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp137
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g125
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp138
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g126
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp139
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g127
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp140
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g128
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp141
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g129
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp142
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g130
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp143
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g131
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp144
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater 
+g132
+V supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp145
+asg33
+Viron
+p146
+sa(dp147
+g3
+(lp148
+VChemical element
+p149
+aVChemical substance
+p150
+aVCarbon forms
+p151
+aVMatter
+p152
+aVReducing agents
+p153
+aVCarbonate minerals
+p154
+aVChemistry
+p155
+asg16
+g17
+sg18
+VCompound
+p156
+sg20
+(lp157
+(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g149
+V sequestration.
+tp158
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g150
+V sequestration.
+tp159
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g151
+V sequestration.
+tp160
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g152
+V sequestration.
+tp161
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g153
+V sequestration.
+tp162
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g154
+V sequestration.
+tp163
+a(VThe depletion of silicic acid and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic 
+g155
+V sequestration.
+tp164
+asg33
+Vcarbon
+p165
+sa(dp166
+g3
+(lp167
+Vchemical substance
+p168
+aVWord
+p169
+aVName
+p170
+aVchemical compound
+p171
+aVMineral acids
+p172
+asg16
+g17
+sg18
+VCompound
+p173
+sg20
+(lp174
+(VThe bloom terminated on day 18, following the depletion of iron and then 
+g168
+V, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp175
+a(VThe bloom terminated on day 18, following the depletion of iron and then 
+g169
+V, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp176
+a(VThe bloom terminated on day 18, following the depletion of iron and then 
+g170
+V, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp177
+a(VThe bloom terminated on day 18, following the depletion of iron and then 
+g171
+V, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp178
+a(VThe bloom terminated on day 18, following the depletion of iron and then 
+g172
+V, after which mixed-layer particulate organic carbon (POC) concentrations declined over six days.
+tp179
+asg33
+Vsilicic acid
+p180
+sa(dp181
+g3
+(lp182
+Vchemical substance
+p183
+aVWord
+p184
+aVName
+p185
+aVchemical compound
+p186
+aVMineral acids
+p187
+asg16
+g17
+sg18
+VCompound
+p188
+sg20
+(lp189
+(VThe depletion of 
+g183
+V and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp190
+a(VThe depletion of 
+g184
+V and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp191
+a(VThe depletion of 
+g185
+V and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp192
+a(VThe depletion of 
+g186
+V and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp193
+a(VThe depletion of 
+g187
+V and the inefficient transfer of iron-increased POC below the permanent thermocline have major implications both for the biogeochemical interpretation of times of greater iron supply in the geological past, and also for proposed geo-engineering schemes to increase oceanic carbon sequestration.
+tp194
+asg33
+Vsilicic acid
+p195
+sa.

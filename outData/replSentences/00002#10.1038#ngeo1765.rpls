@@ -1,0 +1,320 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVIndustrial gases
+p7
+aVCoolants
+p8
+aVMatter
+p9
+aVChemistry
+p10
+asS'fileName'
+p11
+S'00002#10.1038#ngeo1765'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(V
+g5
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp17
+a(V
+g6
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp18
+a(V
+g7
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp19
+a(V
+g8
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp20
+a(V
+g9
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp21
+a(V
+g10
+V availability tends to limit productivity throughout much of the surface low-latitude ocean, where the supply of nutrients from the subsurface is relatively slow.
+tp22
+asS'entity'
+p23
+VNitrogen
+p24
+sa(dp25
+g3
+(lp26
+VCoefficient
+p27
+aVChemical element
+p28
+aVBuilding materials
+p29
+aVFerromagnetic materials
+p30
+aVChemical substance
+p31
+aVCharge number
+p32
+aVMetals
+p33
+aVMatter
+p34
+aVAtomic number
+p35
+aVTransition metals
+p36
+aVChemistry
+p37
+asg11
+g12
+sg13
+VCompound
+p38
+sg15
+(lp39
+(VIn contrast, 
+g27
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp40
+a(VIn contrast, 
+g28
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp41
+a(VIn contrast, 
+g29
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp42
+a(VIn contrast, 
+g30
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp43
+a(VIn contrast, 
+g31
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp44
+a(VIn contrast, 
+g32
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp45
+a(VIn contrast, 
+g33
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp46
+a(VIn contrast, 
+g34
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp47
+a(VIn contrast, 
+g35
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp48
+a(VIn contrast, 
+g36
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp49
+a(VIn contrast, 
+g37
+V often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the Southern Ocean and the eastern equatorial Pacific.
+tp50
+asg23
+Viron
+p51
+sa(dp52
+g3
+(lp53
+VWord
+p54
+aVRegions of Antarctica
+p55
+aVSubantarctic
+p56
+aVOceans
+p57
+aVAdjective
+p58
+aVMarine realms
+p59
+aVSouth
+p60
+asg11
+g12
+sg13
+VLocation
+p61
+sg15
+(lp62
+(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g54
+V and the eastern equatorial Pacific.
+tp63
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g55
+V and the eastern equatorial Pacific.
+tp64
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g56
+V and the eastern equatorial Pacific.
+tp65
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g57
+V and the eastern equatorial Pacific.
+tp66
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g58
+V and the eastern equatorial Pacific.
+tp67
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g59
+V and the eastern equatorial Pacific.
+tp68
+a(VIn contrast, iron often limits productivity where subsurface nutrient supply is enhanced, including within the main oceanic upwelling regions of the 
+g60
+V and the eastern equatorial Pacific.
+tp69
+asg23
+VSouthern Ocean
+p70
+sa(dp71
+g3
+(lp72
+sg11
+g12
+sg13
+VLocation
+p73
+sg15
+(lp74
+sg23
+VPacific
+p75
+sa(dp76
+g3
+(lp77
+VChemical element
+p78
+aVChemical substance
+p79
+aVMatter
+p80
+aVChemistry
+p81
+asg11
+g12
+sg13
+VCompound
+p82
+sg15
+(lp83
+(V
+g78
+V, vitamins and micronutrients other than iron may also (co-)limit marine phytoplankton.
+tp84
+a(V
+g79
+V, vitamins and micronutrients other than iron may also (co-)limit marine phytoplankton.
+tp85
+a(V
+g80
+V, vitamins and micronutrients other than iron may also (co-)limit marine phytoplankton.
+tp86
+a(V
+g81
+V, vitamins and micronutrients other than iron may also (co-)limit marine phytoplankton.
+tp87
+asg23
+VPhosphorus
+p88
+sa(dp89
+g3
+(lp90
+VCoefficient
+p91
+aVChemical element
+p92
+aVBuilding materials
+p93
+aVFerromagnetic materials
+p94
+aVChemical substance
+p95
+aVCharge number
+p96
+aVMetals
+p97
+aVMatter
+p98
+aVAtomic number
+p99
+aVTransition metals
+p100
+aVChemistry
+p101
+asg11
+g12
+sg13
+VCompound
+p102
+sg15
+(lp103
+(VPhosphorus, vitamins and micronutrients other than 
+g91
+V may also (co-)limit marine phytoplankton.
+tp104
+a(VPhosphorus, vitamins and micronutrients other than 
+g92
+V may also (co-)limit marine phytoplankton.
+tp105
+a(VPhosphorus, vitamins and micronutrients other than 
+g93
+V may also (co-)limit marine phytoplankton.
+tp106
+a(VPhosphorus, vitamins and micronutrients other than 
+g94
+V may also (co-)limit marine phytoplankton.
+tp107
+a(VPhosphorus, vitamins and micronutrients other than 
+g95
+V may also (co-)limit marine phytoplankton.
+tp108
+a(VPhosphorus, vitamins and micronutrients other than 
+g96
+V may also (co-)limit marine phytoplankton.
+tp109
+a(VPhosphorus, vitamins and micronutrients other than 
+g97
+V may also (co-)limit marine phytoplankton.
+tp110
+a(VPhosphorus, vitamins and micronutrients other than 
+g98
+V may also (co-)limit marine phytoplankton.
+tp111
+a(VPhosphorus, vitamins and micronutrients other than 
+g99
+V may also (co-)limit marine phytoplankton.
+tp112
+a(VPhosphorus, vitamins and micronutrients other than 
+g100
+V may also (co-)limit marine phytoplankton.
+tp113
+a(VPhosphorus, vitamins and micronutrients other than 
+g101
+V may also (co-)limit marine phytoplankton.
+tp114
+asg23
+Viron
+p115
+sa.

@@ -1,0 +1,512 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVIndustrial gases
+p6
+aVRefrigerants
+p7
+aVchemical compound
+p8
+aVHousehold chemicals
+p9
+aVNitrogen metabolism
+p10
+aVMatter
+p11
+aVBases
+p12
+aVToxicology
+p13
+asS'fileName'
+p14
+S'00084#10.1038#ismej.2010.197'
+p15
+sS'entityType'
+p16
+VCompound
+p17
+sS'sentences'
+p18
+(lp19
+(VContribution of crenarchaeal autotrophic 
+g5
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp20
+a(VContribution of crenarchaeal autotrophic 
+g6
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp21
+a(VContribution of crenarchaeal autotrophic 
+g7
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp22
+a(VContribution of crenarchaeal autotrophic 
+g8
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp23
+a(VContribution of crenarchaeal autotrophic 
+g9
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp24
+a(VContribution of crenarchaeal autotrophic 
+g10
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp25
+a(VContribution of crenarchaeal autotrophic 
+g11
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp26
+a(VContribution of crenarchaeal autotrophic 
+g12
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp27
+a(VContribution of crenarchaeal autotrophic 
+g13
+V oxidizers to the dark primary production in Tyrrhenian deep waters (Central Mediterranean Sea)
+tp28
+asS'entity'
+p29
+Vammonia
+p30
+sa(dp31
+g3
+(lp32
+sg14
+g15
+sg16
+VLocation
+p33
+sg18
+(lp34
+sg29
+VCentral Mediterranean Sea
+p35
+sa(dp36
+g3
+(lp37
+sg14
+g15
+sg16
+VLocation
+p38
+sg18
+(lp39
+sg29
+VTyrrhenian
+p40
+sa(dp41
+g3
+(lp42
+VChemical element
+p43
+aVChemical substance
+p44
+aVIndustrial gases
+p45
+aVCoolants
+p46
+aVMatter
+p47
+aVChemistry
+p48
+asg14
+g15
+sg16
+VCompound
+p49
+sg18
+(lp50
+(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g43
+V (N) and carbon (C) cycling.
+tp51
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g44
+V (N) and carbon (C) cycling.
+tp52
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g45
+V (N) and carbon (C) cycling.
+tp53
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g46
+V (N) and carbon (C) cycling.
+tp54
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g47
+V (N) and carbon (C) cycling.
+tp55
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to 
+g48
+V (N) and carbon (C) cycling.
+tp56
+asg29
+Vnitrogen
+p57
+sa(dp58
+g3
+(lp59
+VGrapheme
+p60
+asg14
+g15
+sg16
+VCompound
+p61
+sg18
+(lp62
+(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (
+g60
+V) and carbon (C) cycling.
+tp63
+asg29
+VN
+sa(dp64
+g3
+(lp65
+VChemical element
+p66
+aVChemical substance
+p67
+aVCarbon forms
+p68
+aVMatter
+p69
+aVReducing agents
+p70
+aVCarbonate minerals
+p71
+aVChemistry
+p72
+asg14
+g15
+sg16
+VCompound
+p73
+sg18
+(lp74
+(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g66
+V (C) cycling.
+tp75
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g67
+V (C) cycling.
+tp76
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g68
+V (C) cycling.
+tp77
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g69
+V (C) cycling.
+tp78
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g70
+V (C) cycling.
+tp79
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g71
+V (C) cycling.
+tp80
+a(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and 
+g72
+V (C) cycling.
+tp81
+asg29
+Vcarbon
+p82
+sa(dp83
+g3
+(lp84
+VGrapheme
+p85
+asg14
+g15
+sg16
+VCompound
+p86
+sg18
+(lp87
+(VMesophilic Crenarchaeota have recently been thought to be significant contributors to nitrogen (N) and carbon (
+g85
+V) cycling.
+tp88
+asg29
+VC
+sa(dp89
+g3
+(lp90
+sg14
+g15
+sg16
+VLocation
+p91
+sg18
+(lp92
+sg29
+VSouthern Tyrrhenian Sea
+p93
+sa(dp94
+g3
+(lp95
+Vchemical substance
+p96
+aVIndustrial gases
+p97
+aVRefrigerants
+p98
+aVchemical compound
+p99
+aVHousehold chemicals
+p100
+aVNitrogen metabolism
+p101
+aVMatter
+p102
+aVBases
+p103
+aVToxicology
+p104
+asg14
+g15
+sg16
+VCompound
+p105
+sg18
+(lp106
+(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g96
+V.
+tp107
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g97
+V.
+tp108
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g98
+V.
+tp109
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g99
+V.
+tp110
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g100
+V.
+tp111
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g101
+V.
+tp112
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g102
+V.
+tp113
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g103
+V.
+tp114
+a(VThe median value of the crenachaeal cell to amoA gene ratio was close to one suggesting that virtually all deep-sea Crenarchaeota possess the capacity to oxidize 
+g104
+V.
+tp115
+asg29
+Vammonia
+p116
+sa(dp117
+g3
+(lp118
+Vchemical substance
+p119
+aVCuring agents
+p120
+aVUnits of measurement
+p121
+aVMolecule
+p122
+aVNitrogen metabolism
+p123
+aVMolecular geometry
+p124
+aVIon
+p125
+aVchemical compound
+p126
+aVAtom
+p127
+aVNitrites
+p128
+asg14
+g15
+sg16
+VCompound
+p129
+sg18
+(lp130
+(VCrenarchaea-specific genes, nirK and ureC, for 
+g119
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp131
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g120
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp132
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g121
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp133
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g122
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp134
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g123
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp135
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g124
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp136
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g125
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp137
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g126
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp138
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g127
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp139
+a(VCrenarchaea-specific genes, nirK and ureC, for 
+g128
+V reductase and urease were identified and their affiliation demonstrated the presence of 'deep-sea' clades distinct from 'shallow' representatives.
+tp140
+asg29
+Vnitrite
+p141
+sa(dp142
+g3
+(lp143
+sg14
+g15
+sg16
+VCompound
+p144
+sg18
+(lp145
+sg29
+VCO2
+p146
+sa(dp147
+g3
+(lp148
+VEuropean seas
+p149
+aVMediterranean Sea
+p150
+aVBack-arc basins
+p151
+aVSea
+p152
+aVBody of water
+p153
+asg14
+g15
+sg16
+VLocation
+p154
+sg18
+(lp155
+(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of 
+g149
+V, pointing to the significance of this process in the C cycle of aphotic marine ecosystems.
+tp156
+a(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of 
+g150
+V, pointing to the significance of this process in the C cycle of aphotic marine ecosystems.
+tp157
+a(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of 
+g151
+V, pointing to the significance of this process in the C cycle of aphotic marine ecosystems.
+tp158
+a(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of 
+g152
+V, pointing to the significance of this process in the C cycle of aphotic marine ecosystems.
+tp159
+a(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of 
+g153
+V, pointing to the significance of this process in the C cycle of aphotic marine ecosystems.
+tp160
+asg29
+VTyrrhenian Sea
+p161
+sa(dp162
+g3
+(lp163
+VGrapheme
+p164
+asg14
+g15
+sg16
+VCompound
+p165
+sg18
+(lp166
+(VMeasured deep-sea dark CO2 fixation estimates were comparable to the median value of photosynthetic biomass production calculated for this area of Tyrrhenian Sea, pointing to the significance of this process in the 
+g164
+V cycle of aphotic marine ecosystems.
+tp167
+asg29
+VC
+sa(dp168
+g3
+(lp169
+VGrapheme
+p170
+asg14
+g15
+sg16
+VCompound
+p171
+sg18
+(lp172
+(VObtained results provided a clear proof of chemolithoautotrophic physiology of bathypelagic crenarchaeota and indicated that this numerically predominant group of microorganisms facilitate a hitherto unrecognized sink for inorganic 
+g170
+V of a global importance.
+tp173
+asg29
+VC
+sa(dp174
+g3
+(lp175
+sg14
+g15
+sg16
+VCompound
+p176
+sg18
+(lp177
+sg29
+VHCO3
+p178
+sa(dp179
+g3
+(lp180
+sg14
+g15
+sg16
+VCompound
+p181
+sg18
+(lp182
+sg29
+V14C
+p183
+sa.

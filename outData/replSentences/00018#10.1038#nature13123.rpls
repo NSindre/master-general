@@ -1,0 +1,632 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00018#10.1038#nature13123'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VReconciliation of the 
+g5
+V budget in the ocean's twilight zone
+tp18
+a(VReconciliation of the 
+g6
+V budget in the ocean's twilight zone
+tp19
+a(VReconciliation of the 
+g7
+V budget in the ocean's twilight zone
+tp20
+a(VReconciliation of the 
+g8
+V budget in the ocean's twilight zone
+tp21
+a(VReconciliation of the 
+g9
+V budget in the ocean's twilight zone
+tp22
+a(VReconciliation of the 
+g10
+V budget in the ocean's twilight zone
+tp23
+a(VReconciliation of the 
+g11
+V budget in the ocean's twilight zone
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g29
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp38
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g30
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp39
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g31
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp40
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g32
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp41
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g33
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp42
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g34
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp43
+a(VPhotosynthesis in the surface ocean produces approximately 100 gigatonnes of organic 
+g35
+V per year, of which 5 to 15 per cent is exported to the deep ocean.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VThe rate at which the sinking 
+g48
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp57
+a(VThe rate at which the sinking 
+g49
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp58
+a(VThe rate at which the sinking 
+g50
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp59
+a(VThe rate at which the sinking 
+g51
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp60
+a(VThe rate at which the sinking 
+g52
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp61
+a(VThe rate at which the sinking 
+g53
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp62
+a(VThe rate at which the sinking 
+g54
+V is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+Vchemical substance
+p67
+aVCoolants
+p68
+aVAtmosphere
+p69
+aVRefrigerants
+p70
+aVAir pollution
+p71
+aVClimate change
+p72
+aVHousehold chemicals
+p73
+aVGreenhouse gases
+p74
+aVInorganic carbon compounds
+p75
+aVOxides
+p76
+aVMatter
+p77
+aVchemical compound
+p78
+aVPropellants
+p79
+asg12
+g13
+sg14
+VCompound
+p80
+sg16
+(lp81
+(VThe rate at which the sinking carbon is converted into 
+g67
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp82
+a(VThe rate at which the sinking carbon is converted into 
+g68
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp83
+a(VThe rate at which the sinking carbon is converted into 
+g69
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp84
+a(VThe rate at which the sinking carbon is converted into 
+g70
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp85
+a(VThe rate at which the sinking carbon is converted into 
+g71
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp86
+a(VThe rate at which the sinking carbon is converted into 
+g72
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp87
+a(VThe rate at which the sinking carbon is converted into 
+g73
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp88
+a(VThe rate at which the sinking carbon is converted into 
+g74
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp89
+a(VThe rate at which the sinking carbon is converted into 
+g75
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp90
+a(VThe rate at which the sinking carbon is converted into 
+g76
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp91
+a(VThe rate at which the sinking carbon is converted into 
+g77
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp92
+a(VThe rate at which the sinking carbon is converted into 
+g78
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp93
+a(VThe rate at which the sinking carbon is converted into 
+g79
+V by heterotrophic organisms at depth is important in controlling oceanic carbon storage.
+tp94
+asg25
+Vcarbon dioxide
+p95
+sa(dp96
+g3
+(lp97
+VChemical element
+p98
+aVChemical substance
+p99
+aVCarbon forms
+p100
+aVMatter
+p101
+aVReducing agents
+p102
+aVCarbonate minerals
+p103
+aVChemistry
+p104
+asg12
+g13
+sg14
+VCompound
+p105
+sg16
+(lp106
+(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g98
+V storage.
+tp107
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g99
+V storage.
+tp108
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g100
+V storage.
+tp109
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g101
+V storage.
+tp110
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g102
+V storage.
+tp111
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g103
+V storage.
+tp112
+a(VThe rate at which the sinking carbon is converted into carbon dioxide by heterotrophic organisms at depth is important in controlling oceanic 
+g104
+V storage.
+tp113
+asg25
+Vcarbon
+p114
+sa(dp115
+g3
+(lp116
+VChemical element
+p117
+aVChemical substance
+p118
+aVCarbon forms
+p119
+aVMatter
+p120
+aVReducing agents
+p121
+aVCarbonate minerals
+p122
+aVChemistry
+p123
+asg12
+g13
+sg14
+VCompound
+p124
+sg16
+(lp125
+(VIt remains uncertain, however, to what extent surface ocean 
+g117
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp126
+a(VIt remains uncertain, however, to what extent surface ocean 
+g118
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp127
+a(VIt remains uncertain, however, to what extent surface ocean 
+g119
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp128
+a(VIt remains uncertain, however, to what extent surface ocean 
+g120
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp129
+a(VIt remains uncertain, however, to what extent surface ocean 
+g121
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp130
+a(VIt remains uncertain, however, to what extent surface ocean 
+g122
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp131
+a(VIt remains uncertain, however, to what extent surface ocean 
+g123
+V supply meets the demand of water-column biota; the discrepancy between known carbon sources and sinks is as much as two orders of magnitude.
+tp132
+asg25
+Vcarbon
+p133
+sa(dp134
+g3
+(lp135
+VChemical element
+p136
+aVChemical substance
+p137
+aVCarbon forms
+p138
+aVMatter
+p139
+aVReducing agents
+p140
+aVCarbonate minerals
+p141
+aVChemistry
+p142
+asg12
+g13
+sg14
+VCompound
+p143
+sg16
+(lp144
+(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g136
+V sources and sinks is as much as two orders of magnitude.
+tp145
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g137
+V sources and sinks is as much as two orders of magnitude.
+tp146
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g138
+V sources and sinks is as much as two orders of magnitude.
+tp147
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g139
+V sources and sinks is as much as two orders of magnitude.
+tp148
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g140
+V sources and sinks is as much as two orders of magnitude.
+tp149
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g141
+V sources and sinks is as much as two orders of magnitude.
+tp150
+a(VIt remains uncertain, however, to what extent surface ocean carbon supply meets the demand of water-column biota; the discrepancy between known 
+g142
+V sources and sinks is as much as two orders of magnitude.
+tp151
+asg25
+Vcarbon
+p152
+sa(dp153
+g3
+(lp154
+VChemical element
+p155
+aVChemical substance
+p156
+aVCarbon forms
+p157
+aVMatter
+p158
+aVReducing agents
+p159
+aVCarbonate minerals
+p160
+aVChemistry
+p161
+asg12
+g13
+sg14
+VCompound
+p162
+sg16
+(lp163
+(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g155
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp164
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g156
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp165
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g157
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp166
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g158
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp167
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g159
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp168
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g160
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp169
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance 
+g161
+V sources and sinks to within observational uncertainties at the Porcupine Abyssal Plain site in the eastern North Atlantic Ocean.
+tp170
+asg25
+Vcarbon
+p171
+sa(dp172
+g3
+(lp173
+VAbyssal plains
+p174
+aVContinental margin
+p175
+asg12
+g13
+sg14
+VLocation
+p176
+sg16
+(lp177
+(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance carbon sources and sinks to within observational uncertainties at the 
+g174
+V site in the eastern North Atlantic Ocean.
+tp178
+a(VHere we present field measurements, respiration rate estimates and a steady-state model that allow us to balance carbon sources and sinks to within observational uncertainties at the 
+g175
+V site in the eastern North Atlantic Ocean.
+tp179
+asg25
+VPorcupine Abyssal Plain
+p180
+sa(dp181
+g3
+(lp182
+sg12
+g13
+sg14
+VLocation
+p183
+sg16
+(lp184
+sg25
+VNorth Atlantic Ocean
+p185
+sa(dp186
+g3
+(lp187
+VChemical element
+p188
+aVChemical substance
+p189
+aVCarbon forms
+p190
+aVMatter
+p191
+aVReducing agents
+p192
+aVCarbonate minerals
+p193
+aVChemistry
+p194
+asg12
+g13
+sg14
+VCompound
+p195
+sg16
+(lp196
+(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g188
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp197
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g189
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp198
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g190
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp199
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g191
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp200
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g192
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp201
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g193
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp202
+a(VWe find that prokaryotes are responsible for 70 to 92 per cent of the estimated remineralization in the twilight zone (depths of 50 to 1,000 metres) despite the fact that much of the organic 
+g194
+V is exported in the form of large, fast-sinking particles accessible to larger zooplankton.
+tp203
+asg25
+Vcarbon
+p204
+sa(dp205
+g3
+(lp206
+VChemical element
+p207
+aVChemical substance
+p208
+aVCarbon forms
+p209
+aVMatter
+p210
+aVReducing agents
+p211
+aVCarbonate minerals
+p212
+aVChemistry
+p213
+asg12
+g13
+sg14
+VCompound
+p214
+sg16
+(lp215
+(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g207
+V sink.
+tp216
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g208
+V sink.
+tp217
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g209
+V sink.
+tp218
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g210
+V sink.
+tp219
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g211
+V sink.
+tp220
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g212
+V sink.
+tp221
+a(VThe synergy between microbes and zooplankton in the twilight zone is important to our understanding of the processes controlling the oceanic 
+g213
+V sink.
+tp222
+asg25
+Vcarbon
+p223
+sa.

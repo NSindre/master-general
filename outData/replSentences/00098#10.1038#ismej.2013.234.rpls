@@ -1,0 +1,700 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VWorld
+p5
+aVCommon name
+p6
+aVOceans
+p7
+aVHuman condition
+p8
+aVBodies of water
+p9
+asS'fileName'
+p10
+S'00098#10.1038#ismej.2013.234'
+p11
+sS'entityType'
+p12
+VLocation
+p13
+sS'sentences'
+p14
+(lp15
+(VMetaproteomic analysis of a winter to spring succession in coastal northwest 
+g5
+V microbial plankton
+tp16
+a(VMetaproteomic analysis of a winter to spring succession in coastal northwest 
+g6
+V microbial plankton
+tp17
+a(VMetaproteomic analysis of a winter to spring succession in coastal northwest 
+g7
+V microbial plankton
+tp18
+a(VMetaproteomic analysis of a winter to spring succession in coastal northwest 
+g8
+V microbial plankton
+tp19
+a(VMetaproteomic analysis of a winter to spring succession in coastal northwest 
+g9
+V microbial plankton
+tp20
+asS'entity'
+p21
+VAtlantic Ocean
+p22
+sa(dp23
+g3
+(lp24
+sg10
+g11
+sg12
+VLocation
+p25
+sg14
+(lp26
+sg21
+VNorthwest Atlantic Ocean
+p27
+sa(dp28
+g3
+(lp29
+VBody of water
+p30
+aVBay
+p31
+asg10
+g11
+sg12
+VLocation
+p32
+sg14
+(lp33
+(VIn this study, we used comparative metaproteomics to investigate the metabolic activity of microbial plankton inhabiting a seasonally hypoxic basin in the Northwest Atlantic Ocean (
+g30
+V).
+tp34
+a(VIn this study, we used comparative metaproteomics to investigate the metabolic activity of microbial plankton inhabiting a seasonally hypoxic basin in the Northwest Atlantic Ocean (
+g31
+V).
+tp35
+asg21
+VBedford Basin
+p36
+sa(dp37
+g3
+(lp38
+Vchemical substance
+p39
+aVNeurotoxins
+p40
+aVchemical compound
+p41
+aVCommodity chemicals
+p42
+aVMatter
+p43
+aVAlcohol solvents
+p44
+aVEnergy storage
+p45
+aVBiofuels
+p46
+asg10
+g11
+sg12
+VCompound
+p47
+sg14
+(lp48
+(VProteins involved in 
+g39
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp49
+a(VProteins involved in 
+g40
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp50
+a(VProteins involved in 
+g41
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp51
+a(VProteins involved in 
+g42
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp52
+a(VProteins involved in 
+g43
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp53
+a(VProteins involved in 
+g44
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp54
+a(VProteins involved in 
+g45
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp55
+a(VProteins involved in 
+g46
+V oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp56
+asg21
+Vmethanol
+p57
+sa(dp58
+g3
+(lp59
+Vchemical substance
+p60
+aVIndustrial gases
+p61
+aVColorless
+p62
+aVGas
+p63
+aVchemical compound
+p64
+aVOdorless
+p65
+aVToxicology
+p66
+aVSmog
+p67
+aVClassical mechanics
+p68
+asg10
+g11
+sg12
+VCompound
+p69
+sg14
+(lp70
+(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g60
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp71
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g61
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp72
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g62
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp73
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g63
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp74
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g64
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp75
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g65
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp76
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g66
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp77
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g67
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp78
+a(VProteins involved in methanol oxidation (from the OM43 clade) and 
+g68
+V (from a wide variety of bacteria) were identified throughout Bedford Basin.
+tp79
+asg21
+Vcarbon monoxide
+p80
+sa(dp81
+g3
+(lp82
+VBody of water
+p83
+aVBay
+p84
+asg10
+g11
+sg12
+VLocation
+p85
+sg14
+(lp86
+(VProteins involved in methanol oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout 
+g83
+V.
+tp87
+a(VProteins involved in methanol oxidation (from the OM43 clade) and carbon monoxide (from a wide variety of bacteria) were identified throughout 
+g84
+V.
+tp88
+asg21
+VBedford Basin
+p89
+sa(dp90
+g3
+(lp91
+VChemical element
+p92
+aVchemical substance
+p93
+aVSulfur forms
+p94
+aVInorganic polymers
+p95
+aVMatter
+p96
+aVchemical compound
+p97
+aVChemistry
+p98
+aVAgricultural chemicals
+p99
+asg10
+g11
+sg12
+VCompound
+p100
+sg14
+(lp101
+(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g92
+V oxidizers group was apparent.
+tp102
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g93
+V oxidizers group was apparent.
+tp103
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g94
+V oxidizers group was apparent.
+tp104
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g95
+V oxidizers group was apparent.
+tp105
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g96
+V oxidizers group was apparent.
+tp106
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g97
+V oxidizers group was apparent.
+tp107
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g98
+V oxidizers group was apparent.
+tp108
+a(VMetabolic niche partitioning between the SUP05 and ARCTIC96BD-19 clades, which together comprise the Gamma-proteobacterial 
+g99
+V oxidizers group was apparent.
+tp109
+asg21
+Vsulfur
+p110
+sa(dp111
+g3
+(lp112
+VChemical element
+p113
+aVchemical substance
+p114
+aVSulfur forms
+p115
+aVInorganic polymers
+p116
+aVMatter
+p117
+aVchemical compound
+p118
+aVChemistry
+p119
+aVAgricultural chemicals
+p120
+asg10
+g11
+sg12
+VCompound
+p121
+sg14
+(lp122
+(VIn contrast, the identification of 
+g113
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp123
+a(VIn contrast, the identification of 
+g114
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp124
+a(VIn contrast, the identification of 
+g115
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp125
+a(VIn contrast, the identification of 
+g116
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp126
+a(VIn contrast, the identification of 
+g117
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp127
+a(VIn contrast, the identification of 
+g118
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp128
+a(VIn contrast, the identification of 
+g119
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp129
+a(VIn contrast, the identification of 
+g120
+V oxidation proteins from SUP05 indicated the use of reduced sulfur as an energy source in hypoxic bottom water.
+tp130
+asg21
+Vsulfur
+p131
+sa(dp132
+g3
+(lp133
+VChemical element
+p134
+aVchemical substance
+p135
+aVSulfur forms
+p136
+aVInorganic polymers
+p137
+aVMatter
+p138
+aVchemical compound
+p139
+aVChemistry
+p140
+aVAgricultural chemicals
+p141
+asg10
+g11
+sg12
+VCompound
+p142
+sg14
+(lp143
+(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g134
+V as an energy source in hypoxic bottom water.
+tp144
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g135
+V as an energy source in hypoxic bottom water.
+tp145
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g136
+V as an energy source in hypoxic bottom water.
+tp146
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g137
+V as an energy source in hypoxic bottom water.
+tp147
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g138
+V as an energy source in hypoxic bottom water.
+tp148
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g139
+V as an energy source in hypoxic bottom water.
+tp149
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g140
+V as an energy source in hypoxic bottom water.
+tp150
+a(VIn contrast, the identification of sulfur oxidation proteins from SUP05 indicated the use of reduced 
+g141
+V as an energy source in hypoxic bottom water.
+tp151
+asg21
+Vsulfur
+p152
+sa(dp153
+g3
+(lp154
+VChemical element
+p155
+aVChemical substance
+p156
+aVCarbon forms
+p157
+aVMatter
+p158
+aVReducing agents
+p159
+aVCarbonate minerals
+p160
+aVChemistry
+p161
+asg10
+g11
+sg12
+VCompound
+p162
+sg14
+(lp163
+(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g155
+V fixation.
+tp164
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g156
+V fixation.
+tp165
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g157
+V fixation.
+tp166
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g158
+V fixation.
+tp167
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g159
+V fixation.
+tp168
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g160
+V fixation.
+tp169
+a(VWe identified an abundance of Marine Group I Thaumarchaeota proteins in the hypoxic deep layer, including proteins for nitrification and 
+g161
+V fixation.
+tp170
+asg21
+Vcarbon
+p171
+sa(dp172
+g3
+(lp173
+VChemical element
+p174
+aVChemical substance
+p175
+aVCarbon forms
+p176
+aVMatter
+p177
+aVReducing agents
+p178
+aVCarbonate minerals
+p179
+aVChemistry
+p180
+asg10
+g11
+sg12
+VCompound
+p181
+sg14
+(lp182
+(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g174
+V assimilation.
+tp183
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g175
+V assimilation.
+tp184
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g176
+V assimilation.
+tp185
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g177
+V assimilation.
+tp186
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g178
+V assimilation.
+tp187
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g179
+V assimilation.
+tp188
+a(VNo transporters for organic compounds were detected among the thaumarchaeal proteins, suggesting a reliance on autotrophic 
+g180
+V assimilation.
+tp189
+asg21
+Vcarbon
+p190
+sa(dp191
+g3
+(lp192
+VChemical element
+p193
+aVChemical substance
+p194
+aVCarbon forms
+p195
+aVMatter
+p196
+aVReducing agents
+p197
+aVCarbonate minerals
+p198
+aVChemistry
+p199
+asg10
+g11
+sg12
+VCompound
+p200
+sg14
+(lp201
+(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g193
+V, nitrogen and sulfur cycling in the sea.
+tp202
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g194
+V, nitrogen and sulfur cycling in the sea.
+tp203
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g195
+V, nitrogen and sulfur cycling in the sea.
+tp204
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g196
+V, nitrogen and sulfur cycling in the sea.
+tp205
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g197
+V, nitrogen and sulfur cycling in the sea.
+tp206
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g198
+V, nitrogen and sulfur cycling in the sea.
+tp207
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to 
+g199
+V, nitrogen and sulfur cycling in the sea.
+tp208
+asg21
+Vcarbon
+p209
+sa(dp210
+g3
+(lp211
+VChemical element
+p212
+aVChemical substance
+p213
+aVIndustrial gases
+p214
+aVCoolants
+p215
+aVMatter
+p216
+aVChemistry
+p217
+asg10
+g11
+sg12
+VCompound
+p218
+sg14
+(lp219
+(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g212
+V and sulfur cycling in the sea.
+tp220
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g213
+V and sulfur cycling in the sea.
+tp221
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g214
+V and sulfur cycling in the sea.
+tp222
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g215
+V and sulfur cycling in the sea.
+tp223
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g216
+V and sulfur cycling in the sea.
+tp224
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, 
+g217
+V and sulfur cycling in the sea.
+tp225
+asg21
+Vnitrogen
+p226
+sa(dp227
+g3
+(lp228
+VChemical element
+p229
+aVchemical substance
+p230
+aVSulfur forms
+p231
+aVInorganic polymers
+p232
+aVMatter
+p233
+aVchemical compound
+p234
+aVChemistry
+p235
+aVAgricultural chemicals
+p236
+asg10
+g11
+sg12
+VCompound
+p237
+sg14
+(lp238
+(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g229
+V cycling in the sea.
+tp239
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g230
+V cycling in the sea.
+tp240
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g231
+V cycling in the sea.
+tp241
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g232
+V cycling in the sea.
+tp242
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g233
+V cycling in the sea.
+tp243
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g234
+V cycling in the sea.
+tp244
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g235
+V cycling in the sea.
+tp245
+a(VIn summary, our analyses revealed the spatiotemporal structure of numerous metabolic activities in the coastal ocean that are central to carbon, nitrogen and 
+g236
+V cycling in the sea.
+tp246
+asg21
+Vsulfur
+p247
+sa.

@@ -1,0 +1,120 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VAntarctic region
+p5
+aVRegion
+p6
+aVTopography
+p7
+aVContinents
+p8
+aVLandforms
+p9
+asS'fileName'
+p10
+S'00030#10.1038#ismej.2010.185'
+p11
+sS'entityType'
+p12
+VLocation
+p13
+sS'sentences'
+p14
+(lp15
+(VAn integrative study of a meromictic lake ecosystem in 
+g5
+V
+tp16
+a(VAn integrative study of a meromictic lake ecosystem in 
+g6
+V
+tp17
+a(VAn integrative study of a meromictic lake ecosystem in 
+g7
+V
+tp18
+a(VAn integrative study of a meromictic lake ecosystem in 
+g8
+V
+tp19
+a(VAn integrative study of a meromictic lake ecosystem in 
+g9
+V
+tp20
+asS'entity'
+p21
+VAntarctica
+p22
+sa(dp23
+g3
+(lp24
+sg10
+g11
+sg12
+VLocation
+p25
+sg14
+(lp26
+sg21
+VAce Lake
+p27
+sa(dp28
+g3
+(lp29
+VAntarctic region
+p30
+aVRegion
+p31
+aVTopography
+p32
+aVContinents
+p33
+aVLandforms
+p34
+asg10
+g11
+sg12
+VLocation
+p35
+sg14
+(lp36
+(VHere, we describe the identity and functional capacity of microbial populations within distinct layers of a pristine, marine-derived, meromictic (stratified) lake (Ace Lake) in 
+g30
+V.
+tp37
+a(VHere, we describe the identity and functional capacity of microbial populations within distinct layers of a pristine, marine-derived, meromictic (stratified) lake (Ace Lake) in 
+g31
+V.
+tp38
+a(VHere, we describe the identity and functional capacity of microbial populations within distinct layers of a pristine, marine-derived, meromictic (stratified) lake (Ace Lake) in 
+g32
+V.
+tp39
+a(VHere, we describe the identity and functional capacity of microbial populations within distinct layers of a pristine, marine-derived, meromictic (stratified) lake (Ace Lake) in 
+g33
+V.
+tp40
+a(VHere, we describe the identity and functional capacity of microbial populations within distinct layers of a pristine, marine-derived, meromictic (stratified) lake (Ace Lake) in 
+g34
+V.
+tp41
+asg21
+VAntarctica
+p42
+sa(dp43
+g3
+(lp44
+sg10
+g11
+sg12
+VLocation
+p45
+sg14
+(lp46
+sg21
+VAce Lake
+p47
+sa.

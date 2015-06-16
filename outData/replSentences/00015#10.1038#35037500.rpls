@@ -1,0 +1,1220 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VWord
+p5
+aVRegions of Antarctica
+p6
+aVSubantarctic
+p7
+aVOceans
+p8
+aVAdjective
+p9
+aVMarine realms
+p10
+aVSouth
+p11
+asS'fileName'
+p12
+S'00015#10.1038#35037500'
+p13
+sS'entityType'
+p14
+VLocation
+p15
+sS'sentences'
+p16
+(lp17
+(VA mesoscale phytoplankton bloom in the polar 
+g5
+V stimulated by iron fertilization
+tp18
+a(VA mesoscale phytoplankton bloom in the polar 
+g6
+V stimulated by iron fertilization
+tp19
+a(VA mesoscale phytoplankton bloom in the polar 
+g7
+V stimulated by iron fertilization
+tp20
+a(VA mesoscale phytoplankton bloom in the polar 
+g8
+V stimulated by iron fertilization
+tp21
+a(VA mesoscale phytoplankton bloom in the polar 
+g9
+V stimulated by iron fertilization
+tp22
+a(VA mesoscale phytoplankton bloom in the polar 
+g10
+V stimulated by iron fertilization
+tp23
+a(VA mesoscale phytoplankton bloom in the polar 
+g11
+V stimulated by iron fertilization
+tp24
+asS'entity'
+p25
+VSouthern Ocean
+p26
+sa(dp27
+g3
+(lp28
+VCoefficient
+p29
+aVChemical element
+p30
+aVBuilding materials
+p31
+aVFerromagnetic materials
+p32
+aVChemical substance
+p33
+aVCharge number
+p34
+aVMetals
+p35
+aVMatter
+p36
+aVAtomic number
+p37
+aVTransition metals
+p38
+aVChemistry
+p39
+asg12
+g13
+sg14
+VCompound
+p40
+sg16
+(lp41
+(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g29
+V fertilization
+tp42
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g30
+V fertilization
+tp43
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g31
+V fertilization
+tp44
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g32
+V fertilization
+tp45
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g33
+V fertilization
+tp46
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g34
+V fertilization
+tp47
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g35
+V fertilization
+tp48
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g36
+V fertilization
+tp49
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g37
+V fertilization
+tp50
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g38
+V fertilization
+tp51
+a(VA mesoscale phytoplankton bloom in the polar Southern Ocean stimulated by 
+g39
+V fertilization
+tp52
+asg25
+Viron
+p53
+sa(dp54
+g3
+(lp55
+VCoefficient
+p56
+aVChemical element
+p57
+aVBuilding materials
+p58
+aVFerromagnetic materials
+p59
+aVChemical substance
+p60
+aVCharge number
+p61
+aVMetals
+p62
+aVMatter
+p63
+aVAtomic number
+p64
+aVTransition metals
+p65
+aVChemistry
+p66
+asg12
+g13
+sg14
+VCompound
+p67
+sg16
+(lp68
+(VChanges in 
+g56
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp69
+a(VChanges in 
+g57
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp70
+a(VChanges in 
+g58
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp71
+a(VChanges in 
+g59
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp72
+a(VChanges in 
+g60
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp73
+a(VChanges in 
+g61
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp74
+a(VChanges in 
+g62
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp75
+a(VChanges in 
+g63
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp76
+a(VChanges in 
+g64
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp77
+a(VChanges in 
+g65
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp78
+a(VChanges in 
+g66
+V supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp79
+asg25
+Viron
+p80
+sa(dp81
+g3
+(lp82
+Vchemical substance
+p83
+aVCoolants
+p84
+aVAtmosphere
+p85
+aVRefrigerants
+p86
+aVAir pollution
+p87
+aVClimate change
+p88
+aVHousehold chemicals
+p89
+aVGreenhouse gases
+p90
+aVInorganic carbon compounds
+p91
+aVOxides
+p92
+aVMatter
+p93
+aVchemical compound
+p94
+aVPropellants
+p95
+asg12
+g13
+sg14
+VCompound
+p96
+sg16
+(lp97
+(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g83
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp98
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g84
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp99
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g85
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp100
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g86
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp101
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g87
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp102
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g88
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp103
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g89
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp104
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g90
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp105
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g91
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp106
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g92
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp107
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g93
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp108
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g94
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp109
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric 
+g95
+V by altering rates of carbon sequestration, a theory known as the 'iron hypothesis'.
+tp110
+asg25
+Vcarbon dioxide
+p111
+sa(dp112
+g3
+(lp113
+VChemical element
+p114
+aVChemical substance
+p115
+aVCarbon forms
+p116
+aVMatter
+p117
+aVReducing agents
+p118
+aVCarbonate minerals
+p119
+aVChemistry
+p120
+asg12
+g13
+sg14
+VCompound
+p121
+sg16
+(lp122
+(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g114
+V sequestration, a theory known as the 'iron hypothesis'.
+tp123
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g115
+V sequestration, a theory known as the 'iron hypothesis'.
+tp124
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g116
+V sequestration, a theory known as the 'iron hypothesis'.
+tp125
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g117
+V sequestration, a theory known as the 'iron hypothesis'.
+tp126
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g118
+V sequestration, a theory known as the 'iron hypothesis'.
+tp127
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g119
+V sequestration, a theory known as the 'iron hypothesis'.
+tp128
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of 
+g120
+V sequestration, a theory known as the 'iron hypothesis'.
+tp129
+asg25
+Vcarbon
+p130
+sa(dp131
+g3
+(lp132
+VCoefficient
+p133
+aVChemical element
+p134
+aVBuilding materials
+p135
+aVFerromagnetic materials
+p136
+aVChemical substance
+p137
+aVCharge number
+p138
+aVMetals
+p139
+aVMatter
+p140
+aVAtomic number
+p141
+aVTransition metals
+p142
+aVChemistry
+p143
+asg12
+g13
+sg14
+VCompound
+p144
+sg16
+(lp145
+(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g133
+V hypothesis'.
+tp146
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g134
+V hypothesis'.
+tp147
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g135
+V hypothesis'.
+tp148
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g136
+V hypothesis'.
+tp149
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g137
+V hypothesis'.
+tp150
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g138
+V hypothesis'.
+tp151
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g139
+V hypothesis'.
+tp152
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g140
+V hypothesis'.
+tp153
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g141
+V hypothesis'.
+tp154
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g142
+V hypothesis'.
+tp155
+a(VChanges in iron supply to oceanic plankton are thought to have a significant effect on concentrations of atmospheric carbon dioxide by altering rates of carbon sequestration, a theory known as the '
+g143
+V hypothesis'.
+tp156
+asg25
+Viron
+p157
+sa(dp158
+g3
+(lp159
+VCoefficient
+p160
+aVChemical element
+p161
+aVBuilding materials
+p162
+aVFerromagnetic materials
+p163
+aVChemical substance
+p164
+aVCharge number
+p165
+aVMetals
+p166
+aVMatter
+p167
+aVAtomic number
+p168
+aVTransition metals
+p169
+aVChemistry
+p170
+asg12
+g13
+sg14
+VCompound
+p171
+sg16
+(lp172
+(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g160
+V supply.
+tp173
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g161
+V supply.
+tp174
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g162
+V supply.
+tp175
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g163
+V supply.
+tp176
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g164
+V supply.
+tp177
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g165
+V supply.
+tp178
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g166
+V supply.
+tp179
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g167
+V supply.
+tp180
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g168
+V supply.
+tp181
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g169
+V supply.
+tp182
+a(VFor this reason, it is important to understand the response of pelagic biota to increased 
+g170
+V supply.
+tp183
+asg25
+Viron
+p184
+sa(dp185
+g3
+(lp186
+VCoefficient
+p187
+aVChemical element
+p188
+aVBuilding materials
+p189
+aVFerromagnetic materials
+p190
+aVChemical substance
+p191
+aVCharge number
+p192
+aVMetals
+p193
+aVMatter
+p194
+aVAtomic number
+p195
+aVTransition metals
+p196
+aVChemistry
+p197
+asg12
+g13
+sg14
+VCompound
+p198
+sg16
+(lp199
+(VHere we report the results of a mesoscale 
+g187
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp200
+a(VHere we report the results of a mesoscale 
+g188
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp201
+a(VHere we report the results of a mesoscale 
+g189
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp202
+a(VHere we report the results of a mesoscale 
+g190
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp203
+a(VHere we report the results of a mesoscale 
+g191
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp204
+a(VHere we report the results of a mesoscale 
+g192
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp205
+a(VHere we report the results of a mesoscale 
+g193
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp206
+a(VHere we report the results of a mesoscale 
+g194
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp207
+a(VHere we report the results of a mesoscale 
+g195
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp208
+a(VHere we report the results of a mesoscale 
+g196
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp209
+a(VHere we report the results of a mesoscale 
+g197
+V fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp210
+asg25
+Viron
+p211
+sa(dp212
+g3
+(lp213
+VWord
+p214
+aVRegions of Antarctica
+p215
+aVSubantarctic
+p216
+aVOceans
+p217
+aVAdjective
+p218
+aVMarine realms
+p219
+aVSouth
+p220
+asg12
+g13
+sg14
+VLocation
+p221
+sg16
+(lp222
+(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g214
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp223
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g215
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp224
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g216
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp225
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g217
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp226
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g218
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp227
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g219
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp228
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar 
+g220
+V, where the potential to sequester iron-elevated algal carbon is probably greatest.
+tp229
+asg25
+VSouthern Ocean
+p230
+sa(dp231
+g3
+(lp232
+VChemical element
+p233
+aVChemical substance
+p234
+aVCarbon forms
+p235
+aVMatter
+p236
+aVReducing agents
+p237
+aVCarbonate minerals
+p238
+aVChemistry
+p239
+asg12
+g13
+sg14
+VCompound
+p240
+sg16
+(lp241
+(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g233
+V is probably greatest.
+tp242
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g234
+V is probably greatest.
+tp243
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g235
+V is probably greatest.
+tp244
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g236
+V is probably greatest.
+tp245
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g237
+V is probably greatest.
+tp246
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g238
+V is probably greatest.
+tp247
+a(VHere we report the results of a mesoscale iron fertilization experiment in the polar Southern Ocean, where the potential to sequester iron-elevated algal 
+g239
+V is probably greatest.
+tp248
+asg25
+Vcarbon
+p249
+sa(dp250
+g3
+(lp251
+VCoefficient
+p252
+aVChemical element
+p253
+aVBuilding materials
+p254
+aVFerromagnetic materials
+p255
+aVChemical substance
+p256
+aVCharge number
+p257
+aVMetals
+p258
+aVMatter
+p259
+aVAtomic number
+p260
+aVTransition metals
+p261
+aVChemistry
+p262
+asg12
+g13
+sg14
+VCompound
+p263
+sg16
+(lp264
+(VIncreased 
+g252
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp265
+a(VIncreased 
+g253
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp266
+a(VIncreased 
+g254
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp267
+a(VIncreased 
+g255
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp268
+a(VIncreased 
+g256
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp269
+a(VIncreased 
+g257
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp270
+a(VIncreased 
+g258
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp271
+a(VIncreased 
+g259
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp272
+a(VIncreased 
+g260
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp273
+a(VIncreased 
+g261
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp274
+a(VIncreased 
+g262
+V supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of carbon dioxide and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp275
+asg25
+Viron
+p276
+sa(dp277
+g3
+(lp278
+Vchemical substance
+p279
+aVCoolants
+p280
+aVAtmosphere
+p281
+aVRefrigerants
+p282
+aVAir pollution
+p283
+aVClimate change
+p284
+aVHousehold chemicals
+p285
+aVGreenhouse gases
+p286
+aVInorganic carbon compounds
+p287
+aVOxides
+p288
+aVMatter
+p289
+aVchemical compound
+p290
+aVPropellants
+p291
+asg12
+g13
+sg14
+VCompound
+p292
+sg16
+(lp293
+(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g279
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp294
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g280
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp295
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g281
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp296
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g282
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp297
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g283
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp298
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g284
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp299
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g285
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp300
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g286
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp301
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g287
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp302
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g288
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp303
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g289
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp304
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g290
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp305
+a(VIncreased iron supply led to elevated phytoplankton biomass and rates of photosynthesis in surface waters, causing a large drawdown of 
+g291
+V and macronutrients, and elevated dimethyl sulphide levels after 13 days.
+tp306
+asg25
+Vcarbon dioxide
+p307
+sa(dp308
+g3
+(lp309
+sg12
+g13
+sg14
+VCompound
+p310
+sg16
+(lp311
+sg25
+Vdimethyl sulphide
+p312
+sa(dp313
+g3
+(lp314
+VCoefficient
+p315
+aVChemical element
+p316
+aVBuilding materials
+p317
+aVFerromagnetic materials
+p318
+aVChemical substance
+p319
+aVCharge number
+p320
+aVMetals
+p321
+aVMatter
+p322
+aVAtomic number
+p323
+aVTransition metals
+p324
+aVChemistry
+p325
+asg12
+g13
+sg14
+VCompound
+p326
+sg16
+(lp327
+(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g315
+V was retained in surface waters.
+tp328
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g316
+V was retained in surface waters.
+tp329
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g317
+V was retained in surface waters.
+tp330
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g318
+V was retained in surface waters.
+tp331
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g319
+V was retained in surface waters.
+tp332
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g320
+V was retained in surface waters.
+tp333
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g321
+V was retained in surface waters.
+tp334
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g322
+V was retained in surface waters.
+tp335
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g323
+V was retained in surface waters.
+tp336
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g324
+V was retained in surface waters.
+tp337
+a(VMoreover, satellite observations of this massive bloom 30 days later, suggest that a sufficient proportion of the added 
+g325
+V was retained in surface waters.
+tp338
+asg25
+Viron
+p339
+sa(dp340
+g3
+(lp341
+VCoefficient
+p342
+aVChemical element
+p343
+aVBuilding materials
+p344
+aVFerromagnetic materials
+p345
+aVChemical substance
+p346
+aVCharge number
+p347
+aVMetals
+p348
+aVMatter
+p349
+aVAtomic number
+p350
+aVTransition metals
+p351
+aVChemistry
+p352
+asg12
+g13
+sg14
+VCompound
+p353
+sg16
+(lp354
+(VOur findings demonstrate that 
+g342
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp355
+a(VOur findings demonstrate that 
+g343
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp356
+a(VOur findings demonstrate that 
+g344
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp357
+a(VOur findings demonstrate that 
+g345
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp358
+a(VOur findings demonstrate that 
+g346
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp359
+a(VOur findings demonstrate that 
+g347
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp360
+a(VOur findings demonstrate that 
+g348
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp361
+a(VOur findings demonstrate that 
+g349
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp362
+a(VOur findings demonstrate that 
+g350
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp363
+a(VOur findings demonstrate that 
+g351
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp364
+a(VOur findings demonstrate that 
+g352
+V supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp365
+asg25
+Viron
+p366
+sa(dp367
+g3
+(lp368
+VWord
+p369
+aVRegions of Antarctica
+p370
+aVSubantarctic
+p371
+aVOceans
+p372
+aVAdjective
+p373
+aVMarine realms
+p374
+aVSouth
+p375
+asg12
+g13
+sg14
+VLocation
+p376
+sg16
+(lp377
+(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g369
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp378
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g370
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp379
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g371
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp380
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g372
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp381
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g373
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp382
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g374
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp383
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar 
+g375
+V waters, but the fate of algal carbon remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp384
+asg25
+VSouthern Ocean
+p385
+sa(dp386
+g3
+(lp387
+VChemical element
+p388
+aVChemical substance
+p389
+aVCarbon forms
+p390
+aVMatter
+p391
+aVReducing agents
+p392
+aVCarbonate minerals
+p393
+aVChemistry
+p394
+asg12
+g13
+sg14
+VCompound
+p395
+sg16
+(lp396
+(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g388
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp397
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g389
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp398
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g390
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp399
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g391
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp400
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g392
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp401
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g393
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp402
+a(VOur findings demonstrate that iron supply controls phytoplankton growth and community composition during summer in these polar Southern Ocean waters, but the fate of algal 
+g394
+V remains unknown and depends on the interplay between the processes controlling export, remineralisation and timescales of water mass subduction.
+tp403
+asg25
+Vcarbon
+p404
+sa(dp405
+g3
+(lp406
+VChemical element
+p407
+aVChemical substance
+p408
+aVCarbon forms
+p409
+aVMatter
+p410
+aVReducing agents
+p411
+aVCarbonate minerals
+p412
+aVChemistry
+p413
+asg12
+g13
+sg14
+VCompound
+p414
+sg16
+(lp415
+(VBut downward export of biogenic 
+g407
+V was not increased.
+tp416
+a(VBut downward export of biogenic 
+g408
+V was not increased.
+tp417
+a(VBut downward export of biogenic 
+g409
+V was not increased.
+tp418
+a(VBut downward export of biogenic 
+g410
+V was not increased.
+tp419
+a(VBut downward export of biogenic 
+g411
+V was not increased.
+tp420
+a(VBut downward export of biogenic 
+g412
+V was not increased.
+tp421
+a(VBut downward export of biogenic 
+g413
+V was not increased.
+tp422
+asg25
+Vcarbon
+p423
+sa.

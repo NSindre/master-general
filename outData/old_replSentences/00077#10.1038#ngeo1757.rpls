@@ -1,0 +1,534 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVIndustrial gases
+p7
+aVCoolants
+p8
+aVMatter
+p9
+aVChemistry
+p10
+asS'fileName'
+p11
+S'00077#10.1038#ngeo1757'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g5
+V fixation and loss.
+tp17
+a(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g6
+V fixation and loss.
+tp18
+a(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g7
+V fixation and loss.
+tp19
+a(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g8
+V fixation and loss.
+tp20
+a(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g9
+V fixation and loss.
+tp21
+a(VThis stoichiometry, referred to as the Redfield ratio, continues to be a central tenet in ocean biogeochemistry, and is used to infer a variety of ecosystem processes, such as phytoplankton productivity and rates of 
+g10
+V fixation and loss.
+tp22
+asS'entity'
+p23
+Vnitrogen
+p24
+sa(dp25
+g3
+(lp26
+VChemical element
+p27
+aVChemical substance
+p28
+aVCarbon forms
+p29
+aVMatter
+p30
+aVReducing agents
+p31
+aVCarbonate minerals
+p32
+aVChemistry
+p33
+asg11
+g12
+sg13
+VCompound
+p34
+sg15
+(lp35
+(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g27
+V to nitrogen and phosphorus among ocean plankton communities.
+tp36
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g28
+V to nitrogen and phosphorus among ocean plankton communities.
+tp37
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g29
+V to nitrogen and phosphorus among ocean plankton communities.
+tp38
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g30
+V to nitrogen and phosphorus among ocean plankton communities.
+tp39
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g31
+V to nitrogen and phosphorus among ocean plankton communities.
+tp40
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g32
+V to nitrogen and phosphorus among ocean plankton communities.
+tp41
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of 
+g33
+V to nitrogen and phosphorus among ocean plankton communities.
+tp42
+asg23
+Vcarbon
+p43
+sa(dp44
+g3
+(lp45
+VChemical element
+p46
+aVChemical substance
+p47
+aVIndustrial gases
+p48
+aVCoolants
+p49
+aVMatter
+p50
+aVChemistry
+p51
+asg11
+g12
+sg13
+VCompound
+p52
+sg15
+(lp53
+(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g46
+V and phosphorus among ocean plankton communities.
+tp54
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g47
+V and phosphorus among ocean plankton communities.
+tp55
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g48
+V and phosphorus among ocean plankton communities.
+tp56
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g49
+V and phosphorus among ocean plankton communities.
+tp57
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g50
+V and phosphorus among ocean plankton communities.
+tp58
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to 
+g51
+V and phosphorus among ocean plankton communities.
+tp59
+asg23
+Vnitrogen
+p60
+sa(dp61
+g3
+(lp62
+VChemical element
+p63
+aVChemical substance
+p64
+aVMatter
+p65
+aVChemistry
+p66
+asg11
+g12
+sg13
+VCompound
+p67
+sg15
+(lp68
+(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to nitrogen and 
+g63
+V among ocean plankton communities.
+tp69
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to nitrogen and 
+g64
+V among ocean plankton communities.
+tp70
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to nitrogen and 
+g65
+V among ocean plankton communities.
+tp71
+a(VModel, field and laboratory studies have shown that different mechanisms can explain both constant and variable ratios of carbon to nitrogen and 
+g66
+V among ocean plankton communities.
+tp72
+asg23
+Vphosphorus
+p73
+sa(dp74
+g3
+(lp75
+VChemical element
+p76
+aVChemical substance
+p77
+aVMatter
+p78
+aVChemistry
+p79
+asg11
+g12
+sg13
+VCompound
+p80
+sg15
+(lp81
+(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate 
+g76
+V, nitrogen and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp82
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate 
+g77
+V, nitrogen and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp83
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate 
+g78
+V, nitrogen and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp84
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate 
+g79
+V, nitrogen and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp85
+asg23
+Vphosphorus
+p86
+sa(dp87
+g3
+(lp88
+VChemical element
+p89
+aVChemical substance
+p90
+aVIndustrial gases
+p91
+aVCoolants
+p92
+aVMatter
+p93
+aVChemistry
+p94
+asg11
+g12
+sg13
+VCompound
+p95
+sg15
+(lp96
+(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g89
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp97
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g90
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp98
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g91
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp99
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g92
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp100
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g93
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp101
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, 
+g94
+V and carbon from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp102
+asg23
+Vnitrogen
+p103
+sa(dp104
+g3
+(lp105
+VChemical element
+p106
+aVChemical substance
+p107
+aVCarbon forms
+p108
+aVMatter
+p109
+aVReducing agents
+p110
+aVCarbonate minerals
+p111
+aVChemistry
+p112
+asg11
+g12
+sg13
+VCompound
+p113
+sg15
+(lp114
+(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g106
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp115
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g107
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp116
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g108
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp117
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g109
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp118
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g110
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp119
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g111
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp120
+a(VHere we assess global patterns in the elemental composition of phytoplankton and particulate organic matter in the upper ocean, using published and unpublished observations of particulate phosphorus, nitrogen and 
+g112
+V from a broad latitudinal range, supplemented with elemental data for surface plankton populations.
+tp121
+asg23
+Vcarbon
+p122
+sa(dp123
+g3
+(lp124
+VChemical element
+p125
+aVChemical substance
+p126
+aVCarbon forms
+p127
+aVMatter
+p128
+aVReducing agents
+p129
+aVCarbonate minerals
+p130
+aVChemistry
+p131
+asg11
+g12
+sg13
+VCompound
+p132
+sg15
+(lp133
+(VWe suggest that the coupling between oceanic 
+g125
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp134
+a(VWe suggest that the coupling between oceanic 
+g126
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp135
+a(VWe suggest that the coupling between oceanic 
+g127
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp136
+a(VWe suggest that the coupling between oceanic 
+g128
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp137
+a(VWe suggest that the coupling between oceanic 
+g129
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp138
+a(VWe suggest that the coupling between oceanic 
+g130
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp139
+a(VWe suggest that the coupling between oceanic 
+g131
+V, nitrogen and phosphorus cycles may vary systematically by ecosystem.
+tp140
+asg23
+Vcarbon
+p141
+sa(dp142
+g3
+(lp143
+VChemical element
+p144
+aVChemical substance
+p145
+aVIndustrial gases
+p146
+aVCoolants
+p147
+aVMatter
+p148
+aVChemistry
+p149
+asg11
+g12
+sg13
+VCompound
+p150
+sg15
+(lp151
+(VWe suggest that the coupling between oceanic carbon, 
+g144
+V and phosphorus cycles may vary systematically by ecosystem.
+tp152
+a(VWe suggest that the coupling between oceanic carbon, 
+g145
+V and phosphorus cycles may vary systematically by ecosystem.
+tp153
+a(VWe suggest that the coupling between oceanic carbon, 
+g146
+V and phosphorus cycles may vary systematically by ecosystem.
+tp154
+a(VWe suggest that the coupling between oceanic carbon, 
+g147
+V and phosphorus cycles may vary systematically by ecosystem.
+tp155
+a(VWe suggest that the coupling between oceanic carbon, 
+g148
+V and phosphorus cycles may vary systematically by ecosystem.
+tp156
+a(VWe suggest that the coupling between oceanic carbon, 
+g149
+V and phosphorus cycles may vary systematically by ecosystem.
+tp157
+asg23
+Vnitrogen
+p158
+sa(dp159
+g3
+(lp160
+VChemical element
+p161
+aVChemical substance
+p162
+aVMatter
+p163
+aVChemistry
+p164
+asg11
+g12
+sg13
+VCompound
+p165
+sg15
+(lp166
+(VWe suggest that the coupling between oceanic carbon, nitrogen and 
+g161
+V cycles may vary systematically by ecosystem.
+tp167
+a(VWe suggest that the coupling between oceanic carbon, nitrogen and 
+g162
+V cycles may vary systematically by ecosystem.
+tp168
+a(VWe suggest that the coupling between oceanic carbon, nitrogen and 
+g163
+V cycles may vary systematically by ecosystem.
+tp169
+a(VWe suggest that the coupling between oceanic carbon, nitrogen and 
+g164
+V cycles may vary systematically by ecosystem.
+tp170
+asg23
+Vphosphorus
+p171
+sa(dp172
+g3
+(lp173
+VGrapheme
+p174
+asg11
+g12
+sg13
+VCompound
+p175
+sg15
+(lp176
+(VThe range of 
+g174
+V/N/P ratios in the ocean, and their predictability, are the subject of much active research.
+tp177
+asg23
+VC
+sa(dp178
+g3
+(lp179
+VGrapheme
+p180
+asg11
+g12
+sg13
+VCompound
+p181
+sg15
+(lp182
+(VThe range of C/
+g180
+V/P ratios in the ocean, and their predictability, are the subject of much active research.
+tp183
+asg23
+VN
+sa(dp184
+g3
+(lp185
+VGrapheme
+p186
+asg11
+g12
+sg13
+VCompound
+p187
+sg15
+(lp188
+(VThe range of C/N/
+g186
+V ratios in the ocean, and their predictability, are the subject of much active research.
+tp189
+asg23
+VP
+sa.

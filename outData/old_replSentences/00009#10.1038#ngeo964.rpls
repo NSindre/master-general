@@ -1,0 +1,798 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VCoefficient
+p5
+aVChemical element
+p6
+aVBuilding materials
+p7
+aVFerromagnetic materials
+p8
+aVChemical substance
+p9
+aVCharge number
+p10
+aVMetals
+p11
+aVMatter
+p12
+aVAtomic number
+p13
+aVTransition metals
+p14
+aVChemistry
+p15
+asS'fileName'
+p16
+S'00009#10.1038#ngeo964'
+p17
+sS'entityType'
+p18
+VCompound
+p19
+sS'sentences'
+p20
+(lp21
+(VThe biogeochemical cycle of 
+g5
+V in the ocean
+tp22
+a(VThe biogeochemical cycle of 
+g6
+V in the ocean
+tp23
+a(VThe biogeochemical cycle of 
+g7
+V in the ocean
+tp24
+a(VThe biogeochemical cycle of 
+g8
+V in the ocean
+tp25
+a(VThe biogeochemical cycle of 
+g9
+V in the ocean
+tp26
+a(VThe biogeochemical cycle of 
+g10
+V in the ocean
+tp27
+a(VThe biogeochemical cycle of 
+g11
+V in the ocean
+tp28
+a(VThe biogeochemical cycle of 
+g12
+V in the ocean
+tp29
+a(VThe biogeochemical cycle of 
+g13
+V in the ocean
+tp30
+a(VThe biogeochemical cycle of 
+g14
+V in the ocean
+tp31
+a(VThe biogeochemical cycle of 
+g15
+V in the ocean
+tp32
+asS'entity'
+p33
+Viron
+p34
+sa(dp35
+g3
+(lp36
+VCoefficient
+p37
+aVChemical element
+p38
+aVBuilding materials
+p39
+aVFerromagnetic materials
+p40
+aVChemical substance
+p41
+aVCharge number
+p42
+aVMetals
+p43
+aVMatter
+p44
+aVAtomic number
+p45
+aVTransition metals
+p46
+aVChemistry
+p47
+asg16
+g17
+sg18
+VCompound
+p48
+sg20
+(lp49
+(VAdvances in 
+g37
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp50
+a(VAdvances in 
+g38
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp51
+a(VAdvances in 
+g39
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp52
+a(VAdvances in 
+g40
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp53
+a(VAdvances in 
+g41
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp54
+a(VAdvances in 
+g42
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp55
+a(VAdvances in 
+g43
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp56
+a(VAdvances in 
+g44
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp57
+a(VAdvances in 
+g45
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp58
+a(VAdvances in 
+g46
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp59
+a(VAdvances in 
+g47
+V biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp60
+asg33
+Viron
+p61
+sa(dp62
+g3
+(lp63
+VCoefficient
+p64
+aVChemical element
+p65
+aVBuilding materials
+p66
+aVFerromagnetic materials
+p67
+aVChemical substance
+p68
+aVCharge number
+p69
+aVMetals
+p70
+aVMatter
+p71
+aVAtomic number
+p72
+aVTransition metals
+p73
+aVChemistry
+p74
+asg16
+g17
+sg18
+VCompound
+p75
+sg20
+(lp76
+(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g64
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp77
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g65
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp78
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g66
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp79
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g67
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp80
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g68
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp81
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g69
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp82
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g70
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp83
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g71
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp84
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g72
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp85
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g73
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp86
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic iron cycle over the past three decades: multiple sources of 
+g74
+V to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp87
+asg33
+Viron
+p88
+sa(dp89
+g3
+(lp90
+VCoefficient
+p91
+aVChemical element
+p92
+aVBuilding materials
+p93
+aVFerromagnetic materials
+p94
+aVChemical substance
+p95
+aVCharge number
+p96
+aVMetals
+p97
+aVMatter
+p98
+aVAtomic number
+p99
+aVTransition metals
+p100
+aVChemistry
+p101
+asg16
+g17
+sg18
+VCompound
+p102
+sg20
+(lp103
+(VThis new 
+g91
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp104
+a(VThis new 
+g92
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp105
+a(VThis new 
+g93
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp106
+a(VThis new 
+g94
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp107
+a(VThis new 
+g95
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp108
+a(VThis new 
+g96
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp109
+a(VThis new 
+g97
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp110
+a(VThis new 
+g98
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp111
+a(VThis new 
+g99
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp112
+a(VThis new 
+g100
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp113
+a(VThis new 
+g101
+V is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble iron pool is turned over weekly in this way in some ocean regions.
+tp114
+asg33
+Viron
+p115
+sa(dp116
+g3
+(lp117
+VCoefficient
+p118
+aVChemical element
+p119
+aVBuilding materials
+p120
+aVFerromagnetic materials
+p121
+aVChemical substance
+p122
+aVCharge number
+p123
+aVMetals
+p124
+aVMatter
+p125
+aVAtomic number
+p126
+aVTransition metals
+p127
+aVChemistry
+p128
+asg16
+g17
+sg18
+VCompound
+p129
+sg20
+(lp130
+(VFor example, bacteria dissolve particulate 
+g118
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp131
+a(VFor example, bacteria dissolve particulate 
+g119
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp132
+a(VFor example, bacteria dissolve particulate 
+g120
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp133
+a(VFor example, bacteria dissolve particulate 
+g121
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp134
+a(VFor example, bacteria dissolve particulate 
+g122
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp135
+a(VFor example, bacteria dissolve particulate 
+g123
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp136
+a(VFor example, bacteria dissolve particulate 
+g124
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp137
+a(VFor example, bacteria dissolve particulate 
+g125
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp138
+a(VFor example, bacteria dissolve particulate 
+g126
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp139
+a(VFor example, bacteria dissolve particulate 
+g127
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp140
+a(VFor example, bacteria dissolve particulate 
+g128
+V and at the same time release compounds -- iron-binding ligands -- that complex with iron and therefore help to keep it in solution.
+tp141
+asg33
+Viron
+p142
+sa(dp143
+g3
+(lp144
+VCoefficient
+p145
+aVChemical element
+p146
+aVBuilding materials
+p147
+aVFerromagnetic materials
+p148
+aVChemical substance
+p149
+aVCharge number
+p150
+aVMetals
+p151
+aVMatter
+p152
+aVAtomic number
+p153
+aVTransition metals
+p154
+aVChemistry
+p155
+asg16
+g17
+sg18
+VCompound
+p156
+sg20
+(lp157
+(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g145
+V and therefore help to keep it in solution.
+tp158
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g146
+V and therefore help to keep it in solution.
+tp159
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g147
+V and therefore help to keep it in solution.
+tp160
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g148
+V and therefore help to keep it in solution.
+tp161
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g149
+V and therefore help to keep it in solution.
+tp162
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g150
+V and therefore help to keep it in solution.
+tp163
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g151
+V and therefore help to keep it in solution.
+tp164
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g152
+V and therefore help to keep it in solution.
+tp165
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g153
+V and therefore help to keep it in solution.
+tp166
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g154
+V and therefore help to keep it in solution.
+tp167
+a(VFor example, bacteria dissolve particulate iron and at the same time release compounds -- iron-binding ligands -- that complex with 
+g155
+V and therefore help to keep it in solution.
+tp168
+asg33
+Viron
+p169
+sa(dp170
+g3
+(lp171
+VCoefficient
+p172
+aVChemical element
+p173
+aVBuilding materials
+p174
+aVFerromagnetic materials
+p175
+aVChemical substance
+p176
+aVCharge number
+p177
+aVMetals
+p178
+aVMatter
+p179
+aVAtomic number
+p180
+aVTransition metals
+p181
+aVChemistry
+p182
+asg16
+g17
+sg18
+VCompound
+p183
+sg20
+(lp184
+(VSinking particles, on the other hand, also scavenge 
+g172
+V from solution.
+tp185
+a(VSinking particles, on the other hand, also scavenge 
+g173
+V from solution.
+tp186
+a(VSinking particles, on the other hand, also scavenge 
+g174
+V from solution.
+tp187
+a(VSinking particles, on the other hand, also scavenge 
+g175
+V from solution.
+tp188
+a(VSinking particles, on the other hand, also scavenge 
+g176
+V from solution.
+tp189
+a(VSinking particles, on the other hand, also scavenge 
+g177
+V from solution.
+tp190
+a(VSinking particles, on the other hand, also scavenge 
+g178
+V from solution.
+tp191
+a(VSinking particles, on the other hand, also scavenge 
+g179
+V from solution.
+tp192
+a(VSinking particles, on the other hand, also scavenge 
+g180
+V from solution.
+tp193
+a(VSinking particles, on the other hand, also scavenge 
+g181
+V from solution.
+tp194
+a(VSinking particles, on the other hand, also scavenge 
+g182
+V from solution.
+tp195
+asg33
+Viron
+p196
+sa(dp197
+g3
+(lp198
+VCoefficient
+p199
+aVChemical element
+p200
+aVBuilding materials
+p201
+aVFerromagnetic materials
+p202
+aVChemical substance
+p203
+aVCharge number
+p204
+aVMetals
+p205
+aVMatter
+p206
+aVAtomic number
+p207
+aVTransition metals
+p208
+aVChemistry
+p209
+asg16
+g17
+sg18
+VCompound
+p210
+sg20
+(lp211
+(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g199
+V in the ocean.
+tp212
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g200
+V in the ocean.
+tp213
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g201
+V in the ocean.
+tp214
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g202
+V in the ocean.
+tp215
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g203
+V in the ocean.
+tp216
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g204
+V in the ocean.
+tp217
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g205
+V in the ocean.
+tp218
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g206
+V in the ocean.
+tp219
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g207
+V in the ocean.
+tp220
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g208
+V in the ocean.
+tp221
+a(VThe balance between these supply and removal processes determines the concentration of dissolved 
+g209
+V in the ocean.
+tp222
+asg33
+Viron
+p223
+sa(dp224
+g3
+(lp225
+VCoefficient
+p226
+aVChemical element
+p227
+aVBuilding materials
+p228
+aVFerromagnetic materials
+p229
+aVChemical substance
+p230
+aVCharge number
+p231
+aVMetals
+p232
+aVMatter
+p233
+aVAtomic number
+p234
+aVTransition metals
+p235
+aVChemistry
+p236
+asg16
+g17
+sg18
+VCompound
+p237
+sg20
+(lp238
+(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g226
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp239
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g227
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp240
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g228
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp241
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g229
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp242
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g230
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp243
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g231
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp244
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g232
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp245
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g233
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp246
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g234
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp247
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g235
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp248
+a(VAdvances in iron biogeochemistry have transformed our understanding of the oceanic 
+g236
+V cycle over the past three decades: multiple sources of iron to the ocean were discovered, including dust, coastal and shallow sediments, sea ice and hydrothermal fluids.
+tp249
+asg33
+Viron
+p250
+sa(dp251
+g3
+(lp252
+VCoefficient
+p253
+aVChemical element
+p254
+aVBuilding materials
+p255
+aVFerromagnetic materials
+p256
+aVChemical substance
+p257
+aVCharge number
+p258
+aVMetals
+p259
+aVMatter
+p260
+aVAtomic number
+p261
+aVTransition metals
+p262
+aVChemistry
+p263
+asg16
+g17
+sg18
+VCompound
+p264
+sg20
+(lp265
+(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g253
+V pool is turned over weekly in this way in some ocean regions.
+tp266
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g254
+V pool is turned over weekly in this way in some ocean regions.
+tp267
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g255
+V pool is turned over weekly in this way in some ocean regions.
+tp268
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g256
+V pool is turned over weekly in this way in some ocean regions.
+tp269
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g257
+V pool is turned over weekly in this way in some ocean regions.
+tp270
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g258
+V pool is turned over weekly in this way in some ocean regions.
+tp271
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g259
+V pool is turned over weekly in this way in some ocean regions.
+tp272
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g260
+V pool is turned over weekly in this way in some ocean regions.
+tp273
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g261
+V pool is turned over weekly in this way in some ocean regions.
+tp274
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g262
+V pool is turned over weekly in this way in some ocean regions.
+tp275
+a(VThis new iron is rapidly recycled in the upper ocean by a range of organisms; up to 50% of the total soluble 
+g263
+V pool is turned over weekly in this way in some ocean regions.
+tp276
+asg33
+Viron
+p277
+sa.

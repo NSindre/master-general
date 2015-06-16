@@ -1,0 +1,628 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00056#10.1038#srep02339'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VPolar Oceans
+p12
+sa(dp13
+g3
+(lp14
+VRegion
+p15
+aVPhysical geography
+p16
+asg5
+g6
+sg7
+VLocation
+p17
+sg9
+(lp18
+(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of 
+g15
+V and Antarctic Seasonal Cycles
+tp19
+a(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of 
+g16
+V and Antarctic Seasonal Cycles
+tp20
+asg11
+VArctic
+p21
+sa(dp22
+g3
+(lp23
+VAntarctic region
+p24
+aVQuantity
+p25
+aVPolar region
+p26
+aVArea
+p27
+asg5
+g6
+sg7
+VLocation
+p28
+sg9
+(lp29
+(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of Arctic and 
+g24
+V Seasonal Cycles
+tp30
+a(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of Arctic and 
+g25
+V Seasonal Cycles
+tp31
+a(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of Arctic and 
+g26
+V Seasonal Cycles
+tp32
+a(VVulnerability of Polar Oceans to Anthropogenic Acidification: Comparison of Arctic and 
+g27
+V Seasonal Cycles
+tp33
+asg11
+VAntarctic
+p34
+sa(dp35
+g3
+(lp36
+Vchemical substance
+p37
+aVchemical compound
+p38
+aVCarbonates
+p39
+aVIonic compound
+p40
+asg5
+g6
+sg7
+VCompound
+p41
+sg9
+(lp42
+(VPolar oceans are chemically sensitive to anthropogenic acidification due to their relatively low alkalinity and correspondingly weak 
+g37
+V buffering capacity.
+tp43
+a(VPolar oceans are chemically sensitive to anthropogenic acidification due to their relatively low alkalinity and correspondingly weak 
+g38
+V buffering capacity.
+tp44
+a(VPolar oceans are chemically sensitive to anthropogenic acidification due to their relatively low alkalinity and correspondingly weak 
+g39
+V buffering capacity.
+tp45
+a(VPolar oceans are chemically sensitive to anthropogenic acidification due to their relatively low alkalinity and correspondingly weak 
+g40
+V buffering capacity.
+tp46
+asg11
+Vcarbonate
+p47
+sa(dp48
+g3
+(lp49
+sg5
+g6
+sg7
+VCompound
+p50
+sg9
+(lp51
+sg11
+VCO2
+p52
+sa(dp53
+g3
+(lp54
+VRegion
+p55
+aVPhysical geography
+p56
+asg5
+g6
+sg7
+VLocation
+p57
+sg9
+(lp58
+(VHere, we compare unique CO2 system observations covering complete annual cycles at an 
+g55
+V (Amundsen Gulf) and Antarctic site (Prydz Bay).
+tp59
+a(VHere, we compare unique CO2 system observations covering complete annual cycles at an 
+g56
+V (Amundsen Gulf) and Antarctic site (Prydz Bay).
+tp60
+asg11
+VArctic
+p61
+sa(dp62
+g3
+(lp63
+VCanadian Arctic Archipelago
+p64
+asg5
+g6
+sg7
+VLocation
+p65
+sg9
+(lp66
+(VHere, we compare unique CO2 system observations covering complete annual cycles at an Arctic (
+g64
+V) and Antarctic site (Prydz Bay).
+tp67
+asg11
+VAmundsen Gulf
+p68
+sa(dp69
+g3
+(lp70
+VAntarctic region
+p71
+aVQuantity
+p72
+aVPolar region
+p73
+aVArea
+p74
+asg5
+g6
+sg7
+VLocation
+p75
+sg9
+(lp76
+(VHere, we compare unique CO2 system observations covering complete annual cycles at an Arctic (Amundsen Gulf) and 
+g71
+V site (Prydz Bay).
+tp77
+a(VHere, we compare unique CO2 system observations covering complete annual cycles at an Arctic (Amundsen Gulf) and 
+g72
+V site (Prydz Bay).
+tp78
+a(VHere, we compare unique CO2 system observations covering complete annual cycles at an Arctic (Amundsen Gulf) and 
+g73
+V site (Prydz Bay).
+tp79
+a(VHere, we compare unique CO2 system observations covering complete annual cycles at an Arctic (Amundsen Gulf) and 
+g74
+V site (Prydz Bay).
+tp80
+asg11
+VAntarctic
+p81
+sa(dp82
+g3
+(lp83
+sg5
+g6
+sg7
+VLocation
+p84
+sg9
+(lp85
+sg11
+VPrydz Bay
+p86
+sa(dp87
+g3
+(lp88
+VRegion
+p89
+aVPhysical geography
+p90
+asg5
+g6
+sg7
+VLocation
+p91
+sg9
+(lp92
+(VThe 
+g89
+V site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the Antarctic site.
+tp93
+a(VThe 
+g90
+V site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the Antarctic site.
+tp94
+asg11
+VArctic
+p95
+sa(dp96
+g3
+(lp97
+VAntarctic region
+p98
+aVQuantity
+p99
+aVPolar region
+p100
+aVArea
+p101
+asg5
+g6
+sg7
+VLocation
+p102
+sg9
+(lp103
+(VThe Arctic site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the 
+g98
+V site.
+tp104
+a(VThe Arctic site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the 
+g99
+V site.
+tp105
+a(VThe Arctic site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the 
+g100
+V site.
+tp106
+a(VThe Arctic site experiences greater seasonal warming (10 vs 3degreesC), and freshening (3 vs 2), has lower alkalinity (2220 vs 2320 mumol/kg), and lower summer pH (8.15 vs 8.5), than the 
+g101
+V site.
+tp107
+asg11
+VAntarctic
+p108
+sa(dp109
+g3
+(lp110
+VChemical element
+p111
+aVChemical substance
+p112
+aVCarbon forms
+p113
+aVMatter
+p114
+aVReducing agents
+p115
+aVCarbonate minerals
+p116
+aVChemistry
+p117
+asg5
+g6
+sg7
+VCompound
+p118
+sg9
+(lp119
+(VDespite a larger uptake of inorganic 
+g111
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp120
+a(VDespite a larger uptake of inorganic 
+g112
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp121
+a(VDespite a larger uptake of inorganic 
+g113
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp122
+a(VDespite a larger uptake of inorganic 
+g114
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp123
+a(VDespite a larger uptake of inorganic 
+g115
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp124
+a(VDespite a larger uptake of inorganic 
+g116
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp125
+a(VDespite a larger uptake of inorganic 
+g117
+V by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp126
+asg11
+Vcarbon
+p127
+sa(dp128
+g3
+(lp129
+VRegion
+p130
+aVPhysical geography
+p131
+asg5
+g6
+sg7
+VLocation
+p132
+sg9
+(lp133
+(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the 
+g130
+V carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp134
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the 
+g131
+V carbon system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp135
+asg11
+VArctic
+p136
+sa(dp137
+g3
+(lp138
+VChemical element
+p139
+aVChemical substance
+p140
+aVCarbon forms
+p141
+aVMatter
+p142
+aVReducing agents
+p143
+aVCarbonate minerals
+p144
+aVChemistry
+p145
+asg5
+g6
+sg7
+VCompound
+p146
+sg9
+(lp147
+(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g139
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp148
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g140
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp149
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g141
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp150
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g142
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp151
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g143
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp152
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g144
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp153
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic 
+g145
+V system exhibits smaller seasonal changes than the more alkaline Antarctic system.
+tp154
+asg11
+Vcarbon
+p155
+sa(dp156
+g3
+(lp157
+VAntarctic region
+p158
+aVQuantity
+p159
+aVPolar region
+p160
+aVArea
+p161
+asg5
+g6
+sg7
+VLocation
+p162
+sg9
+(lp163
+(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline 
+g158
+V system.
+tp164
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline 
+g159
+V system.
+tp165
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline 
+g160
+V system.
+tp166
+a(VDespite a larger uptake of inorganic carbon by summer photosynthesis, the Arctic carbon system exhibits smaller seasonal changes than the more alkaline 
+g161
+V system.
+tp167
+asg11
+VAntarctic
+p168
+sa(dp169
+g3
+(lp170
+VAntarctic region
+p171
+aVQuantity
+p172
+aVPolar region
+p173
+aVArea
+p174
+asg5
+g6
+sg7
+VLocation
+p175
+sg9
+(lp176
+(VIn addition, the excess surface nutrients in the 
+g171
+V may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by iron inputs from glacial and sea-ice melting.
+tp177
+a(VIn addition, the excess surface nutrients in the 
+g172
+V may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by iron inputs from glacial and sea-ice melting.
+tp178
+a(VIn addition, the excess surface nutrients in the 
+g173
+V may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by iron inputs from glacial and sea-ice melting.
+tp179
+a(VIn addition, the excess surface nutrients in the 
+g174
+V may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by iron inputs from glacial and sea-ice melting.
+tp180
+asg11
+VAntarctic
+p181
+sa(dp182
+g3
+(lp183
+sg5
+g6
+sg7
+VCompound
+p184
+sg9
+(lp185
+sg11
+VCO2
+p186
+sa(dp187
+g3
+(lp188
+VRegion
+p189
+aVPhysical geography
+p190
+asg5
+g6
+sg7
+VLocation
+p191
+sg9
+(lp192
+(VThese differences suggest that the 
+g189
+V system is more vulnerable to anthropogenic change due to lower alkalinity, enhanced warming, and nutrient limitation.
+tp193
+a(VThese differences suggest that the 
+g190
+V system is more vulnerable to anthropogenic change due to lower alkalinity, enhanced warming, and nutrient limitation.
+tp194
+asg11
+VArctic
+p195
+sa(dp196
+g3
+(lp197
+sg5
+g6
+sg7
+VLocation
+p198
+sg9
+(lp199
+sg11
+VPolar oceans
+p200
+sa(dp201
+g3
+(lp202
+VCoefficient
+p203
+aVChemical element
+p204
+aVBuilding materials
+p205
+aVFerromagnetic materials
+p206
+aVChemical substance
+p207
+aVCharge number
+p208
+aVMetals
+p209
+aVMatter
+p210
+aVAtomic number
+p211
+aVTransition metals
+p212
+aVChemistry
+p213
+asg5
+g6
+sg7
+VCompound
+p214
+sg9
+(lp215
+(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g203
+V inputs from glacial and sea-ice melting.
+tp216
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g204
+V inputs from glacial and sea-ice melting.
+tp217
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g205
+V inputs from glacial and sea-ice melting.
+tp218
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g206
+V inputs from glacial and sea-ice melting.
+tp219
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g207
+V inputs from glacial and sea-ice melting.
+tp220
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g208
+V inputs from glacial and sea-ice melting.
+tp221
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g209
+V inputs from glacial and sea-ice melting.
+tp222
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g210
+V inputs from glacial and sea-ice melting.
+tp223
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g211
+V inputs from glacial and sea-ice melting.
+tp224
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g212
+V inputs from glacial and sea-ice melting.
+tp225
+a(VIn addition, the excess surface nutrients in the Antarctic may allow mitigation of acidification, via CO2 removal by enhanced summer production driven by 
+g213
+V inputs from glacial and sea-ice melting.
+tp226
+asg11
+Viron
+p227
+sa.

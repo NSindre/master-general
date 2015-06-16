@@ -1,0 +1,723 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVIndustrial gases
+p7
+aVCoolants
+p8
+aVMatter
+p9
+aVChemistry
+p10
+asS'fileName'
+p11
+S'00076#10.1038#ismej.2011.50'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VSeasonal changes in 
+g5
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp17
+a(VSeasonal changes in 
+g6
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp18
+a(VSeasonal changes in 
+g7
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp19
+a(VSeasonal changes in 
+g8
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp20
+a(VSeasonal changes in 
+g9
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp21
+a(VSeasonal changes in 
+g10
+V assimilation have been studied in the western English Channel by sampling at approximately weekly intervals for 12 months.
+tp22
+asS'entity'
+p23
+Vnitrogen
+p24
+sa(dp25
+g3
+(lp26
+VEuropean seas
+p27
+aVNorth Sea
+p28
+aVbody of water
+p29
+aVplace
+p30
+aVEnglish coast
+p31
+aVnatural place
+p32
+asg11
+g12
+sg13
+VLocation
+p33
+sg15
+(lp34
+(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g27
+V by sampling at approximately weekly intervals for 12 months.
+tp35
+a(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g28
+V by sampling at approximately weekly intervals for 12 months.
+tp36
+a(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g29
+V by sampling at approximately weekly intervals for 12 months.
+tp37
+a(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g30
+V by sampling at approximately weekly intervals for 12 months.
+tp38
+a(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g31
+V by sampling at approximately weekly intervals for 12 months.
+tp39
+a(VSeasonal changes in nitrogen assimilation have been studied in the western 
+g32
+V by sampling at approximately weekly intervals for 12 months.
+tp40
+asg23
+VEnglish Channel
+p41
+sa(dp42
+g3
+(lp43
+Vchemical substance
+p44
+aVCuring agents
+p45
+aVWater quality indicators
+p46
+aVNitrates
+p47
+aVNitrogen metabolism
+p48
+aVFunctional groups
+p49
+aVchemical compound
+p50
+aVAtom
+p51
+aVMolecular mass
+p52
+aVMass
+p53
+asg11
+g12
+sg13
+VCompound
+p54
+sg15
+(lp55
+(V
+g44
+V concentrations showed strong seasonal variations.
+tp56
+a(V
+g45
+V concentrations showed strong seasonal variations.
+tp57
+a(V
+g46
+V concentrations showed strong seasonal variations.
+tp58
+a(V
+g47
+V concentrations showed strong seasonal variations.
+tp59
+a(V
+g48
+V concentrations showed strong seasonal variations.
+tp60
+a(V
+g49
+V concentrations showed strong seasonal variations.
+tp61
+a(V
+g50
+V concentrations showed strong seasonal variations.
+tp62
+a(V
+g51
+V concentrations showed strong seasonal variations.
+tp63
+a(V
+g52
+V concentrations showed strong seasonal variations.
+tp64
+a(V
+g53
+V concentrations showed strong seasonal variations.
+tp65
+asg23
+VNitrate
+p66
+sa(dp67
+g3
+(lp68
+VChemical element
+p69
+aVChemical substance
+p70
+aVIndustrial gases
+p71
+aVCoolants
+p72
+aVMatter
+p73
+aVChemistry
+p74
+asg11
+g12
+sg13
+VCompound
+p75
+sg15
+(lp76
+(VAvailable 
+g69
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp77
+a(VAvailable 
+g70
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp78
+a(VAvailable 
+g71
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp79
+a(VAvailable 
+g72
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp80
+a(VAvailable 
+g73
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp81
+a(VAvailable 
+g74
+V in the winter was dominated by nitrate but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp82
+asg23
+Vnitrogen
+p83
+sa(dp84
+g3
+(lp85
+Vchemical substance
+p86
+aVCuring agents
+p87
+aVWater quality indicators
+p88
+aVNitrates
+p89
+aVNitrogen metabolism
+p90
+aVFunctional groups
+p91
+aVchemical compound
+p92
+aVAtom
+p93
+aVMolecular mass
+p94
+aVMass
+p95
+asg11
+g12
+sg13
+VCompound
+p96
+sg15
+(lp97
+(VThe 15N uptake experiments showed that 
+g86
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp98
+a(VThe 15N uptake experiments showed that 
+g87
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp99
+a(VThe 15N uptake experiments showed that 
+g88
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp100
+a(VThe 15N uptake experiments showed that 
+g89
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp101
+a(VThe 15N uptake experiments showed that 
+g90
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp102
+a(VThe 15N uptake experiments showed that 
+g91
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp103
+a(VThe 15N uptake experiments showed that 
+g92
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp104
+a(VThe 15N uptake experiments showed that 
+g93
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp105
+a(VThe 15N uptake experiments showed that 
+g94
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp106
+a(VThe 15N uptake experiments showed that 
+g95
+V was the nitrogen source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp107
+asg23
+Vnitrate
+p108
+sa(dp109
+g3
+(lp110
+VChemical element
+p111
+aVChemical substance
+p112
+aVIndustrial gases
+p113
+aVCoolants
+p114
+aVMatter
+p115
+aVChemistry
+p116
+asg11
+g12
+sg13
+VCompound
+p117
+sg15
+(lp118
+(VThe 15N uptake experiments showed that nitrate was the 
+g111
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp119
+a(VThe 15N uptake experiments showed that nitrate was the 
+g112
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp120
+a(VThe 15N uptake experiments showed that nitrate was the 
+g113
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp121
+a(VThe 15N uptake experiments showed that nitrate was the 
+g114
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp122
+a(VThe 15N uptake experiments showed that nitrate was the 
+g115
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp123
+a(VThe 15N uptake experiments showed that nitrate was the 
+g116
+V source for the spring phytoplankton bloom but regenerated nitrogen supported phytoplankton productivity throughout the summer.
+tp124
+asg23
+Vnitrogen
+p125
+sa(dp126
+g3
+(lp127
+VChemical element
+p128
+aVChemical substance
+p129
+aVIndustrial gases
+p130
+aVCoolants
+p131
+aVMatter
+p132
+aVChemistry
+p133
+asg11
+g12
+sg13
+VCompound
+p134
+sg15
+(lp135
+(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g128
+V supported phytoplankton productivity throughout the summer.
+tp136
+a(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g129
+V supported phytoplankton productivity throughout the summer.
+tp137
+a(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g130
+V supported phytoplankton productivity throughout the summer.
+tp138
+a(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g131
+V supported phytoplankton productivity throughout the summer.
+tp139
+a(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g132
+V supported phytoplankton productivity throughout the summer.
+tp140
+a(VThe 15N uptake experiments showed that nitrate was the nitrogen source for the spring phytoplankton bloom but regenerated 
+g133
+V supported phytoplankton productivity throughout the summer.
+tp141
+asg23
+Vnitrogen
+p142
+sa(dp143
+g3
+(lp144
+Vchemical substance
+p145
+aVIndustrial gases
+p146
+aVRefrigerants
+p147
+aVchemical compound
+p148
+aVHousehold chemicals
+p149
+aVNitrogen metabolism
+p150
+aVMatter
+p151
+aVBases
+p152
+aVToxicology
+p153
+asg11
+g12
+sg13
+VCompound
+p154
+sg15
+(lp155
+(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g145
+V regeneration in this dynamic temperate region.
+tp156
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g146
+V regeneration in this dynamic temperate region.
+tp157
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g147
+V regeneration in this dynamic temperate region.
+tp158
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g148
+V regeneration in this dynamic temperate region.
+tp159
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g149
+V regeneration in this dynamic temperate region.
+tp160
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g150
+V regeneration in this dynamic temperate region.
+tp161
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g151
+V regeneration in this dynamic temperate region.
+tp162
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g152
+V regeneration in this dynamic temperate region.
+tp163
+a(VThe average annual f-ratio was 0.35, which demonstrated the importance of 
+g153
+V regeneration in this dynamic temperate region.
+tp164
+asg23
+Vammonia
+p165
+sa(dp166
+g3
+(lp167
+VChemical element
+p168
+aVChemical substance
+p169
+aVIndustrial gases
+p170
+aVCoolants
+p171
+aVMatter
+p172
+aVChemistry
+p173
+asg11
+g12
+sg13
+VCompound
+p174
+sg15
+(lp175
+(V
+g168
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp176
+a(V
+g169
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp177
+a(V
+g170
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp178
+a(V
+g171
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp179
+a(V
+g172
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp180
+a(V
+g173
+V uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of nitrate reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp181
+asg23
+VNitrogen
+p182
+sa(dp183
+g3
+(lp184
+Vchemical substance
+p185
+aVCuring agents
+p186
+aVWater quality indicators
+p187
+aVNitrates
+p188
+aVNitrogen metabolism
+p189
+aVFunctional groups
+p190
+aVchemical compound
+p191
+aVAtom
+p192
+aVMolecular mass
+p193
+aVMass
+p194
+asg11
+g12
+sg13
+VCompound
+p195
+sg15
+(lp196
+(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g185
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp197
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g186
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp198
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g187
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp199
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g188
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp200
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g189
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp201
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g190
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp202
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g191
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp203
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g192
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp204
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g193
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp205
+a(VNitrogen uptake rate measurements were related to the phytoplankton responsible by assessing the relative abundance of 
+g194
+V reductase (NR) genes and the expression of NR among eukaryotic phytoplankton.
+tp206
+asg23
+Vnitrate
+p207
+sa(dp208
+g3
+(lp209
+VHeterokontophyta
+p210
+aVDiatom
+p211
+aVBacillariophyceae
+p212
+aVNaviculales
+p213
+aVspecies
+p214
+aVChromalveolata
+p215
+asg11
+g12
+sg13
+VSpecies
+p216
+sg15
+(lp217
+(VNR sequences from the diatom 
+g210
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp218
+a(VNR sequences from the diatom 
+g211
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp219
+a(VNR sequences from the diatom 
+g212
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp220
+a(VNR sequences from the diatom 
+g213
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp221
+a(VNR sequences from the diatom 
+g214
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp222
+a(VNR sequences from the diatom 
+g215
+V were highly represented in gene abundance and expression, and were significantly correlated with f-ratio.
+tp223
+asg23
+VPhaeodactylum tricornutum
+p224
+sa(dp225
+g3
+(lp226
+Vchemical substance
+p227
+aVCuring agents
+p228
+aVWater quality indicators
+p229
+aVNitrates
+p230
+aVNitrogen metabolism
+p231
+aVFunctional groups
+p232
+aVchemical compound
+p233
+aVAtom
+p234
+aVMolecular mass
+p235
+aVMass
+p236
+asg11
+g12
+sg13
+VCompound
+p237
+sg15
+(lp238
+(VAvailable nitrogen in the winter was dominated by 
+g227
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp239
+a(VAvailable nitrogen in the winter was dominated by 
+g228
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp240
+a(VAvailable nitrogen in the winter was dominated by 
+g229
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp241
+a(VAvailable nitrogen in the winter was dominated by 
+g230
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp242
+a(VAvailable nitrogen in the winter was dominated by 
+g231
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp243
+a(VAvailable nitrogen in the winter was dominated by 
+g232
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp244
+a(VAvailable nitrogen in the winter was dominated by 
+g233
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp245
+a(VAvailable nitrogen in the winter was dominated by 
+g234
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp246
+a(VAvailable nitrogen in the winter was dominated by 
+g235
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp247
+a(VAvailable nitrogen in the winter was dominated by 
+g236
+V but this was close to limit of detection from May to September, after the spring phytoplankton bloom.
+tp248
+asg23
+Vnitrate
+p249
+sa(dp250
+g3
+(lp251
+sg11
+g12
+sg13
+VCompound
+p252
+sg15
+(lp253
+sg23
+V15N
+p254
+sa.

@@ -1,0 +1,121 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VAntarctic region
+p5
+aVQuantity
+p6
+aVPolar region
+p7
+aVArea
+p8
+asS'fileName'
+p9
+S'00063#10.1038#ismej.2013.190'
+p10
+sS'entityType'
+p11
+VLocation
+p12
+sS'sentences'
+p13
+(lp14
+(VModular community structure suggests metabolic plasticity during the transition to polar night in ice-covered 
+g5
+V lakes
+tp15
+a(VModular community structure suggests metabolic plasticity during the transition to polar night in ice-covered 
+g6
+V lakes
+tp16
+a(VModular community structure suggests metabolic plasticity during the transition to polar night in ice-covered 
+g7
+V lakes
+tp17
+a(VModular community structure suggests metabolic plasticity during the transition to polar night in ice-covered 
+g8
+V lakes
+tp18
+asS'entity'
+p19
+VAntarctic
+p20
+sa(dp21
+g3
+(lp22
+VAntarctic region
+p23
+aVQuantity
+p24
+aVPolar region
+p25
+aVArea
+p26
+asg9
+g10
+sg11
+VLocation
+p27
+sg13
+(lp28
+(VHigh-latitude environments, such as the 
+g23
+V McMurdo Dry Valley lakes, are subject to seasonally segregated light-dark cycles, which have important consequences for microbial diversity and function on an annual basis.
+tp29
+a(VHigh-latitude environments, such as the 
+g24
+V McMurdo Dry Valley lakes, are subject to seasonally segregated light-dark cycles, which have important consequences for microbial diversity and function on an annual basis.
+tp30
+a(VHigh-latitude environments, such as the 
+g25
+V McMurdo Dry Valley lakes, are subject to seasonally segregated light-dark cycles, which have important consequences for microbial diversity and function on an annual basis.
+tp31
+a(VHigh-latitude environments, such as the 
+g26
+V McMurdo Dry Valley lakes, are subject to seasonally segregated light-dark cycles, which have important consequences for microbial diversity and function on an annual basis.
+tp32
+asg19
+VAntarctic
+p33
+sa(dp34
+g3
+(lp35
+sg9
+g10
+sg11
+VLocation
+p36
+sg13
+(lp37
+sg19
+VMcMurdo Dry Valley
+p38
+sa(dp39
+g3
+(lp40
+sg9
+g10
+sg11
+VLocation
+p41
+sg13
+(lp42
+sg19
+VFryxell
+p43
+sa(dp44
+g3
+(lp45
+sg9
+g10
+sg11
+VLocation
+p46
+sg13
+(lp47
+sg19
+VBonney
+p48
+sa.

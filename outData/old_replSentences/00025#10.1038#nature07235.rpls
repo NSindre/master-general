@@ -1,0 +1,890 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00025#10.1038#nature07235'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VCounterintuitive 
+g5
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp18
+a(VCounterintuitive 
+g6
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp19
+a(VCounterintuitive 
+g7
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp20
+a(VCounterintuitive 
+g8
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp21
+a(VCounterintuitive 
+g9
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp22
+a(VCounterintuitive 
+g10
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp23
+a(VCounterintuitive 
+g11
+V-to-nutrient coupling in an Arctic pelagic ecosystem
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VRegion
+p29
+aVPhysical geography
+p30
+asg12
+g13
+sg14
+VLocation
+p31
+sg16
+(lp32
+(VCounterintuitive carbon-to-nutrient coupling in an 
+g29
+V pelagic ecosystem
+tp33
+a(VCounterintuitive carbon-to-nutrient coupling in an 
+g30
+V pelagic ecosystem
+tp34
+asg25
+VArctic
+p35
+sa(dp36
+g3
+(lp37
+VChemical element
+p38
+aVChemical substance
+p39
+aVCarbon forms
+p40
+aVMatter
+p41
+aVReducing agents
+p42
+aVCarbonate minerals
+p43
+aVChemistry
+p44
+asg12
+g13
+sg14
+VCompound
+p45
+sg16
+(lp46
+(VPredicting the ocean's role in the global 
+g38
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp47
+a(VPredicting the ocean's role in the global 
+g39
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp48
+a(VPredicting the ocean's role in the global 
+g40
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp49
+a(VPredicting the ocean's role in the global 
+g41
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp50
+a(VPredicting the ocean's role in the global 
+g42
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp51
+a(VPredicting the ocean's role in the global 
+g43
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp52
+a(VPredicting the ocean's role in the global 
+g44
+V cycle requires an understanding of the stoichiometric coupling between carbon and growth-limiting elements in biogeochemical processes.
+tp53
+asg25
+Vcarbon
+p54
+sa(dp55
+g3
+(lp56
+VChemical element
+p57
+aVChemical substance
+p58
+aVCarbon forms
+p59
+aVMatter
+p60
+aVReducing agents
+p61
+aVCarbonate minerals
+p62
+aVChemistry
+p63
+asg12
+g13
+sg14
+VCompound
+p64
+sg16
+(lp65
+(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g57
+V and growth-limiting elements in biogeochemical processes.
+tp66
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g58
+V and growth-limiting elements in biogeochemical processes.
+tp67
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g59
+V and growth-limiting elements in biogeochemical processes.
+tp68
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g60
+V and growth-limiting elements in biogeochemical processes.
+tp69
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g61
+V and growth-limiting elements in biogeochemical processes.
+tp70
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g62
+V and growth-limiting elements in biogeochemical processes.
+tp71
+a(VPredicting the ocean's role in the global carbon cycle requires an understanding of the stoichiometric coupling between 
+g63
+V and growth-limiting elements in biogeochemical processes.
+tp72
+asg25
+Vcarbon
+p73
+sa(dp74
+g3
+(lp75
+VChemical element
+p76
+aVChemical substance
+p77
+aVCarbon forms
+p78
+aVMatter
+p79
+aVReducing agents
+p80
+aVCarbonate minerals
+p81
+aVChemistry
+p82
+asg12
+g13
+sg14
+VCompound
+p83
+sg16
+(lp84
+(VA recent addition to such knowledge is that the 
+g76
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp85
+a(VA recent addition to such knowledge is that the 
+g77
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp86
+a(VA recent addition to such knowledge is that the 
+g78
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp87
+a(VA recent addition to such knowledge is that the 
+g79
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp88
+a(VA recent addition to such knowledge is that the 
+g80
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp89
+a(VA recent addition to such knowledge is that the 
+g81
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp90
+a(VA recent addition to such knowledge is that the 
+g82
+V/nitrogen ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp91
+asg25
+Vcarbon
+p92
+sa(dp93
+g3
+(lp94
+VChemical element
+p95
+aVChemical substance
+p96
+aVIndustrial gases
+p97
+aVCoolants
+p98
+aVMatter
+p99
+aVChemistry
+p100
+asg12
+g13
+sg14
+VCompound
+p101
+sg16
+(lp102
+(VA recent addition to such knowledge is that the carbon/
+g95
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp103
+a(VA recent addition to such knowledge is that the carbon/
+g96
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp104
+a(VA recent addition to such knowledge is that the carbon/
+g97
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp105
+a(VA recent addition to such knowledge is that the carbon/
+g98
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp106
+a(VA recent addition to such knowledge is that the carbon/
+g99
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp107
+a(VA recent addition to such knowledge is that the carbon/
+g100
+V ratio of inorganic consumption and release of dissolved organic matter may increase in a high-CO2 world.
+tp108
+asg25
+Vnitrogen
+p109
+sa(dp110
+g3
+(lp111
+sg12
+g13
+sg14
+VCompound
+p112
+sg16
+(lp113
+sg25
+VCO2
+p114
+sa(dp115
+g3
+(lp116
+VRegion
+p117
+aVPhysical geography
+p118
+asg12
+g13
+sg14
+VLocation
+p119
+sg16
+(lp120
+(VHere we show, in the context of an 
+g117
+V pelagic ecosystem, how the fate and effects of added degradable organic carbon depend critically on the state of the microbial food web.
+tp121
+a(VHere we show, in the context of an 
+g118
+V pelagic ecosystem, how the fate and effects of added degradable organic carbon depend critically on the state of the microbial food web.
+tp122
+asg25
+VArctic
+p123
+sa(dp124
+g3
+(lp125
+VChemical element
+p126
+aVChemical substance
+p127
+aVCarbon forms
+p128
+aVMatter
+p129
+aVReducing agents
+p130
+aVCarbonate minerals
+p131
+aVChemistry
+p132
+asg12
+g13
+sg14
+VCompound
+p133
+sg16
+(lp134
+(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g126
+V depend critically on the state of the microbial food web.
+tp135
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g127
+V depend critically on the state of the microbial food web.
+tp136
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g128
+V depend critically on the state of the microbial food web.
+tp137
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g129
+V depend critically on the state of the microbial food web.
+tp138
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g130
+V depend critically on the state of the microbial food web.
+tp139
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g131
+V depend critically on the state of the microbial food web.
+tp140
+a(VHere we show, in the context of an Arctic pelagic ecosystem, how the fate and effects of added degradable organic 
+g132
+V depend critically on the state of the microbial food web.
+tp141
+asg25
+Vcarbon
+p142
+sa(dp143
+g3
+(lp144
+VChemical element
+p145
+aVChemical substance
+p146
+aVCarbon forms
+p147
+aVMatter
+p148
+aVReducing agents
+p149
+aVCarbonate minerals
+p150
+aVChemistry
+p151
+asg12
+g13
+sg14
+VCompound
+p152
+sg16
+(lp153
+(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g145
+V accumulated in the system.
+tp154
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g146
+V accumulated in the system.
+tp155
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g147
+V accumulated in the system.
+tp156
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g148
+V accumulated in the system.
+tp157
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g149
+V accumulated in the system.
+tp158
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g150
+V accumulated in the system.
+tp159
+a(VWhen bacterial growth rate was limited by mineral nutrients, extra organic 
+g151
+V accumulated in the system.
+tp160
+asg25
+Vcarbon
+p161
+sa(dp162
+g3
+(lp163
+VChemical element
+p164
+aVChemical substance
+p165
+aVCarbon forms
+p166
+aVMatter
+p167
+aVReducing agents
+p168
+aVCarbonate minerals
+p169
+aVChemistry
+p170
+asg12
+g13
+sg14
+VCompound
+p171
+sg16
+(lp172
+(VWhen bacteria were limited by organic 
+g164
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp173
+a(VWhen bacteria were limited by organic 
+g165
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp174
+a(VWhen bacteria were limited by organic 
+g166
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp175
+a(VWhen bacteria were limited by organic 
+g167
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp176
+a(VWhen bacteria were limited by organic 
+g168
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp177
+a(VWhen bacteria were limited by organic 
+g169
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp178
+a(VWhen bacteria were limited by organic 
+g170
+V, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp179
+asg25
+Vcarbon
+p180
+sa(dp181
+g3
+(lp182
+VChemical element
+p183
+aVChemical substance
+p184
+aVCarbon forms
+p185
+aVMatter
+p186
+aVReducing agents
+p187
+aVCarbonate minerals
+p188
+aVChemistry
+p189
+asg12
+g13
+sg14
+VCompound
+p190
+sg16
+(lp191
+(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g183
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp192
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g184
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp193
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g185
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp194
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g186
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp195
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g187
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp196
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g188
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp197
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic 
+g189
+V reduced phytoplankton biomass and activity and also the rate at which total organic carbon accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp198
+asg25
+Vcarbon
+p199
+sa(dp200
+g3
+(lp201
+VChemical element
+p202
+aVChemical substance
+p203
+aVCarbon forms
+p204
+aVMatter
+p205
+aVReducing agents
+p206
+aVCarbonate minerals
+p207
+aVChemistry
+p208
+asg12
+g13
+sg14
+VCompound
+p209
+sg16
+(lp210
+(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g202
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp211
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g203
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp212
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g204
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp213
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g205
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp214
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g206
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp215
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g207
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp216
+a(VWhen bacteria were limited by organic carbon, however, addition of labile dissolved organic carbon reduced phytoplankton biomass and activity and also the rate at which total organic 
+g208
+V accumulated, explained as the result of stimulated bacterial competition for mineral nutrients.
+tp217
+asg25
+Vcarbon
+p218
+sa(dp219
+g3
+(lp220
+VChemical element
+p221
+aVChemical substance
+p222
+aVCarbon forms
+p223
+aVMatter
+p224
+aVReducing agents
+p225
+aVCarbonate minerals
+p226
+aVChemistry
+p227
+asg12
+g13
+sg14
+VCompound
+p228
+sg16
+(lp229
+(VThis counterintuitive 'more organic 
+g221
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp230
+a(VThis counterintuitive 'more organic 
+g222
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp231
+a(VThis counterintuitive 'more organic 
+g223
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp232
+a(VThis counterintuitive 'more organic 
+g224
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp233
+a(VThis counterintuitive 'more organic 
+g225
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp234
+a(VThis counterintuitive 'more organic 
+g226
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp235
+a(VThis counterintuitive 'more organic 
+g227
+V gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp236
+asg25
+Vcarbon
+p237
+sa(dp238
+g3
+(lp239
+VChemical element
+p240
+aVChemical substance
+p241
+aVCarbon forms
+p242
+aVMatter
+p243
+aVReducing agents
+p244
+aVCarbonate minerals
+p245
+aVChemistry
+p246
+asg12
+g13
+sg14
+VCompound
+p247
+sg16
+(lp248
+(VThis counterintuitive 'more organic carbon gives less organic 
+g240
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp249
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g241
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp250
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g242
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp251
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g243
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp252
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g244
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp253
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g245
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp254
+a(VThis counterintuitive 'more organic carbon gives less organic 
+g246
+V' effect was particularly pronounced in diatom-dominated systems where the carbon/mineral nutrient ratio in phytoplankton production was high.
+tp255
+asg25
+Vcarbon
+p256
+sa(dp257
+g3
+(lp258
+VChemical element
+p259
+aVChemical substance
+p260
+aVCarbon forms
+p261
+aVMatter
+p262
+aVReducing agents
+p263
+aVCarbonate minerals
+p264
+aVChemistry
+p265
+asg12
+g13
+sg14
+VCompound
+p266
+sg16
+(lp267
+(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g259
+V/mineral nutrient ratio in phytoplankton production was high.
+tp268
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g260
+V/mineral nutrient ratio in phytoplankton production was high.
+tp269
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g261
+V/mineral nutrient ratio in phytoplankton production was high.
+tp270
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g262
+V/mineral nutrient ratio in phytoplankton production was high.
+tp271
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g263
+V/mineral nutrient ratio in phytoplankton production was high.
+tp272
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g264
+V/mineral nutrient ratio in phytoplankton production was high.
+tp273
+a(VThis counterintuitive 'more organic carbon gives less organic carbon' effect was particularly pronounced in diatom-dominated systems where the 
+g265
+V/mineral nutrient ratio in phytoplankton production was high.
+tp274
+asg25
+Vcarbon
+p275
+sa(dp276
+g3
+(lp277
+VChemical element
+p278
+aVChemical substance
+p279
+aVCarbon forms
+p280
+aVMatter
+p281
+aVReducing agents
+p282
+aVCarbonate minerals
+p283
+aVChemistry
+p284
+asg12
+g13
+sg14
+VCompound
+p285
+sg16
+(lp286
+(VOur results highlight how descriptions of present and future states of the oceanic 
+g278
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp287
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g279
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp288
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g280
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp289
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g281
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp290
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g282
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp291
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g283
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp292
+a(VOur results highlight how descriptions of present and future states of the oceanic 
+g284
+V cycle require detailed understanding of the stoichiometric coupling between carbon and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp293
+asg25
+Vcarbon
+p294
+sa(dp295
+g3
+(lp296
+VChemical element
+p297
+aVChemical substance
+p298
+aVCarbon forms
+p299
+aVMatter
+p300
+aVReducing agents
+p301
+aVCarbonate minerals
+p302
+aVChemistry
+p303
+asg12
+g13
+sg14
+VCompound
+p304
+sg16
+(lp305
+(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g297
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp306
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g298
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp307
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g299
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp308
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g300
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp309
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g301
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp310
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g302
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp311
+a(VOur results highlight how descriptions of present and future states of the oceanic carbon cycle require detailed understanding of the stoichiometric coupling between 
+g303
+V and growth-limiting mineral nutrients in both autotrophic and heterotrophic processes.
+tp312
+asg25
+Vcarbon
+p313
+sa.

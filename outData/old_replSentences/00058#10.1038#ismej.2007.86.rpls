@@ -1,0 +1,503 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00058#10.1038#ismej.2007.86'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VOrganic substrate quality as the link between bacterioplankton 
+g5
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp18
+a(VOrganic substrate quality as the link between bacterioplankton 
+g6
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp19
+a(VOrganic substrate quality as the link between bacterioplankton 
+g7
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp20
+a(VOrganic substrate quality as the link between bacterioplankton 
+g8
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp21
+a(VOrganic substrate quality as the link between bacterioplankton 
+g9
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp22
+a(VOrganic substrate quality as the link between bacterioplankton 
+g10
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp23
+a(VOrganic substrate quality as the link between bacterioplankton 
+g11
+V demand and growth efficiency in a temperate salt-marsh estuary
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VBacterioplankton communities play a key role in aquatic 
+g29
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp38
+a(VBacterioplankton communities play a key role in aquatic 
+g30
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp39
+a(VBacterioplankton communities play a key role in aquatic 
+g31
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp40
+a(VBacterioplankton communities play a key role in aquatic 
+g32
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp41
+a(VBacterioplankton communities play a key role in aquatic 
+g33
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp42
+a(VBacterioplankton communities play a key role in aquatic 
+g34
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp43
+a(VBacterioplankton communities play a key role in aquatic 
+g35
+V cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this carbon into biomass and respiratory losses.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g48
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp57
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g49
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp58
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g50
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp59
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g51
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp60
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g52
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp61
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g53
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp62
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic 
+g54
+V processed and partitioning of this carbon into biomass and respiratory losses.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+VChemical element
+p67
+aVChemical substance
+p68
+aVCarbon forms
+p69
+aVMatter
+p70
+aVReducing agents
+p71
+aVCarbonate minerals
+p72
+aVChemistry
+p73
+asg12
+g13
+sg14
+VCompound
+p74
+sg16
+(lp75
+(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g67
+V into biomass and respiratory losses.
+tp76
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g68
+V into biomass and respiratory losses.
+tp77
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g69
+V into biomass and respiratory losses.
+tp78
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g70
+V into biomass and respiratory losses.
+tp79
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g71
+V into biomass and respiratory losses.
+tp80
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g72
+V into biomass and respiratory losses.
+tp81
+a(VBacterioplankton communities play a key role in aquatic carbon cycling, specifically with respect to the magnitude of organic carbon processed and partitioning of this 
+g73
+V into biomass and respiratory losses.
+tp82
+asg25
+Vcarbon
+p83
+sa(dp84
+g3
+(lp85
+VChemical element
+p86
+aVChemical substance
+p87
+aVCarbon forms
+p88
+aVMatter
+p89
+aVReducing agents
+p90
+aVCarbonate minerals
+p91
+aVChemistry
+p92
+asg12
+g13
+sg14
+VCompound
+p93
+sg16
+(lp94
+(VStudies of bacterioplankton 
+g86
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp95
+a(VStudies of bacterioplankton 
+g87
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp96
+a(VStudies of bacterioplankton 
+g88
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp97
+a(VStudies of bacterioplankton 
+g89
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp98
+a(VStudies of bacterioplankton 
+g90
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp99
+a(VStudies of bacterioplankton 
+g91
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp100
+a(VStudies of bacterioplankton 
+g92
+V demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of carbon metabolism may be positively coupled.
+tp101
+asg25
+Vcarbon
+p102
+sa(dp103
+g3
+(lp104
+VChemical element
+p105
+aVChemical substance
+p106
+aVCarbon forms
+p107
+aVMatter
+p108
+aVReducing agents
+p109
+aVCarbonate minerals
+p110
+aVChemistry
+p111
+asg12
+g13
+sg14
+VCompound
+p112
+sg16
+(lp113
+(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g105
+V metabolism may be positively coupled.
+tp114
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g106
+V metabolism may be positively coupled.
+tp115
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g107
+V metabolism may be positively coupled.
+tp116
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g108
+V metabolism may be positively coupled.
+tp117
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g109
+V metabolism may be positively coupled.
+tp118
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g110
+V metabolism may be positively coupled.
+tp119
+a(VStudies of bacterioplankton carbon demand (BCD) and growth efficiency (BGE) frequently report higher values in more productive systems, suggesting these aspects of 
+g111
+V metabolism may be positively coupled.
+tp120
+asg25
+Vcarbon
+p121
+sa(dp122
+g3
+(lp123
+VChemical element
+p124
+aVChemical substance
+p125
+aVCarbon forms
+p126
+aVMatter
+p127
+aVReducing agents
+p128
+aVCarbonate minerals
+p129
+aVChemistry
+p130
+asg12
+g13
+sg14
+VCompound
+p131
+sg16
+(lp132
+(VUsing a comprehensive 2-year study of bacterioplankton 
+g124
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp133
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g125
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp134
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g126
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp135
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g127
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp136
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g128
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp137
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g129
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp138
+a(VUsing a comprehensive 2-year study of bacterioplankton 
+g130
+V metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic carbon (DOC).
+tp139
+asg25
+Vcarbon
+p140
+sa(dp141
+g3
+(lp142
+VChemical element
+p143
+aVChemical substance
+p144
+aVCarbon forms
+p145
+aVMatter
+p146
+aVReducing agents
+p147
+aVCarbonate minerals
+p148
+aVChemistry
+p149
+asg12
+g13
+sg14
+VCompound
+p150
+sg16
+(lp151
+(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g143
+V (DOC).
+tp152
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g144
+V (DOC).
+tp153
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g145
+V (DOC).
+tp154
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g146
+V (DOC).
+tp155
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g147
+V (DOC).
+tp156
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g148
+V (DOC).
+tp157
+a(VUsing a comprehensive 2-year study of bacterioplankton carbon metabolism in a temperate estuary, we investigated BCD and BGE and explored factors that may modulate their magnitude and coherence, including nutrient concentrations, dissolved nutrient uptake and source and quality of dissolved organic 
+g149
+V (DOC).
+tp158
+asg25
+Vcarbon
+p159
+sa(dp160
+g3
+(lp161
+VChemical element
+p162
+aVChemical substance
+p163
+aVCarbon forms
+p164
+aVMatter
+p165
+aVReducing agents
+p166
+aVCarbonate minerals
+p167
+aVChemistry
+p168
+asg12
+g13
+sg14
+VCompound
+p169
+sg16
+(lp170
+(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g162
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp171
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g163
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp172
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g164
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp173
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g165
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp174
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g166
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp175
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g167
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp176
+a(VWe conclude that in this carbon-rich estuary, organic matter source and quality play an important role in regulating the magnitude of 
+g168
+V metabolism and may be more important than nutrient availability alone in the regulation of BGE.
+tp177
+asg25
+Vcarbon
+p178
+sa.

@@ -1,0 +1,193 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VAcetates
+p4
+sS'term'
+p5
+Vacetate
+p6
+sS'generalizedURI'
+p7
+Vhttp://dbpedia.org/resource/Category:Acetates
+p8
+sS'generalizedFreq'
+p9
+I3860
+sS'subjectURI'
+p10
+Vhttp://dbpedia.org/resource/Acetate
+p11
+sS'inputType'
+p12
+VCompound
+p13
+sS'generalizedLemma'
+p14
+Vacetate
+p15
+sa(dp16
+g3
+Vchemical compound
+p17
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/ChemicalCompound
+p18
+sg9
+I76
+sg10
+g11
+sg12
+g13
+sg14
+Vchemical compound
+p19
+sa(dp20
+g3
+VChemical compound
+p21
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Chemical_compound
+p22
+sg9
+I76
+sg10
+Vhttp://wibitaxonomy.org/Acetate
+p23
+sg12
+g13
+sg14
+VChemical compound
+p24
+sa(dp25
+g3
+VChemical compound
+p26
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Chemical_compound
+p27
+sg9
+I76
+sg10
+g23
+sg12
+g13
+sg14
+VChemical compound
+p28
+sa(dp29
+g3
+Vchemical substance
+p30
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/ChemicalSubstance
+p31
+sg9
+I6
+sg10
+g11
+sg12
+g13
+sg14
+Vchemical substance
+p32
+sa(dp33
+g3
+VChemical substance
+p34
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Chemical_substance
+p35
+sg9
+I6
+sg10
+g23
+sg12
+g13
+sg14
+VChemical substance
+p36
+sa(dp37
+g3
+VChemical substance
+p38
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Chemical_substance
+p39
+sg9
+I6
+sg10
+g23
+sg12
+g13
+sg14
+VChemical substance
+p40
+sa(dp41
+g3
+VCarboxylate anions
+p42
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Carboxylate_anions
+p43
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VCarboxylate anion
+p44
+sa(dp45
+g3
+VDerivative %5C%28chemistry%5C%29
+p46
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Derivative_%5C%28chemistry%5C%29
+p47
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VDerivative %5c%28chemistry%5c%29
+p48
+sa(dp49
+g3
+VDerivative %5C%28chemistry%5C%29
+p50
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Derivative_%5C%28chemistry%5C%29
+p51
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VDerivative %5c%28chemistry%5c%29
+p52
+sa.

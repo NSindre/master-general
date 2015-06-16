@@ -1,0 +1,926 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VPattern
+p4
+sS'term'
+p5
+VMississippi River
+p6
+sS'generalizedURI'
+p7
+Vhttp://wibitaxonomy.org/Pattern
+p8
+sS'generalizedFreq'
+p9
+I18011
+sS'subjectURI'
+p10
+Vhttp://wibitaxonomy.org/Mississippi_River
+p11
+sS'inputType'
+p12
+VLocation
+p13
+sS'generalizedLemma'
+p14
+Vpattern
+p15
+sa(dp16
+g3
+Vriver
+p17
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/River
+p18
+sg9
+I6985
+sg10
+Vhttp://dbpedia.org/resource/Mississippi_River
+p19
+sg12
+g13
+sg14
+g17
+sa(dp20
+g3
+VRivers
+p21
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Category%3ARivers
+p22
+sg9
+I6985
+sg10
+Vhttp://wibitaxonomy.org/Category%3AMississippi_River
+p23
+sg12
+g13
+sg14
+Vriver
+p24
+sa(dp25
+g3
+Vplace
+p26
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/Place
+p27
+sg9
+I6273
+sg10
+g19
+sg12
+g13
+sg14
+g26
+sa(dp28
+g3
+Vstream
+p29
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/Stream
+p30
+sg9
+I3832
+sg10
+g19
+sg12
+g13
+sg14
+g29
+sa(dp31
+g3
+VMississippi River
+p32
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Mississippi_River
+p33
+sg9
+I175
+sg10
+g19
+sg12
+g13
+sg14
+VMississippi river
+p34
+sa(dp35
+g3
+Vbody of water
+p36
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/BodyOfWater
+p37
+sg9
+I27
+sg10
+g19
+sg12
+g13
+sg14
+Vbody of water
+p38
+sa(dp39
+g3
+VMississippi embayment
+p40
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Mississippi_embayment
+p41
+sg9
+I9
+sg10
+g19
+sg12
+g13
+sg14
+VMississippi embayment
+p42
+sa(dp43
+g3
+Vnatural place
+p44
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/NaturalPlace
+p45
+sg9
+I1
+sg10
+g19
+sg12
+g13
+sg14
+Vnatural place
+p46
+sa(dp47
+g3
+VAmerican Heritage Rivers
+p48
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:American_Heritage_Rivers
+p49
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VAmerican Heritage river
+p50
+sa(dp51
+g3
+VBorders of Mississippi
+p52
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Mississippi
+p53
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of mississippi
+p54
+sa(dp55
+g3
+VBorders of Tennessee
+p56
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Tennessee
+p57
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of tennessee
+p58
+sa(dp59
+g3
+VRivers of Arkansas
+p60
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Arkansas
+p61
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of arkansas
+p62
+sa(dp63
+g3
+VWorld Digital Library related
+p64
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:World_Digital_Library_related
+p65
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VWorld Digital Library related
+p66
+sa(dp67
+g3
+VBorders of Louisiana
+p68
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Louisiana
+p69
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of louisiana
+p70
+sa(dp71
+g3
+VBorders of Iowa
+p72
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Iowa
+p73
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of iowa
+p74
+sa(dp75
+g3
+VBorders of Missouri
+p76
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Missouri
+p77
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of missouri
+p78
+sa(dp79
+g3
+VRivers of Iowa
+p80
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Iowa
+p81
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of iowa
+p82
+sa(dp83
+g3
+VRivers of Minnesota
+p84
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Minnesota
+p85
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of minnesota
+p86
+sa(dp87
+g3
+VRivers of Missouri
+p88
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Missouri
+p89
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of missouri
+p90
+sa(dp91
+g3
+VBorders of Illinois
+p92
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Illinois
+p93
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of illinois
+p94
+sa(dp95
+g3
+VRivers of Mississippi
+p96
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Mississippi
+p97
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of mississippi
+p98
+sa(dp99
+g3
+VRivers of Tennessee
+p100
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Tennessee
+p101
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of tennessee
+p102
+sa(dp103
+g3
+VBorders of Wisconsin
+p104
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Wisconsin
+p105
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of wisconsin
+p106
+sa(dp107
+g3
+VRivers of the United States
+p108
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_the_United_States
+p109
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of the United state
+p110
+sa(dp111
+g3
+VBorders of Arkansas
+p112
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Arkansas
+p113
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of arkansas
+p114
+sa(dp115
+g3
+VRivers of Louisiana
+p116
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Louisiana
+p117
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of louisiana
+p118
+sa(dp119
+g3
+VBorders of Kentucky
+p120
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Kentucky
+p121
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of kentucky
+p122
+sa(dp123
+g3
+VRivers of Illinois
+p124
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Illinois
+p125
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of illinois
+p126
+sa(dp127
+g3
+VRivers of Kentucky
+p128
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Kentucky
+p129
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of kentucky
+p130
+sa(dp131
+g3
+VRivers of Wisconsin
+p132
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Wisconsin
+p133
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VRivers of wisconsin
+p134
+sa(dp135
+g3
+VBorders of Minnesota
+p136
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Borders_of_Minnesota
+p137
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+VBorders of minnesota
+p138
+sa(dp139
+g3
+Nsg5
+g6
+sg7
+Vhttp://dbpedia.org/ontology/Location
+p140
+sg9
+I0
+sg10
+g19
+sg12
+g13
+sg14
+Nsa(dp141
+g3
+VAmerican Heritage Rivers
+p142
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:American_Heritage_Rivers
+p143
+sg9
+I0
+sg10
+Vhttp://dbpedia.org/resource/Category:Mississippi_River
+p144
+sg12
+g13
+sg14
+VAmerican Heritage river
+p145
+sa(dp146
+g3
+VRivers of Arkansas
+p147
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Arkansas
+p148
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of arkansas
+p149
+sa(dp150
+g3
+VIntracoastal Waterway
+p151
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Intracoastal_Waterway
+p152
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VIntracoastal waterway
+p153
+sa(dp154
+g3
+VRivers of Iowa
+p155
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Iowa
+p156
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of iowa
+p157
+sa(dp158
+g3
+VRivers of Minnesota
+p159
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Minnesota
+p160
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of minnesota
+p161
+sa(dp162
+g3
+VRivers of Missouri
+p163
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Missouri
+p164
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of missouri
+p165
+sa(dp166
+g3
+VWikipedia categories named after rivers
+p167
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Wikipedia_categories_named_after_rivers
+p168
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VWikipedia categories named after river
+p169
+sa(dp170
+g3
+VRivers of Mississippi
+p171
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Mississippi
+p172
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of mississippi
+p173
+sa(dp174
+g3
+VRivers of Tennessee
+p175
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Tennessee
+p176
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of tennessee
+p177
+sa(dp178
+g3
+VDrainage basins of the Gulf of Mexico
+p179
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Drainage_basins_of_the_Gulf_of_Mexico
+p180
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VDrainage basins of the Gulf of mexico
+p181
+sa(dp182
+g3
+VRivers of Louisiana
+p183
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Louisiana
+p184
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of louisiana
+p185
+sa(dp186
+g3
+VRivers of Illinois
+p187
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Illinois
+p188
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of illinois
+p189
+sa(dp190
+g3
+VRivers of Kentucky
+p191
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Kentucky
+p192
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of kentucky
+p193
+sa(dp194
+g3
+VRivers of Wisconsin
+p195
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Rivers_of_Wisconsin
+p196
+sg9
+I0
+sg10
+g144
+sg12
+g13
+sg14
+VRivers of wisconsin
+p197
+sa(dp198
+g3
+VDrainage system %5C%28geomorphology%5C%29
+p199
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Drainage_system_%5C%28geomorphology%5C%29
+p200
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VDrainage system %5c%28geomorphology%5c%29
+p201
+sa(dp202
+g3
+VTheme %5C%28music%5C%29
+p203
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Theme_%5C%28music%5C%29
+p204
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VTheme %5c%28music%5c%29
+p205
+sa(dp206
+g3
+VAmerican Heritage Rivers
+p207
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Category%3AAmerican_Heritage_Rivers
+p208
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VAmerican Heritage river
+p209
+sa(dp210
+g3
+VHeritage Rivers
+p211
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Category%3AHeritage_Rivers
+p212
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VHeritage river
+p213
+sa.

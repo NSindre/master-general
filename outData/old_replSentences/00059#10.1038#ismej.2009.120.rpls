@@ -1,0 +1,297 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VOrganic compounds
+p5
+aVNutrients
+p6
+aVMacromolecules
+p7
+aVCarbohydrate chemistry
+p8
+aVRenewable fuels
+p9
+asS'fileName'
+p10
+S'00059#10.1038#ismej.2009.120'
+p11
+sS'entityType'
+p12
+VCompound
+p13
+sS'sentences'
+p14
+(lp15
+(VCarboxylic acids (CAs), amino acids (AAs) and 
+g5
+V (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp16
+a(VCarboxylic acids (CAs), amino acids (AAs) and 
+g6
+V (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp17
+a(VCarboxylic acids (CAs), amino acids (AAs) and 
+g7
+V (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp18
+a(VCarboxylic acids (CAs), amino acids (AAs) and 
+g8
+V (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp19
+a(VCarboxylic acids (CAs), amino acids (AAs) and 
+g9
+V (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp20
+asS'entity'
+p21
+Vcarbohydrates
+p22
+sa(dp23
+g3
+(lp24
+sg10
+g11
+sg12
+VLocation
+p25
+sg14
+(lp26
+sg21
+VKrycklan
+p27
+sa(dp28
+g3
+(lp29
+VRegions of Europe
+p30
+aVMember states of the European Union
+p31
+aVScandinavia
+p32
+aVNorthern Europe
+p33
+aVcountry
+p34
+aVCountries in Europe
+p35
+aVNordic countries
+p36
+aVplace
+p37
+aVpopulated place
+p38
+aVLiberal democracies
+p39
+asg10
+g11
+sg12
+VLocation
+p40
+sg14
+(lp41
+(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g30
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp42
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g31
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp43
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g32
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp44
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g33
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp45
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g34
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp46
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g35
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp47
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g36
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp48
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g37
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp49
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g38
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp50
+a(VDrainage water from three catchments of different characters in the Krycklan experimental area in Northern 
+g39
+V were studied at the rising and falling limb of the spring flood, using a 2-week bioassay approach.
+tp51
+asg21
+VSweden
+p52
+sa(dp53
+g3
+(lp54
+VChemical element
+p55
+aVChemical substance
+p56
+aVCarbon forms
+p57
+aVMatter
+p58
+aVReducing agents
+p59
+aVCarbonate minerals
+p60
+aVChemistry
+p61
+asg10
+g11
+sg12
+VCompound
+p62
+sg14
+(lp63
+(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g55
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp64
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g56
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp65
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g57
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp66
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g58
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp67
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g59
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp68
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g60
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp69
+a(VA variety of CA, AA and CH compounds were significantly assimilated by bacteria, meeting 15-100% of the bacterial 
+g61
+V demand and explaining most of the observed variation in bacterial growth efficiency (BGE; R2=0.66).
+tp70
+asg21
+Vcarbon
+p71
+sa(dp72
+g3
+(lp73
+VAcetates
+p74
+aVchemical substance
+p75
+aVchemical compound
+p76
+asg10
+g11
+sg12
+VCompound
+p77
+sg14
+(lp78
+(VOf the 29 chemical species that was detected, 
+g74
+V was the most important, representing 45% of the total bacterial consumption of all LMW compounds.
+tp79
+a(VOf the 29 chemical species that was detected, 
+g75
+V was the most important, representing 45% of the total bacterial consumption of all LMW compounds.
+tp80
+a(VOf the 29 chemical species that was detected, 
+g76
+V was the most important, representing 45% of the total bacterial consumption of all LMW compounds.
+tp81
+asg21
+Vacetate
+p82
+sa(dp83
+g3
+(lp84
+VOrganic compounds
+p85
+aVOrganic acids
+p86
+aVFunctional groups
+p87
+aVOrganic chemistry
+p88
+asg10
+g11
+sg12
+VCompound
+p89
+sg14
+(lp90
+(V
+g85
+V (CAs), amino acids (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp91
+a(V
+g86
+V (CAs), amino acids (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp92
+a(V
+g87
+V (CAs), amino acids (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp93
+a(V
+g88
+V (CAs), amino acids (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp94
+asg21
+VCarboxylic acids
+p95
+sa(dp96
+g3
+(lp97
+VOrganic compounds
+p98
+aVCarboxylic acids
+p99
+aVOrganic acids
+p100
+aVAmines
+p101
+asg10
+g11
+sg12
+VCompound
+p102
+sg14
+(lp103
+(VCarboxylic acids (CAs), 
+g98
+V (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp104
+a(VCarboxylic acids (CAs), 
+g99
+V (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp105
+a(VCarboxylic acids (CAs), 
+g100
+V (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp106
+a(VCarboxylic acids (CAs), 
+g101
+V (AAs) and carbohydrates (CHs) in dissolved free forms can be readily assimilated by aquatic bacteria and metabolized at high growth efficiencies.
+tp107
+asg21
+Vamino acids
+p108
+sa.

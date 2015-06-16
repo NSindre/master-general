@@ -1,0 +1,548 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VCoefficient
+p5
+aVChemical element
+p6
+aVBuilding materials
+p7
+aVFerromagnetic materials
+p8
+aVChemical substance
+p9
+aVCharge number
+p10
+aVMetals
+p11
+aVMatter
+p12
+aVAtomic number
+p13
+aVTransition metals
+p14
+aVChemistry
+p15
+asS'fileName'
+p16
+S'00078#10.1038#ismej.2012.13'
+p17
+sS'entityType'
+p18
+VCompound
+p19
+sS'sentences'
+p20
+(lp21
+(VMolecular evidence of 
+g5
+V limitation and availability in the global diazotroph Trichodesmium
+tp22
+a(VMolecular evidence of 
+g6
+V limitation and availability in the global diazotroph Trichodesmium
+tp23
+a(VMolecular evidence of 
+g7
+V limitation and availability in the global diazotroph Trichodesmium
+tp24
+a(VMolecular evidence of 
+g8
+V limitation and availability in the global diazotroph Trichodesmium
+tp25
+a(VMolecular evidence of 
+g9
+V limitation and availability in the global diazotroph Trichodesmium
+tp26
+a(VMolecular evidence of 
+g10
+V limitation and availability in the global diazotroph Trichodesmium
+tp27
+a(VMolecular evidence of 
+g11
+V limitation and availability in the global diazotroph Trichodesmium
+tp28
+a(VMolecular evidence of 
+g12
+V limitation and availability in the global diazotroph Trichodesmium
+tp29
+a(VMolecular evidence of 
+g13
+V limitation and availability in the global diazotroph Trichodesmium
+tp30
+a(VMolecular evidence of 
+g14
+V limitation and availability in the global diazotroph Trichodesmium
+tp31
+a(VMolecular evidence of 
+g15
+V limitation and availability in the global diazotroph Trichodesmium
+tp32
+asS'entity'
+p33
+Viron
+p34
+sa(dp35
+g3
+(lp36
+VChemical element
+p37
+aVChemical substance
+p38
+aVIndustrial gases
+p39
+aVCoolants
+p40
+aVMatter
+p41
+aVChemistry
+p42
+asg16
+g17
+sg18
+VCompound
+p43
+sg20
+(lp44
+(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g37
+V (N) and carbon (C) cycles.
+tp45
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g38
+V (N) and carbon (C) cycles.
+tp46
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g39
+V (N) and carbon (C) cycles.
+tp47
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g40
+V (N) and carbon (C) cycles.
+tp48
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g41
+V (N) and carbon (C) cycles.
+tp49
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global 
+g42
+V (N) and carbon (C) cycles.
+tp50
+asg33
+Vnitrogen
+p51
+sa(dp52
+g3
+(lp53
+VGrapheme
+p54
+asg16
+g17
+sg18
+VCompound
+p55
+sg20
+(lp56
+(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (
+g54
+V) and carbon (C) cycles.
+tp57
+asg33
+VN
+sa(dp58
+g3
+(lp59
+VChemical element
+p60
+aVChemical substance
+p61
+aVCarbon forms
+p62
+aVMatter
+p63
+aVReducing agents
+p64
+aVCarbonate minerals
+p65
+aVChemistry
+p66
+asg16
+g17
+sg18
+VCompound
+p67
+sg20
+(lp68
+(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g60
+V (C) cycles.
+tp69
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g61
+V (C) cycles.
+tp70
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g62
+V (C) cycles.
+tp71
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g63
+V (C) cycles.
+tp72
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g64
+V (C) cycles.
+tp73
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g65
+V (C) cycles.
+tp74
+a(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and 
+g66
+V (C) cycles.
+tp75
+asg33
+Vcarbon
+p76
+sa(dp77
+g3
+(lp78
+VGrapheme
+p79
+asg16
+g17
+sg18
+VCompound
+p80
+sg20
+(lp81
+(VThe activity of the N2-fixing cyanobacterial genus Trichodesmium is critical to the global nitrogen (N) and carbon (
+g79
+V) cycles.
+tp82
+asg33
+VC
+sa(dp83
+g3
+(lp84
+VCoefficient
+p85
+aVChemical element
+p86
+aVBuilding materials
+p87
+aVFerromagnetic materials
+p88
+aVChemical substance
+p89
+aVCharge number
+p90
+aVMetals
+p91
+aVMatter
+p92
+aVAtomic number
+p93
+aVTransition metals
+p94
+aVChemistry
+p95
+asg16
+g17
+sg18
+VCompound
+p96
+sg20
+(lp97
+(VAlthough 
+g85
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp98
+a(VAlthough 
+g86
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp99
+a(VAlthough 
+g87
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp100
+a(VAlthough 
+g88
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp101
+a(VAlthough 
+g89
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp102
+a(VAlthough 
+g90
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp103
+a(VAlthough 
+g91
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp104
+a(VAlthough 
+g92
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp105
+a(VAlthough 
+g93
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp106
+a(VAlthough 
+g94
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp107
+a(VAlthough 
+g95
+V (Fe) has been shown to be an important element limiting the growth and N2 fixation of Trichodesmium, there have been no specific data demonstrating the in situ affect of Fe on Trichodesmium.
+tp108
+asg33
+Viron
+p109
+sa(dp110
+g3
+(lp111
+sg16
+g17
+sg18
+VCompound
+p112
+sg20
+(lp113
+sg33
+VFe
+p114
+sa(dp115
+g3
+(lp116
+sg16
+g17
+sg18
+VCompound
+p117
+sg20
+(lp118
+sg33
+VN2
+p119
+sa(dp120
+g3
+(lp121
+sg16
+g17
+sg18
+VCompound
+p122
+sg20
+(lp123
+sg33
+VFe
+p124
+sa(dp125
+g3
+(lp126
+sg16
+g17
+sg18
+VLocation
+p127
+sg20
+(lp128
+sg33
+VAtlantic
+p129
+sa(dp130
+g3
+(lp131
+sg16
+g17
+sg18
+VLocation
+p132
+sg20
+(lp133
+sg33
+VPacific Oceans
+p134
+sa(dp135
+g3
+(lp136
+sg16
+g17
+sg18
+VCompound
+p137
+sg20
+(lp138
+sg33
+VFe
+p139
+sa(dp140
+g3
+(lp141
+sg16
+g17
+sg18
+VCompound
+p142
+sg20
+(lp143
+sg33
+VFe
+p144
+sa(dp145
+g3
+(lp146
+sg16
+g17
+sg18
+VCompound
+p147
+sg20
+(lp148
+sg33
+VFe
+p149
+sa(dp150
+g3
+(lp151
+sg16
+g17
+sg18
+VCompound
+p152
+sg20
+(lp153
+sg33
+VN2
+p154
+sa(dp155
+g3
+(lp156
+VPlanet
+p157
+aVEarth
+p158
+aVOceans
+p159
+aVAstronomical object
+p160
+aVBodies of water
+p161
+asg16
+g17
+sg18
+VLocation
+p162
+sg20
+(lp163
+(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the 
+g157
+V, whereas limitation appeared minimal to nonexistent in Atlantic Ocean samples.
+tp164
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the 
+g158
+V, whereas limitation appeared minimal to nonexistent in Atlantic Ocean samples.
+tp165
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the 
+g159
+V, whereas limitation appeared minimal to nonexistent in Atlantic Ocean samples.
+tp166
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the 
+g160
+V, whereas limitation appeared minimal to nonexistent in Atlantic Ocean samples.
+tp167
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the 
+g161
+V, whereas limitation appeared minimal to nonexistent in Atlantic Ocean samples.
+tp168
+asg33
+VPacific Ocean
+p169
+sa(dp170
+g3
+(lp171
+VWorld
+p172
+aVCommon name
+p173
+aVOceans
+p174
+aVHuman condition
+p175
+aVBodies of water
+p176
+asg16
+g17
+sg18
+VLocation
+p177
+sg20
+(lp178
+(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the Pacific Ocean, whereas limitation appeared minimal to nonexistent in 
+g172
+V samples.
+tp179
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the Pacific Ocean, whereas limitation appeared minimal to nonexistent in 
+g173
+V samples.
+tp180
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the Pacific Ocean, whereas limitation appeared minimal to nonexistent in 
+g174
+V samples.
+tp181
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the Pacific Ocean, whereas limitation appeared minimal to nonexistent in 
+g175
+V samples.
+tp182
+a(VHere we report the first molecular evidence of in situ Fe limitation of Trichodesmium N2 fixation, which was evident in samples from the Pacific Ocean, whereas limitation appeared minimal to nonexistent in 
+g176
+V samples.
+tp183
+asg33
+VAtlantic Ocean
+p184
+sa(dp185
+g3
+(lp186
+sg16
+g17
+sg18
+VCompound
+p187
+sg20
+(lp188
+sg33
+VFe
+p189
+sa(dp190
+g3
+(lp191
+sg16
+g17
+sg18
+VCompound
+p192
+sg20
+(lp193
+sg33
+VFe
+p194
+sa(dp195
+g3
+(lp196
+sg16
+g17
+sg18
+VSpecies
+p197
+sg20
+(lp198
+sg33
+VTrichodesmium tenue
+p199
+sa.

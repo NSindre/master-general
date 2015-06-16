@@ -1,0 +1,132 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00042#10.1038#ismej.2009.29'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VGerman Wadden Sea
+p12
+sa(dp13
+g3
+(lp14
+VChemical element
+p15
+aVChemical substance
+p16
+aVCarbon forms
+p17
+aVMatter
+p18
+aVReducing agents
+p19
+aVCarbonate minerals
+p20
+aVChemistry
+p21
+asg5
+g6
+sg7
+VCompound
+p22
+sg9
+(lp23
+(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g15
+V production rates and extracellular enzymatic activities.
+tp24
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g16
+V production rates and extracellular enzymatic activities.
+tp25
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g17
+V production rates and extracellular enzymatic activities.
+tp26
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g18
+V production rates and extracellular enzymatic activities.
+tp27
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g19
+V production rates and extracellular enzymatic activities.
+tp28
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g20
+V production rates and extracellular enzymatic activities.
+tp29
+a(VStrong sediment depth-related patterns were observed for bacterial abundances, 
+g21
+V production rates and extracellular enzymatic activities.
+tp30
+asg11
+Vcarbon
+p31
+sa(dp32
+g3
+(lp33
+sg5
+g6
+sg7
+VCompound
+p34
+sg9
+(lp35
+sg11
+VNO3-
+p36
+sa(dp37
+g3
+(lp38
+VChemical element
+p39
+aVChemical substance
+p40
+aVMatter
+p41
+aVChemistry
+p42
+aVOxidizing agents
+p43
+asg5
+g6
+sg7
+VCompound
+p44
+sg9
+(lp45
+(VPrincipal ecosystem functions such as benthic 
+g39
+V consumption and extracellular hydrolysis of organic matter were, however, at a high level at all times, indicating functional redundancy in the microbial communities.
+tp46
+a(VPrincipal ecosystem functions such as benthic 
+g40
+V consumption and extracellular hydrolysis of organic matter were, however, at a high level at all times, indicating functional redundancy in the microbial communities.
+tp47
+a(VPrincipal ecosystem functions such as benthic 
+g41
+V consumption and extracellular hydrolysis of organic matter were, however, at a high level at all times, indicating functional redundancy in the microbial communities.
+tp48
+a(VPrincipal ecosystem functions such as benthic 
+g42
+V consumption and extracellular hydrolysis of organic matter were, however, at a high level at all times, indicating functional redundancy in the microbial communities.
+tp49
+a(VPrincipal ecosystem functions such as benthic 
+g43
+V consumption and extracellular hydrolysis of organic matter were, however, at a high level at all times, indicating functional redundancy in the microbial communities.
+tp50
+asg11
+Voxygen
+p51
+sa.

@@ -1,0 +1,112 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00081#10.1038#ismej.2013.216'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VQuantitative estimates of the total amount of 
+g5
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp18
+a(VQuantitative estimates of the total amount of 
+g6
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp19
+a(VQuantitative estimates of the total amount of 
+g7
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp20
+a(VQuantitative estimates of the total amount of 
+g8
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp21
+a(VQuantitative estimates of the total amount of 
+g9
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp22
+a(VQuantitative estimates of the total amount of 
+g10
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp23
+a(VQuantitative estimates of the total amount of 
+g11
+V and nitrogen sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVIndustrial gases
+p31
+aVCoolants
+p32
+aVMatter
+p33
+aVChemistry
+p34
+asg12
+g13
+sg14
+VCompound
+p35
+sg16
+(lp36
+(VQuantitative estimates of the total amount of carbon and 
+g29
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp37
+a(VQuantitative estimates of the total amount of carbon and 
+g30
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp38
+a(VQuantitative estimates of the total amount of carbon and 
+g31
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp39
+a(VQuantitative estimates of the total amount of carbon and 
+g32
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp40
+a(VQuantitative estimates of the total amount of carbon and 
+g33
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp41
+a(VQuantitative estimates of the total amount of carbon and 
+g34
+V sequestered into particulate biomass indicate that phage infection redirects ~75% of nutrients into virions.
+tp42
+asg25
+Vnitrogen
+p43
+sa.

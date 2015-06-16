@@ -1,0 +1,110 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00061#10.1038#ismej.2010.83'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VBourget
+p12
+sa(dp13
+g3
+(lp14
+Vpopulated place
+p15
+aVsettlement
+p16
+aVplace
+p17
+asg5
+g6
+sg7
+VLocation
+p18
+sg9
+(lp19
+(VThese data highlighted the presence of Chlorophyta contributing on an average to 19.3%, 14.7% and 41.2% of total small eukaryotes in lakes Bourget, 
+g15
+V and Pavin, respectively.
+tp20
+a(VThese data highlighted the presence of Chlorophyta contributing on an average to 19.3%, 14.7% and 41.2% of total small eukaryotes in lakes Bourget, 
+g16
+V and Pavin, respectively.
+tp21
+a(VThese data highlighted the presence of Chlorophyta contributing on an average to 19.3%, 14.7% and 41.2% of total small eukaryotes in lakes Bourget, 
+g17
+V and Pavin, respectively.
+tp22
+asg11
+VAydat
+p23
+sa(dp24
+g3
+(lp25
+VSurnames
+p26
+asg5
+g6
+sg7
+VLocation
+p27
+sg9
+(lp28
+(VThese data highlighted the presence of Chlorophyta contributing on an average to 19.3%, 14.7% and 41.2% of total small eukaryotes in lakes Bourget, Aydat and 
+g26
+V, respectively.
+tp29
+asg11
+VPavin
+p30
+sa(dp31
+g3
+(lp32
+sg5
+g6
+sg7
+VLocation
+p33
+sg9
+(lp34
+sg11
+VLake Bourget
+p35
+sa(dp36
+g3
+(lp37
+sg5
+g6
+sg7
+VLocation
+p38
+sg9
+(lp39
+sg11
+VLake Pavin
+p40
+sa(dp41
+g3
+(lp42
+sg5
+g6
+sg7
+VLocation
+p43
+sg9
+(lp44
+sg11
+VBourget
+p45
+sa.

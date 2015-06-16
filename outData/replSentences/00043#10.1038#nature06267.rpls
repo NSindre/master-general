@@ -1,0 +1,723 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00043#10.1038#nature06267'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VEnhanced biological 
+g5
+V consumption in a high CO2 ocean
+tp18
+a(VEnhanced biological 
+g6
+V consumption in a high CO2 ocean
+tp19
+a(VEnhanced biological 
+g7
+V consumption in a high CO2 ocean
+tp20
+a(VEnhanced biological 
+g8
+V consumption in a high CO2 ocean
+tp21
+a(VEnhanced biological 
+g9
+V consumption in a high CO2 ocean
+tp22
+a(VEnhanced biological 
+g10
+V consumption in a high CO2 ocean
+tp23
+a(VEnhanced biological 
+g11
+V consumption in a high CO2 ocean
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+sg12
+g13
+sg14
+VCompound
+p29
+sg16
+(lp30
+sg25
+VCO2
+p31
+sa(dp32
+g3
+(lp33
+Vchemical substance
+p34
+aVCoolants
+p35
+aVAtmosphere
+p36
+aVRefrigerants
+p37
+aVAir pollution
+p38
+aVClimate change
+p39
+aVHousehold chemicals
+p40
+aVGreenhouse gases
+p41
+aVInorganic carbon compounds
+p42
+aVOxides
+p43
+aVMatter
+p44
+aVchemical compound
+p45
+aVPropellants
+p46
+asg12
+g13
+sg14
+VCompound
+p47
+sg16
+(lp48
+(VThe oceans have absorbed nearly half of the fossil-fuel 
+g34
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp49
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g35
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp50
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g36
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp51
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g37
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp52
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g38
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp53
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g39
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp54
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g40
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp55
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g41
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp56
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g42
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp57
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g43
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp58
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g44
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp59
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g45
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp60
+a(VThe oceans have absorbed nearly half of the fossil-fuel 
+g46
+V (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and carbonate saturation.
+tp61
+asg25
+Vcarbon dioxide
+p62
+sa(dp63
+g3
+(lp64
+sg12
+g13
+sg14
+VCompound
+p65
+sg16
+(lp66
+sg25
+VCO2
+p67
+sa(dp68
+g3
+(lp69
+sg12
+g13
+sg14
+VCompound
+p70
+sg16
+(lp71
+sg25
+VCO2
+p72
+sa(dp73
+g3
+(lp74
+VChemical element
+p75
+aVChemical substance
+p76
+aVCarbon forms
+p77
+aVMatter
+p78
+aVReducing agents
+p79
+aVCarbonate minerals
+p80
+aVChemistry
+p81
+asg12
+g13
+sg14
+VCompound
+p82
+sg16
+(lp83
+(VHere we show that dissolved inorganic 
+g75
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp84
+a(VHere we show that dissolved inorganic 
+g76
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp85
+a(VHere we show that dissolved inorganic 
+g77
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp86
+a(VHere we show that dissolved inorganic 
+g78
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp87
+a(VHere we show that dissolved inorganic 
+g79
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp88
+a(VHere we show that dissolved inorganic 
+g80
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp89
+a(VHere we show that dissolved inorganic 
+g81
+V consumption of a natural plankton community maintained in mesocosm enclosures at initial CO2 partial pressures of 350, 700 and 1,050 muatm increases with rising CO2.
+tp90
+asg25
+Vcarbon
+p91
+sa(dp92
+g3
+(lp93
+sg12
+g13
+sg14
+VCompound
+p94
+sg16
+(lp95
+sg25
+VCO2
+p96
+sa(dp97
+g3
+(lp98
+sg12
+g13
+sg14
+VCompound
+p99
+sg16
+(lp100
+sg25
+VCO2
+p101
+sa(dp102
+g3
+(lp103
+VChemical element
+p104
+aVChemical substance
+p105
+aVCarbon forms
+p106
+aVMatter
+p107
+aVReducing agents
+p108
+aVCarbonate minerals
+p109
+aVChemistry
+p110
+asg12
+g13
+sg14
+VCompound
+p111
+sg16
+(lp112
+(VThe community consumed up to 39% more dissolved inorganic 
+g104
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp113
+a(VThe community consumed up to 39% more dissolved inorganic 
+g105
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp114
+a(VThe community consumed up to 39% more dissolved inorganic 
+g106
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp115
+a(VThe community consumed up to 39% more dissolved inorganic 
+g107
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp116
+a(VThe community consumed up to 39% more dissolved inorganic 
+g108
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp117
+a(VThe community consumed up to 39% more dissolved inorganic 
+g109
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp118
+a(VThe community consumed up to 39% more dissolved inorganic 
+g110
+V at increased CO2 partial pressures compared to present levels, whereas nutrient uptake remained the same.
+tp119
+asg25
+Vcarbon
+p120
+sa(dp121
+g3
+(lp122
+sg12
+g13
+sg14
+VCompound
+p123
+sg16
+(lp124
+sg25
+VCO2
+p125
+sa(dp126
+g3
+(lp127
+VChemical element
+p128
+aVChemical substance
+p129
+aVCarbon forms
+p130
+aVMatter
+p131
+aVReducing agents
+p132
+aVCarbonate minerals
+p133
+aVChemistry
+p134
+asg12
+g13
+sg14
+VCompound
+p135
+sg16
+(lp136
+(VThe stoichiometry of 
+g128
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp137
+a(VThe stoichiometry of 
+g129
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp138
+a(VThe stoichiometry of 
+g130
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp139
+a(VThe stoichiometry of 
+g131
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp140
+a(VThe stoichiometry of 
+g132
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp141
+a(VThe stoichiometry of 
+g133
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp142
+a(VThe stoichiometry of 
+g134
+V to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp143
+asg25
+Vcarbon
+p144
+sa(dp145
+g3
+(lp146
+VChemical element
+p147
+aVChemical substance
+p148
+aVIndustrial gases
+p149
+aVCoolants
+p150
+aVMatter
+p151
+aVChemistry
+p152
+asg12
+g13
+sg14
+VCompound
+p153
+sg16
+(lp154
+(VThe stoichiometry of carbon to 
+g147
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp155
+a(VThe stoichiometry of carbon to 
+g148
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp156
+a(VThe stoichiometry of carbon to 
+g149
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp157
+a(VThe stoichiometry of carbon to 
+g150
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp158
+a(VThe stoichiometry of carbon to 
+g151
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp159
+a(VThe stoichiometry of carbon to 
+g152
+V drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:nitrogen ratio of 6.6 in today's ocean.
+tp160
+asg25
+Vnitrogen
+p161
+sa(dp162
+g3
+(lp163
+sg12
+g13
+sg14
+VCompound
+p164
+sg16
+(lp165
+sg25
+VCO2
+p166
+sa(dp167
+g3
+(lp168
+sg12
+g13
+sg14
+VCompound
+p169
+sg16
+(lp170
+sg25
+VCO2
+p171
+sa(dp172
+g3
+(lp173
+VChemical element
+p174
+aVChemical substance
+p175
+aVCarbon forms
+p176
+aVMatter
+p177
+aVReducing agents
+p178
+aVCarbonate minerals
+p179
+aVChemistry
+p180
+asg12
+g13
+sg14
+VCompound
+p181
+sg16
+(lp182
+(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g174
+V:nitrogen ratio of 6.6 in today's ocean.
+tp183
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g175
+V:nitrogen ratio of 6.6 in today's ocean.
+tp184
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g176
+V:nitrogen ratio of 6.6 in today's ocean.
+tp185
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g177
+V:nitrogen ratio of 6.6 in today's ocean.
+tp186
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g178
+V:nitrogen ratio of 6.6 in today's ocean.
+tp187
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g179
+V:nitrogen ratio of 6.6 in today's ocean.
+tp188
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield 
+g180
+V:nitrogen ratio of 6.6 in today's ocean.
+tp189
+asg25
+Vcarbon
+p190
+sa(dp191
+g3
+(lp192
+VChemical element
+p193
+aVChemical substance
+p194
+aVIndustrial gases
+p195
+aVCoolants
+p196
+aVMatter
+p197
+aVChemistry
+p198
+asg12
+g13
+sg14
+VCompound
+p199
+sg16
+(lp200
+(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g193
+V ratio of 6.6 in today's ocean.
+tp201
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g194
+V ratio of 6.6 in today's ocean.
+tp202
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g195
+V ratio of 6.6 in today's ocean.
+tp203
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g196
+V ratio of 6.6 in today's ocean.
+tp204
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g197
+V ratio of 6.6 in today's ocean.
+tp205
+a(VThe stoichiometry of carbon to nitrogen drawdown increased from 6.0 at low CO2 to 8.0 at high CO2, thus exceeding the Redfield carbon:
+g198
+V ratio of 6.6 in today's ocean.
+tp206
+asg25
+Vnitrogen
+p207
+sa(dp208
+g3
+(lp209
+VChemical element
+p210
+aVChemical substance
+p211
+aVCarbon forms
+p212
+aVMatter
+p213
+aVReducing agents
+p214
+aVCarbonate minerals
+p215
+aVChemistry
+p216
+asg12
+g13
+sg14
+VCompound
+p217
+sg16
+(lp218
+(VThis excess 
+g210
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp219
+a(VThis excess 
+g211
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp220
+a(VThis excess 
+g212
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp221
+a(VThis excess 
+g213
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp222
+a(VThis excess 
+g214
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp223
+a(VThis excess 
+g215
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp224
+a(VThis excess 
+g216
+V consumption was associated with higher loss of organic carbon from the upper layer of the stratified mesocosms.
+tp225
+asg25
+Vcarbon
+p226
+sa(dp227
+g3
+(lp228
+VChemical element
+p229
+aVChemical substance
+p230
+aVCarbon forms
+p231
+aVMatter
+p232
+aVReducing agents
+p233
+aVCarbonate minerals
+p234
+aVChemistry
+p235
+asg12
+g13
+sg14
+VCompound
+p236
+sg16
+(lp237
+(VThis excess carbon consumption was associated with higher loss of organic 
+g229
+V from the upper layer of the stratified mesocosms.
+tp238
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g230
+V from the upper layer of the stratified mesocosms.
+tp239
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g231
+V from the upper layer of the stratified mesocosms.
+tp240
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g232
+V from the upper layer of the stratified mesocosms.
+tp241
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g233
+V from the upper layer of the stratified mesocosms.
+tp242
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g234
+V from the upper layer of the stratified mesocosms.
+tp243
+a(VThis excess carbon consumption was associated with higher loss of organic 
+g235
+V from the upper layer of the stratified mesocosms.
+tp244
+asg25
+Vcarbon
+p245
+sa(dp246
+g3
+(lp247
+Vchemical substance
+p248
+aVchemical compound
+p249
+aVCarbonates
+p250
+aVIonic compound
+p251
+asg12
+g13
+sg14
+VCompound
+p252
+sg16
+(lp253
+(VThe oceans have absorbed nearly half of the fossil-fuel carbon dioxide (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and 
+g248
+V saturation.
+tp254
+a(VThe oceans have absorbed nearly half of the fossil-fuel carbon dioxide (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and 
+g249
+V saturation.
+tp255
+a(VThe oceans have absorbed nearly half of the fossil-fuel carbon dioxide (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and 
+g250
+V saturation.
+tp256
+a(VThe oceans have absorbed nearly half of the fossil-fuel carbon dioxide (CO2) emitted into the atmosphere since pre-industrial times, causing a measurable reduction in seawater pH and 
+g251
+V saturation.
+tp257
+asg25
+Vcarbonate
+p258
+sa.

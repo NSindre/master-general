@@ -1,0 +1,113 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VBermuda Triangle
+p5
+aVRegion
+p6
+asS'fileName'
+p7
+S'00040#10.1038#ismej.2009.60#'
+p8
+sS'entityType'
+p9
+VLocation
+p10
+sS'sentences'
+p11
+(lp12
+(VWe studied vertical and temporal patterns in the microbial community composition in a set of 412 samples collected from the upper 300 m of the water column in the northwestern 
+g5
+V, on cruises between 1991 and 2004.
+tp13
+a(VWe studied vertical and temporal patterns in the microbial community composition in a set of 412 samples collected from the upper 300 m of the water column in the northwestern 
+g6
+V, on cruises between 1991 and 2004.
+tp14
+asS'entity'
+p15
+VSargasso Sea
+p16
+sa(dp17
+g3
+(lp18
+VChemical element
+p19
+aVChemical substance
+p20
+aVCarbon forms
+p21
+aVMatter
+p22
+aVReducing agents
+p23
+aVCarbonate minerals
+p24
+aVChemistry
+p25
+asg7
+g8
+sg9
+VCompound
+p26
+sg11
+(lp27
+(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g19
+V fixation and reoxidation occurs.
+tp28
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g20
+V fixation and reoxidation occurs.
+tp29
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g21
+V fixation and reoxidation occurs.
+tp30
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g22
+V fixation and reoxidation occurs.
+tp31
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g23
+V fixation and reoxidation occurs.
+tp32
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g24
+V fixation and reoxidation occurs.
+tp33
+a(VThe region sampled spans the extent of deep winter mixing and the transition between the euphotic and the upper mesopelagic zones, where most 
+g25
+V fixation and reoxidation occurs.
+tp34
+asg15
+Vcarbon
+p35
+sa(dp36
+g3
+(lp37
+VBermuda Triangle
+p38
+aVRegion
+p39
+asg7
+g8
+sg9
+VLocation
+p40
+sg11
+(lp41
+(VA fourth microbial community was associated with annual spring blooms of eukaryotic phytoplankton that occur in the northwestern 
+g38
+V as a consequence of winter convective mixing that entrains nutrients to the surface.
+tp42
+a(VA fourth microbial community was associated with annual spring blooms of eukaryotic phytoplankton that occur in the northwestern 
+g39
+V as a consequence of winter convective mixing that entrains nutrients to the surface.
+tp43
+asg15
+VSargasso Sea
+p44
+sa.

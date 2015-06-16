@@ -1,0 +1,560 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00053#10.1038#ismej.2012.14'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VResource quality affects 
+g5
+V cycling in deep-sea sediments
+tp18
+a(VResource quality affects 
+g6
+V cycling in deep-sea sediments
+tp19
+a(VResource quality affects 
+g7
+V cycling in deep-sea sediments
+tp20
+a(VResource quality affects 
+g8
+V cycling in deep-sea sediments
+tp21
+a(VResource quality affects 
+g9
+V cycling in deep-sea sediments
+tp22
+a(VResource quality affects 
+g10
+V cycling in deep-sea sediments
+tp23
+a(VResource quality affects 
+g11
+V cycling in deep-sea sediments
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVChemical substance
+p30
+aVCarbon forms
+p31
+aVMatter
+p32
+aVReducing agents
+p33
+aVCarbonate minerals
+p34
+aVChemistry
+p35
+asg12
+g13
+sg14
+VCompound
+p36
+sg16
+(lp37
+(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g29
+V.
+tp38
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g30
+V.
+tp39
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g31
+V.
+tp40
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g32
+V.
+tp41
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g33
+V.
+tp42
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g34
+V.
+tp43
+a(VDeep-sea sediments cover ~70% of Earth's surface and represent the largest interface between the biological and geological cycles of 
+g35
+V.
+tp44
+asg25
+Vcarbon
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g48
+V in this permanently cold environment remains unknown.
+tp57
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g49
+V in this permanently cold environment remains unknown.
+tp58
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g50
+V in this permanently cold environment remains unknown.
+tp59
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g51
+V in this permanently cold environment remains unknown.
+tp60
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g52
+V in this permanently cold environment remains unknown.
+tp61
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g53
+V in this permanently cold environment remains unknown.
+tp62
+a(VDiatoms and zooplankton faecal pellets naturally transport organic material from the upper ocean down to the deep seabed, but how these qualitatively different substrates affect the fate of 
+g54
+V in this permanently cold environment remains unknown.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+sg12
+g13
+sg14
+VLocation
+p67
+sg16
+(lp68
+sg25
+VFaroe-Shetland Channel
+p69
+sa(dp70
+g3
+(lp71
+sg12
+g13
+sg14
+VLocation
+p72
+sg16
+(lp73
+sg25
+VNortheast Atlantic
+p74
+sa(dp75
+g3
+(lp76
+VChemical element
+p77
+aVChemical substance
+p78
+aVCarbon forms
+p79
+aVMatter
+p80
+aVReducing agents
+p81
+aVCarbonate minerals
+p82
+aVChemistry
+p83
+asg12
+g13
+sg14
+VCompound
+p84
+sg16
+(lp85
+(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g77
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp86
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g78
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp87
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g79
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp88
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g80
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp89
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g81
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp90
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g82
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp91
+a(VWe added equal quantities of 13C-labelled diatoms and faecal pellets to a cold water (-0.7 degreesC) sediment community retrieved from 1080 m in the Faroe-Shetland Channel, Northeast Atlantic, and quantified 
+g83
+V mineralization and uptake by the resident bacteria and macrofauna over a 6-day period.
+tp92
+asg25
+Vcarbon
+p93
+sa(dp94
+g3
+(lp95
+VChemical element
+p96
+aVChemical substance
+p97
+aVCarbon forms
+p98
+aVMatter
+p99
+aVReducing agents
+p100
+aVCarbonate minerals
+p101
+aVChemistry
+p102
+asg12
+g13
+sg14
+VCompound
+p103
+sg16
+(lp104
+(VHigh-quality, diatom-derived 
+g96
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp105
+a(VHigh-quality, diatom-derived 
+g97
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp106
+a(VHigh-quality, diatom-derived 
+g98
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp107
+a(VHigh-quality, diatom-derived 
+g99
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp108
+a(VHigh-quality, diatom-derived 
+g100
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp109
+a(VHigh-quality, diatom-derived 
+g101
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp110
+a(VHigh-quality, diatom-derived 
+g102
+V was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of carbon at the deep seabed.
+tp111
+asg25
+Vcarbon
+p112
+sa(dp113
+g3
+(lp114
+VChemical element
+p115
+aVChemical substance
+p116
+aVCarbon forms
+p117
+aVMatter
+p118
+aVReducing agents
+p119
+aVCarbonate minerals
+p120
+aVChemistry
+p121
+asg12
+g13
+sg14
+VCompound
+p122
+sg16
+(lp123
+(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g115
+V at the deep seabed.
+tp124
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g116
+V at the deep seabed.
+tp125
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g117
+V at the deep seabed.
+tp126
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g118
+V at the deep seabed.
+tp127
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g119
+V at the deep seabed.
+tp128
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g120
+V at the deep seabed.
+tp129
+a(VHigh-quality, diatom-derived carbon was mineralized >300% faster than that from low-quality faecal pellets, demonstrating that qualitative differences in organic matter drive major changes in the residence time of 
+g121
+V at the deep seabed.
+tp130
+asg25
+Vcarbon
+p131
+sa(dp132
+g3
+(lp133
+VChemical element
+p134
+aVChemical substance
+p135
+aVCarbon forms
+p136
+aVMatter
+p137
+aVReducing agents
+p138
+aVCarbonate minerals
+p139
+aVChemistry
+p140
+asg12
+g13
+sg14
+VCompound
+p141
+sg16
+(lp142
+(VBenthic bacteria dominated biological 
+g134
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp143
+a(VBenthic bacteria dominated biological 
+g135
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp144
+a(VBenthic bacteria dominated biological 
+g136
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp145
+a(VBenthic bacteria dominated biological 
+g137
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp146
+a(VBenthic bacteria dominated biological 
+g138
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp147
+a(VBenthic bacteria dominated biological 
+g139
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp148
+a(VBenthic bacteria dominated biological 
+g140
+V processing in our experiments, yet showed no evidence of resource quality-limited growth; they displayed lower growth efficiencies when respiring diatoms.
+tp149
+asg25
+Vcarbon
+p150
+sa(dp151
+g3
+(lp152
+VChemical element
+p153
+aVChemical substance
+p154
+aVCarbon forms
+p155
+aVMatter
+p156
+aVReducing agents
+p157
+aVCarbonate minerals
+p158
+aVChemistry
+p159
+asg12
+g13
+sg14
+VCompound
+p160
+sg16
+(lp161
+(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g153
+V in the largest ecosystem on Earth.
+tp162
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g154
+V in the largest ecosystem on Earth.
+tp163
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g155
+V in the largest ecosystem on Earth.
+tp164
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g156
+V in the largest ecosystem on Earth.
+tp165
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g157
+V in the largest ecosystem on Earth.
+tp166
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g158
+V in the largest ecosystem on Earth.
+tp167
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic 
+g159
+V in the largest ecosystem on Earth.
+tp168
+asg25
+Vcarbon
+p169
+sa(dp170
+g3
+(lp171
+VRegions of France
+p172
+aVcelestial body
+p173
+aVPlaces
+p174
+aVNature
+p175
+aVplanet
+p176
+aVPlanets of the Solar System
+p177
+aVAstronomical object
+p178
+aVTerrestrial planets
+p179
+aVStructure
+p180
+aVGeography
+p181
+asg12
+g13
+sg14
+VLocation
+p182
+sg16
+(lp183
+(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g172
+V.
+tp184
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g173
+V.
+tp185
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g174
+V.
+tp186
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g175
+V.
+tp187
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g176
+V.
+tp188
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g177
+V.
+tp189
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g178
+V.
+tp190
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g179
+V.
+tp191
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g180
+V.
+tp192
+a(VOur study has important implications for how future changes in the biochemical makeup of exported organic matter will affect the balance between mineralization and sequestration of organic carbon in the largest ecosystem on 
+g181
+V.
+tp193
+asg25
+VEarth
+p194
+sa(dp195
+g3
+(lp196
+sg12
+g13
+sg14
+VLocation
+p197
+sg16
+(lp198
+sg25
+VEarth's
+p199
+sa.

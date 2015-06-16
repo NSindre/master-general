@@ -1,0 +1,121 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VBay
+p4
+sS'term'
+p5
+VBedford Basin
+p6
+sS'generalizedURI'
+p7
+Vhttp://wibitaxonomy.org/Bay
+p8
+sS'generalizedFreq'
+p9
+I3043
+sS'subjectURI'
+p10
+Vhttp://wibitaxonomy.org/Bedford_Basin
+p11
+sS'inputType'
+p12
+VLocation
+p13
+sS'generalizedLemma'
+p14
+Vbay
+p15
+sa(dp16
+g3
+VBody of water
+p17
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Body_of_water
+p18
+sg9
+I27
+sg10
+g11
+sg12
+g13
+sg14
+VBody of water
+p19
+sa(dp20
+g3
+VReportedly haunted locations in Halifax, Nova Scotia
+p21
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Reportedly_haunted_locations_in_Halifax,_Nova_Scotia
+p22
+sg9
+I0
+sg10
+Vhttp://dbpedia.org/resource/Bedford_Basin
+p23
+sg12
+g13
+sg14
+VReportedly haunted locations in Halifax, Nova scotia
+p24
+sa(dp25
+g3
+VLandforms of Halifax, Nova Scotia
+p26
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Landforms_of_Halifax,_Nova_Scotia
+p27
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VLandforms of Halifax, Nova scotia
+p28
+sa(dp29
+g3
+VBays of Nova Scotia
+p30
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Bays_of_Nova_Scotia
+p31
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VBays of Nova scotia
+p32
+sa(dp33
+g3
+VLandforms of Halifax County, Nova Scotia
+p34
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Landforms_of_Halifax_County,_Nova_Scotia
+p35
+sg9
+I0
+sg10
+g23
+sg12
+g13
+sg14
+VLandforms of Halifax County, Nova scotia
+p36
+sa.

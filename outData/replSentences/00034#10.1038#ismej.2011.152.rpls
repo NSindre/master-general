@@ -1,0 +1,653 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00034#10.1038#ismej.2011.152'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VSouth Pacific Ocean
+p12
+sa(dp13
+g3
+(lp14
+VChemical element
+p15
+aVChemical substance
+p16
+aVIndustrial gases
+p17
+aVCoolants
+p18
+aVMatter
+p19
+aVChemistry
+p20
+asg5
+g6
+sg7
+VCompound
+p21
+sg9
+(lp22
+(VGrowth limitation of phytoplankton and unicellular 
+g15
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp23
+a(VGrowth limitation of phytoplankton and unicellular 
+g16
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp24
+a(VGrowth limitation of phytoplankton and unicellular 
+g17
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp25
+a(VGrowth limitation of phytoplankton and unicellular 
+g18
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp26
+a(VGrowth limitation of phytoplankton and unicellular 
+g19
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp27
+a(VGrowth limitation of phytoplankton and unicellular 
+g20
+V (N2) fixers (diazotrophs) were investigated in the oligotrophic Western South Pacific Ocean.
+tp28
+asg11
+Vnitrogen
+p29
+sa(dp30
+g3
+(lp31
+sg5
+g6
+sg7
+VCompound
+p32
+sg9
+(lp33
+sg11
+VN2
+p34
+sa(dp35
+g3
+(lp36
+sg5
+g6
+sg7
+VLocation
+p37
+sg9
+(lp38
+sg11
+VWestern South Pacific Ocean
+p39
+sa(dp40
+g3
+(lp41
+sg5
+g6
+sg7
+VSpecies
+p42
+sg9
+(lp43
+sg11
+VCrocosphaera watsonii
+p44
+sa(dp45
+g3
+(lp46
+VChemical element
+p47
+aVChemical substance
+p48
+aVCarbon forms
+p49
+aVMatter
+p50
+aVReducing agents
+p51
+aVCarbonate minerals
+p52
+aVChemistry
+p53
+asg5
+g6
+sg7
+VCompound
+p54
+sg9
+(lp55
+(VAt the westernmost stations, numbers were enhanced by organic 
+g47
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp56
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g48
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp57
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g49
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp58
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g50
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp59
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g51
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp60
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g52
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp61
+a(VAt the westernmost stations, numbers were enhanced by organic 
+g53
+V added as simple sugars, a combination of iron and an organic chelator, or iron added with phosphate.
+tp62
+asg11
+Vcarbon
+p63
+sa(dp64
+g3
+(lp65
+VCoefficient
+p66
+aVChemical element
+p67
+aVBuilding materials
+p68
+aVFerromagnetic materials
+p69
+aVChemical substance
+p70
+aVCharge number
+p71
+aVMetals
+p72
+aVMatter
+p73
+aVAtomic number
+p74
+aVTransition metals
+p75
+aVChemistry
+p76
+asg5
+g6
+sg7
+VCompound
+p77
+sg9
+(lp78
+(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g66
+V and an organic chelator, or iron added with phosphate.
+tp79
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g67
+V and an organic chelator, or iron added with phosphate.
+tp80
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g68
+V and an organic chelator, or iron added with phosphate.
+tp81
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g69
+V and an organic chelator, or iron added with phosphate.
+tp82
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g70
+V and an organic chelator, or iron added with phosphate.
+tp83
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g71
+V and an organic chelator, or iron added with phosphate.
+tp84
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g72
+V and an organic chelator, or iron added with phosphate.
+tp85
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g73
+V and an organic chelator, or iron added with phosphate.
+tp86
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g74
+V and an organic chelator, or iron added with phosphate.
+tp87
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g75
+V and an organic chelator, or iron added with phosphate.
+tp88
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of 
+g76
+V and an organic chelator, or iron added with phosphate.
+tp89
+asg11
+Viron
+p90
+sa(dp91
+g3
+(lp92
+VCoefficient
+p93
+aVChemical element
+p94
+aVBuilding materials
+p95
+aVFerromagnetic materials
+p96
+aVChemical substance
+p97
+aVCharge number
+p98
+aVMetals
+p99
+aVMatter
+p100
+aVAtomic number
+p101
+aVTransition metals
+p102
+aVChemistry
+p103
+asg5
+g6
+sg7
+VCompound
+p104
+sg9
+(lp105
+(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g93
+V added with phosphate.
+tp106
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g94
+V added with phosphate.
+tp107
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g95
+V added with phosphate.
+tp108
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g96
+V added with phosphate.
+tp109
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g97
+V added with phosphate.
+tp110
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g98
+V added with phosphate.
+tp111
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g99
+V added with phosphate.
+tp112
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g100
+V added with phosphate.
+tp113
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g101
+V added with phosphate.
+tp114
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g102
+V added with phosphate.
+tp115
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or 
+g103
+V added with phosphate.
+tp116
+asg11
+Viron
+p117
+sa(dp118
+g3
+(lp119
+Vchemical substance
+p120
+aVchemical compound
+p121
+aVPhosphates
+p122
+aVIonic compound
+p123
+aVFunctional groups
+p124
+aVOrganophosphates
+p125
+asg5
+g6
+sg7
+VCompound
+p126
+sg9
+(lp127
+(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g120
+V.
+tp128
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g121
+V.
+tp129
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g122
+V.
+tp130
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g123
+V.
+tp131
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g124
+V.
+tp132
+a(VAt the westernmost stations, numbers were enhanced by organic carbon added as simple sugars, a combination of iron and an organic chelator, or iron added with 
+g125
+V.
+tp133
+asg11
+Vphosphate
+p134
+sa(dp135
+g3
+(lp136
+VChorizanthe
+p137
+aVeukaryote
+p138
+aVplant
+p139
+aVspecies
+p140
+asg5
+g6
+sg7
+VSpecies
+p141
+sg9
+(lp142
+(VMaximum net growth rates for UCYN-A, 
+g137
+V and gamma-24774A11 were 0.19, 0.61 and 0.52 d-1, respectively, which are the first known empirical growth rates reported for the uncultivated UCYN-A and the gamma-24774A11.
+tp143
+a(VMaximum net growth rates for UCYN-A, 
+g138
+V and gamma-24774A11 were 0.19, 0.61 and 0.52 d-1, respectively, which are the first known empirical growth rates reported for the uncultivated UCYN-A and the gamma-24774A11.
+tp144
+a(VMaximum net growth rates for UCYN-A, 
+g139
+V and gamma-24774A11 were 0.19, 0.61 and 0.52 d-1, respectively, which are the first known empirical growth rates reported for the uncultivated UCYN-A and the gamma-24774A11.
+tp145
+a(VMaximum net growth rates for UCYN-A, 
+g140
+V and gamma-24774A11 were 0.19, 0.61 and 0.52 d-1, respectively, which are the first known empirical growth rates reported for the uncultivated UCYN-A and the gamma-24774A11.
+tp146
+asg11
+VC. watsonii
+p147
+sa(dp148
+g3
+(lp149
+VGrapheme
+p150
+asg5
+g6
+sg7
+VCompound
+p151
+sg9
+(lp152
+(VThe addition of 
+g150
+V enhanced total phytoplankton biomass up to 5-fold, and the non-N2-fixing Synechococcus was among the groups that responded favorably to N addition.
+tp153
+asg11
+VN
+sa(dp154
+g3
+(lp155
+VGrapheme
+p156
+asg5
+g6
+sg7
+VCompound
+p157
+sg9
+(lp158
+(VThe addition of N enhanced total phytoplankton biomass up to 5-fold, and the non-N2-fixing Synechococcus was among the groups that responded favorably to 
+g156
+V addition.
+tp159
+asg11
+VN
+sa(dp160
+g3
+(lp161
+VChemical element
+p162
+aVChemical substance
+p163
+aVIndustrial gases
+p164
+aVCoolants
+p165
+aVMatter
+p166
+aVChemistry
+p167
+asg5
+g6
+sg7
+VCompound
+p168
+sg9
+(lp169
+(V
+g162
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp170
+a(V
+g163
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp171
+a(V
+g164
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp172
+a(V
+g165
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp173
+a(V
+g166
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp174
+a(V
+g167
+V was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp175
+asg11
+VNitrogen
+p176
+sa(dp177
+g3
+(lp178
+sg5
+g6
+sg7
+VLocation
+p179
+sg9
+(lp180
+sg11
+VWestern South Pacific Ocean
+p181
+sa(dp182
+g3
+(lp183
+VChemical element
+p184
+aVChemical substance
+p185
+aVCarbon forms
+p186
+aVMatter
+p187
+aVReducing agents
+p188
+aVCarbonate minerals
+p189
+aVChemistry
+p190
+asg5
+g6
+sg7
+VCompound
+p191
+sg9
+(lp192
+(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g184
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp193
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g185
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp194
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g186
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp195
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g187
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp196
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g188
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp197
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g189
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp198
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic 
+g190
+V or iron and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp199
+asg11
+Vcarbon
+p200
+sa(dp201
+g3
+(lp202
+VCoefficient
+p203
+aVChemical element
+p204
+aVBuilding materials
+p205
+aVFerromagnetic materials
+p206
+aVChemical substance
+p207
+aVCharge number
+p208
+aVMetals
+p209
+aVMatter
+p210
+aVAtomic number
+p211
+aVTransition metals
+p212
+aVChemistry
+p213
+asg5
+g6
+sg7
+VCompound
+p214
+sg9
+(lp215
+(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g203
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp216
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g204
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp217
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g205
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp218
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g206
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp219
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g207
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp220
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g208
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp221
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g209
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp222
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g210
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp223
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g211
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp224
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g212
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp225
+a(VNitrogen was the major nutrient-limiting phytoplankton biomass in the Western South Pacific Ocean, while availability of organic carbon or 
+g213
+V and organic chelator appear to limit abundances of unicellular diazotrophs.
+tp226
+asg11
+Viron
+p227
+sa(dp228
+g3
+(lp229
+sg5
+g6
+sg7
+VLocation
+p230
+sg9
+(lp231
+sg11
+VPacific
+p232
+sa.

@@ -1,0 +1,253 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVCoolants
+p6
+aVAtmosphere
+p7
+aVRefrigerants
+p8
+aVAir pollution
+p9
+aVClimate change
+p10
+aVHousehold chemicals
+p11
+aVGreenhouse gases
+p12
+aVInorganic carbon compounds
+p13
+aVOxides
+p14
+aVMatter
+p15
+aVchemical compound
+p16
+aVPropellants
+p17
+asS'fileName'
+p18
+S'00020#10.1038#ismej.2010.79'
+p19
+sS'entityType'
+p20
+VCompound
+p21
+sS'sentences'
+p22
+(lp23
+(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g5
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp24
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g6
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp25
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g7
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp26
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g8
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp27
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g9
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp28
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g10
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp29
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g11
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp30
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g12
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp31
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g13
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp32
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g14
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp33
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g15
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp34
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g16
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp35
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric 
+g17
+V (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater carbonate chemistry on the biogeochemical processes in the ocean.
+tp36
+asS'entity'
+p37
+Vcarbon dioxide
+p38
+sa(dp39
+g3
+(lp40
+sg18
+g19
+sg20
+VCompound
+p41
+sg22
+(lp42
+sg37
+VCO2
+p43
+sa(dp44
+g3
+(lp45
+Vchemical substance
+p46
+aVchemical compound
+p47
+aVCarbonates
+p48
+aVIonic compound
+p49
+asg18
+g19
+sg20
+VCompound
+p50
+sg22
+(lp51
+(VThe pH of the surface ocean is changing as a result of increases in atmospheric carbon dioxide (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater 
+g46
+V chemistry on the biogeochemical processes in the ocean.
+tp52
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric carbon dioxide (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater 
+g47
+V chemistry on the biogeochemical processes in the ocean.
+tp53
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric carbon dioxide (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater 
+g48
+V chemistry on the biogeochemical processes in the ocean.
+tp54
+a(VThe pH of the surface ocean is changing as a result of increases in atmospheric carbon dioxide (CO2), and there are concerns about potential impacts of lower pH and associated alterations in seawater 
+g49
+V chemistry on the biogeochemical processes in the ocean.
+tp55
+asg37
+Vcarbonate
+p56
+sa(dp57
+g3
+(lp58
+Vchemical substance
+p59
+aVCoolants
+p60
+aVAtmosphere
+p61
+aVRefrigerants
+p62
+aVAir pollution
+p63
+aVClimate change
+p64
+aVHousehold chemicals
+p65
+aVGreenhouse gases
+p66
+aVInorganic carbon compounds
+p67
+aVOxides
+p68
+aVMatter
+p69
+aVchemical compound
+p70
+aVPropellants
+p71
+asg18
+g19
+sg20
+VCompound
+p72
+sg22
+(lp73
+(VSurface pH can change as a consequence of microbial utilization and production of 
+g59
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp74
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g60
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp75
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g61
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp76
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g62
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp77
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g63
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp78
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g64
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp79
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g65
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp80
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g66
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp81
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g67
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp82
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g68
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp83
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g69
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp84
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g70
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp85
+a(VSurface pH can change as a consequence of microbial utilization and production of 
+g71
+V, and to a lesser extent other microbially mediated processes such as nitrification.
+tp86
+asg37
+Vcarbon dioxide
+p87
+sa(dp88
+g3
+(lp89
+sg18
+g19
+sg20
+VCompound
+p90
+sg22
+(lp91
+sg37
+VCO2
+p92
+sa.

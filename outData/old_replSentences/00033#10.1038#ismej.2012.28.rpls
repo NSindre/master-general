@@ -1,0 +1,584 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VWest Antarctica
+p5
+aVIsland
+p6
+aVAntarctica
+p7
+aVTundra
+p8
+asS'fileName'
+p9
+S'00033#10.1038#ismej.2012.28'
+p10
+sS'entityType'
+p11
+VLocation
+p12
+sS'sentences'
+p13
+(lp14
+(VA metaproteomic assessment of winter and summer bacterioplankton from 
+g5
+V coastal surface waters
+tp15
+a(VA metaproteomic assessment of winter and summer bacterioplankton from 
+g6
+V coastal surface waters
+tp16
+a(VA metaproteomic assessment of winter and summer bacterioplankton from 
+g7
+V coastal surface waters
+tp17
+a(VA metaproteomic assessment of winter and summer bacterioplankton from 
+g8
+V coastal surface waters
+tp18
+asS'entity'
+p19
+VAntarctic Peninsula
+p20
+sa(dp21
+g3
+(lp22
+VMilitary base
+p23
+aVinfrastructure
+p24
+aVUnited States Antarctic Program
+p25
+aVResearch station
+p26
+aVairport
+p27
+aVplace
+p28
+aVarchitectural structure
+p29
+asg9
+g10
+sg11
+VLocation
+p30
+sg13
+(lp31
+(VA metaproteomic survey of surface coastal waters near 
+g23
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp32
+a(VA metaproteomic survey of surface coastal waters near 
+g24
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp33
+a(VA metaproteomic survey of surface coastal waters near 
+g25
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp34
+a(VA metaproteomic survey of surface coastal waters near 
+g26
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp35
+a(VA metaproteomic survey of surface coastal waters near 
+g27
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp36
+a(VA metaproteomic survey of surface coastal waters near 
+g28
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp37
+a(VA metaproteomic survey of surface coastal waters near 
+g29
+V on the Antarctic Peninsula, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp38
+asg19
+VPalmer Station
+p39
+sa(dp40
+g3
+(lp41
+VWest Antarctica
+p42
+aVIsland
+p43
+aVAntarctica
+p44
+aVTundra
+p45
+asg9
+g10
+sg11
+VLocation
+p46
+sg13
+(lp47
+(VA metaproteomic survey of surface coastal waters near Palmer Station on the 
+g42
+V, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp48
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the 
+g43
+V, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp49
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the 
+g44
+V, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp50
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the 
+g45
+V, West Antarctica, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp51
+asg19
+VAntarctic Peninsula
+p52
+sa(dp53
+g3
+(lp54
+VLandmass
+p55
+aVArea
+p56
+aVTundra
+p57
+aVAntarctica
+p58
+aVContinent
+p59
+asg9
+g10
+sg11
+VLocation
+p60
+sg13
+(lp61
+(VA metaproteomic survey of surface coastal waters near Palmer Station on the Antarctic Peninsula, 
+g55
+V, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp62
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the Antarctic Peninsula, 
+g56
+V, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp63
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the Antarctic Peninsula, 
+g57
+V, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp64
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the Antarctic Peninsula, 
+g58
+V, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp65
+a(VA metaproteomic survey of surface coastal waters near Palmer Station on the Antarctic Peninsula, 
+g59
+V, was performed, revealing marked differences in the functional capacity of summer and winter communities of bacterioplankton.
+tp66
+asg19
+VWest Antarctica
+p67
+sa(dp68
+g3
+(lp69
+VChemical element
+p70
+aVChemical substance
+p71
+aVCarbon forms
+p72
+aVMatter
+p73
+aVReducing agents
+p74
+aVCarbonate minerals
+p75
+aVChemistry
+p76
+asg9
+g10
+sg11
+VCompound
+p77
+sg13
+(lp78
+(VIn summer, autotrophic 
+g70
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp79
+a(VIn summer, autotrophic 
+g71
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp80
+a(VIn summer, autotrophic 
+g72
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp81
+a(VIn summer, autotrophic 
+g73
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp82
+a(VIn summer, autotrophic 
+g74
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp83
+a(VIn summer, autotrophic 
+g75
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp84
+a(VIn summer, autotrophic 
+g76
+V assimilation appears to be driven by oxygenic photoautotrophy, consistent with high light availability and intensity.
+tp85
+asg19
+Vcarbon
+p86
+sa(dp87
+g3
+(lp88
+VChemical element
+p89
+aVChemical substance
+p90
+aVCarbon forms
+p91
+aVMatter
+p92
+aVReducing agents
+p93
+aVCarbonate minerals
+p94
+aVChemistry
+p95
+asg9
+g10
+sg11
+VCompound
+p96
+sg13
+(lp97
+(VTaurine appears to be an important source of 
+g89
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp98
+a(VTaurine appears to be an important source of 
+g90
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp99
+a(VTaurine appears to be an important source of 
+g91
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp100
+a(VTaurine appears to be an important source of 
+g92
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp101
+a(VTaurine appears to be an important source of 
+g93
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp102
+a(VTaurine appears to be an important source of 
+g94
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp103
+a(VTaurine appears to be an important source of 
+g95
+V and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp104
+asg19
+Vcarbon
+p105
+sa(dp106
+g3
+(lp107
+VChemical element
+p108
+aVChemical substance
+p109
+aVIndustrial gases
+p110
+aVCoolants
+p111
+aVMatter
+p112
+aVChemistry
+p113
+asg9
+g10
+sg11
+VCompound
+p114
+sg13
+(lp115
+(VTaurine appears to be an important source of carbon and 
+g108
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp116
+a(VTaurine appears to be an important source of carbon and 
+g109
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp117
+a(VTaurine appears to be an important source of carbon and 
+g110
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp118
+a(VTaurine appears to be an important source of carbon and 
+g111
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp119
+a(VTaurine appears to be an important source of carbon and 
+g112
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp120
+a(VTaurine appears to be an important source of carbon and 
+g113
+V for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp121
+asg19
+Vnitrogen
+p122
+sa(dp123
+g3
+(lp124
+VWord
+p125
+aVRegions of Antarctica
+p126
+aVSubantarctic
+p127
+aVOceans
+p128
+aVAdjective
+p129
+aVMarine realms
+p130
+aVSouth
+p131
+asg9
+g10
+sg11
+VLocation
+p132
+sg13
+(lp133
+(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g125
+V bacteria.
+tp134
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g126
+V bacteria.
+tp135
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g127
+V bacteria.
+tp136
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g128
+V bacteria.
+tp137
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g129
+V bacteria.
+tp138
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g130
+V bacteria.
+tp139
+a(VTonB-dependent receptors from Gammaproteobacteria and Flavobacteria (particularly in summer) were abundant, indicating that scavenging of substrates was likely an important strategy for these clades of 
+g131
+V bacteria.
+tp140
+asg19
+VSouthern Ocean
+p141
+sa(dp142
+g3
+(lp143
+VAntarctic region
+p144
+aVQuantity
+p145
+aVPolar region
+p146
+aVArea
+p147
+asg9
+g10
+sg11
+VLocation
+p148
+sg13
+(lp149
+(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal 
+g144
+V waters, and particularly highlights the important role that 'dark' carbon fixation has in winter.
+tp150
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal 
+g145
+V waters, and particularly highlights the important role that 'dark' carbon fixation has in winter.
+tp151
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal 
+g146
+V waters, and particularly highlights the important role that 'dark' carbon fixation has in winter.
+tp152
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal 
+g147
+V waters, and particularly highlights the important role that 'dark' carbon fixation has in winter.
+tp153
+asg19
+VAntarctic
+p154
+sa(dp155
+g3
+(lp156
+VChemical element
+p157
+aVChemical substance
+p158
+aVCarbon forms
+p159
+aVMatter
+p160
+aVReducing agents
+p161
+aVCarbonate minerals
+p162
+aVChemistry
+p163
+asg9
+g10
+sg11
+VCompound
+p164
+sg13
+(lp165
+(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g157
+V fixation has in winter.
+tp166
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g158
+V fixation has in winter.
+tp167
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g159
+V fixation has in winter.
+tp168
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g160
+V fixation has in winter.
+tp169
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g161
+V fixation has in winter.
+tp170
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g162
+V fixation has in winter.
+tp171
+a(VThis study provides the first insight into differences in functional processes occurring between summer and winter microbial communities in coastal Antarctic waters, and particularly highlights the important role that 'dark' 
+g163
+V fixation has in winter.
+tp172
+asg19
+Vcarbon
+p173
+sa(dp174
+g3
+(lp175
+Vchemical substance
+p176
+aVOrganic acid
+p177
+aVAmines
+p178
+aVSulfonic acids
+p179
+aVchemical compound
+p180
+aVOrganic compound
+p181
+asg9
+g10
+sg11
+VCompound
+p182
+sg13
+(lp183
+(V
+g176
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp184
+a(V
+g177
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp185
+a(V
+g178
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp186
+a(V
+g179
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp187
+a(V
+g180
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp188
+a(V
+g181
+V appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for taurine uptake and degradation abundant in the metaproteome.
+tp189
+asg19
+VTaurine
+p190
+sa(dp191
+g3
+(lp192
+Vchemical substance
+p193
+aVOrganic acid
+p194
+aVAmines
+p195
+aVSulfonic acids
+p196
+aVchemical compound
+p197
+aVOrganic compound
+p198
+asg9
+g10
+sg11
+VCompound
+p199
+sg13
+(lp200
+(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g193
+V uptake and degradation abundant in the metaproteome.
+tp201
+a(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g194
+V uptake and degradation abundant in the metaproteome.
+tp202
+a(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g195
+V uptake and degradation abundant in the metaproteome.
+tp203
+a(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g196
+V uptake and degradation abundant in the metaproteome.
+tp204
+a(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g197
+V uptake and degradation abundant in the metaproteome.
+tp205
+a(VTaurine appears to be an important source of carbon and nitrogen for heterotrophs (especially SAR11), with transporters and enzymes for 
+g198
+V uptake and degradation abundant in the metaproteome.
+tp206
+asg19
+Vtaurine
+p207
+sa.

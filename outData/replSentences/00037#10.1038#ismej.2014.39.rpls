@@ -1,0 +1,521 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00037#10.1038#ismej.2014.39'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g5
+V in freshwater food webs
+tp18
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g6
+V in freshwater food webs
+tp19
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g7
+V in freshwater food webs
+tp20
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g8
+V in freshwater food webs
+tp21
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g9
+V in freshwater food webs
+tp22
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g10
+V in freshwater food webs
+tp23
+a(VBacterial epibionts of Daphnia: a potential route for the transfer of dissolved organic 
+g11
+V in freshwater food webs
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+Vanimal
+p29
+aVeukaryote
+p30
+aVArthropod
+p31
+aVcrustacean
+p32
+aVBranchiopoda
+p33
+aVspecies
+p34
+aVFreshwater crustaceans
+p35
+asg12
+g13
+sg14
+VSpecies
+p36
+sg16
+(lp37
+(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g29
+V and of natural daphnid populations.
+tp38
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g30
+V and of natural daphnid populations.
+tp39
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g31
+V and of natural daphnid populations.
+tp40
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g32
+V and of natural daphnid populations.
+tp41
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g33
+V and of natural daphnid populations.
+tp42
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g34
+V and of natural daphnid populations.
+tp43
+a(VWe analysed the activity and identity of bacterial epibionts in cultures of 
+g35
+V and of natural daphnid populations.
+tp44
+asg25
+VDaphnia galeata
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVCarbon forms
+p50
+aVMatter
+p51
+aVReducing agents
+p52
+aVCarbonate minerals
+p53
+aVChemistry
+p54
+asg12
+g13
+sg14
+VCompound
+p55
+sg16
+(lp56
+(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g48
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp57
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g49
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp58
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g50
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp59
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g51
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp60
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g52
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp61
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g53
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp62
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic 
+g54
+V (DOC), as estimated via uptake of tritiated leucine: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp63
+asg25
+Vcarbon
+p64
+sa(dp65
+g3
+(lp66
+Vchemical substance
+p67
+aVAmino acid
+p68
+aVEssential amino acids
+p69
+aVMolecule
+p70
+aVBranched-chain amino acids
+p71
+aVchemical compound
+p72
+aVAtom
+p73
+aVProteinogenic amino acids
+p74
+asg12
+g13
+sg14
+VCompound
+p75
+sg16
+(lp76
+(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g67
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp77
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g68
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp78
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g69
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp79
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g70
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp80
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g71
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp81
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g72
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp82
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g73
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp83
+a(VEpibiotic bacteria incorporated considerable amounts of dissolved organic carbon (DOC), as estimated via uptake of tritiated 
+g74
+V: three times more tracer was consumed by microbes on a single Daphnia than in 1ml of lake water.
+tp84
+asg25
+Vleucine
+p85
+sa(dp86
+g3
+(lp87
+VBurkholderiales
+p88
+aVBacteria
+p89
+aVProteobacteria
+p90
+aVspecies
+p91
+aVBeta Proteobacteria
+p92
+asg12
+g13
+sg14
+VSpecies
+p93
+sg16
+(lp94
+(VSpecifically, we identified a monophyletic cluster harbouring 
+g88
+V that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp95
+a(VSpecifically, we identified a monophyletic cluster harbouring 
+g89
+V that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp96
+a(VSpecifically, we identified a monophyletic cluster harbouring 
+g90
+V that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp97
+a(VSpecifically, we identified a monophyletic cluster harbouring 
+g91
+V that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp98
+a(VSpecifically, we identified a monophyletic cluster harbouring 
+g92
+V that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp99
+asg25
+VLimnohabitans planktonicus
+p100
+sa(dp101
+g3
+(lp102
+Vanimal
+p103
+aVmollusca
+p104
+aVChordate
+p105
+aVeukaryote
+p106
+aVbird
+p107
+aVArthropod
+p108
+aVcrustacean
+p109
+aVBranchiopoda
+p110
+aVGastropoda
+p111
+aVspecies
+p112
+aVFreshwater crustaceans
+p113
+asg12
+g13
+sg14
+VSpecies
+p114
+sg16
+(lp115
+(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g103
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp116
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g104
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp117
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g105
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp118
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g106
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp119
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g107
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp120
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g108
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp121
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g109
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp122
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g110
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp123
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g111
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp124
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g112
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp125
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from 
+g113
+V cultures, from the gut of Daphnia magna and from daphnids of Lake Zurich.
+tp126
+asg25
+VD. galeata
+p127
+sa(dp128
+g3
+(lp129
+VDaphnia
+p130
+aVanimal
+p131
+aVeukaryote
+p132
+aVArthropod
+p133
+aVcrustacean
+p134
+aVBranchiopoda
+p135
+aVspecies
+p136
+asg12
+g13
+sg14
+VSpecies
+p137
+sg16
+(lp138
+(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g130
+V and from daphnids of Lake Zurich.
+tp139
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g131
+V and from daphnids of Lake Zurich.
+tp140
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g132
+V and from daphnids of Lake Zurich.
+tp141
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g133
+V and from daphnids of Lake Zurich.
+tp142
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g134
+V and from daphnids of Lake Zurich.
+tp143
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g135
+V and from daphnids of Lake Zurich.
+tp144
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of 
+g136
+V and from daphnids of Lake Zurich.
+tp145
+asg25
+VDaphnia magna
+p146
+sa(dp147
+g3
+(lp148
+VChemical substance
+p149
+aVStream
+p150
+aVlake
+p151
+aVWater
+p152
+aVplace
+p153
+aVbody of water
+p154
+aVnatural place
+p155
+asg12
+g13
+sg14
+VLocation
+p156
+sg16
+(lp157
+(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g149
+V.
+tp158
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g150
+V.
+tp159
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g151
+V.
+tp160
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g152
+V.
+tp161
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g153
+V.
+tp162
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g154
+V.
+tp163
+a(VSpecifically, we identified a monophyletic cluster harbouring Limnohabitans planktonicus that encompassed sequence types from D. galeata cultures, from the gut of Daphnia magna and from daphnids of 
+g155
+V.
+tp164
+asg25
+VLake Zurich
+p165
+sa(dp166
+g3
+(lp167
+VChemical element
+p168
+aVChemical substance
+p169
+aVCarbon forms
+p170
+aVMatter
+p171
+aVReducing agents
+p172
+aVCarbonate minerals
+p173
+aVChemistry
+p174
+asg12
+g13
+sg14
+VCompound
+p175
+sg16
+(lp176
+(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g168
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp177
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g169
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp178
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g170
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp179
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g171
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp180
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g172
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp181
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g173
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp182
+a(VThe unexplored physical association of daphnids with heterotrophic bacteria may have considerable implications for our understanding of 
+g174
+V transfer in freshwater food webs, that is, a trophic shortcut between microbial DOC uptake and predation by fish.
+tp183
+asg25
+Vcarbon
+p184
+sa.

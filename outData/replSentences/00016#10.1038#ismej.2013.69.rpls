@@ -1,0 +1,1178 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00016#10.1038#ismej.2013.69'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VMetagenomic insights into strategies of 
+g5
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp18
+a(VMetagenomic insights into strategies of 
+g6
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp19
+a(VMetagenomic insights into strategies of 
+g7
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp20
+a(VMetagenomic insights into strategies of 
+g8
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp21
+a(VMetagenomic insights into strategies of 
+g9
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp22
+a(VMetagenomic insights into strategies of 
+g10
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp23
+a(VMetagenomic insights into strategies of 
+g11
+V conservation and unusual sulfur biogeochemistry in a hypersaline Antarctic lake
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+VChemical element
+p29
+aVchemical substance
+p30
+aVSulfur forms
+p31
+aVInorganic polymers
+p32
+aVMatter
+p33
+aVchemical compound
+p34
+aVChemistry
+p35
+aVAgricultural chemicals
+p36
+asg12
+g13
+sg14
+VCompound
+p37
+sg16
+(lp38
+(VMetagenomic insights into strategies of carbon conservation and unusual 
+g29
+V biogeochemistry in a hypersaline Antarctic lake
+tp39
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g30
+V biogeochemistry in a hypersaline Antarctic lake
+tp40
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g31
+V biogeochemistry in a hypersaline Antarctic lake
+tp41
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g32
+V biogeochemistry in a hypersaline Antarctic lake
+tp42
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g33
+V biogeochemistry in a hypersaline Antarctic lake
+tp43
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g34
+V biogeochemistry in a hypersaline Antarctic lake
+tp44
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g35
+V biogeochemistry in a hypersaline Antarctic lake
+tp45
+a(VMetagenomic insights into strategies of carbon conservation and unusual 
+g36
+V biogeochemistry in a hypersaline Antarctic lake
+tp46
+asg25
+Vsulfur
+p47
+sa(dp48
+g3
+(lp49
+VAntarctic region
+p50
+aVQuantity
+p51
+aVPolar region
+p52
+aVArea
+p53
+asg12
+g13
+sg14
+VLocation
+p54
+sg16
+(lp55
+(VMetagenomic insights into strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline 
+g50
+V lake
+tp56
+a(VMetagenomic insights into strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline 
+g51
+V lake
+tp57
+a(VMetagenomic insights into strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline 
+g52
+V lake
+tp58
+a(VMetagenomic insights into strategies of carbon conservation and unusual sulfur biogeochemistry in a hypersaline 
+g53
+V lake
+tp59
+asg25
+VAntarctic
+p60
+sa(dp61
+g3
+(lp62
+VChemical substance
+p63
+aVMeromictic lakes
+p64
+aVStream
+p65
+aVLake
+p66
+aVWater
+p67
+aVBody of water
+p68
+aVLakes of Antarctica
+p69
+asg12
+g13
+sg14
+VLocation
+p70
+sg16
+(lp71
+(V
+g63
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp72
+a(V
+g64
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp73
+a(V
+g65
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp74
+a(V
+g66
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp75
+a(V
+g67
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp76
+a(V
+g68
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp77
+a(V
+g69
+V is a shallow, marine-derived hypersaline lake in the Vestfold Hills, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp78
+asg25
+VOrganic Lake
+p79
+sa(dp80
+g3
+(lp81
+VQuantity
+p82
+aVArea
+p83
+asg12
+g13
+sg14
+VLocation
+p84
+sg16
+(lp85
+(VOrganic Lake is a shallow, marine-derived hypersaline lake in the 
+g82
+V, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp86
+a(VOrganic Lake is a shallow, marine-derived hypersaline lake in the 
+g83
+V, Antarctica that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp87
+asg25
+VVestfold Hills
+p88
+sa(dp89
+g3
+(lp90
+VAntarctic region
+p91
+aVRegion
+p92
+aVTopography
+p93
+aVContinents
+p94
+aVLandforms
+p95
+asg12
+g13
+sg14
+VLocation
+p96
+sg16
+(lp97
+(VOrganic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, 
+g91
+V that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp98
+a(VOrganic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, 
+g92
+V that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp99
+a(VOrganic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, 
+g93
+V that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp100
+a(VOrganic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, 
+g94
+V that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp101
+a(VOrganic Lake is a shallow, marine-derived hypersaline lake in the Vestfold Hills, 
+g95
+V that has the highest reported concentration of dimethylsulfide (DMS) in a natural body of water.
+tp102
+asg25
+VAntarctica
+p103
+sa(dp104
+g3
+(lp105
+sg12
+g13
+sg14
+VCompound
+p106
+sg16
+(lp107
+sg25
+Vdimethylsulfide
+p108
+sa(dp109
+g3
+(lp110
+VChemical substance
+p111
+aVMeromictic lakes
+p112
+aVStream
+p113
+aVLake
+p114
+aVWater
+p115
+aVBody of water
+p116
+aVLakes of Antarctica
+p117
+asg12
+g13
+sg14
+VLocation
+p118
+sg16
+(lp119
+(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g111
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp120
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g112
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp121
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g113
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp122
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g114
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp123
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g115
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp124
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g116
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp125
+a(VTo determine the composition and functional potential of the microbial community and learn about the unusual sulfur chemistry in 
+g117
+V, shotgun metagenomics was performed on size-fractionated samples collected along a depth profile.
+tp126
+asg25
+VOrganic Lake
+p127
+sa(dp128
+g3
+(lp129
+VChemical element
+p130
+aVChemical substance
+p131
+aVCarbon forms
+p132
+aVMatter
+p133
+aVReducing agents
+p134
+aVCarbonate minerals
+p135
+aVChemistry
+p136
+asg12
+g13
+sg14
+VCompound
+p137
+sg16
+(lp138
+(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g130
+V loss.
+tp139
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g131
+V loss.
+tp140
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g132
+V loss.
+tp141
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g133
+V loss.
+tp142
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g134
+V loss.
+tp143
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g135
+V loss.
+tp144
+a(VThe dominance of heterotrophic degradation, coupled with low fixation potential, indicates possible net 
+g136
+V loss.
+tp145
+asg25
+Vcarbon
+p146
+sa(dp147
+g3
+(lp148
+VChemical element
+p149
+aVchemical substance
+p150
+aVSulfur forms
+p151
+aVInorganic polymers
+p152
+aVMatter
+p153
+aVchemical compound
+p154
+aVChemistry
+p155
+aVAgricultural chemicals
+p156
+asg12
+g13
+sg14
+VCompound
+p157
+sg16
+(lp158
+(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g149
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp159
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g150
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp160
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g151
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp161
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g152
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp162
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g153
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp163
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g154
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp164
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g155
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp165
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, 
+g156
+V oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic carbon.
+tp166
+asg25
+Vsulfur
+p167
+sa(dp168
+g3
+(lp169
+sg12
+g13
+sg14
+VCompound
+p170
+sg16
+(lp171
+sg25
+VCO
+p172
+sa(dp173
+g3
+(lp174
+VChemical element
+p175
+aVChemical substance
+p176
+aVCarbon forms
+p177
+aVMatter
+p178
+aVReducing agents
+p179
+aVCarbonate minerals
+p180
+aVChemistry
+p181
+asg12
+g13
+sg14
+VCompound
+p182
+sg16
+(lp183
+(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g175
+V.
+tp184
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g176
+V.
+tp185
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g177
+V.
+tp186
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g178
+V.
+tp187
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g179
+V.
+tp188
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g180
+V.
+tp189
+a(VHowever, abundant marker genes for aerobic anoxygenic phototrophy, sulfur oxidation, rhodopsins and CO oxidation were also linked to the dominant heterotrophic bacteria, and indicate the use of photo- and lithoheterotrophy as mechanisms for conserving organic 
+g181
+V.
+tp190
+asg25
+Vcarbon
+p191
+sa(dp192
+g3
+(lp193
+VChemical element
+p194
+aVChemical substance
+p195
+aVIndustrial gases
+p196
+aVCoolants
+p197
+aVMatter
+p198
+aVChemistry
+p199
+asg12
+g13
+sg14
+VCompound
+p200
+sg16
+(lp201
+(VSimilarly, a high genetic potential for the recycling of 
+g194
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp202
+a(VSimilarly, a high genetic potential for the recycling of 
+g195
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp203
+a(VSimilarly, a high genetic potential for the recycling of 
+g196
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp204
+a(VSimilarly, a high genetic potential for the recycling of 
+g197
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp205
+a(VSimilarly, a high genetic potential for the recycling of 
+g198
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp206
+a(VSimilarly, a high genetic potential for the recycling of 
+g199
+V compounds likely functions to retain fixed nitrogen in the lake.
+tp207
+asg25
+Vnitrogen
+p208
+sa(dp209
+g3
+(lp210
+VChemical element
+p211
+aVChemical substance
+p212
+aVIndustrial gases
+p213
+aVCoolants
+p214
+aVMatter
+p215
+aVChemistry
+p216
+asg12
+g13
+sg14
+VCompound
+p217
+sg16
+(lp218
+(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g211
+V in the lake.
+tp219
+a(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g212
+V in the lake.
+tp220
+a(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g213
+V in the lake.
+tp221
+a(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g214
+V in the lake.
+tp222
+a(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g215
+V in the lake.
+tp223
+a(VSimilarly, a high genetic potential for the recycling of nitrogen compounds likely functions to retain fixed 
+g216
+V in the lake.
+tp224
+asg25
+Vnitrogen
+p225
+sa(dp226
+g3
+(lp227
+VChemical element
+p228
+aVChemical substance
+p229
+aVCarbon forms
+p230
+aVMatter
+p231
+aVReducing agents
+p232
+aVCarbonate minerals
+p233
+aVChemistry
+p234
+asg12
+g13
+sg14
+VCompound
+p235
+sg16
+(lp236
+(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g228
+V and energy source.
+tp237
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g229
+V and energy source.
+tp238
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g230
+V and energy source.
+tp239
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g231
+V and energy source.
+tp240
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g232
+V and energy source.
+tp241
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g233
+V and energy source.
+tp242
+a(VDimethylsulfoniopropionate (DMSP) lyase genes were abundant, indicating that DMSP is a significant 
+g234
+V and energy source.
+tp243
+asg25
+Vcarbon
+p244
+sa(dp245
+g3
+(lp246
+VChemical element
+p247
+aVChemical substance
+p248
+aVCarbon forms
+p249
+aVMatter
+p250
+aVReducing agents
+p251
+aVCarbonate minerals
+p252
+aVChemistry
+p253
+asg12
+g13
+sg14
+VCompound
+p254
+sg16
+(lp255
+(VDMSP cleavage, 
+g247
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp256
+a(VDMSP cleavage, 
+g248
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp257
+a(VDMSP cleavage, 
+g249
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp258
+a(VDMSP cleavage, 
+g250
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp259
+a(VDMSP cleavage, 
+g251
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp260
+a(VDMSP cleavage, 
+g252
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp261
+a(VDMSP cleavage, 
+g253
+V mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp262
+asg25
+Vcarbon
+p263
+sa(dp264
+g3
+(lp265
+VChemical element
+p266
+aVChemical substance
+p267
+aVIndustrial gases
+p268
+aVCoolants
+p269
+aVMatter
+p270
+aVChemistry
+p271
+asg12
+g13
+sg14
+VCompound
+p272
+sg16
+(lp273
+(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g266
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp274
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g267
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp275
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g268
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp276
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g269
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp277
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g270
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp278
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and 
+g271
+V remineralization by dominant Organic Lake bacteria are potentially important adaptations to nutrient constraints.
+tp279
+asg25
+Vnitrogen
+p280
+sa(dp281
+g3
+(lp282
+VChemical substance
+p283
+aVMeromictic lakes
+p284
+aVStream
+p285
+aVLake
+p286
+aVWater
+p287
+aVBody of water
+p288
+aVLakes of Antarctica
+p289
+asg12
+g13
+sg14
+VLocation
+p290
+sg16
+(lp291
+(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g283
+V bacteria are potentially important adaptations to nutrient constraints.
+tp292
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g284
+V bacteria are potentially important adaptations to nutrient constraints.
+tp293
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g285
+V bacteria are potentially important adaptations to nutrient constraints.
+tp294
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g286
+V bacteria are potentially important adaptations to nutrient constraints.
+tp295
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g287
+V bacteria are potentially important adaptations to nutrient constraints.
+tp296
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g288
+V bacteria are potentially important adaptations to nutrient constraints.
+tp297
+a(VDMSP cleavage, carbon mixotrophy (photoheterotrophy and lithoheterotrophy) and nitrogen remineralization by dominant 
+g289
+V bacteria are potentially important adaptations to nutrient constraints.
+tp298
+asg25
+VOrganic Lake
+p299
+sa(dp300
+g3
+(lp301
+VChemical element
+p302
+aVChemical substance
+p303
+aVCarbon forms
+p304
+aVMatter
+p305
+aVReducing agents
+p306
+aVCarbonate minerals
+p307
+aVChemistry
+p308
+asg12
+g13
+sg14
+VCompound
+p309
+sg16
+(lp310
+(VIn particular, 
+g302
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp311
+a(VIn particular, 
+g303
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp312
+a(VIn particular, 
+g304
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp313
+a(VIn particular, 
+g305
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp314
+a(VIn particular, 
+g306
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp315
+a(VIn particular, 
+g307
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp316
+a(VIn particular, 
+g308
+V mixotrophy relieves the extent of carbon oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp317
+asg25
+Vcarbon
+p318
+sa(dp319
+g3
+(lp320
+VChemical element
+p321
+aVChemical substance
+p322
+aVCarbon forms
+p323
+aVMatter
+p324
+aVReducing agents
+p325
+aVCarbonate minerals
+p326
+aVChemistry
+p327
+asg12
+g13
+sg14
+VCompound
+p328
+sg16
+(lp329
+(VIn particular, carbon mixotrophy relieves the extent of 
+g321
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp330
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g322
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp331
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g323
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp332
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g324
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp333
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g325
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp334
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g326
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp335
+a(VIn particular, carbon mixotrophy relieves the extent of 
+g327
+V oxidation for energy production, allowing more carbon to be used for biosynthetic processes.
+tp336
+asg25
+Vcarbon
+p337
+sa(dp338
+g3
+(lp339
+VChemical element
+p340
+aVChemical substance
+p341
+aVCarbon forms
+p342
+aVMatter
+p343
+aVReducing agents
+p344
+aVCarbonate minerals
+p345
+aVChemistry
+p346
+asg12
+g13
+sg14
+VCompound
+p347
+sg16
+(lp348
+(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g340
+V to be used for biosynthetic processes.
+tp349
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g341
+V to be used for biosynthetic processes.
+tp350
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g342
+V to be used for biosynthetic processes.
+tp351
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g343
+V to be used for biosynthetic processes.
+tp352
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g344
+V to be used for biosynthetic processes.
+tp353
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g345
+V to be used for biosynthetic processes.
+tp354
+a(VIn particular, carbon mixotrophy relieves the extent of carbon oxidation for energy production, allowing more 
+g346
+V to be used for biosynthetic processes.
+tp355
+asg25
+Vcarbon
+p356
+sa(dp357
+g3
+(lp358
+VAntarctic region
+p359
+aVQuantity
+p360
+aVPolar region
+p361
+aVArea
+p362
+asg12
+g13
+sg14
+VLocation
+p363
+sg16
+(lp364
+(VThe study sheds light on how the microbial community has adapted to this unique 
+g359
+V lake environment.
+tp365
+a(VThe study sheds light on how the microbial community has adapted to this unique 
+g360
+V lake environment.
+tp366
+a(VThe study sheds light on how the microbial community has adapted to this unique 
+g361
+V lake environment.
+tp367
+a(VThe study sheds light on how the microbial community has adapted to this unique 
+g362
+V lake environment.
+tp368
+asg25
+VAntarctic
+p369
+sa(dp370
+g3
+(lp371
+sg12
+g13
+sg14
+VCompound
+p372
+sg16
+(lp373
+sg25
+VDMS
+p374
+sa(dp375
+g3
+(lp376
+Vchemical substance
+p377
+aVchemical compound
+p378
+aVOrganic compound
+p379
+aVOrganosulfur compounds
+p380
+asg12
+g13
+sg14
+VCompound
+p381
+sg16
+(lp382
+(V
+g377
+V (DMSP) lyase genes were abundant, indicating that DMSP is a significant carbon and energy source.
+tp383
+a(V
+g378
+V (DMSP) lyase genes were abundant, indicating that DMSP is a significant carbon and energy source.
+tp384
+a(V
+g379
+V (DMSP) lyase genes were abundant, indicating that DMSP is a significant carbon and energy source.
+tp385
+a(V
+g380
+V (DMSP) lyase genes were abundant, indicating that DMSP is a significant carbon and energy source.
+tp386
+asg25
+VDimethylsulfoniopropionate
+p387
+sa(dp388
+g3
+(lp389
+sg12
+g13
+sg14
+VCompound
+p390
+sg16
+(lp391
+sg25
+VDMSP
+p392
+sa(dp393
+g3
+(lp394
+sg12
+g13
+sg14
+VCompound
+p395
+sg16
+(lp396
+sg25
+VDMSP
+p397
+sa(dp398
+g3
+(lp399
+sg12
+g13
+sg14
+VCompound
+p400
+sg16
+(lp401
+sg25
+VDMSP
+p402
+sa(dp403
+g3
+(lp404
+sg12
+g13
+sg14
+VCompound
+p405
+sg16
+(lp406
+sg25
+VDMSP
+p407
+sa(dp408
+g3
+(lp409
+sg12
+g13
+sg14
+VCompound
+p410
+sg16
+(lp411
+sg25
+VDMS
+p412
+sa(dp413
+g3
+(lp414
+sg12
+g13
+sg14
+VCompound
+p415
+sg16
+(lp416
+sg25
+VDMSP
+p417
+sa.

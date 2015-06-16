@@ -1,0 +1,805 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVCuring agents
+p6
+aVWater quality indicators
+p7
+aVNitrates
+p8
+aVNitrogen metabolism
+p9
+aVFunctional groups
+p10
+aVchemical compound
+p11
+aVAtom
+p12
+aVMolecular mass
+p13
+aVMass
+p14
+asS'fileName'
+p15
+S'00036#10.1038#ngeo1265'
+p16
+sS'entityType'
+p17
+VCompound
+p18
+sS'sentences'
+p19
+(lp20
+(VAssimilation of upwelled 
+g5
+V by small eukaryotes in the Sargasso Sea
+tp21
+a(VAssimilation of upwelled 
+g6
+V by small eukaryotes in the Sargasso Sea
+tp22
+a(VAssimilation of upwelled 
+g7
+V by small eukaryotes in the Sargasso Sea
+tp23
+a(VAssimilation of upwelled 
+g8
+V by small eukaryotes in the Sargasso Sea
+tp24
+a(VAssimilation of upwelled 
+g9
+V by small eukaryotes in the Sargasso Sea
+tp25
+a(VAssimilation of upwelled 
+g10
+V by small eukaryotes in the Sargasso Sea
+tp26
+a(VAssimilation of upwelled 
+g11
+V by small eukaryotes in the Sargasso Sea
+tp27
+a(VAssimilation of upwelled 
+g12
+V by small eukaryotes in the Sargasso Sea
+tp28
+a(VAssimilation of upwelled 
+g13
+V by small eukaryotes in the Sargasso Sea
+tp29
+a(VAssimilation of upwelled 
+g14
+V by small eukaryotes in the Sargasso Sea
+tp30
+asS'entity'
+p31
+Vnitrate
+p32
+sa(dp33
+g3
+(lp34
+VBermuda Triangle
+p35
+aVRegion
+p36
+asg15
+g16
+sg17
+VLocation
+p37
+sg19
+(lp38
+(VAssimilation of upwelled nitrate by small eukaryotes in the 
+g35
+V
+tp39
+a(VAssimilation of upwelled nitrate by small eukaryotes in the 
+g36
+V
+tp40
+asg31
+VSargasso Sea
+p41
+sa(dp42
+g3
+(lp43
+VChemical element
+p44
+aVChemical substance
+p45
+aVIndustrial gases
+p46
+aVCoolants
+p47
+aVMatter
+p48
+aVChemistry
+p49
+asg15
+g16
+sg17
+VCompound
+p50
+sg19
+(lp51
+(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g44
+V such as nitrate and ammonium.
+tp52
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g45
+V such as nitrate and ammonium.
+tp53
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g46
+V such as nitrate and ammonium.
+tp54
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g47
+V such as nitrate and ammonium.
+tp55
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g48
+V such as nitrate and ammonium.
+tp56
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of 
+g49
+V such as nitrate and ammonium.
+tp57
+asg31
+Vnitrogen
+p58
+sa(dp59
+g3
+(lp60
+Vchemical substance
+p61
+aVCuring agents
+p62
+aVWater quality indicators
+p63
+aVNitrates
+p64
+aVNitrogen metabolism
+p65
+aVFunctional groups
+p66
+aVchemical compound
+p67
+aVAtom
+p68
+aVMolecular mass
+p69
+aVMass
+p70
+asg15
+g16
+sg17
+VCompound
+p71
+sg19
+(lp72
+(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g61
+V and ammonium.
+tp73
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g62
+V and ammonium.
+tp74
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g63
+V and ammonium.
+tp75
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g64
+V and ammonium.
+tp76
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g65
+V and ammonium.
+tp77
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g66
+V and ammonium.
+tp78
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g67
+V and ammonium.
+tp79
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g68
+V and ammonium.
+tp80
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g69
+V and ammonium.
+tp81
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as 
+g70
+V and ammonium.
+tp82
+asg31
+Vnitrate
+p83
+sa(dp84
+g3
+(lp85
+Vchemical substance
+p86
+aVAmmonium compounds
+p87
+aVchemical compound
+p88
+aVCations
+p89
+aVAtom
+p90
+asg15
+g16
+sg17
+VCompound
+p91
+sg19
+(lp92
+(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as nitrate and 
+g86
+V.
+tp93
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as nitrate and 
+g87
+V.
+tp94
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as nitrate and 
+g88
+V.
+tp95
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as nitrate and 
+g89
+V.
+tp96
+a(VPhytoplankton growth is potentially limited by the scarcity of biologically available forms of nitrogen such as nitrate and 
+g90
+V.
+tp97
+asg31
+Vammonium
+p98
+sa(dp99
+g3
+(lp100
+Vchemical substance
+p101
+aVCuring agents
+p102
+aVWater quality indicators
+p103
+aVNitrates
+p104
+aVNitrogen metabolism
+p105
+aVFunctional groups
+p106
+aVchemical compound
+p107
+aVAtom
+p108
+aVMolecular mass
+p109
+aVMass
+p110
+asg15
+g16
+sg17
+VCompound
+p111
+sg19
+(lp112
+(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g101
+V to surface waters.
+tp113
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g102
+V to surface waters.
+tp114
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g103
+V to surface waters.
+tp115
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g104
+V to surface waters.
+tp116
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g105
+V to surface waters.
+tp117
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g106
+V to surface waters.
+tp118
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g107
+V to surface waters.
+tp119
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g108
+V to surface waters.
+tp120
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g109
+V to surface waters.
+tp121
+a(VIn the subtropical ocean gyres, water column stratification impedes the upward flux of 
+g110
+V to surface waters.
+tp122
+asg31
+Vnitrate
+p123
+sa(dp124
+g3
+(lp125
+Vchemical substance
+p126
+aVAmmonium compounds
+p127
+aVchemical compound
+p128
+aVCations
+p129
+aVAtom
+p130
+asg15
+g16
+sg17
+VCompound
+p131
+sg19
+(lp132
+(VPhytoplankton in these waters are assumed to rely largely on 
+g126
+V and other forms of nitrogen recycled during the breakdown of organic matter.
+tp133
+a(VPhytoplankton in these waters are assumed to rely largely on 
+g127
+V and other forms of nitrogen recycled during the breakdown of organic matter.
+tp134
+a(VPhytoplankton in these waters are assumed to rely largely on 
+g128
+V and other forms of nitrogen recycled during the breakdown of organic matter.
+tp135
+a(VPhytoplankton in these waters are assumed to rely largely on 
+g129
+V and other forms of nitrogen recycled during the breakdown of organic matter.
+tp136
+a(VPhytoplankton in these waters are assumed to rely largely on 
+g130
+V and other forms of nitrogen recycled during the breakdown of organic matter.
+tp137
+asg31
+Vammonium
+p138
+sa(dp139
+g3
+(lp140
+VChemical element
+p141
+aVChemical substance
+p142
+aVIndustrial gases
+p143
+aVCoolants
+p144
+aVMatter
+p145
+aVChemistry
+p146
+asg15
+g16
+sg17
+VCompound
+p147
+sg19
+(lp148
+(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g141
+V recycled during the breakdown of organic matter.
+tp149
+a(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g142
+V recycled during the breakdown of organic matter.
+tp150
+a(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g143
+V recycled during the breakdown of organic matter.
+tp151
+a(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g144
+V recycled during the breakdown of organic matter.
+tp152
+a(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g145
+V recycled during the breakdown of organic matter.
+tp153
+a(VPhytoplankton in these waters are assumed to rely largely on ammonium and other forms of 
+g146
+V recycled during the breakdown of organic matter.
+tp154
+asg31
+Vnitrogen
+p155
+sa(dp156
+g3
+(lp157
+VBermuda Triangle
+p158
+aVRegion
+p159
+asg15
+g16
+sg17
+VLocation
+p160
+sg19
+(lp161
+(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from 
+g158
+V surface waters in the summers of 2008 and 2009, and to analyse their respective nitrogen isotope ratios.
+tp162
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from 
+g159
+V surface waters in the summers of 2008 and 2009, and to analyse their respective nitrogen isotope ratios.
+tp163
+asg31
+VSargasso Sea
+p164
+sa(dp165
+g3
+(lp166
+VChemical element
+p167
+aVChemical substance
+p168
+aVIndustrial gases
+p169
+aVCoolants
+p170
+aVMatter
+p171
+aVChemistry
+p172
+asg15
+g16
+sg17
+VCompound
+p173
+sg19
+(lp174
+(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g167
+V isotope ratios.
+tp175
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g168
+V isotope ratios.
+tp176
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g169
+V isotope ratios.
+tp177
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g170
+V isotope ratios.
+tp178
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g171
+V isotope ratios.
+tp179
+a(VHere, we use flow cytometry to separate prokaryotic and eukaryotic phytoplankton collected from Sargasso Sea surface waters in the summers of 2008 and 2009, and to analyse their respective 
+g172
+V isotope ratios.
+tp180
+asg31
+Vnitrogen
+p181
+sa(dp182
+g3
+(lp183
+VChemical element
+p184
+aVChemical substance
+p185
+aVIndustrial gases
+p186
+aVCoolants
+p187
+aVMatter
+p188
+aVChemistry
+p189
+asg15
+g16
+sg17
+VCompound
+p190
+sg19
+(lp191
+(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g184
+V.
+tp192
+a(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g185
+V.
+tp193
+a(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g186
+V.
+tp194
+a(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g187
+V.
+tp195
+a(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g188
+V.
+tp196
+a(VWe show that prokaryotes have a uniformly low ratio of 15N to 14N, delta15N, consistent with their reliance on recycled 
+g189
+V.
+tp197
+asg31
+Vnitrogen
+p198
+sa(dp199
+g3
+(lp200
+Vchemical substance
+p201
+aVCuring agents
+p202
+aVWater quality indicators
+p203
+aVNitrates
+p204
+aVNitrogen metabolism
+p205
+aVFunctional groups
+p206
+aVchemical compound
+p207
+aVAtom
+p208
+aVMolecular mass
+p209
+aVMass
+p210
+asg15
+g16
+sg17
+VCompound
+p211
+sg19
+(lp212
+(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g201
+V in underlying Subtropical Mode Water.
+tp213
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g202
+V in underlying Subtropical Mode Water.
+tp214
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g203
+V in underlying Subtropical Mode Water.
+tp215
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g204
+V in underlying Subtropical Mode Water.
+tp216
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g205
+V in underlying Subtropical Mode Water.
+tp217
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g206
+V in underlying Subtropical Mode Water.
+tp218
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g207
+V in underlying Subtropical Mode Water.
+tp219
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g208
+V in underlying Subtropical Mode Water.
+tp220
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g209
+V in underlying Subtropical Mode Water.
+tp221
+a(VIn contrast, small eukaryotic phytoplankton, less than 30 mum in size, have a higher and more variable delta15N, with a mean value similar to that of 
+g210
+V in underlying Subtropical Mode Water.
+tp222
+asg31
+Vnitrate
+p223
+sa(dp224
+g3
+(lp225
+VBermuda Triangle
+p226
+aVRegion
+p227
+asg15
+g16
+sg17
+VLocation
+p228
+sg19
+(lp229
+(VFor the summertime 
+g226
+V, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled nitrate.
+tp230
+a(VFor the summertime 
+g227
+V, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled nitrate.
+tp231
+asg31
+VSargasso Sea
+p232
+sa(dp233
+g3
+(lp234
+VChemical element
+p235
+aVChemical substance
+p236
+aVIndustrial gases
+p237
+aVCoolants
+p238
+aVMatter
+p239
+aVChemistry
+p240
+asg15
+g16
+sg17
+VCompound
+p241
+sg19
+(lp242
+(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g235
+V from upwelled nitrate.
+tp243
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g236
+V from upwelled nitrate.
+tp244
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g237
+V from upwelled nitrate.
+tp245
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g238
+V from upwelled nitrate.
+tp246
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g239
+V from upwelled nitrate.
+tp247
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their 
+g240
+V from upwelled nitrate.
+tp248
+asg31
+Vnitrogen
+p249
+sa(dp250
+g3
+(lp251
+Vchemical substance
+p252
+aVCuring agents
+p253
+aVWater quality indicators
+p254
+aVNitrates
+p255
+aVNitrogen metabolism
+p256
+aVFunctional groups
+p257
+aVchemical compound
+p258
+aVAtom
+p259
+aVMolecular mass
+p260
+aVMass
+p261
+asg15
+g16
+sg17
+VCompound
+p262
+sg19
+(lp263
+(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g252
+V.
+tp264
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g253
+V.
+tp265
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g254
+V.
+tp266
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g255
+V.
+tp267
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g256
+V.
+tp268
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g257
+V.
+tp269
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g258
+V.
+tp270
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g259
+V.
+tp271
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g260
+V.
+tp272
+a(VFor the summertime Sargasso Sea, we estimate that small eukaryotes obtain more than half of their nitrogen from upwelled 
+g261
+V.
+tp273
+asg31
+Vnitrate
+p274
+sa(dp275
+g3
+(lp276
+sg15
+g16
+sg17
+VCompound
+p277
+sg19
+(lp278
+sg31
+V15N
+p279
+sa(dp280
+g3
+(lp281
+sg15
+g16
+sg17
+VCompound
+p282
+sg19
+(lp283
+sg31
+V14N
+p284
+sa.

@@ -1,0 +1,121 @@
+(lp1
+(dp2
+S'generalizedLabel'
+p3
+VSystem
+p4
+sS'term'
+p5
+VNorth Atlantic Gyre
+p6
+sS'generalizedURI'
+p7
+Vhttp://wibitaxonomy.org/System
+p8
+sS'generalizedFreq'
+p9
+I33360
+sS'subjectURI'
+p10
+Vhttp://wibitaxonomy.org/North_Atlantic_Gyre
+p11
+sS'inputType'
+p12
+VLocation
+p13
+sS'generalizedLemma'
+p14
+Vsystem
+p15
+sa(dp16
+g3
+VAtlantic Ocean
+p17
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Atlantic_Ocean
+p18
+sg9
+I2010
+sg10
+Vhttp://dbpedia.org/resource/North_Atlantic_Gyre
+p19
+sg12
+g13
+sg14
+VAtlantic ocean
+p20
+sa(dp21
+g3
+VPhysical oceanography
+p22
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Physical_oceanography
+p23
+sg9
+I115
+sg10
+g19
+sg12
+g13
+sg14
+VPhysical oceanography
+p24
+sa(dp25
+g3
+VOcean gyre
+p26
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Ocean_gyre
+p27
+sg9
+I93
+sg10
+g11
+sg12
+g13
+sg14
+VOcean gyre
+p28
+sa(dp29
+g3
+VOceanic gyres
+p30
+sg5
+g6
+sg7
+Vhttp://dbpedia.org/resource/Category:Oceanic_gyres
+p31
+sg9
+I18
+sg10
+g19
+sg12
+g13
+sg14
+VOceanic gyre
+p32
+sa(dp33
+g3
+VInteracting galaxy
+p34
+sg5
+g6
+sg7
+Vhttp://wibitaxonomy.org/Interacting_galaxy
+p35
+sg9
+I0
+sg10
+g11
+sg12
+g13
+sg14
+VInteracting galaxy
+p36
+sa.

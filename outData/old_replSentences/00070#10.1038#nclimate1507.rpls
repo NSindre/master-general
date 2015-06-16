@@ -1,0 +1,263 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00070#10.1038#nclimate1507'
+p6
+sS'entityType'
+p7
+VCompound
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VCO2
+p12
+sa(dp13
+g3
+(lp14
+Vchemical substance
+p15
+aVCoolants
+p16
+aVAtmosphere
+p17
+aVRefrigerants
+p18
+aVAir pollution
+p19
+aVClimate change
+p20
+aVHousehold chemicals
+p21
+aVGreenhouse gases
+p22
+aVInorganic carbon compounds
+p23
+aVOxides
+p24
+aVMatter
+p25
+aVchemical compound
+p26
+aVPropellants
+p27
+asg5
+g6
+sg7
+VCompound
+p28
+sg9
+(lp29
+(V
+g15
+V and light are two major prerequisites of photosynthesis.
+tp30
+a(V
+g16
+V and light are two major prerequisites of photosynthesis.
+tp31
+a(V
+g17
+V and light are two major prerequisites of photosynthesis.
+tp32
+a(V
+g18
+V and light are two major prerequisites of photosynthesis.
+tp33
+a(V
+g19
+V and light are two major prerequisites of photosynthesis.
+tp34
+a(V
+g20
+V and light are two major prerequisites of photosynthesis.
+tp35
+a(V
+g21
+V and light are two major prerequisites of photosynthesis.
+tp36
+a(V
+g22
+V and light are two major prerequisites of photosynthesis.
+tp37
+a(V
+g23
+V and light are two major prerequisites of photosynthesis.
+tp38
+a(V
+g24
+V and light are two major prerequisites of photosynthesis.
+tp39
+a(V
+g25
+V and light are two major prerequisites of photosynthesis.
+tp40
+a(V
+g26
+V and light are two major prerequisites of photosynthesis.
+tp41
+a(V
+g27
+V and light are two major prerequisites of photosynthesis.
+tp42
+asg11
+VCarbon dioxide
+p43
+sa(dp44
+g3
+(lp45
+sg5
+g6
+sg7
+VCompound
+p46
+sg9
+(lp47
+sg11
+VCO2
+p48
+sa(dp49
+g3
+(lp50
+sg5
+g6
+sg7
+VCompound
+p51
+sg9
+(lp52
+sg11
+VCO2
+p53
+sa(dp54
+g3
+(lp55
+sg5
+g6
+sg7
+VCompound
+p56
+sg9
+(lp57
+sg11
+VCO2
+p58
+sa(dp59
+g3
+(lp60
+VMarginal sea
+p61
+aVSea
+p62
+aVBody of water
+p63
+asg5
+g6
+sg7
+VLocation
+p64
+sg9
+(lp65
+(VWhen exposed to CO2 concentrations projected for the end of this century, natural phytoplankton assemblages of the 
+g61
+V responded with decreased primary production and increased light stress at light intensities representative of the upper surface layer.
+tp66
+a(VWhen exposed to CO2 concentrations projected for the end of this century, natural phytoplankton assemblages of the 
+g62
+V responded with decreased primary production and increased light stress at light intensities representative of the upper surface layer.
+tp67
+a(VWhen exposed to CO2 concentrations projected for the end of this century, natural phytoplankton assemblages of the 
+g63
+V responded with decreased primary production and increased light stress at light intensities representative of the upper surface layer.
+tp68
+asg11
+VSouth China Sea
+p69
+sa(dp70
+g3
+(lp71
+sg5
+g6
+sg7
+VCompound
+p72
+sg9
+(lp73
+sg11
+VCO2
+p74
+sa(dp75
+g3
+(lp76
+sg5
+g6
+sg7
+VCompound
+p77
+sg9
+(lp78
+sg11
+VCO2
+p79
+sa(dp80
+g3
+(lp81
+VChemical element
+p82
+aVChemical substance
+p83
+aVCarbon forms
+p84
+aVMatter
+p85
+aVReducing agents
+p86
+aVCarbonate minerals
+p87
+aVChemistry
+p88
+asg5
+g6
+sg7
+VCompound
+p89
+sg9
+(lp90
+(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g82
+V export in the ocean.
+tp91
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g83
+V export in the ocean.
+tp92
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g84
+V export in the ocean.
+tp93
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g85
+V export in the ocean.
+tp94
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g86
+V export in the ocean.
+tp95
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g87
+V export in the ocean.
+tp96
+a(VIn combination with rising CO2 levels, this may cause a widespread decline in marine primary production and a community shift away from diatoms, the main algal group that supports higher trophic levels and 
+g88
+V export in the ocean.
+tp97
+asg11
+Vcarbon
+p98
+sa.

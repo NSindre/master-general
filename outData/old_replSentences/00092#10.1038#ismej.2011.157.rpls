@@ -1,0 +1,318 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00092#10.1038#ismej.2011.157'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g5
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp18
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g6
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp19
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g7
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp20
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g8
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp21
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g9
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp22
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g10
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp23
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic 
+g11
+V in the biosphere and constitutes an important driver of atmospheric carbon dioxide (CO2) emissions from freshwaters.
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+Vchemical substance
+p29
+aVCoolants
+p30
+aVAtmosphere
+p31
+aVRefrigerants
+p32
+aVAir pollution
+p33
+aVClimate change
+p34
+aVHousehold chemicals
+p35
+aVGreenhouse gases
+p36
+aVInorganic carbon compounds
+p37
+aVOxides
+p38
+aVMatter
+p39
+aVchemical compound
+p40
+aVPropellants
+p41
+asg12
+g13
+sg14
+VCompound
+p42
+sg16
+(lp43
+(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g29
+V (CO2) emissions from freshwaters.
+tp44
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g30
+V (CO2) emissions from freshwaters.
+tp45
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g31
+V (CO2) emissions from freshwaters.
+tp46
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g32
+V (CO2) emissions from freshwaters.
+tp47
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g33
+V (CO2) emissions from freshwaters.
+tp48
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g34
+V (CO2) emissions from freshwaters.
+tp49
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g35
+V (CO2) emissions from freshwaters.
+tp50
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g36
+V (CO2) emissions from freshwaters.
+tp51
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g37
+V (CO2) emissions from freshwaters.
+tp52
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g38
+V (CO2) emissions from freshwaters.
+tp53
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g39
+V (CO2) emissions from freshwaters.
+tp54
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g40
+V (CO2) emissions from freshwaters.
+tp55
+a(VBacterioplankton respiration (BR) may represent the largest single sink of organic carbon in the biosphere and constitutes an important driver of atmospheric 
+g41
+V (CO2) emissions from freshwaters.
+tp56
+asg25
+Vcarbon dioxide
+p57
+sa(dp58
+g3
+(lp59
+sg12
+g13
+sg14
+VCompound
+p60
+sg16
+(lp61
+sg25
+VCO2
+p62
+sa(dp63
+g3
+(lp64
+sg12
+g13
+sg14
+VCompound
+p65
+sg16
+(lp66
+sg25
+VCO2
+p67
+sa(dp68
+g3
+(lp69
+sg12
+g13
+sg14
+VCompound
+p70
+sg16
+(lp71
+sg25
+VO2
+p72
+sa(dp73
+g3
+(lp74
+VEastern Canada
+p75
+asg12
+g13
+sg14
+VLocation
+p76
+sg16
+(lp77
+(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in 
+g75
+V (Canada), using O2 and CO2 optic sensors.
+tp78
+asg25
+VQuebec
+p79
+sa(dp80
+g3
+(lp81
+Vpopulated place
+p82
+aVCountries
+p83
+aVcountry
+p84
+aVFormer British colonies
+p85
+aVG8 nations
+p86
+aVplace
+p87
+aVCountries in North America
+p88
+aVG20 nations
+p89
+aVLiberal democracies
+p90
+asg12
+g13
+sg14
+VLocation
+p91
+sg16
+(lp92
+(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g82
+V), using O2 and CO2 optic sensors.
+tp93
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g83
+V), using O2 and CO2 optic sensors.
+tp94
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g84
+V), using O2 and CO2 optic sensors.
+tp95
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g85
+V), using O2 and CO2 optic sensors.
+tp96
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g86
+V), using O2 and CO2 optic sensors.
+tp97
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g87
+V), using O2 and CO2 optic sensors.
+tp98
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g88
+V), using O2 and CO2 optic sensors.
+tp99
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g89
+V), using O2 and CO2 optic sensors.
+tp100
+a(VHere we present 72 direct measurements of bacterioplankton RQ that we carried out in epilimnetic samples of 52 freshwater sites in Quebec (
+g90
+V), using O2 and CO2 optic sensors.
+tp101
+asg25
+VCanada
+p102
+sa(dp103
+g3
+(lp104
+sg12
+g13
+sg14
+VCompound
+p105
+sg16
+(lp106
+sg25
+VO2
+p107
+sa(dp108
+g3
+(lp109
+sg12
+g13
+sg14
+VCompound
+p110
+sg16
+(lp111
+sg25
+VCO2
+p112
+sa(dp113
+g3
+(lp114
+sg12
+g13
+sg14
+VCompound
+p115
+sg16
+(lp116
+sg25
+VCO2
+p117
+sa.

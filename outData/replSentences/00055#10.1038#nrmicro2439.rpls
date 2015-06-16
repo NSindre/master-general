@@ -1,0 +1,239 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVCoolants
+p6
+aVAtmosphere
+p7
+aVRefrigerants
+p8
+aVAir pollution
+p9
+aVClimate change
+p10
+aVHousehold chemicals
+p11
+aVGreenhouse gases
+p12
+aVInorganic carbon compounds
+p13
+aVOxides
+p14
+aVMatter
+p15
+aVchemical compound
+p16
+aVPropellants
+p17
+asS'fileName'
+p18
+S'00055#10.1038#nrmicro2439'
+p19
+sS'entityType'
+p20
+VCompound
+p21
+sS'sentences'
+p22
+(lp23
+(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g5
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp24
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g6
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp25
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g7
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp26
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g8
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp27
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g9
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp28
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g10
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp29
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g11
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp30
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g12
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp31
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g13
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp32
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g14
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp33
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g15
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp34
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g16
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp35
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (
+g17
+V, methane and nitrous oxide) and are likely to respond rapidly to climate change.
+tp36
+asS'entity'
+p37
+Vcarbon dioxide
+p38
+sa(dp39
+g3
+(lp40
+Vchemical substance
+p41
+aVAtmosphere
+p42
+aVAir pollution
+p43
+aVIndustrial gases
+p44
+aVFuel gas
+p45
+aVGreenhouse gases
+p46
+aVFuels
+p47
+aVMatter
+p48
+aVAlkanes
+p49
+aVchemical compound
+p50
+aVAnaerobic digestion
+p51
+asg18
+g19
+sg20
+VCompound
+p52
+sg22
+(lp53
+(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g41
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp54
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g42
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp55
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g43
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp56
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g44
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp57
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g45
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp58
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g46
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp59
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g47
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp60
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g48
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp61
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g49
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp62
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g50
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp63
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, 
+g51
+V and nitrous oxide) and are likely to respond rapidly to climate change.
+tp64
+asg37
+Vmethane
+p65
+sa(dp66
+g3
+(lp67
+Vchemical substance
+p68
+aVIndustrial gases
+p69
+aVInhalants
+p70
+aVchemical compound
+p71
+aVGreenhouse gases
+p72
+aVAerosol propellants
+p73
+aVMatter
+p74
+aVInorganic nitrogen compounds
+p75
+asg18
+g19
+sg20
+VCompound
+p76
+sg22
+(lp77
+(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g68
+V) and are likely to respond rapidly to climate change.
+tp78
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g69
+V) and are likely to respond rapidly to climate change.
+tp79
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g70
+V) and are likely to respond rapidly to climate change.
+tp80
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g71
+V) and are likely to respond rapidly to climate change.
+tp81
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g72
+V) and are likely to respond rapidly to climate change.
+tp82
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g73
+V) and are likely to respond rapidly to climate change.
+tp83
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g74
+V) and are likely to respond rapidly to climate change.
+tp84
+a(VMicrobial processes have a central role in the global fluxes of the key biogenic greenhouse gases (carbon dioxide, methane and 
+g75
+V) and are likely to respond rapidly to climate change.
+tp85
+asg37
+Vnitrous oxide
+p86
+sa.

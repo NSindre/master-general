@@ -1,0 +1,228 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00074#10.1038#nclimate1989'
+p6
+sS'entityType'
+p7
+VCompound
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VCO2
+p12
+sa(dp13
+g3
+(lp14
+VChemical element
+p15
+aVChemical substance
+p16
+aVIndustrial gases
+p17
+aVCoolants
+p18
+aVMatter
+p19
+aVChemistry
+p20
+asg5
+g6
+sg7
+VCompound
+p21
+sg9
+(lp22
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g15
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp23
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g16
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp24
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g17
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp25
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g18
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp26
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g19
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp27
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal 
+g20
+V (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp28
+asg11
+Vnitrogen
+p29
+sa(dp30
+g3
+(lp31
+VGrapheme
+p32
+asg5
+g6
+sg7
+VCompound
+p33
+sg9
+(lp34
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (
+g32
+V) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp35
+asg11
+VN
+sa(dp36
+g3
+(lp37
+Vchemical substance
+p38
+aVchemical compound
+p39
+aVPhosphates
+p40
+aVIonic compound
+p41
+aVFunctional groups
+p42
+aVOrganophosphates
+p43
+asg5
+g6
+sg7
+VCompound
+p44
+sg9
+(lp45
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g38
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp46
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g39
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp47
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g40
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp48
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g41
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp49
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g42
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp50
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to 
+g43
+V (P) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp51
+asg11
+Vphosphate
+p52
+sa(dp53
+g3
+(lp54
+VGrapheme
+p55
+asg5
+g6
+sg7
+VCompound
+p56
+sg9
+(lp57
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (
+g55
+V) ratios, in turn increasing demand for N with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp58
+asg11
+VP
+sa(dp59
+g3
+(lp60
+VGrapheme
+p61
+asg5
+g6
+sg7
+VCompound
+p62
+sg9
+(lp63
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for 
+g61
+V with consequences for the marine carbon cycle due to shifts towards N-limitation.
+tp64
+asg11
+VN
+sa(dp65
+g3
+(lp66
+VChemical element
+p67
+aVChemical substance
+p68
+aVCarbon forms
+p69
+aVMatter
+p70
+aVReducing agents
+p71
+aVCarbonate minerals
+p72
+aVChemistry
+p73
+asg5
+g6
+sg7
+VCompound
+p74
+sg9
+(lp75
+(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g67
+V cycle due to shifts towards N-limitation.
+tp76
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g68
+V cycle due to shifts towards N-limitation.
+tp77
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g69
+V cycle due to shifts towards N-limitation.
+tp78
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g70
+V cycle due to shifts towards N-limitation.
+tp79
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g71
+V cycle due to shifts towards N-limitation.
+tp80
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g72
+V cycle due to shifts towards N-limitation.
+tp81
+a(VThe reduction of phosphate-rich ribosomes in warmer oceans will tend to produce higher organismal nitrogen (N) to phosphate (P) ratios, in turn increasing demand for N with consequences for the marine 
+g73
+V cycle due to shifts towards N-limitation.
+tp82
+asg11
+Vcarbon
+p83
+sa.

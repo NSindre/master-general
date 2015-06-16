@@ -1,0 +1,528 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00035#10.1038#ismej.2008.125'
+p6
+sS'entityType'
+p7
+VSpecies
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VPhaeocystis pouchetii
+p12
+sa(dp13
+g3
+(lp14
+VGrapheme
+p15
+asg5
+g6
+sg7
+VCompound
+p16
+sg9
+(lp17
+(VViral lysis of Phaeocystis pouchetii: Implications for algal population dynamics and heterotrophic 
+g15
+V, N and P cycling
+tp18
+asg11
+VC
+sa(dp19
+g3
+(lp20
+VGrapheme
+p21
+asg5
+g6
+sg7
+VCompound
+p22
+sg9
+(lp23
+(VViral lysis of Phaeocystis pouchetii: Implications for algal population dynamics and heterotrophic C, 
+g21
+V and P cycling
+tp24
+asg11
+VN
+sa(dp25
+g3
+(lp26
+VGrapheme
+p27
+asg5
+g6
+sg7
+VCompound
+p28
+sg9
+(lp29
+(VViral lysis of Phaeocystis pouchetii: Implications for algal population dynamics and heterotrophic C, N and 
+g27
+V cycling
+tp30
+asg11
+VP
+sa(dp31
+g3
+(lp32
+sg5
+g6
+sg7
+VSpecies
+p33
+sg9
+(lp34
+sg11
+VPhaeocystis pouchetii
+p35
+sa(dp36
+g3
+(lp37
+sg5
+g6
+sg7
+VSpecies
+p38
+sg9
+(lp39
+sg11
+VRhodomonas salina
+p40
+sa(dp41
+g3
+(lp42
+sg5
+g6
+sg7
+VSpecies
+p43
+sg9
+(lp44
+sg11
+VP. pouchetii
+p45
+sa(dp46
+g3
+(lp47
+VChemical element
+p48
+aVChemical substance
+p49
+aVIndustrial gases
+p50
+aVCoolants
+p51
+aVMatter
+p52
+aVChemistry
+p53
+asg5
+g6
+sg7
+VCompound
+p54
+sg9
+(lp55
+(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g48
+V and phosphorus mineralization.
+tp56
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g49
+V and phosphorus mineralization.
+tp57
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g50
+V and phosphorus mineralization.
+tp58
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g51
+V and phosphorus mineralization.
+tp59
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g52
+V and phosphorus mineralization.
+tp60
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic 
+g53
+V and phosphorus mineralization.
+tp61
+asg11
+Vnitrogen
+p62
+sa(dp63
+g3
+(lp64
+VChemical element
+p65
+aVChemical substance
+p66
+aVMatter
+p67
+aVChemistry
+p68
+asg5
+g6
+sg7
+VCompound
+p69
+sg9
+(lp70
+(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic nitrogen and 
+g65
+V mineralization.
+tp71
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic nitrogen and 
+g66
+V mineralization.
+tp72
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic nitrogen and 
+g67
+V mineralization.
+tp73
+a(VA model ecosystem with two autotrophic flagellates, Phaeocystis pouchetii and Rhodomonas salina, a virus specific to P. pouchetii (PpV) and bacteria and heterotrophic nanoflagellates was used to investigate effects of viral lysis on algal population dynamics and heterotrophic nitrogen and 
+g68
+V mineralization.
+tp74
+asg11
+Vphosphorus
+p75
+sa(dp76
+g3
+(lp77
+sg5
+g6
+sg7
+VSpecies
+p78
+sg9
+(lp79
+sg11
+VP. pouchetii
+p80
+sa(dp81
+g3
+(lp82
+VGrapheme
+p83
+asg5
+g6
+sg7
+VCompound
+p84
+sg9
+(lp85
+(VLysis of P. pouchetii by PpV had strong positive effects on bacterial and HNF abundance, and the mass balance of 
+g83
+V, N and P suggested an efficient transfer of organic material from P. pouchetii to bacterial and HNF biomass through viral lysis.
+tp86
+asg11
+VC
+sa(dp87
+g3
+(lp88
+VGrapheme
+p89
+asg5
+g6
+sg7
+VCompound
+p90
+sg9
+(lp91
+(VLysis of P. pouchetii by PpV had strong positive effects on bacterial and HNF abundance, and the mass balance of C, 
+g89
+V and P suggested an efficient transfer of organic material from P. pouchetii to bacterial and HNF biomass through viral lysis.
+tp92
+asg11
+VN
+sa(dp93
+g3
+(lp94
+VGrapheme
+p95
+asg5
+g6
+sg7
+VCompound
+p96
+sg9
+(lp97
+(VLysis of P. pouchetii by PpV had strong positive effects on bacterial and HNF abundance, and the mass balance of C, N and 
+g95
+V suggested an efficient transfer of organic material from P. pouchetii to bacterial and HNF biomass through viral lysis.
+tp98
+asg11
+VP
+sa(dp99
+g3
+(lp100
+sg5
+g6
+sg7
+VSpecies
+p101
+sg9
+(lp102
+sg11
+VP. pouchetii
+p103
+sa(dp104
+g3
+(lp105
+sg5
+g6
+sg7
+VSpecies
+p106
+sg9
+(lp107
+sg11
+VP. pouchetii
+p108
+sa(dp109
+g3
+(lp110
+VGrapheme
+p111
+asg5
+g6
+sg7
+VCompound
+p112
+sg9
+(lp113
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic 
+g111
+V and P resulting in 148 mug N l-1 and 7 mug P l-1, corresponding to 78% and 26% of lysate N and P being mineralized to NH4+ and PO43-, respectively.
+tp114
+asg11
+VN
+sa(dp115
+g3
+(lp116
+VGrapheme
+p117
+asg5
+g6
+sg7
+VCompound
+p118
+sg9
+(lp119
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic N and 
+g117
+V resulting in 148 mug N l-1 and 7 mug P l-1, corresponding to 78% and 26% of lysate N and P being mineralized to NH4+ and PO43-, respectively.
+tp120
+asg11
+VP
+sa(dp121
+g3
+(lp122
+VGrapheme
+p123
+asg5
+g6
+sg7
+VCompound
+p124
+sg9
+(lp125
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic N and P resulting in 148 mug N l-1 and 7 mug P l-1, corresponding to 78% and 26% of lysate 
+g123
+V and P being mineralized to NH4+ and PO43-, respectively.
+tp126
+asg11
+VN
+sa(dp127
+g3
+(lp128
+VGrapheme
+p129
+asg5
+g6
+sg7
+VCompound
+p130
+sg9
+(lp131
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic N and P resulting in 148 mug N l-1 and 7 mug P l-1, corresponding to 78% and 26% of lysate N and 
+g129
+V being mineralized to NH4+ and PO43-, respectively.
+tp132
+asg11
+VP
+sa(dp133
+g3
+(lp134
+sg5
+g6
+sg7
+VCompound
+p135
+sg9
+(lp136
+sg11
+VNH4+
+p137
+sa(dp138
+g3
+(lp139
+sg5
+g6
+sg7
+VCompound
+p140
+sg9
+(lp141
+sg11
+VPO43-
+p142
+sa(dp143
+g3
+(lp144
+VGrapheme
+p145
+asg5
+g6
+sg7
+VCompound
+p146
+sg9
+(lp147
+(VThese results showed that the turnover of viral lysates in the microbial food web was associated with significant 
+g145
+V and P mineralization, supporting the current view that viral lysates can be an important source of inorganic nutrients in marine systems.
+tp148
+asg11
+VN
+sa(dp149
+g3
+(lp150
+VGrapheme
+p151
+asg5
+g6
+sg7
+VCompound
+p152
+sg9
+(lp153
+(VThese results showed that the turnover of viral lysates in the microbial food web was associated with significant N and 
+g151
+V mineralization, supporting the current view that viral lysates can be an important source of inorganic nutrients in marine systems.
+tp154
+asg11
+VP
+sa(dp155
+g3
+(lp156
+sg5
+g6
+sg7
+VSpecies
+p157
+sg9
+(lp158
+sg11
+VR. salina
+p159
+sa(dp160
+g3
+(lp161
+sg5
+g6
+sg7
+VCompound
+p162
+sg9
+(lp163
+sg11
+VNH4+
+p164
+sa(dp165
+g3
+(lp166
+sg5
+g6
+sg7
+VSpecies
+p167
+sg9
+(lp168
+sg11
+VR. salina
+p169
+sa(dp170
+g3
+(lp171
+sg5
+g6
+sg7
+VSpecies
+p172
+sg9
+(lp173
+sg11
+VP. pouchetii
+p174
+sa(dp175
+g3
+(lp176
+sg5
+g6
+sg7
+VSpecies
+p177
+sg9
+(lp178
+sg11
+VR. salina
+p179
+sa(dp180
+g3
+(lp181
+VGrapheme
+p182
+asg5
+g6
+sg7
+VCompound
+p183
+sg9
+(lp184
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic N and P resulting in 148 mug 
+g182
+V l-1 and 7 mug P l-1, corresponding to 78% and 26% of lysate N and P being mineralized to NH4+ and PO43-, respectively.
+tp185
+asg11
+VN
+sa(dp186
+g3
+(lp187
+VGrapheme
+p188
+asg5
+g6
+sg7
+VCompound
+p189
+sg9
+(lp190
+(VAt the same time, the degradation of P. pouchetii lysates was associated with significant regeneration of inorganic N and P resulting in 148 mug N l-1 and 7 mug 
+g188
+V l-1, corresponding to 78% and 26% of lysate N and P being mineralized to NH4+ and PO43-, respectively.
+tp191
+asg11
+VP
+sa.

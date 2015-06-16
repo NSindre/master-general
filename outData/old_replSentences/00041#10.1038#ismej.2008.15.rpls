@@ -1,0 +1,264 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVchemical compound
+p6
+aVPhosphates
+p7
+aVIonic compound
+p8
+aVFunctional groups
+p9
+aVOrganophosphates
+p10
+asS'fileName'
+p11
+S'00041#10.1038#ismej.2008.15'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VExperiments were performed during periods of severe 
+g5
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp17
+a(VExperiments were performed during periods of severe 
+g6
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp18
+a(VExperiments were performed during periods of severe 
+g7
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp19
+a(VExperiments were performed during periods of severe 
+g8
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp20
+a(VExperiments were performed during periods of severe 
+g9
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp21
+a(VExperiments were performed during periods of severe 
+g10
+V (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, France).
+tp22
+asS'entity'
+p23
+Vphosphate
+p24
+sa(dp25
+g3
+(lp26
+sg11
+g12
+sg13
+VLocation
+p27
+sg15
+(lp28
+sg23
+VSep Reservoir
+p29
+sa(dp30
+g3
+(lp31
+VMountain ranges
+p32
+aVmountain range
+p33
+aVAdministrative division
+p34
+aVRegions of France
+p35
+aVPhysiographic provinces
+p36
+aVplace
+p37
+aVnatural place
+p38
+asg11
+g12
+sg13
+VLocation
+p39
+sg15
+(lp40
+(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g32
+V, France).
+tp41
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g33
+V, France).
+tp42
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g34
+V, France).
+tp43
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g35
+V, France).
+tp44
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g36
+V, France).
+tp45
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g37
+V, France).
+tp46
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (
+g38
+V, France).
+tp47
+asg23
+VMassif Central
+p48
+sa(dp49
+g3
+(lp50
+VMember states of the European Union
+p51
+aVpopulated place
+p52
+aVGovernment
+p53
+aVcountry
+p54
+aVCountries in Europe
+p55
+aVRepublics
+p56
+aVG8 nations
+p57
+aVplace
+p58
+aVForms of government
+p59
+aVWestern Europe
+p60
+aVG20 nations
+p61
+aVLiberal democracies
+p62
+asg11
+g12
+sg13
+VLocation
+p63
+sg15
+(lp64
+(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g51
+V).
+tp65
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g52
+V).
+tp66
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g53
+V).
+tp67
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g54
+V).
+tp68
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g55
+V).
+tp69
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g56
+V).
+tp70
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g57
+V).
+tp71
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g58
+V).
+tp72
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g59
+V).
+tp73
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g60
+V).
+tp74
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g61
+V).
+tp75
+a(VExperiments were performed during periods of severe phosphate (P)-limiting conditions in the oligotrophic Sep Reservoir (Massif Central, 
+g62
+V).
+tp76
+asg23
+VFrance
+p77
+sa(dp78
+g3
+(lp79
+VGrapheme
+p80
+asg11
+g12
+sg13
+VCompound
+p81
+sg15
+(lp82
+(VAddition of 
+g80
+V led to the most pronounced increase in prokaryotic abundance, production and growth efficiency, thus providing direct evidence of P limitation of prokaryotes.
+tp83
+asg23
+VP
+sa(dp84
+g3
+(lp85
+VGrapheme
+p86
+asg11
+g12
+sg13
+VCompound
+p87
+sg15
+(lp88
+(VAddition of P led to the most pronounced increase in prokaryotic abundance, production and growth efficiency, thus providing direct evidence of 
+g86
+V limitation of prokaryotes.
+tp89
+asg23
+VP
+sa(dp90
+g3
+(lp91
+VGrapheme
+p92
+asg11
+g12
+sg13
+VCompound
+p93
+sg15
+(lp94
+(VEnhanced prokaryotic activity in 
+g92
+V treatments also stimulated viral abundance and viral-induced lyses of prokaryotes.
+tp95
+asg23
+VP
+sa.

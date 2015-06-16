@@ -1,0 +1,211 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VRegion
+p5
+aVPhysical geography
+p6
+asS'fileName'
+p7
+S'00003#10.1038#ngeo1910'
+p8
+sS'entityType'
+p9
+VLocation
+p10
+sS'sentences'
+p11
+(lp12
+(VImpact of 
+g5
+V meltdown on the microbial cycling of sulphur
+tp13
+a(VImpact of 
+g6
+V meltdown on the microbial cycling of sulphur
+tp14
+asS'entity'
+p15
+VArctic
+p16
+sa(dp17
+g3
+(lp18
+sg7
+g8
+sg9
+VCompound
+p19
+sg11
+(lp20
+sg15
+Vsulphur
+p21
+sa(dp22
+g3
+(lp23
+VRegion
+p24
+aVPhysical geography
+p25
+asg7
+g8
+sg9
+VLocation
+p26
+sg11
+(lp27
+(VThe 
+g24
+V is warming faster than any other region in the world.
+tp28
+a(VThe 
+g25
+V is warming faster than any other region in the world.
+tp29
+asg15
+VArctic
+p30
+sa(dp31
+g3
+(lp32
+sg7
+g8
+sg9
+VCompound
+p33
+sg11
+(lp34
+sg15
+Vdimethylsulphide
+p35
+sa(dp36
+g3
+(lp37
+VRegion
+p38
+aVPhysical geography
+p39
+asg7
+g8
+sg9
+VLocation
+p40
+sg11
+(lp41
+(VDuring the spring melt period, conditions at the margin of 
+g38
+V sea ice favour the growth of these organisms.
+tp42
+a(VDuring the spring melt period, conditions at the margin of 
+g39
+V sea ice favour the growth of these organisms.
+tp43
+asg15
+VArctic
+p44
+sa(dp45
+g3
+(lp46
+sg7
+g8
+sg9
+VCompound
+p47
+sg11
+(lp48
+sg15
+Vdimethylsulphide
+p49
+sa(dp50
+g3
+(lp51
+sg7
+g8
+sg9
+VCompound
+p52
+sg11
+(lp53
+sg15
+Vdimethylsulphide
+p54
+sa(dp55
+g3
+(lp56
+sg7
+g8
+sg9
+VCompound
+p57
+sg11
+(lp58
+sg15
+Vdimethylsulphide
+p59
+sa(dp60
+g3
+(lp61
+VRegion
+p62
+aVPhysical geography
+p63
+asg7
+g8
+sg9
+VLocation
+p64
+sg11
+(lp65
+(VPreliminary observations, together with model results, suggest that the production and emission of dimethylsulphide will increase in the 
+g62
+V as seasonal sea-ice cover recedes.
+tp66
+a(VPreliminary observations, together with model results, suggest that the production and emission of dimethylsulphide will increase in the 
+g63
+V as seasonal sea-ice cover recedes.
+tp67
+asg15
+VArctic
+p68
+sa(dp69
+g3
+(lp70
+sg7
+g8
+sg9
+VCompound
+p71
+sg11
+(lp72
+sg15
+Vdimethylsulphide
+p73
+sa(dp74
+g3
+(lp75
+VRegion
+p76
+aVPhysical geography
+p77
+asg7
+g8
+sg9
+VLocation
+p78
+sg11
+(lp79
+(VIf it escapes to the atmosphere, this newly generated dimethylsulphide could potentially cool the 
+g76
+V climate.
+tp80
+a(VIf it escapes to the atmosphere, this newly generated dimethylsulphide could potentially cool the 
+g77
+V climate.
+tp81
+asg15
+VArctic
+p82
+sa.

@@ -1,0 +1,265 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+Vchemical substance
+p5
+aVCoolants
+p6
+aVAtmosphere
+p7
+aVRefrigerants
+p8
+aVAir pollution
+p9
+aVClimate change
+p10
+aVHousehold chemicals
+p11
+aVGreenhouse gases
+p12
+aVInorganic carbon compounds
+p13
+aVOxides
+p14
+aVMatter
+p15
+aVchemical compound
+p16
+aVPropellants
+p17
+asS'fileName'
+p18
+S'00010#10.1038#ngeo1916'
+p19
+sS'entityType'
+p20
+VCompound
+p21
+sS'sentences'
+p22
+(lp23
+(VThese systems are characterized by strong natural variations in 
+g5
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp24
+a(VThese systems are characterized by strong natural variations in 
+g6
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp25
+a(VThese systems are characterized by strong natural variations in 
+g7
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp26
+a(VThese systems are characterized by strong natural variations in 
+g8
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp27
+a(VThese systems are characterized by strong natural variations in 
+g9
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp28
+a(VThese systems are characterized by strong natural variations in 
+g10
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp29
+a(VThese systems are characterized by strong natural variations in 
+g11
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp30
+a(VThese systems are characterized by strong natural variations in 
+g12
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp31
+a(VThese systems are characterized by strong natural variations in 
+g13
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp32
+a(VThese systems are characterized by strong natural variations in 
+g14
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp33
+a(VThese systems are characterized by strong natural variations in 
+g15
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp34
+a(VThese systems are characterized by strong natural variations in 
+g16
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp35
+a(VThese systems are characterized by strong natural variations in 
+g17
+V concentrations, pH, nutrient levels and sea surface temperatures on both seasonal and interannual timescales.
+tp36
+asS'entity'
+p37
+Vcarbon dioxide
+p38
+sa(dp39
+g3
+(lp40
+sg18
+g19
+sg20
+VSpecies
+p41
+sg22
+(lp42
+sg37
+Vhuman
+p43
+sa(dp44
+g3
+(lp45
+Vchemical substance
+p46
+aVCoolants
+p47
+aVAtmosphere
+p48
+aVRefrigerants
+p49
+aVAir pollution
+p50
+aVClimate change
+p51
+aVHousehold chemicals
+p52
+aVGreenhouse gases
+p53
+aVInorganic carbon compounds
+p54
+aVOxides
+p55
+aVMatter
+p56
+aVchemical compound
+p57
+aVPropellants
+p58
+asg18
+g19
+sg20
+VCompound
+p59
+sg22
+(lp60
+(V
+g46
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp61
+a(V
+g47
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp62
+a(V
+g48
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp63
+a(V
+g49
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp64
+a(V
+g50
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp65
+a(V
+g51
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp66
+a(V
+g52
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp67
+a(V
+g53
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp68
+a(V
+g54
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp69
+a(V
+g55
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp70
+a(V
+g56
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp71
+a(V
+g57
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp72
+a(V
+g58
+V derived from fossil fuel combustion is adding to the acidity of upwelled low-pH waters.
+tp73
+asg37
+VCarbon dioxide
+p74
+sa(dp75
+g3
+(lp76
+sg18
+g19
+sg20
+VSpecies
+p77
+sg22
+(lp78
+sg37
+Vhuman
+p79
+sa(dp80
+g3
+(lp81
+VChemical element
+p82
+aVChemical substance
+p83
+aVIndustrial gases
+p84
+aVCoolants
+p85
+aVMatter
+p86
+aVChemistry
+p87
+asg18
+g19
+sg20
+VCompound
+p88
+sg22
+(lp89
+(VNevertheless, shifts in primary production, fish yields, 
+g82
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp90
+a(VNevertheless, shifts in primary production, fish yields, 
+g83
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp91
+a(VNevertheless, shifts in primary production, fish yields, 
+g84
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp92
+a(VNevertheless, shifts in primary production, fish yields, 
+g85
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp93
+a(VNevertheless, shifts in primary production, fish yields, 
+g86
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp94
+a(VNevertheless, shifts in primary production, fish yields, 
+g87
+V gain and loss, and the flux of climate-relevant gases could result from the perturbation of these highly productive and dynamic ecosystems.
+tp95
+asg37
+Vnitrogen
+p96
+sa.

@@ -1,0 +1,794 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVIndustrial gases
+p7
+aVCoolants
+p8
+aVMatter
+p9
+aVChemistry
+p10
+asS'fileName'
+p11
+S'00021#10.1038#ncomms3934'
+p12
+sS'entityType'
+p13
+VCompound
+p14
+sS'sentences'
+p15
+(lp16
+(VHuman-induced 
+g5
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp17
+a(VHuman-induced 
+g6
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp18
+a(VHuman-induced 
+g7
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp19
+a(VHuman-induced 
+g8
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp20
+a(VHuman-induced 
+g9
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp21
+a(VHuman-induced 
+g10
+V-phosphorus imbalances alter natural and managed ecosystems across the globe
+tp22
+asS'entity'
+p23
+Vnitrogen
+p24
+sa(dp25
+g3
+(lp26
+VChemical element
+p27
+aVChemical substance
+p28
+aVMatter
+p29
+aVChemistry
+p30
+asg11
+g12
+sg13
+VCompound
+p31
+sg15
+(lp32
+(VHuman-induced nitrogen-
+g27
+V imbalances alter natural and managed ecosystems across the globe
+tp33
+a(VHuman-induced nitrogen-
+g28
+V imbalances alter natural and managed ecosystems across the globe
+tp34
+a(VHuman-induced nitrogen-
+g29
+V imbalances alter natural and managed ecosystems across the globe
+tp35
+a(VHuman-induced nitrogen-
+g30
+V imbalances alter natural and managed ecosystems across the globe
+tp36
+asg23
+Vphosphorus
+p37
+sa(dp38
+g3
+(lp39
+VChemical element
+p40
+aVChemical substance
+p41
+aVCarbon forms
+p42
+aVMatter
+p43
+aVReducing agents
+p44
+aVCarbonate minerals
+p45
+aVChemistry
+p46
+asg11
+g12
+sg13
+VCompound
+p47
+sg15
+(lp48
+(VThe availability of 
+g40
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp49
+a(VThe availability of 
+g41
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp50
+a(VThe availability of 
+g42
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp51
+a(VThe availability of 
+g43
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp52
+a(VThe availability of 
+g44
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp53
+a(VThe availability of 
+g45
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp54
+a(VThe availability of 
+g46
+V from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp55
+asg23
+Vcarbon
+p56
+sa(dp57
+g3
+(lp58
+Vchemical substance
+p59
+aVCoolants
+p60
+aVAtmosphere
+p61
+aVRefrigerants
+p62
+aVAir pollution
+p63
+aVClimate change
+p64
+aVHousehold chemicals
+p65
+aVGreenhouse gases
+p66
+aVInorganic carbon compounds
+p67
+aVOxides
+p68
+aVMatter
+p69
+aVchemical compound
+p70
+aVPropellants
+p71
+asg11
+g12
+sg13
+VCompound
+p72
+sg15
+(lp73
+(VThe availability of carbon from rising atmospheric 
+g59
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp74
+a(VThe availability of carbon from rising atmospheric 
+g60
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp75
+a(VThe availability of carbon from rising atmospheric 
+g61
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp76
+a(VThe availability of carbon from rising atmospheric 
+g62
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp77
+a(VThe availability of carbon from rising atmospheric 
+g63
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp78
+a(VThe availability of carbon from rising atmospheric 
+g64
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp79
+a(VThe availability of carbon from rising atmospheric 
+g65
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp80
+a(VThe availability of carbon from rising atmospheric 
+g66
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp81
+a(VThe availability of carbon from rising atmospheric 
+g67
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp82
+a(VThe availability of carbon from rising atmospheric 
+g68
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp83
+a(VThe availability of carbon from rising atmospheric 
+g69
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp84
+a(VThe availability of carbon from rising atmospheric 
+g70
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp85
+a(VThe availability of carbon from rising atmospheric 
+g71
+V levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp86
+asg23
+Vcarbon dioxide
+p87
+sa(dp88
+g3
+(lp89
+VChemical element
+p90
+aVChemical substance
+p91
+aVIndustrial gases
+p92
+aVCoolants
+p93
+aVMatter
+p94
+aVChemistry
+p95
+asg11
+g12
+sg13
+VCompound
+p96
+sg15
+(lp97
+(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g90
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp98
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g91
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp99
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g92
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp100
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g93
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp101
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g94
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp102
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of 
+g95
+V from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in phosphorus inputs.
+tp103
+asg23
+Vnitrogen
+p104
+sa(dp105
+g3
+(lp106
+VChemical element
+p107
+aVChemical substance
+p108
+aVMatter
+p109
+aVChemistry
+p110
+asg11
+g12
+sg13
+VCompound
+p111
+sg15
+(lp112
+(VThe availability of carbon from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in 
+g107
+V inputs.
+tp113
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in 
+g108
+V inputs.
+tp114
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in 
+g109
+V inputs.
+tp115
+a(VThe availability of carbon from rising atmospheric carbon dioxide levels and of nitrogen from various human-induced inputs to ecosystems is continuously increasing; however, these increases are not paralleled by a similar increase in 
+g110
+V inputs.
+tp116
+asg23
+Vphosphorus
+p117
+sa(dp118
+g3
+(lp119
+VChemical element
+p120
+aVChemical substance
+p121
+aVCarbon forms
+p122
+aVMatter
+p123
+aVReducing agents
+p124
+aVCarbonate minerals
+p125
+aVChemistry
+p126
+asg11
+g12
+sg13
+VCompound
+p127
+sg15
+(lp128
+(VThe inexorable change in the stoichiometry of 
+g120
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp129
+a(VThe inexorable change in the stoichiometry of 
+g121
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp130
+a(VThe inexorable change in the stoichiometry of 
+g122
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp131
+a(VThe inexorable change in the stoichiometry of 
+g123
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp132
+a(VThe inexorable change in the stoichiometry of 
+g124
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp133
+a(VThe inexorable change in the stoichiometry of 
+g125
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp134
+a(VThe inexorable change in the stoichiometry of 
+g126
+V and nitrogen relative to phosphorus has no equivalent in Earth's history.
+tp135
+asg23
+Vcarbon
+p136
+sa(dp137
+g3
+(lp138
+VChemical element
+p139
+aVChemical substance
+p140
+aVIndustrial gases
+p141
+aVCoolants
+p142
+aVMatter
+p143
+aVChemistry
+p144
+asg11
+g12
+sg13
+VCompound
+p145
+sg15
+(lp146
+(VThe inexorable change in the stoichiometry of carbon and 
+g139
+V relative to phosphorus has no equivalent in Earth's history.
+tp147
+a(VThe inexorable change in the stoichiometry of carbon and 
+g140
+V relative to phosphorus has no equivalent in Earth's history.
+tp148
+a(VThe inexorable change in the stoichiometry of carbon and 
+g141
+V relative to phosphorus has no equivalent in Earth's history.
+tp149
+a(VThe inexorable change in the stoichiometry of carbon and 
+g142
+V relative to phosphorus has no equivalent in Earth's history.
+tp150
+a(VThe inexorable change in the stoichiometry of carbon and 
+g143
+V relative to phosphorus has no equivalent in Earth's history.
+tp151
+a(VThe inexorable change in the stoichiometry of carbon and 
+g144
+V relative to phosphorus has no equivalent in Earth's history.
+tp152
+asg23
+Vnitrogen
+p153
+sa(dp154
+g3
+(lp155
+VChemical element
+p156
+aVChemical substance
+p157
+aVMatter
+p158
+aVChemistry
+p159
+asg11
+g12
+sg13
+VCompound
+p160
+sg15
+(lp161
+(VThe inexorable change in the stoichiometry of carbon and nitrogen relative to 
+g156
+V has no equivalent in Earth's history.
+tp162
+a(VThe inexorable change in the stoichiometry of carbon and nitrogen relative to 
+g157
+V has no equivalent in Earth's history.
+tp163
+a(VThe inexorable change in the stoichiometry of carbon and nitrogen relative to 
+g158
+V has no equivalent in Earth's history.
+tp164
+a(VThe inexorable change in the stoichiometry of carbon and nitrogen relative to 
+g159
+V has no equivalent in Earth's history.
+tp165
+asg23
+Vphosphorus
+p166
+sa(dp167
+g3
+(lp168
+sg11
+g12
+sg13
+VLocation
+p169
+sg15
+(lp170
+sg23
+VEarth's
+p171
+sa(dp172
+g3
+(lp173
+sg11
+g12
+sg13
+VSpecies
+p174
+sg15
+(lp175
+sg23
+Vhuman
+p176
+sa(dp177
+g3
+(lp178
+VChemical element
+p179
+aVChemical substance
+p180
+aVMatter
+p181
+aVChemistry
+p182
+asg11
+g12
+sg13
+VCompound
+p183
+sg15
+(lp184
+(VHere we report the profound and yet uncertain consequences of the human imprint on the 
+g179
+V cycle and nitrogen:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp185
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the 
+g180
+V cycle and nitrogen:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp186
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the 
+g181
+V cycle and nitrogen:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp187
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the 
+g182
+V cycle and nitrogen:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp188
+asg23
+Vphosphorus
+p189
+sa(dp190
+g3
+(lp191
+VChemical element
+p192
+aVChemical substance
+p193
+aVIndustrial gases
+p194
+aVCoolants
+p195
+aVMatter
+p196
+aVChemistry
+p197
+asg11
+g12
+sg13
+VCompound
+p198
+sg15
+(lp199
+(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g192
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp200
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g193
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp201
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g194
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp202
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g195
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp203
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g196
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp204
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and 
+g197
+V:phosphorus stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp205
+asg23
+Vnitrogen
+p206
+sa(dp207
+g3
+(lp208
+VChemical element
+p209
+aVChemical substance
+p210
+aVMatter
+p211
+aVChemistry
+p212
+asg11
+g12
+sg13
+VCompound
+p213
+sg15
+(lp214
+(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and nitrogen:
+g209
+V stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp215
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and nitrogen:
+g210
+V stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp216
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and nitrogen:
+g211
+V stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp217
+a(VHere we report the profound and yet uncertain consequences of the human imprint on the phosphorus cycle and nitrogen:
+g212
+V stoichiometry for the structure, functioning and diversity of terrestrial and aquatic organisms and ecosystems.
+tp218
+asg23
+Vphosphorus
+p219
+sa(dp220
+g3
+(lp221
+VChemical element
+p222
+aVChemical substance
+p223
+aVMatter
+p224
+aVChemistry
+p225
+asg11
+g12
+sg13
+VCompound
+p226
+sg15
+(lp227
+(VA mass balance approach is used to show that limited 
+g222
+V and nitrogen availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp228
+a(VA mass balance approach is used to show that limited 
+g223
+V and nitrogen availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp229
+a(VA mass balance approach is used to show that limited 
+g224
+V and nitrogen availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp230
+a(VA mass balance approach is used to show that limited 
+g225
+V and nitrogen availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp231
+asg23
+Vphosphorus
+p232
+sa(dp233
+g3
+(lp234
+VChemical element
+p235
+aVChemical substance
+p236
+aVIndustrial gases
+p237
+aVCoolants
+p238
+aVMatter
+p239
+aVChemistry
+p240
+asg11
+g12
+sg13
+VCompound
+p241
+sg15
+(lp242
+(VA mass balance approach is used to show that limited phosphorus and 
+g235
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp243
+a(VA mass balance approach is used to show that limited phosphorus and 
+g236
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp244
+a(VA mass balance approach is used to show that limited phosphorus and 
+g237
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp245
+a(VA mass balance approach is used to show that limited phosphorus and 
+g238
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp246
+a(VA mass balance approach is used to show that limited phosphorus and 
+g239
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp247
+a(VA mass balance approach is used to show that limited phosphorus and 
+g240
+V availability are likely to jointly reduce future carbon storage by natural ecosystems during this century.
+tp248
+asg23
+Vnitrogen
+p249
+sa(dp250
+g3
+(lp251
+VChemical element
+p252
+aVChemical substance
+p253
+aVCarbon forms
+p254
+aVMatter
+p255
+aVReducing agents
+p256
+aVCarbonate minerals
+p257
+aVChemistry
+p258
+asg11
+g12
+sg13
+VCompound
+p259
+sg15
+(lp260
+(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g252
+V storage by natural ecosystems during this century.
+tp261
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g253
+V storage by natural ecosystems during this century.
+tp262
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g254
+V storage by natural ecosystems during this century.
+tp263
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g255
+V storage by natural ecosystems during this century.
+tp264
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g256
+V storage by natural ecosystems during this century.
+tp265
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g257
+V storage by natural ecosystems during this century.
+tp266
+a(VA mass balance approach is used to show that limited phosphorus and nitrogen availability are likely to jointly reduce future 
+g258
+V storage by natural ecosystems during this century.
+tp267
+asg23
+Vcarbon
+p268
+sa(dp269
+g3
+(lp270
+VChemical element
+p271
+aVChemical substance
+p272
+aVMatter
+p273
+aVChemistry
+p274
+asg11
+g12
+sg13
+VCompound
+p275
+sg15
+(lp276
+(VFurther, if 
+g271
+V fertilizers cannot be made increasingly accessible, the crop yields projections of the Millennium Ecosystem Assessment imply an increase of the nutrient deficit in developing regions.
+tp277
+a(VFurther, if 
+g272
+V fertilizers cannot be made increasingly accessible, the crop yields projections of the Millennium Ecosystem Assessment imply an increase of the nutrient deficit in developing regions.
+tp278
+a(VFurther, if 
+g273
+V fertilizers cannot be made increasingly accessible, the crop yields projections of the Millennium Ecosystem Assessment imply an increase of the nutrient deficit in developing regions.
+tp279
+a(VFurther, if 
+g274
+V fertilizers cannot be made increasingly accessible, the crop yields projections of the Millennium Ecosystem Assessment imply an increase of the nutrient deficit in developing regions.
+tp280
+asg23
+Vphosphorus
+p281
+sa.

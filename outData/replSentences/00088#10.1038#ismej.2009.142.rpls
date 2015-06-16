@@ -1,0 +1,85 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00088#10.1038#ismej.2009.142'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VNorth Atlantic Ocean
+p12
+sa(dp13
+g3
+(lp14
+sg5
+g6
+sg7
+VLocation
+p15
+sg9
+(lp16
+sg11
+VNorth Atlantic Ocean
+p17
+sa(dp18
+g3
+(lp19
+sg5
+g6
+sg7
+VLocation
+p20
+sg9
+(lp21
+sg11
+VEast Greenland
+p22
+sa(dp23
+g3
+(lp24
+sg5
+g6
+sg7
+VLocation
+p25
+sg9
+(lp26
+sg11
+VNorth Atlantic
+p27
+sa(dp28
+g3
+(lp29
+VRegion
+p30
+aVPhysical geography
+p31
+asg5
+g6
+sg7
+VLocation
+p32
+sg9
+(lp33
+(VClade DE2 accounted for a substantial fraction of total Flavobacteria only in the Polar Biome (BPLR), whereas the VISION clades VIS1 and VIS4 significantly increased in the 
+g30
+V (ARCT) province.
+tp34
+a(VClade DE2 accounted for a substantial fraction of total Flavobacteria only in the Polar Biome (BPLR), whereas the VISION clades VIS1 and VIS4 significantly increased in the 
+g31
+V (ARCT) province.
+tp35
+asg11
+VArctic
+p36
+sa.

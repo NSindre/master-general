@@ -1,0 +1,96 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+sS'fileName'
+p5
+S'00060#10.1038#ismej.2014.16'
+p6
+sS'entityType'
+p7
+VLocation
+p8
+sS'sentences'
+p9
+(lp10
+sS'entity'
+p11
+VArctic Oceans
+p12
+sa(dp13
+g3
+(lp14
+VRegion
+p15
+aVPhysical geography
+p16
+asg5
+g6
+sg7
+VLocation
+p17
+sg9
+(lp18
+(VMolecular surveys indicate a large phylogenetic diversity in the picoeukaryotes, with members of the Prymnesiophyceae and Chrysophyseae tending to be more common in open ocean waters and Prasinophyceae dominating coastal and 
+g15
+V waters.
+tp19
+a(VMolecular surveys indicate a large phylogenetic diversity in the picoeukaryotes, with members of the Prymnesiophyceae and Chrysophyseae tending to be more common in open ocean waters and Prasinophyceae dominating coastal and 
+g16
+V waters.
+tp20
+asg11
+VArctic
+p21
+sa(dp22
+g3
+(lp23
+VRegion
+p24
+aVPhysical geography
+p25
+asg5
+g6
+sg7
+VLocation
+p26
+sg9
+(lp27
+(VThe prasinophyte Micromonas is perhaps the most common picoeukaryote in coastal and 
+g24
+V waters and is one of the relatively few cultured representatives of the picoeukaryotes available for physiological investigations.
+tp28
+a(VThe prasinophyte Micromonas is perhaps the most common picoeukaryote in coastal and 
+g25
+V waters and is one of the relatively few cultured representatives of the picoeukaryotes available for physiological investigations.
+tp29
+asg11
+VArctic
+p30
+sa(dp31
+g3
+(lp32
+VRegion
+p33
+aVPhysical geography
+p34
+asg5
+g6
+sg7
+VLocation
+p35
+sg9
+(lp36
+(VIn this study, we demonstrate phagotrophy by a strain of Micromonas (CCMP2099) isolated from 
+g33
+V waters and show that environmental factors (light and nutrient concentration) affect ingestion rates in this mixotroph.
+tp37
+a(VIn this study, we demonstrate phagotrophy by a strain of Micromonas (CCMP2099) isolated from 
+g34
+V waters and show that environmental factors (light and nutrient concentration) affect ingestion rates in this mixotroph.
+tp38
+asg11
+VArctic
+p39
+sa.

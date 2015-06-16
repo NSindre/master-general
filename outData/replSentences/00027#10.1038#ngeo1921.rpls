@@ -1,0 +1,264 @@
+(lp1
+(dp2
+S'generalizations'
+p3
+(lp4
+VChemical element
+p5
+aVChemical substance
+p6
+aVCarbon forms
+p7
+aVMatter
+p8
+aVReducing agents
+p9
+aVCarbonate minerals
+p10
+aVChemistry
+p11
+asS'fileName'
+p12
+S'00027#10.1038#ngeo1921'
+p13
+sS'entityType'
+p14
+VCompound
+p15
+sS'sentences'
+p16
+(lp17
+(VA fraction of the 
+g5
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp18
+a(VA fraction of the 
+g6
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp19
+a(VA fraction of the 
+g7
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp20
+a(VA fraction of the 
+g8
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp21
+a(VA fraction of the 
+g9
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp22
+a(VA fraction of the 
+g10
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp23
+a(VA fraction of the 
+g11
+V captured by phytoplankton in the sunlit surface ocean sinks to depth as dead organic matter and faecal material.
+tp24
+asS'entity'
+p25
+Vcarbon
+p26
+sa(dp27
+g3
+(lp28
+Vchemical substance
+p29
+aVCoolants
+p30
+aVAtmosphere
+p31
+aVRefrigerants
+p32
+aVAir pollution
+p33
+aVClimate change
+p34
+aVHousehold chemicals
+p35
+aVGreenhouse gases
+p36
+aVInorganic carbon compounds
+p37
+aVOxides
+p38
+aVMatter
+p39
+aVchemical compound
+p40
+aVPropellants
+p41
+asg12
+g13
+sg14
+VCompound
+p42
+sg16
+(lp43
+(VThe microbial breakdown of this material in the subsurface ocean generates 
+g29
+V.
+tp44
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g30
+V.
+tp45
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g31
+V.
+tp46
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g32
+V.
+tp47
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g33
+V.
+tp48
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g34
+V.
+tp49
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g35
+V.
+tp50
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g36
+V.
+tp51
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g37
+V.
+tp52
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g38
+V.
+tp53
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g39
+V.
+tp54
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g40
+V.
+tp55
+a(VThe microbial breakdown of this material in the subsurface ocean generates 
+g41
+V.
+tp56
+asg25
+Vcarbon dioxide
+p57
+sa(dp58
+g3
+(lp59
+VChemical element
+p60
+aVChemical substance
+p61
+aVCarbon forms
+p62
+aVMatter
+p63
+aVReducing agents
+p64
+aVCarbonate minerals
+p65
+aVChemistry
+p66
+asg12
+g13
+sg14
+VCompound
+p67
+sg16
+(lp68
+(VCollectively, this microbially mediated flux of 
+g60
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp69
+a(VCollectively, this microbially mediated flux of 
+g61
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp70
+a(VCollectively, this microbially mediated flux of 
+g62
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp71
+a(VCollectively, this microbially mediated flux of 
+g63
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp72
+a(VCollectively, this microbially mediated flux of 
+g64
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp73
+a(VCollectively, this microbially mediated flux of 
+g65
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp74
+a(VCollectively, this microbially mediated flux of 
+g66
+V from the atmosphere to the ocean interior is termed the biological pump.
+tp75
+asg25
+Vcarbon
+p76
+sa(dp77
+g3
+(lp78
+VChemical element
+p79
+aVChemical substance
+p80
+aVCarbon forms
+p81
+aVMatter
+p82
+aVReducing agents
+p83
+aVCarbonate minerals
+p84
+aVChemistry
+p85
+asg12
+g13
+sg14
+VCompound
+p86
+sg16
+(lp87
+(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g79
+V into organic matter.
+tp88
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g80
+V into organic matter.
+tp89
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g81
+V into organic matter.
+tp90
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g82
+V into organic matter.
+tp91
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g83
+V into organic matter.
+tp92
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g84
+V into organic matter.
+tp93
+a(VTwo additional sources of organic matter have been identified: non-sinking organic particles of debated origin that escape capture by sediment traps and exhibit stable concentrations throughout the dark ocean, and microbes that convert inorganic 
+g85
+V into organic matter.
+tp94
+asg25
+Vcarbon
+p95
+sa.
